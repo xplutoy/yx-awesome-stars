@@ -56,6 +56,7 @@
 - [learning](#learning)
 - [library](#library)
 - [linux](#linux)
+- [llm](#llm)
 - [lua](#lua)
 - [mac](#mac)
 - [machine-learning](#machine-learning)
@@ -399,6 +400,10 @@
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 - [iggredible/Learn-Vim](https://github.com/iggredible/Learn-Vim) - Learning Vim and Vimscript doesn't have to be hard. This is the guide that you're looking for 📖
 
+## llm 
+
+- [BerriAI/litellm](https://github.com/BerriAI/litellm) - Call all LLM APIs using the OpenAI format. Use Bedrock, Azure, OpenAI, Cohere, Anthropic, Ollama, Sagemaker, HuggingFace, Replicate (100+ LLMs)
+
 ## lua 
 
 - [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim config providing solid defaults and a beautiful UI, enhancing your neovim experience.
@@ -480,8 +485,8 @@
 
 ## others 
 
+- [2noise/ChatTTS](https://github.com/2noise/ChatTTS) - ChatTTS is a generative speech model for daily dialogue.
 - [protesilaos/consult-denote](https://github.com/protesilaos/consult-denote) - Use Consult in tandem with Denote (WORK-IN-PROGRESS)
-- [ziyuanrao11/Machine-learning-enabled-high-entropy-alloy-discovery](https://github.com/ziyuanrao11/Machine-learning-enabled-high-entropy-alloy-discovery) - This is the code for the paper 'Machine learning-enabled high-entropy alloy discovery'
 - [jdtsmith/speedrect](https://github.com/jdtsmith/speedrect) - Quick key bindings and other tools for rectangle-mark-mode
 - [jdtsmith/outli](https://github.com/jdtsmith/outli) - Simple comment-based outline folding for Emacs
 - [mkleehammer/surround](https://github.com/mkleehammer/surround) - An Emacs package for inserting, changing, and, deleting surrounding pairs of quotes, braces, etc.
@@ -569,7 +574,6 @@
 - [jabranham/mixed-pitch](https://github.com/jabranham/mixed-pitch) - Moved to gitlab
 - [AbstProcDo/Master-Emacs-From-Scratch-with-Solid-Procedures](https://github.com/AbstProcDo/Master-Emacs-From-Scratch-with-Solid-Procedures) - Master Emacs
 - [xwl/cal-china-x](https://github.com/xwl/cal-china-x) - chinese localization, prioritized holiday highlight, lunar, horoscope, zodiac, etc.
-- [randyrants/sharpkeys](https://github.com/randyrants/sharpkeys) - SharpKeys is a utility that manages a Registry key that allows Windows to remap one key to any other key.
 - [manateelazycat/aweshell](https://github.com/manateelazycat/aweshell) - Awesome shell extension base on eshell with wonderful features!
 - [LufsX/rime](https://github.com/LufsX/rime) - Rime（中州韵）全拼与双拼的自用配置方案
 - [dakrone/eos](https://github.com/dakrone/eos) - Welcome to the Emacs of Things, aka the Emacs Operating System
