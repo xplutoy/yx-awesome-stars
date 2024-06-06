@@ -239,6 +239,8 @@
 
 ## Python 
 
+- [morsoli/llm-books](https://github.com/morsoli/llm-books) - 利用LLM构建应用实践笔记
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
 - [mkdocs/mkdocs](https://github.com/mkdocs/mkdocs) - Project documentation with Markdown.
 - [BerriAI/litellm](https://github.com/BerriAI/litellm) - Call all LLM APIs using the OpenAI format. Use Bedrock, Azure, OpenAI, Cohere, Anthropic, Ollama, Sagemaker, HuggingFace, Replicate (100+ LLMs)
 - [manateelazycat/holo-layer](https://github.com/manateelazycat/holo-layer) - HoloLayer is a multimedia layer plugin designed specifically for Emacs
