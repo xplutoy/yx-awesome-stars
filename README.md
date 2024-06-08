@@ -50,7 +50,7 @@
 
 - [armindarvish/consult-web](https://github.com/armindarvish/consult-web) - Powerful Web and Omni Search inside Emacs
 - [protesilaos/consult-denote](https://github.com/protesilaos/consult-denote) - Use Consult in tandem with Denote (WORK-IN-PROGRESS)
-- [kickingvegas/Casual](https://github.com/kickingvegas/Casual) - An opinionated Transient-based porcelain to support the casual usage of Emacs Calc.
+- [kickingvegas/Casual](https://github.com/kickingvegas/Casual) - Casual Calc - An opinionated Transient porcelain for Emacs Calc.
 - [karthink/gptel](https://github.com/karthink/gptel) - A simple LLM client for Emacs
 - [lorniu/mpvi](https://github.com/lorniu/mpvi) - Media Tool on Emacs, with lots of features integrated, based on EMMS and MPV.
 - [tecosaur/org-pandoc-import](https://github.com/tecosaur/org-pandoc-import) - Mirror of https://git.tecosaur.net/tec/org-pandoc-import
