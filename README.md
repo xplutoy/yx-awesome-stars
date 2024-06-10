@@ -48,6 +48,7 @@
 
 ## Emacs Lisp 
 
+- [Exafunction/codeium.el](https://github.com/Exafunction/codeium.el) - Free, ultrafast Copilot alternative for Emacs
 - [armindarvish/consult-web](https://github.com/armindarvish/consult-web) - Powerful Web and Omni Search inside Emacs
 - [protesilaos/consult-denote](https://github.com/protesilaos/consult-denote) - Use Consult in tandem with Denote (WORK-IN-PROGRESS)
 - [kickingvegas/Casual](https://github.com/kickingvegas/Casual) - Casual Calc - An opinionated Transient porcelain for Emacs Calc.
