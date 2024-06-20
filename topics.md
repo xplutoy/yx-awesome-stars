@@ -577,6 +577,10 @@
 
 ## others 
 
+- [meedstrom/org-node](https://github.com/meedstrom/org-node) - 
+- [ndwarshuis/org-ml](https://github.com/ndwarshuis/org-ml) - (formerly om.el) A functional library for org-mode
+- [kickingvegas/casual-isearch](https://github.com/kickingvegas/casual-isearch) - Casual I-Search - A Transient menu for Emacs I-Search
+- [csmclaren/loco](https://github.com/csmclaren/loco) - 
 - [pgvector/pgvector](https://github.com/pgvector/pgvector) - Open-source vector similarity search for Postgres
 - [OpenBMB/ToolBench](https://github.com/OpenBMB/ToolBench) - [ICLR'24 spotlight] An open platform for training, serving, and evaluating large language model for tool learning.
 - [ahyatt/ekg](https://github.com/ahyatt/ekg) - The emacs knowledge graph, app for notes and structured data.
