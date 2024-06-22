@@ -54,6 +54,9 @@
 
 ## Emacs Lisp 
 
+- [abo-abo/ace-link](https://github.com/abo-abo/ace-link) - Quickly follow links in Emacs
+- [noctuid/link-hint.el](https://github.com/noctuid/link-hint.el) - Pentadactyl-like Link Hinting in Emacs with Avy
+- [emacs-magus/once](https://github.com/emacs-magus/once) - Extra init.el deferred evaluation utilities
 - [wyuenho/emacs-pet](https://github.com/wyuenho/emacs-pet) - Tracks down the correct Python tooling executables from your virtualenvs so you can glue the binaries to Emacs and delete code in init.el
 - [astoff/buffer-env](https://github.com/astoff/buffer-env) - Buffer-local process environments for Emacs
 - [meedstrom/org-node](https://github.com/meedstrom/org-node) - 
@@ -262,6 +265,7 @@
 
 ## Python 
 
+- [meta-llama/llama3](https://github.com/meta-llama/llama3) - The official Meta Llama 3 GitHub site
 - [ray-project/ray](https://github.com/ray-project/ray) - Ray is a unified framework for scaling AI and Python applications. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.
 - [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - GPT based autonomous agent that does online comprehensive research on any given topic
 - [geekan/MetaGPT](https://github.com/geekan/MetaGPT) - 🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming
