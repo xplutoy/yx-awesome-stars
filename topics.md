@@ -578,6 +578,10 @@
 
 ## others 
 
+- [abo-abo/ace-link](https://github.com/abo-abo/ace-link) - Quickly follow links in Emacs
+- [noctuid/link-hint.el](https://github.com/noctuid/link-hint.el) - Pentadactyl-like Link Hinting in Emacs with Avy
+- [meta-llama/llama3](https://github.com/meta-llama/llama3) - The official Meta Llama 3 GitHub site
+- [emacs-magus/once](https://github.com/emacs-magus/once) - Extra init.el deferred evaluation utilities
 - [astoff/buffer-env](https://github.com/astoff/buffer-env) - Buffer-local process environments for Emacs
 - [meedstrom/org-node](https://github.com/meedstrom/org-node) - 
 - [ndwarshuis/org-ml](https://github.com/ndwarshuis/org-ml) - (formerly om.el) A functional library for org-mode
