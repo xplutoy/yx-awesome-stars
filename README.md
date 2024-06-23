@@ -54,6 +54,7 @@
 
 ## Emacs Lisp 
 
+- [aatmunbaxi/lasgun.el](https://github.com/aatmunbaxi/lasgun.el) - Avy-backed, actionable placement of multiple marks
 - [abo-abo/ace-link](https://github.com/abo-abo/ace-link) - Quickly follow links in Emacs
 - [noctuid/link-hint.el](https://github.com/noctuid/link-hint.el) - Pentadactyl-like Link Hinting in Emacs with Avy
 - [emacs-magus/once](https://github.com/emacs-magus/once) - Extra init.el deferred evaluation utilities
