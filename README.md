@@ -41,6 +41,7 @@
 
 ## C++ 
 
+- [microsoft/LightGBM](https://github.com/microsoft/LightGBM) - A fast, distributed, high performance gradient boosting (GBT, GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine learning tas
 - [mawww/kakoune](https://github.com/mawww/kakoune) - mawww's experiment for a better code editor
 - [rizsotto/Bear](https://github.com/rizsotto/Bear) - Bear is a tool that generates a compilation database for clang tooling.
 
@@ -54,6 +55,7 @@
 
 ## Emacs Lisp 
 
+- [sympodius/org-novelist](https://github.com/sympodius/org-novelist) - Org Novelist is a system for writing novel-length fiction using Emacs Org mode.
 - [aatmunbaxi/lasgun.el](https://github.com/aatmunbaxi/lasgun.el) - Avy-backed, actionable placement of multiple marks
 - [abo-abo/ace-link](https://github.com/abo-abo/ace-link) - Quickly follow links in Emacs
 - [noctuid/link-hint.el](https://github.com/noctuid/link-hint.el) - Pentadactyl-like Link Hinting in Emacs with Avy
