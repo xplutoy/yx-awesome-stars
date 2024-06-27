@@ -593,6 +593,9 @@
 
 ## others 
 
+- [DevelopmentCool2449/colorful-mode](https://github.com/DevelopmentCool2449/colorful-mode) - 🎨Preview any color in your buffer
+- [captainflasmr/wowee](https://github.com/captainflasmr/wowee) - Windows Operating With Emacs Enhancements, Allows Emacs-like commands and keybinds in Windows and is based on EWOW -- Emacs Way of Operating Windows
+- [positron-solutions/dslide](https://github.com/positron-solutions/dslide) - Present anything Emacs can do with programmable, extensible, configurable slides made from org mode headings
 - [abo-abo/ace-link](https://github.com/abo-abo/ace-link) - Quickly follow links in Emacs
 - [noctuid/link-hint.el](https://github.com/noctuid/link-hint.el) - Pentadactyl-like Link Hinting in Emacs with Avy
 - [meta-llama/llama3](https://github.com/meta-llama/llama3) - The official Meta Llama 3 GitHub site
