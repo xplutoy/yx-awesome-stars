@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [AutoHotkey](#autohotkey)
 - [Batchfile](#batchfile)
 - [C](#c)
 - [C++](#c++)
@@ -28,6 +29,10 @@
 - [TypeScript](#typescript)
 - [VBScript](#vbscript)
 - [Vim Script](#vim-script)
+
+## AutoHotkey 
+
+- [captainflasmr/wowee](https://github.com/captainflasmr/wowee) - Windows Operating With Emacs Enhancements, Allows Emacs-like commands and keybinds in Windows and is based on EWOW -- Emacs Way of Operating Windows
 
 ## Batchfile 
 
@@ -55,6 +60,8 @@
 
 ## Emacs Lisp 
 
+- [DevelopmentCool2449/colorful-mode](https://github.com/DevelopmentCool2449/colorful-mode) - 🎨Preview any color in your buffer
+- [positron-solutions/dslide](https://github.com/positron-solutions/dslide) - Present anything Emacs can do with programmable, extensible, configurable slides made from org mode headings
 - [sympodius/org-novelist](https://github.com/sympodius/org-novelist) - Org Novelist is a system for writing novel-length fiction using Emacs Org mode.
 - [aatmunbaxi/lasgun.el](https://github.com/aatmunbaxi/lasgun.el) - Avy-backed, actionable placement of multiple marks
 - [abo-abo/ace-link](https://github.com/abo-abo/ace-link) - Quickly follow links in Emacs
