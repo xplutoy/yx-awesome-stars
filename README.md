@@ -60,6 +60,7 @@
 
 ## Emacs Lisp 
 
+- [karthink/gptel-quick](https://github.com/karthink/gptel-quick) - Quick LLM lookups in Emacs
 - [DevelopmentCool2449/colorful-mode](https://github.com/DevelopmentCool2449/colorful-mode) - 🎨Preview any color in your buffer
 - [positron-solutions/dslide](https://github.com/positron-solutions/dslide) - Present anything Emacs can do with programmable, extensible, configurable slides made from org mode headings
 - [sympodius/org-novelist](https://github.com/sympodius/org-novelist) - Org Novelist is a system for writing novel-length fiction using Emacs Org mode.
