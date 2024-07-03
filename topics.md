@@ -598,6 +598,7 @@
 
 ## others 
 
+- [karthink/gptel-quick](https://github.com/karthink/gptel-quick) - Quick LLM lookups in Emacs
 - [DevelopmentCool2449/colorful-mode](https://github.com/DevelopmentCool2449/colorful-mode) - 🎨Preview any color in your buffer
 - [captainflasmr/wowee](https://github.com/captainflasmr/wowee) - Windows Operating With Emacs Enhancements, Allows Emacs-like commands and keybinds in Windows and is based on EWOW -- Emacs Way of Operating Windows
 - [positron-solutions/dslide](https://github.com/positron-solutions/dslide) - Present anything Emacs can do with programmable, extensible, configurable slides made from org mode headings
