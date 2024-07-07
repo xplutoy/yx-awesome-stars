@@ -283,6 +283,7 @@
 
 ## Python 
 
+- [facebook/prophet](https://github.com/facebook/prophet) - Tool for producing high quality forecasts for time series data that has multiple seasonality with linear or non-linear growth.
 - [optuna/optuna](https://github.com/optuna/optuna) - A hyperparameter optimization framework
 - [baal-org/baal](https://github.com/baal-org/baal) - Bayesian active learning library for research and industrial usecases.
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
