@@ -407,6 +407,7 @@
 
 ## hacktoberfest 
 
+- [JuliaLang/julia](https://github.com/JuliaLang/julia) - The Julia Programming Language
 - [optuna/optuna](https://github.com/optuna/optuna) - A hyperparameter optimization framework
 - [geekan/MetaGPT](https://github.com/geekan/MetaGPT) - 🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming
 - [ydataai/ydata-profiling](https://github.com/ydataai/ydata-profiling) - 1 Line of code data quality profiling & exploratory data analysis for Pandas and Spark DataFrames.
@@ -442,6 +443,7 @@
 
 ## julia 
 
+- [JuliaLang/julia](https://github.com/JuliaLang/julia) - The Julia Programming Language
 - [FluxML/Zygote.jl](https://github.com/FluxML/Zygote.jl) - 21st century AD
 - [JuliaEditorSupport/julia-emacs](https://github.com/JuliaEditorSupport/julia-emacs) - Julia support in Emacs.
 
@@ -515,6 +517,7 @@
 
 ## machine-learning 
 
+- [JuliaLang/julia](https://github.com/JuliaLang/julia) - The Julia Programming Language
 - [dmlc/xgboost](https://github.com/dmlc/xgboost) - Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library,  for Python, R, Java, Scala, C++ and more. Runs on single machine, Hadoop, Spark, Dask, Flink and DataFlow
 - [optuna/optuna](https://github.com/optuna/optuna) - A hyperparameter optimization framework
 - [microsoft/FLAML](https://github.com/microsoft/FLAML) - A fast library for AutoML and tuning. Join our Discord: https://discord.gg/Cppx2vSPVP.
@@ -610,6 +613,7 @@
 
 ## others 
 
+- [minad/cape](https://github.com/minad/cape) - 🦸cape.el - Completion At Point Extensions
 - [xenodium/ready-player](https://github.com/xenodium/ready-player) - 
 - [wjmaddox/swa_gaussian](https://github.com/wjmaddox/swa_gaussian) - Code repo for "A Simple Baseline for Bayesian Uncertainty in Deep Learning"
 - [karthink/gptel-quick](https://github.com/karthink/gptel-quick) - Quick LLM lookups in Emacs
