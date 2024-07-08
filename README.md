@@ -61,6 +61,7 @@
 
 ## Emacs Lisp 
 
+- [minad/cape](https://github.com/minad/cape) - 🦸cape.el - Completion At Point Extensions
 - [xenodium/ready-player](https://github.com/xenodium/ready-player) - 
 - [karthink/gptel-quick](https://github.com/karthink/gptel-quick) - Quick LLM lookups in Emacs
 - [DevelopmentCool2449/colorful-mode](https://github.com/DevelopmentCool2449/colorful-mode) - 🎨Preview any color in your buffer
@@ -206,6 +207,7 @@
 
 ## Julia 
 
+- [JuliaLang/julia](https://github.com/JuliaLang/julia) - The Julia Programming Language
 - [FluxML/Zygote.jl](https://github.com/FluxML/Zygote.jl) - 21st century AD
 - [JuliaSymbolics/Symbolics.jl](https://github.com/JuliaSymbolics/Symbolics.jl) - Symbolic programming for the next generation of numerical software
 
