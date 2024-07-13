@@ -61,6 +61,8 @@
 
 ## Emacs Lisp 
 
+- [drym-org/symex.el](https://github.com/drym-org/symex.el) - An intuitive way to edit Lisp symbolic expressions ("symexes") structurally in Emacs
+- [ethan-leba/tree-edit](https://github.com/ethan-leba/tree-edit) - 🌲   Structural editing in Emacs for any™ language!
 - [minad/cape](https://github.com/minad/cape) - 🦸cape.el - Completion At Point Extensions
 - [xenodium/ready-player](https://github.com/xenodium/ready-player) - 
 - [karthink/gptel-quick](https://github.com/karthink/gptel-quick) - Quick LLM lookups in Emacs
