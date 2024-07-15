@@ -287,6 +287,7 @@
 
 ## Python 
 
+- [jindongwang/transferlearning](https://github.com/jindongwang/transferlearning) - Transfer learning / domain adaptation / domain generalization / multi-task learning etc. Papers, codes, datasets, applications, tutorials.-迁移学习
 - [facebook/prophet](https://github.com/facebook/prophet) - Tool for producing high quality forecasts for time series data that has multiple seasonality with linear or non-linear growth.
 - [optuna/optuna](https://github.com/optuna/optuna) - A hyperparameter optimization framework
 - [baal-org/baal](https://github.com/baal-org/baal) - Bayesian active learning library for research and industrial usecases.
