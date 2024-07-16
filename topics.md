@@ -617,6 +617,7 @@
 
 ## others 
 
+- [victorhge/iedit](https://github.com/victorhge/iedit) - Modify multiple occurrences simultaneously
 - [minad/cape](https://github.com/minad/cape) - 🦸cape.el - Completion At Point Extensions
 - [xenodium/ready-player](https://github.com/xenodium/ready-player) - 
 - [wjmaddox/swa_gaussian](https://github.com/wjmaddox/swa_gaussian) - Code repo for "A Simple Baseline for Bayesian Uncertainty in Deep Learning"
