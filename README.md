@@ -79,7 +79,7 @@
 - [meedstrom/org-node](https://github.com/meedstrom/org-node) - 
 - [ndwarshuis/org-ml](https://github.com/ndwarshuis/org-ml) - (formerly om.el) A functional library for org-mode
 - [kickingvegas/casual-isearch](https://github.com/kickingvegas/casual-isearch) - Casual I-Search - A Transient menu for Emacs I-Search
-- [csmclaren/loco](https://github.com/csmclaren/loco) - 
+- [csmclaren/loco](https://github.com/csmclaren/loco) - Enter complex key sequences with ease!
 - [ahyatt/ekg](https://github.com/ahyatt/ekg) - The emacs knowledge graph, app for notes and structured data.
 - [iwahbe/chat.el](https://github.com/iwahbe/chat.el) - An Emacs facade for ChatGPT
 - [unhammer/org-upcoming-modeline](https://github.com/unhammer/org-upcoming-modeline) - 📅  Show upcoming org event in modeline
@@ -199,6 +199,7 @@
 
 ## JavaScript 
 
+- [eliahuhorwitz/Academic-project-page-template](https://github.com/eliahuhorwitz/Academic-project-page-template) - A project page template for academic papers. Demo at https://eliahuhorwitz.github.io/Academic-project-page-template/
 - [afc163/fanyi](https://github.com/afc163/fanyi) - A 🇨🇳 and 🇺🇸 translate tool in your command line.
 - [zotero/zotero](https://github.com/zotero/zotero) - Zotero is a free, easy-to-use tool to help you collect, organize, annotate, cite, and share your research sources.
 - [018/zotcard](https://github.com/018/zotcard) - ZotCard is a plug-in for Zotero, which is a card note-taking enhancement tool. It provides card templates (such as concept card, character card, golden sentence card, etc., by default, you can customi
@@ -250,6 +251,7 @@
 
 ## Others 
 
+- [SupeRuier/awesome-active-learning](https://github.com/SupeRuier/awesome-active-learning) - Everything you need about Active Learning (AL).
 - [huytransformer/Awesome-Out-Of-Distribution-Detection](https://github.com/huytransformer/Awesome-Out-Of-Distribution-Detection) - Out-of-distribution detection, robustness, and generalization resources. The repository contains a professionally curated list of papers, tutorials, books, videos, articles and open-source libraries e
 - [ENSTA-U2IS-AI/awesome-uncertainty-deeplearning](https://github.com/ENSTA-U2IS-AI/awesome-uncertainty-deeplearning) - This repository contains a collection of surveys, datasets,  papers, and codes, for predictive uncertainty estimation in deep learning models.
 - [bbatsov/emacs-lisp-style-guide](https://github.com/bbatsov/emacs-lisp-style-guide) - A community-driven Emacs Lisp style guide
