@@ -616,6 +616,7 @@
 
 ## others 
 
+- [bastibe/annotate.el](https://github.com/bastibe/annotate.el) - Annotate.el
 - [eliahuhorwitz/Academic-project-page-template](https://github.com/eliahuhorwitz/Academic-project-page-template) - A project page template for academic papers. Demo at https://eliahuhorwitz.github.io/Academic-project-page-template/
 - [victorhge/iedit](https://github.com/victorhge/iedit) - Modify multiple occurrences simultaneously
 - [minad/cape](https://github.com/minad/cape) - 🦸cape.el - Completion At Point Extensions
