@@ -61,6 +61,7 @@
 
 ## Emacs Lisp 
 
+- [bastibe/annotate.el](https://github.com/bastibe/annotate.el) - Annotate.el
 - [armindarvish/consult-omni](https://github.com/armindarvish/consult-omni) - A Powerful Versatile Omni Search inside Emacs
 - [victorhge/iedit](https://github.com/victorhge/iedit) - Modify multiple occurrences simultaneously
 - [drym-org/symex.el](https://github.com/drym-org/symex.el) - An intuitive way to edit Lisp symbolic expressions ("symexes") structurally in Emacs
