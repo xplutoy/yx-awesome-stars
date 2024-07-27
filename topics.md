@@ -317,6 +317,7 @@
 
 ## emacs 
 
+- [jamescherti/outline-indent.el](https://github.com/jamescherti/outline-indent.el) - Emacs:  Indentation-Based Outlining and Folding (outline-indent.el)
 - [armindarvish/consult-omni](https://github.com/armindarvish/consult-omni) - A Powerful Versatile Omni Search inside Emacs
 - [drym-org/symex.el](https://github.com/drym-org/symex.el) - An intuitive way to edit Lisp symbolic expressions ("symexes") structurally in Emacs
 - [ethan-leba/tree-edit](https://github.com/ethan-leba/tree-edit) - 🌲   Structural editing in Emacs for any™ language!
