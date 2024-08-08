@@ -61,6 +61,7 @@
 
 ## Emacs Lisp 
 
+- [alphapapa/dogears.el](https://github.com/alphapapa/dogears.el) - Never lose your place in Emacs again
 - [jamescherti/outline-indent.el](https://github.com/jamescherti/outline-indent.el) - Emacs:  Indentation-Based Outlining and Folding (outline-indent.el)
 - [bastibe/annotate.el](https://github.com/bastibe/annotate.el) - Annotate.el
 - [armindarvish/consult-omni](https://github.com/armindarvish/consult-omni) - A Powerful Versatile Omni Search inside Emacs
