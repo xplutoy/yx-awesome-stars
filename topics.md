@@ -628,6 +628,7 @@
 
 ## others 
 
+- [pytorch/botorch](https://github.com/pytorch/botorch) - Bayesian optimization in PyTorch
 - [zhoushengisnoob/DeepClustering](https://github.com/zhoushengisnoob/DeepClustering) - Methods and Implements of Deep Clustering
 - [BradyFU/Awesome-Multimodal-Large-Language-Models](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models) - :sparkles::sparkles:Latest Advances on Multimodal Large Language Models
 - [bastibe/annotate.el](https://github.com/bastibe/annotate.el) - Annotate.el
@@ -810,6 +811,7 @@
 
 ## pytorch 
 
+- [cornellius-gp/gpytorch](https://github.com/cornellius-gp/gpytorch) - A highly efficient implementation of Gaussian Processes in PyTorch
 - [baal-org/baal](https://github.com/baal-org/baal) - Bayesian active learning library for research and industrial usecases.
 - [JavierAntoran/Bayesian-Neural-Networks](https://github.com/JavierAntoran/Bayesian-Neural-Networks) - Pytorch implementations of Bayes By Backprop, MC Dropout, SGLD, the Local Reparametrization Trick, KF-Laplace, SG-HMC and more
 - [ray-project/ray](https://github.com/ray-project/ray) - Ray is a unified framework for scaling AI and Python applications. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.
