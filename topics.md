@@ -628,6 +628,7 @@
 
 ## others 
 
+- [probml/pml2-book](https://github.com/probml/pml2-book) - Probabilistic Machine Learning: Advanced Topics
 - [withinmiaov/A-Survey-on-Mixture-of-Experts](https://github.com/withinmiaov/A-Survey-on-Mixture-of-Experts) - 
 - [pytorch/botorch](https://github.com/pytorch/botorch) - Bayesian optimization in PyTorch
 - [zhoushengisnoob/DeepClustering](https://github.com/zhoushengisnoob/DeepClustering) - Methods and Implements of Deep Clustering
