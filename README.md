@@ -259,6 +259,7 @@
 
 ## Others 
 
+- [probml/pml2-book](https://github.com/probml/pml2-book) - Probabilistic Machine Learning: Advanced Topics
 - [withinmiaov/A-Survey-on-Mixture-of-Experts](https://github.com/withinmiaov/A-Survey-on-Mixture-of-Experts) - 
 - [zhoushengisnoob/DeepClustering](https://github.com/zhoushengisnoob/DeepClustering) - Methods and Implements of Deep Clustering
 - [BradyFU/Awesome-Multimodal-Large-Language-Models](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models) - :sparkles::sparkles:Latest Advances on Multimodal Large Language Models
