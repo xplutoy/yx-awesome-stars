@@ -80,7 +80,7 @@
 - [emacs-magus/once](https://github.com/emacs-magus/once) - Extra init.el deferred evaluation utilities
 - [wyuenho/emacs-pet](https://github.com/wyuenho/emacs-pet) - Tracks down the correct Python tooling executables from your virtualenvs so you can glue the binaries to Emacs and delete code in init.el
 - [astoff/buffer-env](https://github.com/astoff/buffer-env) - Buffer-local process environments for Emacs
-- [meedstrom/org-node](https://github.com/meedstrom/org-node) - 
+- [meedstrom/org-node](https://github.com/meedstrom/org-node) - A notetaking system like Roam using Emacs Org-mode
 - [ndwarshuis/org-ml](https://github.com/ndwarshuis/org-ml) - (formerly om.el) A functional library for org-mode
 - [kickingvegas/casual-isearch](https://github.com/kickingvegas/casual-isearch) - Casual I-Search - A Transient menu for Emacs I-Search
 - [csmclaren/loco](https://github.com/csmclaren/loco) - Enter complex key sequences with ease!
