@@ -648,7 +648,7 @@
 - [meta-llama/llama3](https://github.com/meta-llama/llama3) - The official Meta Llama 3 GitHub site
 - [emacs-magus/once](https://github.com/emacs-magus/once) - Extra init.el deferred evaluation utilities
 - [astoff/buffer-env](https://github.com/astoff/buffer-env) - Buffer-local process environments for Emacs
-- [meedstrom/org-node](https://github.com/meedstrom/org-node) - 
+- [meedstrom/org-node](https://github.com/meedstrom/org-node) - A notetaking system like Roam using Emacs Org-mode
 - [ndwarshuis/org-ml](https://github.com/ndwarshuis/org-ml) - (formerly om.el) A functional library for org-mode
 - [kickingvegas/casual-isearch](https://github.com/kickingvegas/casual-isearch) - Casual I-Search - A Transient menu for Emacs I-Search
 - [pgvector/pgvector](https://github.com/pgvector/pgvector) - Open-source vector similarity search for Postgres
