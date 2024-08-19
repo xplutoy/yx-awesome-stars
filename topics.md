@@ -117,6 +117,7 @@
 
 ## awesome 
 
+- [ZhiningLiu1998/awesome-imbalanced-learning](https://github.com/ZhiningLiu1998/awesome-imbalanced-learning) - 😎 Everything about class-imbalanced/long-tail learning: papers, codes, frameworks, and libraries | 有关类别不平衡/长尾学习的一切：论文、代码、框架与库
 - [SupeRuier/awesome-active-learning](https://github.com/SupeRuier/awesome-active-learning) - Everything you need about Active Learning (AL).
 - [huytransformer/Awesome-Out-Of-Distribution-Detection](https://github.com/huytransformer/Awesome-Out-Of-Distribution-Detection) - Out-of-distribution detection, robustness, and generalization resources. The repository contains a professionally curated list of papers, tutorials, books, videos, articles and open-source libraries e
 - [ENSTA-U2IS-AI/awesome-uncertainty-deeplearning](https://github.com/ENSTA-U2IS-AI/awesome-uncertainty-deeplearning) - This repository contains a collection of surveys, datasets,  papers, and codes, for predictive uncertainty estimation in deep learning models.
@@ -131,6 +132,7 @@
 
 ## awesome-list 
 
+- [ZhiningLiu1998/awesome-imbalanced-learning](https://github.com/ZhiningLiu1998/awesome-imbalanced-learning) - 😎 Everything about class-imbalanced/long-tail learning: papers, codes, frameworks, and libraries | 有关类别不平衡/长尾学习的一切：论文、代码、框架与库
 - [SupeRuier/awesome-active-learning](https://github.com/SupeRuier/awesome-active-learning) - Everything you need about Active Learning (AL).
 - [huytransformer/Awesome-Out-Of-Distribution-Detection](https://github.com/huytransformer/Awesome-Out-Of-Distribution-Detection) - Out-of-distribution detection, robustness, and generalization resources. The repository contains a professionally curated list of papers, tutorials, books, videos, articles and open-source libraries e
 - [p3r7/awesome-elisp](https://github.com/p3r7/awesome-elisp) - 🏵️ A curated list of Emacs Lisp development resources
@@ -267,6 +269,7 @@
 
 ## deep-learning 
 
+- [ZhiningLiu1998/awesome-imbalanced-learning](https://github.com/ZhiningLiu1998/awesome-imbalanced-learning) - 😎 Everything about class-imbalanced/long-tail learning: papers, codes, frameworks, and libraries | 有关类别不平衡/长尾学习的一切：论文、代码、框架与库
 - [datawhalechina/leedl-tutorial](https://github.com/datawhalechina/leedl-tutorial) - 《李宏毅深度学习教程》（李宏毅老师推荐👍，苹果书🍎），PDF下载地址：https://github.com/datawhalechina/leedl-tutorial/releases
 - [SupeRuier/awesome-active-learning](https://github.com/SupeRuier/awesome-active-learning) - Everything you need about Active Learning (AL).
 - [jindongwang/transferlearning](https://github.com/jindongwang/transferlearning) - Transfer learning / domain adaptation / domain generalization / multi-task learning etc. Papers, codes, datasets, applications, tutorials.-迁移学习
@@ -326,6 +329,7 @@
 
 ## emacs 
 
+- [jamescherti/minimal-emacs.d](https://github.com/jamescherti/minimal-emacs.d) - Minimal ~/.emacs.d
 - [alphapapa/dogears.el](https://github.com/alphapapa/dogears.el) - Never lose your place in Emacs again
 - [jamescherti/outline-indent.el](https://github.com/jamescherti/outline-indent.el) - Emacs:  Indentation-Based Outlining and Folding (outline-indent.el)
 - [armindarvish/consult-omni](https://github.com/armindarvish/consult-omni) - A Powerful Versatile Omni Search inside Emacs
@@ -529,6 +533,7 @@
 
 ## machine-learning 
 
+- [ZhiningLiu1998/awesome-imbalanced-learning](https://github.com/ZhiningLiu1998/awesome-imbalanced-learning) - 😎 Everything about class-imbalanced/long-tail learning: papers, codes, frameworks, and libraries | 有关类别不平衡/长尾学习的一切：论文、代码、框架与库
 - [datawhalechina/leedl-tutorial](https://github.com/datawhalechina/leedl-tutorial) - 《李宏毅深度学习教程》（李宏毅老师推荐👍，苹果书🍎），PDF下载地址：https://github.com/datawhalechina/leedl-tutorial/releases
 - [SupeRuier/awesome-active-learning](https://github.com/SupeRuier/awesome-active-learning) - Everything you need about Active Learning (AL).
 - [jindongwang/transferlearning](https://github.com/jindongwang/transferlearning) - Transfer learning / domain adaptation / domain generalization / multi-task learning etc. Papers, codes, datasets, applications, tutorials.-迁移学习
@@ -628,6 +633,8 @@
 
 ## others 
 
+- [jamescherti/dir-config.el](https://github.com/jamescherti/dir-config.el) - dir-config.el - Automatically find and load the .dir-config.el Elisp file
+- [subeeshvasu/Awesome-Learning-with-Label-Noise](https://github.com/subeeshvasu/Awesome-Learning-with-Label-Noise) - A curated list of resources for Learning with Noisy Labels
 - [minad/tempel](https://github.com/minad/tempel) - :classical_building: TempEl - Simple templates for Emacs
 - [probml/pml2-book](https://github.com/probml/pml2-book) - Probabilistic Machine Learning: Advanced Topics
 - [withinmiaov/A-Survey-on-Mixture-of-Experts](https://github.com/withinmiaov/A-Survey-on-Mixture-of-Experts) - 
