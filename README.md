@@ -308,6 +308,8 @@
 
 ## Python 
 
+- [bayesian-optimization/BayesianOptimization](https://github.com/bayesian-optimization/BayesianOptimization) - A Python implementation of global optimization with gaussian processes.
+- [GAMES-UChile/mogptk](https://github.com/GAMES-UChile/mogptk) - Multi-Output Gaussian Process Toolkit
 - [cornellius-gp/gpytorch](https://github.com/cornellius-gp/gpytorch) - A highly efficient implementation of Gaussian Processes in PyTorch
 - [jindongwang/transferlearning](https://github.com/jindongwang/transferlearning) - Transfer learning / domain adaptation / domain generalization / multi-task learning etc. Papers, codes, datasets, applications, tutorials.-迁移学习
 - [facebook/prophet](https://github.com/facebook/prophet) - Tool for producing high quality forecasts for time series data that has multiple seasonality with linear or non-linear growth.
