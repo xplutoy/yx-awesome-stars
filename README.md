@@ -263,6 +263,7 @@
 
 ## Others 
 
+- [hibayesian/awesome-automl-papers](https://github.com/hibayesian/awesome-automl-papers) - A curated list of automated machine learning papers, articles, tutorials, slides and projects
 - [subeeshvasu/Awesome-Learning-with-Label-Noise](https://github.com/subeeshvasu/Awesome-Learning-with-Label-Noise) - A curated list of resources for Learning with Noisy Labels
 - [ZhiningLiu1998/awesome-imbalanced-learning](https://github.com/ZhiningLiu1998/awesome-imbalanced-learning) - 😎 Everything about class-imbalanced/long-tail learning: papers, codes, frameworks, and libraries | 有关类别不平衡/长尾学习的一切：论文、代码、框架与库
 - [probml/pml2-book](https://github.com/probml/pml2-book) - Probabilistic Machine Learning: Advanced Topics
@@ -309,6 +310,8 @@
 
 ## Python 
 
+- [hyperopt/hyperopt](https://github.com/hyperopt/hyperopt) - Distributed Asynchronous Hyperparameter Optimization in Python
+- [catboost/catboost](https://github.com/catboost/catboost) - A fast, scalable, high performance Gradient Boosting on Decision Trees library, used for ranking, classification, regression and other machine learning tasks for Python, R, Java, C++. Supports computa
 - [plotly/plotly.py](https://github.com/plotly/plotly.py) - The interactive graphing library for Python :sparkles: This project now includes Plotly Express!
 - [bayesian-optimization/BayesianOptimization](https://github.com/bayesian-optimization/BayesianOptimization) - A Python implementation of global optimization with gaussian processes.
 - [GAMES-UChile/mogptk](https://github.com/GAMES-UChile/mogptk) - Multi-Output Gaussian Process Toolkit
