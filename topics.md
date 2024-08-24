@@ -337,6 +337,7 @@
 
 ## emacs 
 
+- [troglobit/mg](https://github.com/troglobit/mg) - Micro (GNU) Emacs-like text editor ❤️ public-domain
 - [jamescherti/minimal-emacs.d](https://github.com/jamescherti/minimal-emacs.d) - Minimal ~/.emacs.d
 - [alphapapa/dogears.el](https://github.com/alphapapa/dogears.el) - Never lose your place in Emacs again
 - [jamescherti/outline-indent.el](https://github.com/jamescherti/outline-indent.el) - Emacs:  Indentation-Based Outlining and Folding (outline-indent.el)
@@ -507,6 +508,7 @@
 
 ## linux 
 
+- [troglobit/mg](https://github.com/troglobit/mg) - Micro (GNU) Emacs-like text editor ❤️ public-domain
 - [laishulu/emacs-smart-input-source](https://github.com/laishulu/emacs-smart-input-source) - Less manual switch for native or OS input source (input method).
 - [skywind3000/awesome-cheatsheets](https://github.com/skywind3000/awesome-cheatsheets) - 超级速查表 - 编程语言、框架和开发工具的速查表，单个文件包含一切你需要知道的东西 :zap:
 - [xmake-io/xmake](https://github.com/xmake-io/xmake) - 🔥 A cross-platform build utility based on Lua
@@ -572,6 +574,7 @@
 
 ## macos 
 
+- [troglobit/mg](https://github.com/troglobit/mg) - Micro (GNU) Emacs-like text editor ❤️ public-domain
 - [sb2nov/mac-setup](https://github.com/sb2nov/mac-setup) - Installing Development environment on macOS
 - [laishulu/emacs-smart-input-source](https://github.com/laishulu/emacs-smart-input-source) - Less manual switch for native or OS input source (input method).
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
@@ -644,6 +647,8 @@
 
 ## others 
 
+- [kiennq/emacs-build](https://github.com/kiennq/emacs-build) - Scripts to build a distribution of Emacs from sources, using MSYS2 and Mingw64(32)
+- [scikit-learn-contrib/category_encoders](https://github.com/scikit-learn-contrib/category_encoders) - A library of sklearn compatible categorical variable encoders
 - [hibayesian/awesome-automl-papers](https://github.com/hibayesian/awesome-automl-papers) - A curated list of automated machine learning papers, articles, tutorials, slides and projects
 - [isamert/corg.el](https://github.com/isamert/corg.el) - 🍾 Auto complete org-mode headers seamlessly
 - [GAMES-UChile/mogptk](https://github.com/GAMES-UChile/mogptk) - Multi-Output Gaussian Process Toolkit
