@@ -122,7 +122,7 @@
 - [cyrus-and/zoom](https://github.com/cyrus-and/zoom) - Fixed and automatic balanced window layout for Emacs
 - [doomemacs/doomemacs](https://github.com/doomemacs/doomemacs) - An Emacs framework for the stubborn martian hacker
 - [manateelazycat/insert-translated-name](https://github.com/manateelazycat/insert-translated-name) - Insert translated string as variable or function name
-- [susam/emfy](https://github.com/susam/emfy) - A dark and sleek Emacs setup for general purpose editing and programming
+- [susam/emfy](https://github.com/susam/emfy) - A very basic dark and sleek Emacs setup for general purpose editing and programming
 - [minad/jinx](https://github.com/minad/jinx) - 🪄 Enchanted Spell Checker
 - [alphapapa/burly.el](https://github.com/alphapapa/burly.el) - Save and restore frames and windows with their buffers in Emacs
 - [astoff/code-cells.el](https://github.com/astoff/code-cells.el) - Emacs utilities for code split into cells, including Jupyter notebooks
@@ -369,6 +369,7 @@
 
 ## Rust 
 
+- [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
 - [uutils/coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils
 - [rustcc/writing-an-os-in-rust](https://github.com/rustcc/writing-an-os-in-rust) - 《使用Rust编写操作系统》
 - [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
