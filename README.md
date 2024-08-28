@@ -63,6 +63,8 @@
 
 ## Emacs Lisp 
 
+- [SavchenkoValeriy/emacs-powerthesaurus](https://github.com/SavchenkoValeriy/emacs-powerthesaurus) - Powerthesaurus integration for Emacs
+- [bnbeckwith/writegood-mode](https://github.com/bnbeckwith/writegood-mode) - Minor mode for Emacs to improve English writing
 - [isamert/corg.el](https://github.com/isamert/corg.el) - 🍾 Auto complete org-mode headers seamlessly
 - [jamescherti/minimal-emacs.d](https://github.com/jamescherti/minimal-emacs.d) - Minimal ~/.emacs.d
 - [jamescherti/dir-config.el](https://github.com/jamescherti/dir-config.el) - dir-config.el - Automatically find and load the .dir-config.el Elisp file
@@ -334,7 +336,7 @@
 - [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy) - DSPy: The framework for programming—not prompting—foundation models
 - [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - :mag: LLM orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your 
 - [run-llama/llama_index](https://github.com/run-llama/llama_index) - LlamaIndex is a data framework for your LLM applications
-- [dataelement/bisheng](https://github.com/dataelement/bisheng) - BISHENG is an open LLM devops platform for next generation Enterprise AI applications.
+- [dataelement/bisheng](https://github.com/dataelement/bisheng) - BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive features include: GenAI workflow, RAG, Agent, Unified model management, Evaluation, SF
 - [gradio-app/gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
 - [pypa/pipx](https://github.com/pypa/pipx) - Install and Run Python Applications in Isolated Environments
 - [QwenLM/Qwen](https://github.com/QwenLM/Qwen) - The official repo of Qwen (通义千问) chat & pretrained large language model proposed by Alibaba Cloud.
