@@ -349,6 +349,7 @@
 
 ## emacs 
 
+- [alphapapa/prism.el](https://github.com/alphapapa/prism.el) - Disperse Lisp forms (and other languages) into a spectrum of colors by depth
 - [SavchenkoValeriy/emacs-powerthesaurus](https://github.com/SavchenkoValeriy/emacs-powerthesaurus) - Powerthesaurus integration for Emacs
 - [bnbeckwith/writegood-mode](https://github.com/bnbeckwith/writegood-mode) - Minor mode for Emacs to improve English writing
 - [troglobit/mg](https://github.com/troglobit/mg) - Micro (GNU) Emacs-like text editor ❤️ public-domain
@@ -379,7 +380,7 @@
 - [cyrus-and/zoom](https://github.com/cyrus-and/zoom) - Fixed and automatic balanced window layout for Emacs
 - [p3r7/awesome-elisp](https://github.com/p3r7/awesome-elisp) - 🏵️ A curated list of Emacs Lisp development resources
 - [doomemacs/doomemacs](https://github.com/doomemacs/doomemacs) - An Emacs framework for the stubborn martian hacker
-- [susam/emfy](https://github.com/susam/emfy) - A very basic dark and sleek Emacs setup for general purpose editing and programming
+- [susam/emfy](https://github.com/susam/emfy) - A dark and sleek Emacs setup for general purpose editing and programming
 - [alphapapa/burly.el](https://github.com/alphapapa/burly.el) - Save and restore frames and windows with their buffers in Emacs
 - [alphapapa/unpackaged.el](https://github.com/alphapapa/unpackaged.el) - A collection of useful Emacs Lisp code that isn't substantial enough to be packaged
 - [minad/consult](https://github.com/minad/consult) - :mag: consult.el - Consulting completing-read
@@ -596,7 +597,7 @@
 ## markdown 
 
 - [mkdocs/mkdocs](https://github.com/mkdocs/mkdocs) - Project documentation with Markdown.
-- [susam/emfy](https://github.com/susam/emfy) - A very basic dark and sleek Emacs setup for general purpose editing and programming
+- [susam/emfy](https://github.com/susam/emfy) - A dark and sleek Emacs setup for general purpose editing and programming
 - [windingwind/zotero-better-notes](https://github.com/windingwind/zotero-better-notes) - Everything about note management. All in Zotero.
 - [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap
 - [emacs-citar/citar](https://github.com/emacs-citar/citar) - Emacs package to quickly find and act on bibliographic references, and edit org, markdown, and latex academic documents.
