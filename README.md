@@ -90,7 +90,7 @@
 - [wyuenho/emacs-pet](https://github.com/wyuenho/emacs-pet) - Tracks down the correct Python tooling executables from your virtualenvs so you can glue the binaries to Emacs and delete code in init.el
 - [astoff/buffer-env](https://github.com/astoff/buffer-env) - Buffer-local process environments for Emacs
 - [meedstrom/org-node](https://github.com/meedstrom/org-node) - A notetaking system like Roam using Emacs Org-mode
-- [ndwarshuis/org-ml](https://github.com/ndwarshuis/org-ml) - (formerly om.el) A functional library for org-mode
+- [ndwarshuis/org-ml](https://github.com/ndwarshuis/org-ml) - A functional library for org-mode
 - [kickingvegas/casual-isearch](https://github.com/kickingvegas/casual-isearch) - Casual I-Search - A Transient menu for Emacs I-Search
 - [csmclaren/loco](https://github.com/csmclaren/loco) - Enter complex key sequences with ease!
 - [ahyatt/ekg](https://github.com/ahyatt/ekg) - The emacs knowledge graph, app for notes and structured data.
@@ -230,6 +230,7 @@
 
 ## Jupyter Notebook 
 
+- [jwangjie/Gaussian-Process-Regression-Tutorial](https://github.com/jwangjie/Gaussian-Process-Regression-Tutorial) - An Intuitive Tutorial to Gaussian Processes Regression
 - [pytorch/botorch](https://github.com/pytorch/botorch) - Bayesian optimization in PyTorch
 - [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 18 Lessons, Get Started Building with Generative AI  🔗 https://microsoft.github.io/generative-ai-for-beginners/
 - [datawhalechina/leedl-tutorial](https://github.com/datawhalechina/leedl-tutorial) - 《李宏毅深度学习教程》（李宏毅老师推荐👍，苹果书🍎），PDF下载地址：https://github.com/datawhalechina/leedl-tutorial/releases
