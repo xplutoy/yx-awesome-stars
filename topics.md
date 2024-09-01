@@ -662,6 +662,7 @@
 
 ## others 
 
+- [jwangjie/Gaussian-Process-Regression-Tutorial](https://github.com/jwangjie/Gaussian-Process-Regression-Tutorial) - An Intuitive Tutorial to Gaussian Processes Regression
 - [kiennq/emacs-build](https://github.com/kiennq/emacs-build) - Scripts to build a distribution of Emacs from sources, using MSYS2 and Mingw64(32)
 - [scikit-learn-contrib/category_encoders](https://github.com/scikit-learn-contrib/category_encoders) - A library of sklearn compatible categorical variable encoders
 - [hibayesian/awesome-automl-papers](https://github.com/hibayesian/awesome-automl-papers) - A curated list of automated machine learning papers, articles, tutorials, slides and projects
@@ -691,7 +692,7 @@
 - [emacs-magus/once](https://github.com/emacs-magus/once) - Extra init.el deferred evaluation utilities
 - [astoff/buffer-env](https://github.com/astoff/buffer-env) - Buffer-local process environments for Emacs
 - [meedstrom/org-node](https://github.com/meedstrom/org-node) - A notetaking system like Roam using Emacs Org-mode
-- [ndwarshuis/org-ml](https://github.com/ndwarshuis/org-ml) - (formerly om.el) A functional library for org-mode
+- [ndwarshuis/org-ml](https://github.com/ndwarshuis/org-ml) - A functional library for org-mode
 - [kickingvegas/casual-isearch](https://github.com/kickingvegas/casual-isearch) - Casual I-Search - A Transient menu for Emacs I-Search
 - [pgvector/pgvector](https://github.com/pgvector/pgvector) - Open-source vector similarity search for Postgres
 - [OpenBMB/ToolBench](https://github.com/OpenBMB/ToolBench) - [ICLR'24 spotlight] An open platform for training, serving, and evaluating large language model for tool learning.
