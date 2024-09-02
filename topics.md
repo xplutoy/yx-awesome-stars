@@ -288,6 +288,7 @@
 
 ## deep-learning 
 
+- [pyro-ppl/pyro](https://github.com/pyro-ppl/pyro) - Deep universal probabilistic programming with Python and PyTorch
 - [HumanSignal/label-studio](https://github.com/HumanSignal/label-studio) - Label Studio is a multi-type data labeling and annotation tool with standardized output format
 - [ZhiningLiu1998/awesome-imbalanced-learning](https://github.com/ZhiningLiu1998/awesome-imbalanced-learning) - 😎 Everything about class-imbalanced/long-tail learning: papers, codes, frameworks, and libraries | 有关类别不平衡/长尾学习的一切：论文、代码、框架与库
 - [datawhalechina/leedl-tutorial](https://github.com/datawhalechina/leedl-tutorial) - 《李宏毅深度学习教程》（李宏毅老师推荐👍，苹果书🍎），PDF下载地址：https://github.com/datawhalechina/leedl-tutorial/releases
@@ -560,6 +561,8 @@
 
 ## machine-learning 
 
+- [pyro-ppl/pyro](https://github.com/pyro-ppl/pyro) - Deep universal probabilistic programming with Python and PyTorch
+- [krasserm/bayesian-machine-learning](https://github.com/krasserm/bayesian-machine-learning) - Notebooks about Bayesian methods for machine learning
 - [catboost/catboost](https://github.com/catboost/catboost) - A fast, scalable, high performance Gradient Boosting on Decision Trees library, used for ranking, classification, regression and other machine learning tasks for Python, R, Java, C++. Supports computa
 - [ZhiningLiu1998/awesome-imbalanced-learning](https://github.com/ZhiningLiu1998/awesome-imbalanced-learning) - 😎 Everything about class-imbalanced/long-tail learning: papers, codes, frameworks, and libraries | 有关类别不平衡/长尾学习的一切：论文、代码、框架与库
 - [datawhalechina/leedl-tutorial](https://github.com/datawhalechina/leedl-tutorial) - 《李宏毅深度学习教程》（李宏毅老师推荐👍，苹果书🍎），PDF下载地址：https://github.com/datawhalechina/leedl-tutorial/releases
@@ -662,6 +665,8 @@
 
 ## others 
 
+- [google/jax](https://github.com/google/jax) - Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more
+- [HIPS/autograd](https://github.com/HIPS/autograd) - Efficiently computes derivatives of NumPy code.
 - [jwangjie/Gaussian-Process-Regression-Tutorial](https://github.com/jwangjie/Gaussian-Process-Regression-Tutorial) - An Intuitive Tutorial to Gaussian Processes Regression
 - [kiennq/emacs-build](https://github.com/kiennq/emacs-build) - Scripts to build a distribution of Emacs from sources, using MSYS2 and Mingw64(32)
 - [scikit-learn-contrib/category_encoders](https://github.com/scikit-learn-contrib/category_encoders) - A library of sklearn compatible categorical variable encoders
@@ -826,6 +831,7 @@
 
 ## python 
 
+- [pyro-ppl/pyro](https://github.com/pyro-ppl/pyro) - Deep universal probabilistic programming with Python and PyTorch
 - [catboost/catboost](https://github.com/catboost/catboost) - A fast, scalable, high performance Gradient Boosting on Decision Trees library, used for ranking, classification, regression and other machine learning tasks for Python, R, Java, C++. Supports computa
 - [plotly/plotly.py](https://github.com/plotly/plotly.py) - The interactive graphing library for Python :sparkles: This project now includes Plotly Express!
 - [bayesian-optimization/BayesianOptimization](https://github.com/bayesian-optimization/BayesianOptimization) - A Python implementation of global optimization with gaussian processes.
@@ -859,6 +865,7 @@
 
 ## pytorch 
 
+- [pyro-ppl/pyro](https://github.com/pyro-ppl/pyro) - Deep universal probabilistic programming with Python and PyTorch
 - [cornellius-gp/gpytorch](https://github.com/cornellius-gp/gpytorch) - A highly efficient implementation of Gaussian Processes in PyTorch
 - [baal-org/baal](https://github.com/baal-org/baal) - Bayesian active learning library for research and industrial usecases.
 - [JavierAntoran/Bayesian-Neural-Networks](https://github.com/JavierAntoran/Bayesian-Neural-Networks) - Pytorch implementations of Bayes By Backprop, MC Dropout, SGLD, the Local Reparametrization Trick, KF-Laplace, SG-HMC and more
