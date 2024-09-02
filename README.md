@@ -230,6 +230,7 @@
 
 ## Jupyter Notebook 
 
+- [krasserm/bayesian-machine-learning](https://github.com/krasserm/bayesian-machine-learning) - Notebooks about Bayesian methods for machine learning
 - [jwangjie/Gaussian-Process-Regression-Tutorial](https://github.com/jwangjie/Gaussian-Process-Regression-Tutorial) - An Intuitive Tutorial to Gaussian Processes Regression
 - [pytorch/botorch](https://github.com/pytorch/botorch) - Bayesian optimization in PyTorch
 - [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 18 Lessons, Get Started Building with Generative AI  🔗 https://microsoft.github.io/generative-ai-for-beginners/
@@ -316,6 +317,9 @@
 
 ## Python 
 
+- [pyro-ppl/pyro](https://github.com/pyro-ppl/pyro) - Deep universal probabilistic programming with Python and PyTorch
+- [google/jax](https://github.com/google/jax) - Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more
+- [HIPS/autograd](https://github.com/HIPS/autograd) - Efficiently computes derivatives of NumPy code.
 - [scikit-learn-contrib/category_encoders](https://github.com/scikit-learn-contrib/category_encoders) - A library of sklearn compatible categorical variable encoders
 - [hyperopt/hyperopt](https://github.com/hyperopt/hyperopt) - Distributed Asynchronous Hyperparameter Optimization in Python
 - [catboost/catboost](https://github.com/catboost/catboost) - A fast, scalable, high performance Gradient Boosting on Decision Trees library, used for ranking, classification, regression and other machine learning tasks for Python, R, Java, C++. Supports computa
