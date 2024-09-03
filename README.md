@@ -224,6 +224,8 @@
 
 ## Julia 
 
+- [jump-dev/JuMP.jl](https://github.com/jump-dev/JuMP.jl) - Modeling language for Mathematical Optimization (linear, mixed-integer, conic, semidefinite, nonlinear)
+- [FluxML/Flux.jl](https://github.com/FluxML/Flux.jl) - Relax! Flux is the ML library that doesn't make you tensor
 - [JuliaLang/julia](https://github.com/JuliaLang/julia) - The Julia Programming Language
 - [FluxML/Zygote.jl](https://github.com/FluxML/Zygote.jl) - 21st century AD
 - [JuliaSymbolics/Symbolics.jl](https://github.com/JuliaSymbolics/Symbolics.jl) - Symbolic programming for the next generation of numerical software
@@ -317,6 +319,7 @@
 
 ## Python 
 
+- [DistrictDataLabs/yellowbrick](https://github.com/DistrictDataLabs/yellowbrick) - Visual analysis and diagnostic tools to facilitate machine learning model selection.
 - [pyro-ppl/pyro](https://github.com/pyro-ppl/pyro) - Deep universal probabilistic programming with Python and PyTorch
 - [google/jax](https://github.com/google/jax) - Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more
 - [HIPS/autograd](https://github.com/HIPS/autograd) - Efficiently computes derivatives of NumPy code.
