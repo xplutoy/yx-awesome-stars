@@ -11,6 +11,7 @@
 - [C++](#c++)
 - [CSS](#css)
 - [Clojure](#clojure)
+- [Common Lisp](#common-lisp)
 - [Emacs Lisp](#emacs-lisp)
 - [Go](#go)
 - [HTML](#html)
@@ -60,6 +61,10 @@
 ## Clojure 
 
 - [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap
+
+## Common Lisp 
+
+- [atlas-engineer/nyxt](https://github.com/atlas-engineer/nyxt) - Nyxt - the hacker's browser.
 
 ## Emacs Lisp 
 
