@@ -270,6 +270,7 @@
 
 ## data-analysis 
 
+- [statsmodels/statsmodels](https://github.com/statsmodels/statsmodels) - Statsmodels: statistical modeling and econometrics in Python
 - [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps.
 - [ydataai/ydata-profiling](https://github.com/ydataai/ydata-profiling) - 1 Line of code data quality profiling & exploratory data analysis for Pandas and Spark DataFrames.
 - [gradio-app/gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
@@ -277,6 +278,8 @@
 
 ## data-science 
 
+- [statsmodels/statsmodels](https://github.com/statsmodels/statsmodels) - Statsmodels: statistical modeling and econometrics in Python
+- [JuliaAI/MLJ.jl](https://github.com/JuliaAI/MLJ.jl) - A Julia machine learning framework
 - [blue-yonder/tsfresh](https://github.com/blue-yonder/tsfresh) - Automatic extraction of relevant features from time series:
 - [alteryx/featuretools](https://github.com/alteryx/featuretools) - An open source python library for automated feature engineering
 - [FluxML/Flux.jl](https://github.com/FluxML/Flux.jl) - Relax! Flux is the ML library that doesn't make you tensor
@@ -508,6 +511,7 @@
 
 ## julia 
 
+- [JuliaAI/MLJ.jl](https://github.com/JuliaAI/MLJ.jl) - A Julia machine learning framework
 - [jump-dev/JuMP.jl](https://github.com/jump-dev/JuMP.jl) - Modeling language for Mathematical Optimization (linear, mixed-integer, conic, semidefinite, nonlinear)
 - [JuliaLang/julia](https://github.com/JuliaLang/julia) - The Julia Programming Language
 - [FluxML/Zygote.jl](https://github.com/FluxML/Zygote.jl) - 21st century AD
@@ -588,6 +592,7 @@
 
 ## machine-learning 
 
+- [JuliaAI/MLJ.jl](https://github.com/JuliaAI/MLJ.jl) - A Julia machine learning framework
 - [nltk/nltk](https://github.com/nltk/nltk) - NLTK Source
 - [alteryx/featuretools](https://github.com/alteryx/featuretools) - An open source python library for automated feature engineering
 - [DistrictDataLabs/yellowbrick](https://github.com/DistrictDataLabs/yellowbrick) - Visual analysis and diagnostic tools to facilitate machine learning model selection.
@@ -707,6 +712,8 @@
 
 ## others 
 
+- [Kungsgeten/selected.el](https://github.com/Kungsgeten/selected.el) - Keymap for when region is active
+- [rust-lang/rust-mode](https://github.com/rust-lang/rust-mode) - Emacs configuration for Rust
 - [manateelazycat/cloel](https://github.com/manateelazycat/cloel) - Cloel is a framework that combines Clojure and Elisp for collaborative programming
 - [leanprover/lean4](https://github.com/leanprover/lean4) - Lean 4 programming language and theorem prover
 - [SheffieldML/GPy](https://github.com/SheffieldML/GPy) - Gaussian processes framework in python
@@ -878,6 +885,7 @@
 
 ## python 
 
+- [statsmodels/statsmodels](https://github.com/statsmodels/statsmodels) - Statsmodels: statistical modeling and econometrics in Python
 - [py-why/causal-learn](https://github.com/py-why/causal-learn) - Causal Discovery in Python. It also includes (conditional) independence tests and score functions.
 - [nltk/nltk](https://github.com/nltk/nltk) - NLTK Source
 - [alteryx/featuretools](https://github.com/alteryx/featuretools) - An open source python library for automated feature engineering
@@ -982,6 +990,8 @@
 
 ## statistics 
 
+- [statsmodels/statsmodels](https://github.com/statsmodels/statsmodels) - Statsmodels: statistical modeling and econometrics in Python
+- [JuliaAI/MLJ.jl](https://github.com/JuliaAI/MLJ.jl) - A Julia machine learning framework
 - [py-why/causal-learn](https://github.com/py-why/causal-learn) - Causal Discovery in Python. It also includes (conditional) independence tests and score functions.
 - [ydataai/ydata-profiling](https://github.com/ydataai/ydata-profiling) - 1 Line of code data quality profiling & exploratory data analysis for Pandas and Spark DataFrames.
 
