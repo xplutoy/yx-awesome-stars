@@ -69,6 +69,7 @@
 
 ## Emacs Lisp 
 
+- [tecosaur/org-glossary](https://github.com/tecosaur/org-glossary) - Mirror of https://git.tecosaur.net/tec/org-glossary
 - [Kungsgeten/selected.el](https://github.com/Kungsgeten/selected.el) - Keymap for when region is active
 - [rust-lang/rust-mode](https://github.com/rust-lang/rust-mode) - Emacs configuration for Rust
 - [jdtsmith/indent-bars](https://github.com/jdtsmith/indent-bars) - Fast, configurable indentation guide-bars for Emacs
@@ -184,7 +185,7 @@
 - [lassik/emacs-format-all-the-code](https://github.com/lassik/emacs-format-all-the-code) - Auto-format source code in many languages with one command
 - [tecosaur/emacs-everywhere](https://github.com/tecosaur/emacs-everywhere) - Mirror of https://git.tecosaur.net/tec/emacs-everywhere
 - [howardabrams/dot-files](https://github.com/howardabrams/dot-files) - My Emacs initialization code and standard scripts I use for client and servers alike.
-- [xenodium/dwim-shell-command](https://github.com/xenodium/dwim-shell-command) - Emacs shell commands with DWIM behaviour
+- [xenodium/dwim-shell-command](https://github.com/xenodium/dwim-shell-command) - Save your shell commands/scripts and apply from Emacs with ease.
 - [joaotavora/eglot](https://github.com/joaotavora/eglot) - A client for Language Server Protocol servers
 - [protesilaos/ef-themes](https://github.com/protesilaos/ef-themes) - Colourful and legible themes for GNU Emacs
 - [abo-abo/lispy](https://github.com/abo-abo/lispy) - Short and sweet LISP editing
@@ -290,6 +291,7 @@
 
 ## Others 
 
+- [ForrestKnight/open-source-cs](https://github.com/ForrestKnight/open-source-cs) - Video discussing this curriculum:
 - [AnthonyCalandra/modern-cpp-features](https://github.com/AnthonyCalandra/modern-cpp-features) - A cheatsheet of modern C++ language and library features.
 - [hibayesian/awesome-automl-papers](https://github.com/hibayesian/awesome-automl-papers) - A curated list of automated machine learning papers, articles, tutorials, slides and projects
 - [subeeshvasu/Awesome-Learning-with-Label-Noise](https://github.com/subeeshvasu/Awesome-Learning-with-Label-Noise) - A curated list of resources for Learning with Noisy Labels
