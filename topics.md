@@ -247,6 +247,7 @@
 
 ## compiler 
 
+- [hylang/hy](https://github.com/hylang/hy) - A dialect of Lisp that's embedded in Python
 - [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn.
 
 ## computer-science 
@@ -893,6 +894,7 @@
 
 ## python 
 
+- [hylang/hy](https://github.com/hylang/hy) - A dialect of Lisp that's embedded in Python
 - [3b1b/manim](https://github.com/3b1b/manim) - Animation engine for explanatory math videos
 - [statsmodels/statsmodels](https://github.com/statsmodels/statsmodels) - Statsmodels: statistical modeling and econometrics in Python
 - [py-why/causal-learn](https://github.com/py-why/causal-learn) - Causal Discovery in Python. It also includes (conditional) independence tests and score functions.
