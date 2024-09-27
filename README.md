@@ -340,6 +340,8 @@
 
 ## Python 
 
+- [automl/auto-sklearn](https://github.com/automl/auto-sklearn) - Automated Machine Learning with scikit-learn
+- [EpistasisLab/tpot](https://github.com/EpistasisLab/tpot) - A Python Automated Machine Learning tool that optimizes machine learning pipelines using genetic programming.
 - [hylang/hy](https://github.com/hylang/hy) - A dialect of Lisp that's embedded in Python
 - [3b1b/manim](https://github.com/3b1b/manim) - Animation engine for explanatory math videos
 - [statsmodels/statsmodels](https://github.com/statsmodels/statsmodels) - Statsmodels: statistical modeling and econometrics in Python
