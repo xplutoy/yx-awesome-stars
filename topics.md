@@ -126,6 +126,7 @@
 
 ## automation 
 
+- [EpistasisLab/tpot](https://github.com/EpistasisLab/tpot) - A Python Automated Machine Learning tool that optimizes machine learning pipelines using genetic programming.
 - [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - LLM based autonomous agent that does online comprehensive research on any given topic
 
 ## awesome 
@@ -285,6 +286,7 @@
 
 ## data-science 
 
+- [EpistasisLab/tpot](https://github.com/EpistasisLab/tpot) - A Python Automated Machine Learning tool that optimizes machine learning pipelines using genetic programming.
 - [statsmodels/statsmodels](https://github.com/statsmodels/statsmodels) - Statsmodels: statistical modeling and econometrics in Python
 - [JuliaAI/MLJ.jl](https://github.com/JuliaAI/MLJ.jl) - A Julia machine learning framework
 - [blue-yonder/tsfresh](https://github.com/blue-yonder/tsfresh) - Automatic extraction of relevant features from time series:
@@ -601,6 +603,7 @@
 
 ## machine-learning 
 
+- [EpistasisLab/tpot](https://github.com/EpistasisLab/tpot) - A Python Automated Machine Learning tool that optimizes machine learning pipelines using genetic programming.
 - [JuliaAI/MLJ.jl](https://github.com/JuliaAI/MLJ.jl) - A Julia machine learning framework
 - [nltk/nltk](https://github.com/nltk/nltk) - NLTK Source
 - [alteryx/featuretools](https://github.com/alteryx/featuretools) - An open source python library for automated feature engineering
@@ -894,6 +897,7 @@
 
 ## python 
 
+- [EpistasisLab/tpot](https://github.com/EpistasisLab/tpot) - A Python Automated Machine Learning tool that optimizes machine learning pipelines using genetic programming.
 - [hylang/hy](https://github.com/hylang/hy) - A dialect of Lisp that's embedded in Python
 - [3b1b/manim](https://github.com/3b1b/manim) - Animation engine for explanatory math videos
 - [statsmodels/statsmodels](https://github.com/statsmodels/statsmodels) - Statsmodels: statistical modeling and econometrics in Python
@@ -986,6 +990,8 @@
 
 ## scikit-learn 
 
+- [automl/auto-sklearn](https://github.com/automl/auto-sklearn) - Automated Machine Learning with scikit-learn
+- [EpistasisLab/tpot](https://github.com/EpistasisLab/tpot) - A Python Automated Machine Learning tool that optimizes machine learning pipelines using genetic programming.
 - [alteryx/featuretools](https://github.com/alteryx/featuretools) - An open source python library for automated feature engineering
 - [DistrictDataLabs/yellowbrick](https://github.com/DistrictDataLabs/yellowbrick) - Visual analysis and diagnostic tools to facilitate machine learning model selection.
 - [microsoft/FLAML](https://github.com/microsoft/FLAML) - A fast library for AutoML and tuning. Join our Discord: https://discord.gg/Cppx2vSPVP.
