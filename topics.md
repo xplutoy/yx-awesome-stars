@@ -724,6 +724,8 @@
 
 ## others 
 
+- [pints-team/pints](https://github.com/pints-team/pints) - Probabilistic Inference on Noisy Time Series
+- [ColCarroll/minimc](https://github.com/ColCarroll/minimc) - Just a little MCMC
 - [Kungsgeten/selected.el](https://github.com/Kungsgeten/selected.el) - Keymap for when region is active
 - [rust-lang/rust-mode](https://github.com/rust-lang/rust-mode) - Emacs configuration for Rust
 - [manateelazycat/cloel](https://github.com/manateelazycat/cloel) - Cloel is a framework that combines Clojure and Elisp for collaborative programming
@@ -954,6 +956,7 @@
 
 ## r 
 
+- [betanalpha/knitr_case_studies](https://github.com/betanalpha/knitr_case_studies) - Inference case studies in knitr
 - [catboost/catboost](https://github.com/catboost/catboost) - A fast, scalable, high performance Gradient Boosting on Decision Trees library, used for ranking, classification, regression and other machine learning tasks for Python, R, Java, C++. Supports computa
 - [facebook/prophet](https://github.com/facebook/prophet) - Tool for producing high quality forecasts for time series data that has multiple seasonality with linear or non-linear growth.
 - [microsoft/LightGBM](https://github.com/microsoft/LightGBM) - A fast, distributed, high performance gradient boosting (GBT, GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine learning tas
@@ -1007,6 +1010,7 @@
 
 ## statistics 
 
+- [betanalpha/knitr_case_studies](https://github.com/betanalpha/knitr_case_studies) - Inference case studies in knitr
 - [statsmodels/statsmodels](https://github.com/statsmodels/statsmodels) - Statsmodels: statistical modeling and econometrics in Python
 - [JuliaAI/MLJ.jl](https://github.com/JuliaAI/MLJ.jl) - A Julia machine learning framework
 - [py-why/causal-learn](https://github.com/py-why/causal-learn) - Causal Discovery in Python. It also includes (conditional) independence tests and score functions.
