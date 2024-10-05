@@ -107,7 +107,7 @@
 
 ## ai 
 
-- [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 18 Lessons, Get Started Building with Generative AI  🔗 https://microsoft.github.io/generative-ai-for-beginners/
+- [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 21 Lessons, Get Started Building with Generative AI  🔗 https://microsoft.github.io/generative-ai-for-beginners/
 - [baal-org/baal](https://github.com/baal-org/baal) - Bayesian active learning library for research and industrial usecases.
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 - [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - LLM based autonomous agent that does online comprehensive research on any given topic
@@ -166,7 +166,7 @@
 
 ## azure 
 
-- [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 18 Lessons, Get Started Building with Generative AI  🔗 https://microsoft.github.io/generative-ai-for-beginners/
+- [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 21 Lessons, Get Started Building with Generative AI  🔗 https://microsoft.github.io/generative-ai-for-beginners/
 
 ## backend 
 
@@ -202,7 +202,7 @@
 
 ## chatgpt 
 
-- [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 18 Lessons, Get Started Building with Generative AI  🔗 https://microsoft.github.io/generative-ai-for-beginners/
+- [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 21 Lessons, Get Started Building with Generative AI  🔗 https://microsoft.github.io/generative-ai-for-beginners/
 - [datawhalechina/leedl-tutorial](https://github.com/datawhalechina/leedl-tutorial) - 《李宏毅深度学习教程》（李宏毅老师推荐👍，苹果书🍎），PDF下载地址：https://github.com/datawhalechina/leedl-tutorial/releases
 - [armindarvish/consult-omni](https://github.com/armindarvish/consult-omni) - A Powerful Versatile Omni Search inside Emacs
 - [trigaten/Learn_Prompting](https://github.com/trigaten/Learn_Prompting) - Prompt Engineering, Generative AI, and LLM Guide by Learn Prompting | Join our discord for the largest Prompt Engineering learning community
@@ -711,7 +711,7 @@
 
 ## openai 
 
-- [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 18 Lessons, Get Started Building with Generative AI  🔗 https://microsoft.github.io/generative-ai-for-beginners/
+- [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 21 Lessons, Get Started Building with Generative AI  🔗 https://microsoft.github.io/generative-ai-for-beginners/
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 - [ray-project/llm-applications](https://github.com/ray-project/llm-applications) - A comprehensive guide to building RAG-based LLM applications for production.
 - [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - LLM based autonomous agent that does online comprehensive research on any given topic
