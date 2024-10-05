@@ -251,7 +251,7 @@
 - [krasserm/bayesian-machine-learning](https://github.com/krasserm/bayesian-machine-learning) - Notebooks about Bayesian methods for machine learning
 - [jwangjie/Gaussian-Process-Regression-Tutorial](https://github.com/jwangjie/Gaussian-Process-Regression-Tutorial) - An Intuitive Tutorial to Gaussian Processes Regression
 - [pytorch/botorch](https://github.com/pytorch/botorch) - Bayesian optimization in PyTorch
-- [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 18 Lessons, Get Started Building with Generative AI  🔗 https://microsoft.github.io/generative-ai-for-beginners/
+- [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 21 Lessons, Get Started Building with Generative AI  🔗 https://microsoft.github.io/generative-ai-for-beginners/
 - [datawhalechina/leedl-tutorial](https://github.com/datawhalechina/leedl-tutorial) - 《李宏毅深度学习教程》（李宏毅老师推荐👍，苹果书🍎），PDF下载地址：https://github.com/datawhalechina/leedl-tutorial/releases
 - [datawhalechina/self-llm](https://github.com/datawhalechina/self-llm) - 《开源大模型食用指南》基于Linux环境快速部署开源大模型，更适合中国宝宝的部署教程
 - [microsoft/FLAML](https://github.com/microsoft/FLAML) - A fast library for AutoML and tuning. Join our Discord: https://discord.gg/Cppx2vSPVP.
