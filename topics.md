@@ -392,7 +392,7 @@
 - [jamescherti/minimal-emacs.d](https://github.com/jamescherti/minimal-emacs.d) - Minimal ~/.emacs.d - Better Vanilla Emacs Defaults and Optimized Startup
 - [jamescherti/dir-config.el](https://github.com/jamescherti/dir-config.el) - dir-config.el - Automatically find and load the .dir-config.el Elisp file
 - [alphapapa/dogears.el](https://github.com/alphapapa/dogears.el) - Never lose your place in Emacs again
-- [jamescherti/outline-indent.el](https://github.com/jamescherti/outline-indent.el) - Emacs:  Indentation-Based Outlining and Folding (outline-indent.el)
+- [jamescherti/outline-indent.el](https://github.com/jamescherti/outline-indent.el) - outline-indent:  Emacs Indentation-Based Folding and outlining (outline-indent.el)
 - [armindarvish/consult-omni](https://github.com/armindarvish/consult-omni) - A Powerful Versatile Omni Search inside Emacs
 - [drym-org/symex.el](https://github.com/drym-org/symex.el) - An intuitive way to edit Lisp symbolic expressions ("symexes") structurally in Emacs
 - [ethan-leba/tree-edit](https://github.com/ethan-leba/tree-edit) - 🌲   Structural editing in Emacs for any™ language!
