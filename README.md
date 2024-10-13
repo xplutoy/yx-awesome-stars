@@ -69,6 +69,7 @@
 
 ## Emacs Lisp 
 
+- [purcell/emacs-reformatter](https://github.com/purcell/emacs-reformatter) - Define commands which run reformatters on the current Emacs buffer
 - [tecosaur/org-glossary](https://github.com/tecosaur/org-glossary) - Mirror of https://git.tecosaur.net/tec/org-glossary
 - [Kungsgeten/selected.el](https://github.com/Kungsgeten/selected.el) - Keymap for when region is active
 - [rust-lang/rust-mode](https://github.com/rust-lang/rust-mode) - Emacs configuration for Rust
