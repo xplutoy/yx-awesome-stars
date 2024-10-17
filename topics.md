@@ -730,6 +730,8 @@
 
 ## others 
 
+- [CosmosShadow/gptpdf](https://github.com/CosmosShadow/gptpdf) - Using GPT to parse PDF
+- [CosmosShadow/GeneralAgent](https://github.com/CosmosShadow/GeneralAgent) - A python native agent framework
 - [purcell/emacs-reformatter](https://github.com/purcell/emacs-reformatter) - Define commands which run reformatters on the current Emacs buffer
 - [pints-team/pints](https://github.com/pints-team/pints) - Probabilistic Inference on Noisy Time Series
 - [ColCarroll/minimc](https://github.com/ColCarroll/minimc) - Just a little MCMC
