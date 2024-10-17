@@ -342,6 +342,8 @@
 
 ## Python 
 
+- [CosmosShadow/gptpdf](https://github.com/CosmosShadow/gptpdf) - Using GPT to parse PDF
+- [CosmosShadow/GeneralAgent](https://github.com/CosmosShadow/GeneralAgent) - A python native agent framework
 - [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
 - [pints-team/pints](https://github.com/pints-team/pints) - Probabilistic Inference on Noisy Time Series
 - [ColCarroll/minimc](https://github.com/ColCarroll/minimc) - Just a little MCMC
