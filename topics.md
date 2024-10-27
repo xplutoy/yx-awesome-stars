@@ -731,6 +731,7 @@
 
 ## others 
 
+- [LionyxML/emacs-kick](https://github.com/LionyxML/emacs-kick) - A feature rich Emacs (kickstarter) config for (neo)vi(m)mers
 - [CosmosShadow/gptpdf](https://github.com/CosmosShadow/gptpdf) - Using GPT to parse PDF
 - [CosmosShadow/GeneralAgent](https://github.com/CosmosShadow/GeneralAgent) - A python native agent framework
 - [purcell/emacs-reformatter](https://github.com/purcell/emacs-reformatter) - Define commands which run reformatters on the current Emacs buffer
