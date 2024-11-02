@@ -69,6 +69,7 @@
 
 ## Emacs Lisp 
 
+- [jacktasia/dumb-jump](https://github.com/jacktasia/dumb-jump) - an Emacs "jump to definition" package for 50+ languages
 - [szermatt/visual-replace](https://github.com/szermatt/visual-replace) - A nicer interface for query-replace on Emacs
 - [LionyxML/emacs-kick](https://github.com/LionyxML/emacs-kick) - A feature rich Emacs (kickstarter) config for (neo)vi(m)mers
 - [purcell/emacs-reformatter](https://github.com/purcell/emacs-reformatter) - Define commands which run reformatters on the current Emacs buffer
