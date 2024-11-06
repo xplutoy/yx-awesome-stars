@@ -69,6 +69,8 @@
 
 ## Emacs Lisp 
 
+- [zenspider/dumber-jump](https://github.com/zenspider/dumber-jump) - an Emacs "jump to definition" package for 50+ languages
+- [hlissner/dirvish](https://github.com/hlissner/dirvish) - A polished Dired with batteries included.
 - [jacktasia/dumb-jump](https://github.com/jacktasia/dumb-jump) - an Emacs "jump to definition" package for 50+ languages
 - [szermatt/visual-replace](https://github.com/szermatt/visual-replace) - A nicer interface for query-replace on Emacs
 - [LionyxML/emacs-kick](https://github.com/LionyxML/emacs-kick) - A feature rich Emacs (kickstarter) config for (neo)vi(m)mers
