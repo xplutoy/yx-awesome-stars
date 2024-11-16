@@ -387,6 +387,8 @@
 
 ## emacs 
 
+- [cute-jumper/bing-dict.el](https://github.com/cute-jumper/bing-dict.el) - Minimalists' Bing dictionary for Emacs
+- [jamescherti/quick-sdcv.el](https://github.com/jamescherti/quick-sdcv.el) - Emacs interface for 'sdcv' (command-line offline dictionary)
 - [jacktasia/dumb-jump](https://github.com/jacktasia/dumb-jump) - an Emacs "jump to definition" package for 50+ languages
 - [szermatt/visual-replace](https://github.com/szermatt/visual-replace) - A nicer interface for query-replace on Emacs
 - [tecosaur/org-glossary](https://github.com/tecosaur/org-glossary) - Mirror of https://git.tecosaur.net/tec/org-glossary
