@@ -70,6 +70,8 @@
 
 ## Emacs Lisp 
 
+- [cute-jumper/bing-dict.el](https://github.com/cute-jumper/bing-dict.el) - Minimalists' Bing dictionary for Emacs
+- [jamescherti/quick-sdcv.el](https://github.com/jamescherti/quick-sdcv.el) - Emacs interface for 'sdcv' (command-line offline dictionary)
 - [yibie/org-zettel-ref-mode](https://github.com/yibie/org-zettel-ref-mode) - org-zettel-ref-mode: A Zettelkasten-style literature note tool.
 - [ahyatt/llm](https://github.com/ahyatt/llm) - A package abstracting llm capabilities for emacs.
 - [s-kostyaev/ellama](https://github.com/s-kostyaev/ellama) - Ellama is a tool for interacting with large language models from Emacs.
