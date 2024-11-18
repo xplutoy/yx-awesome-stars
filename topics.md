@@ -752,6 +752,8 @@
 
 ## others 
 
+- [positron-solutions/transient-showcase](https://github.com/positron-solutions/transient-showcase) - Example forms for transient UI's in Emacs
+- [liushihao456/symbols-outline.el](https://github.com/liushihao456/symbols-outline.el) - Display symbols (functions, variables, etc) in a side window.
 - [purcell/exec-path-from-shell](https://github.com/purcell/exec-path-from-shell) - Make Emacs use the $PATH set up by the user's shell
 - [ahyatt/emacs-calc-tutorials](https://github.com/ahyatt/emacs-calc-tutorials) - A series of tutorials about emacs-calc
 - [yibie/org-zettel-ref-mode](https://github.com/yibie/org-zettel-ref-mode) - org-zettel-ref-mode: A Zettelkasten-style literature note tool.
@@ -812,7 +814,7 @@
 - [pgvector/pgvector](https://github.com/pgvector/pgvector) - Open-source vector similarity search for Postgres
 - [OpenBMB/ToolBench](https://github.com/OpenBMB/ToolBench) - [ICLR'24 spotlight] An open platform for training, serving, and evaluating large language model for tool learning.
 - [ahyatt/ekg](https://github.com/ahyatt/ekg) - The emacs knowledge graph, app for notes and structured data.
-- [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy) - DSPy: The framework for programming—not prompting—foundation models
+- [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy) - DSPy: The framework for programming—not prompting—language models
 - [iwahbe/chat.el](https://github.com/iwahbe/chat.el) - An Emacs facade for ChatGPT
 - [bbatsov/emacs-lisp-style-guide](https://github.com/bbatsov/emacs-lisp-style-guide) - A community-driven Emacs Lisp style guide
 - [emacs-mirror/emacs](https://github.com/emacs-mirror/emacs) - Mirror of GNU Emacs
