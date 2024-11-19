@@ -387,6 +387,7 @@
 
 ## emacs 
 
+- [emacs-vs/ts-docstr](https://github.com/emacs-vs/ts-docstr) - A document string minor mode using tree-sitter
 - [mickeynp/combobulate](https://github.com/mickeynp/combobulate) - Structured Editing and Navigation in Emacs with Tree-Sitter
 - [cute-jumper/bing-dict.el](https://github.com/cute-jumper/bing-dict.el) - Minimalists' Bing dictionary for Emacs
 - [jamescherti/quick-sdcv.el](https://github.com/jamescherti/quick-sdcv.el) - Emacs interface for 'sdcv' (command-line offline dictionary)
@@ -752,6 +753,8 @@
 
 ## others 
 
+- [emacs-vs/docstr](https://github.com/emacs-vs/docstr) - A document string minor mode
+- [s-kostyaev/elisa](https://github.com/s-kostyaev/elisa) - ELISA (Emacs Lisp Information System Assistant) is a system designed to provide informative answers to user queries by leveraging a Retrieval Augmented Generation (RAG) approach.
 - [positron-solutions/transient-showcase](https://github.com/positron-solutions/transient-showcase) - Example forms for transient UI's in Emacs
 - [liushihao456/symbols-outline.el](https://github.com/liushihao456/symbols-outline.el) - Display symbols (functions, variables, etc) in a side window.
 - [purcell/exec-path-from-shell](https://github.com/purcell/exec-path-from-shell) - Make Emacs use the $PATH set up by the user's shell
