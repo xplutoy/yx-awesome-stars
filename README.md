@@ -78,7 +78,7 @@
 - [purcell/exec-path-from-shell](https://github.com/purcell/exec-path-from-shell) - Make Emacs use the $PATH set up by the user's shell
 - [mickeynp/combobulate](https://github.com/mickeynp/combobulate) - Structured Editing and Navigation in Emacs with Tree-Sitter
 - [cute-jumper/bing-dict.el](https://github.com/cute-jumper/bing-dict.el) - Minimalists' Bing dictionary for Emacs
-- [jamescherti/quick-sdcv.el](https://github.com/jamescherti/quick-sdcv.el) - Emacs interface for 'sdcv' (command-line offline dictionary)
+- [jamescherti/quick-sdcv.el](https://github.com/jamescherti/quick-sdcv.el) - Emacs offline dictionary using the 'sdcv'
 - [yibie/org-zettel-ref-mode](https://github.com/yibie/org-zettel-ref-mode) - org-zettel-ref-mode: A Zettelkasten-style literature note tool.
 - [ahyatt/llm](https://github.com/ahyatt/llm) - A package abstracting llm capabilities for emacs.
 - [s-kostyaev/ellama](https://github.com/s-kostyaev/ellama) - Ellama is a tool for interacting with large language models from Emacs.
@@ -102,7 +102,7 @@
 - [jamescherti/dir-config.el](https://github.com/jamescherti/dir-config.el) - dir-config.el - Automatically find and load the .dir-config.el Elisp file
 - [minad/tempel](https://github.com/minad/tempel) - :classical_building: TempEl - Simple templates for Emacs
 - [alphapapa/dogears.el](https://github.com/alphapapa/dogears.el) - Never lose your place in Emacs again
-- [jamescherti/outline-indent.el](https://github.com/jamescherti/outline-indent.el) - outline-indent:  Emacs Indentation-Based Folding and outlining (outline-indent.el)
+- [jamescherti/outline-indent.el](https://github.com/jamescherti/outline-indent.el) - Outline-indent: Folding text based on indentation (Alternative to origami and yafolding)
 - [bastibe/annotate.el](https://github.com/bastibe/annotate.el) - Annotate.el
 - [armindarvish/consult-omni](https://github.com/armindarvish/consult-omni) - A Powerful Versatile Omni Search inside Emacs
 - [victorhge/iedit](https://github.com/victorhge/iedit) - Modify multiple occurrences simultaneously
