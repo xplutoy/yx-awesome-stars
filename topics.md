@@ -216,7 +216,7 @@
 - [morsoli/llm-books](https://github.com/morsoli/llm-books) - 利用LLM构建应用实践笔记
 - [2noise/ChatTTS](https://github.com/2noise/ChatTTS) - A generative speech model for daily dialogue.
 - [karthink/gptel](https://github.com/karthink/gptel) - A simple LLM client for Emacs
-- [xenodium/chatgpt-shell](https://github.com/xenodium/chatgpt-shell) - ChatGPT and DALL-E Emacs shells + Org babel 🦄 + a shell maker for other providers
+- [xenodium/chatgpt-shell](https://github.com/xenodium/chatgpt-shell) - A multi-llm Emacs shell (ChatGPT, Claude, Gemini) + editing integrations
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
 - [BlinkDL/ChatRWKV](https://github.com/BlinkDL/ChatRWKV) - ChatRWKV is like ChatGPT but powered by RWKV (100% RNN) language model, and open source.
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering
@@ -418,7 +418,7 @@
 - [lorniu/mpvi](https://github.com/lorniu/mpvi) - Media Tool on Emacs, with lots of features integrated, based on EMMS and MPV.
 - [tecosaur/org-pandoc-import](https://github.com/tecosaur/org-pandoc-import) - Mirror of https://git.tecosaur.net/tec/org-pandoc-import
 - [d12frosted/homebrew-emacs-plus](https://github.com/d12frosted/homebrew-emacs-plus) - Emacs Plus formulae for the Homebrew package manager
-- [xenodium/chatgpt-shell](https://github.com/xenodium/chatgpt-shell) - ChatGPT and DALL-E Emacs shells + Org babel 🦄 + a shell maker for other providers
+- [xenodium/chatgpt-shell](https://github.com/xenodium/chatgpt-shell) - A multi-llm Emacs shell (ChatGPT, Claude, Gemini) + editing integrations
 - [rougier/elegant-emacs](https://github.com/rougier/elegant-emacs) - A very minimal but elegant emacs (I think)
 - [liuyinz/mini-echo.el](https://github.com/liuyinz/mini-echo.el) - Show buffer status in echo area , get rid of mode-line!
 - [protesilaos/denote](https://github.com/protesilaos/denote) - Simple notes for Emacs with an efficient file-naming scheme
