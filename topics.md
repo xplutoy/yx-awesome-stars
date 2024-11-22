@@ -753,6 +753,8 @@
 
 ## others 
 
+- [intel/intel-one-mono](https://github.com/intel/intel-one-mono) - Intel One Mono font repository
+- [freebsd/freebsd-src](https://github.com/freebsd/freebsd-src) - The FreeBSD src tree publish-only repository. Experimenting with 'simple' pull requests....
 - [emacs-vs/docstr](https://github.com/emacs-vs/docstr) - A document string minor mode
 - [s-kostyaev/elisa](https://github.com/s-kostyaev/elisa) - ELISA (Emacs Lisp Information System Assistant) is a system designed to provide informative answers to user queries by leveraging a Retrieval Augmented Generation (RAG) approach.
 - [positron-solutions/transient-showcase](https://github.com/positron-solutions/transient-showcase) - Example forms for transient UI's in Emacs
