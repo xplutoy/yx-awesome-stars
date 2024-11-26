@@ -79,7 +79,6 @@
 - [mickeynp/combobulate](https://github.com/mickeynp/combobulate) - Structured Editing and Navigation in Emacs with Tree-Sitter
 - [cute-jumper/bing-dict.el](https://github.com/cute-jumper/bing-dict.el) - Minimalists' Bing dictionary for Emacs
 - [jamescherti/quick-sdcv.el](https://github.com/jamescherti/quick-sdcv.el) - Emacs offline dictionary using the 'sdcv'
-- [yibie/org-zettel-ref-mode](https://github.com/yibie/org-zettel-ref-mode) - org-zettel-ref-mode: A Zettelkasten-style literature note tool.
 - [ahyatt/llm](https://github.com/ahyatt/llm) - A package abstracting llm capabilities for emacs.
 - [s-kostyaev/ellama](https://github.com/s-kostyaev/ellama) - Ellama is a tool for interacting with large language models from Emacs.
 - [tpapp/julia-repl](https://github.com/tpapp/julia-repl) - Run an inferior Julia REPL in a terminal inside Emacs
@@ -366,6 +365,8 @@
 
 ## Python 
 
+- [OpenInterpreter/open-interpreter](https://github.com/OpenInterpreter/open-interpreter) - A natural language interface for computers
+- [yibie/org-zettel-ref-mode](https://github.com/yibie/org-zettel-ref-mode) - org-zettel-ref-mode: A Zettelkasten-style literature note tool.
 - [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs
 - [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, execute as a script, deploy as an app, and version with git.
 - [pdm-project/pdm](https://github.com/pdm-project/pdm) - A modern Python package and dependency manager supporting the latest PEP standards
