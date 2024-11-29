@@ -70,6 +70,8 @@
 
 ## Emacs Lisp 
 
+- [svaante/dape](https://github.com/svaante/dape) - Debug Adapter Protocol for Emacs
+- [pprevos/emacs-writing-studio](https://github.com/pprevos/emacs-writing-studio) - Emacs configuration for authors who research, write and publish articles, books and websites.
 - [emacs-vs/docstr](https://github.com/emacs-vs/docstr) - A document string minor mode
 - [emacs-vs/ts-docstr](https://github.com/emacs-vs/ts-docstr) - A document string minor mode using tree-sitter
 - [s-kostyaev/elisa](https://github.com/s-kostyaev/elisa) - ELISA (Emacs Lisp Information System Assistant) is a system designed to provide informative answers to user queries by leveraging a Retrieval Augmented Generation (RAG) approach.
