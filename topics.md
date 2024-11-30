@@ -6,6 +6,7 @@
 ## Contents
 
 - [ai](#ai)
+- [analytics](#analytics)
 - [artificial-intelligence](#artificial-intelligence)
 - [atom](#atom)
 - [automation](#automation)
@@ -99,6 +100,7 @@
 - [scala](#scala)
 - [scikit-learn](#scikit-learn)
 - [shell](#shell)
+- [sql](#sql)
 - [statistics](#statistics)
 - [tensorflow](#tensorflow)
 - [terminal](#terminal)
@@ -117,6 +119,10 @@
 - [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - AI orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your data. W
 - [langgenius/dify](https://github.com/langgenius/dify) - Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you q
 - [dataelement/bisheng](https://github.com/dataelement/bisheng) - BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive features include: GenAI workflow, RAG, Agent, Unified model management, Evaluation, SF
+
+## analytics 
+
+- [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is an analytical in-process SQL database management system
 
 ## artificial-intelligence 
 
@@ -321,6 +327,7 @@
 
 ## database 
 
+- [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is an analytical in-process SQL database management system
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
 
 ## deep-learning 
@@ -1073,6 +1080,10 @@
 - [goreliu/zshguide](https://github.com/goreliu/zshguide) - Zsh 开发指南
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 - [rothgar/mastering-zsh](https://github.com/rothgar/mastering-zsh) - Advanced topics to take advantage of zsh 👩‍💻👨‍💻
+
+## sql 
+
+- [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is an analytical in-process SQL database management system
 
 ## statistics 
 
