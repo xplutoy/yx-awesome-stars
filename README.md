@@ -247,6 +247,7 @@
 
 ## JavaScript 
 
+- [alphapapa/emacs-package-dev-handbook](https://github.com/alphapapa/emacs-package-dev-handbook) - An Emacs package development handbook. Built with Emacs, by Emacs package developers, for Emacs package developers.
 - [cohomolo-gy/haskell-resources](https://github.com/cohomolo-gy/haskell-resources) - A List of Foundational Haskell Papers
 - [HumanSignal/label-studio](https://github.com/HumanSignal/label-studio) - Label Studio is a multi-type data labeling and annotation tool with standardized output format
 - [eliahuhorwitz/Academic-project-page-template](https://github.com/eliahuhorwitz/Academic-project-page-template) - A project page template for academic papers. Demo at https://eliahuhorwitz.github.io/Academic-project-page-template/
@@ -315,6 +316,7 @@
 
 ## Others 
 
+- [alhassy/ElispCheatSheet](https://github.com/alhassy/ElispCheatSheet) - Quick reference to the core language of Emacs ---Editor MACroS.
 - [intel/intel-one-mono](https://github.com/intel/intel-one-mono) - Intel One Mono font repository
 - [ahyatt/emacs-calc-tutorials](https://github.com/ahyatt/emacs-calc-tutorials) - A series of tutorials about emacs-calc
 - [deepseek-ai/DeepSeek-Coder-V2](https://github.com/deepseek-ai/DeepSeek-Coder-V2) - DeepSeek-Coder-V2: Breaking the Barrier of Closed-Source Models in Code Intelligence
