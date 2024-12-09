@@ -71,6 +71,7 @@
 
 ## Emacs Lisp 
 
+- [tonyaldon/one.el](https://github.com/tonyaldon/one.el) - one.el a simple Static Site Generator for Emacs Lisp programmers and org-mode users.
 - [svaante/dape](https://github.com/svaante/dape) - Debug Adapter Protocol for Emacs
 - [pprevos/emacs-writing-studio](https://github.com/pprevos/emacs-writing-studio) - Emacs configuration for authors who research, write and publish articles, books and websites.
 - [emacs-vs/docstr](https://github.com/emacs-vs/docstr) - A document string minor mode
@@ -239,6 +240,7 @@
 
 ## HTML 
 
+- [yihui/hugo-xmin](https://github.com/yihui/hugo-xmin) - eXtremely Minimal Hugo theme: about 140 lines of code in total, including HTML and CSS (with no dependencies)
 - [betanalpha/knitr_case_studies](https://github.com/betanalpha/knitr_case_studies) - Inference case studies in knitr
 - [bobbyiliev/introduction-to-bash-scripting](https://github.com/bobbyiliev/introduction-to-bash-scripting) - Free Introduction to Bash Scripting eBook
 - [javascript-tutorial/zh.javascript.info](https://github.com/javascript-tutorial/zh.javascript.info) - 现代 JavaScript 教程（The Modern JavaScript Tutorial），以最新的 ECMAScript 规范为基准，通过简单但足够详细的内容，为你讲解从基础到高阶的 JavaScript 相关知识。
