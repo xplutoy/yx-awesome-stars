@@ -71,6 +71,9 @@
 
 ## Emacs Lisp 
 
+- [misohena/el-easydraw](https://github.com/misohena/el-easydraw) - Embedded drawing tool for Emacs
+- [kaorahi/howm](https://github.com/kaorahi/howm) - note-taking tool on Emacs
+- [emacs-languagetool/flymake-languagetool](https://github.com/emacs-languagetool/flymake-languagetool) - Flymake support for LanguageTool
 - [tonyaldon/one.el](https://github.com/tonyaldon/one.el) - one.el a simple Static Site Generator for Emacs Lisp programmers and org-mode users.
 - [svaante/dape](https://github.com/svaante/dape) - Debug Adapter Protocol for Emacs
 - [pprevos/emacs-writing-studio](https://github.com/pprevos/emacs-writing-studio) - Emacs configuration for authors who research, write and publish articles, books and websites.
