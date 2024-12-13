@@ -404,6 +404,9 @@
 
 ## emacs 
 
+- [misohena/el-easydraw](https://github.com/misohena/el-easydraw) - Embedded drawing tool for Emacs
+- [kaorahi/howm](https://github.com/kaorahi/howm) - note-taking tool on Emacs
+- [emacs-languagetool/flymake-languagetool](https://github.com/emacs-languagetool/flymake-languagetool) - Flymake support for LanguageTool
 - [alphapapa/emacs-package-dev-handbook](https://github.com/alphapapa/emacs-package-dev-handbook) - An Emacs package development handbook. Built with Emacs, by Emacs package developers, for Emacs package developers.
 - [alhassy/ElispCheatSheet](https://github.com/alhassy/ElispCheatSheet) - Quick reference to the core language of Emacs ---Editor MACroS.
 - [svaante/dape](https://github.com/svaante/dape) - Debug Adapter Protocol for Emacs
