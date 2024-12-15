@@ -71,6 +71,7 @@
 
 ## Emacs Lisp 
 
+- [emacsmirror/proxy-mode](https://github.com/emacsmirror/proxy-mode) - A minor mode to toggle proxy
 - [misohena/el-easydraw](https://github.com/misohena/el-easydraw) - Embedded drawing tool for Emacs
 - [kaorahi/howm](https://github.com/kaorahi/howm) - note-taking tool on Emacs
 - [emacs-languagetool/flymake-languagetool](https://github.com/emacs-languagetool/flymake-languagetool) - Flymake support for LanguageTool
