@@ -783,6 +783,10 @@
 
 ## others 
 
+- [LionyxML/ros](https://github.com/LionyxML/ros) - screenshot / copy & paste tool for org-mode files
+- [tinygrad/teenygrad](https://github.com/tinygrad/teenygrad) - If tinygrad wasn't small enough for you...
+- [karpathy/micrograd](https://github.com/karpathy/micrograd) - A tiny scalar-valued autograd engine and a neural net library on top of it with PyTorch-like API
+- [tinygrad/tinygrad](https://github.com/tinygrad/tinygrad) - You like pytorch? You like micrograd? You love tinygrad! ❤️
 - [minad/vertico](https://github.com/minad/vertico) - :dizzy: vertico.el - VERTical Interactive COmpletion
 - [karthink/consult-dir](https://github.com/karthink/consult-dir) - Insert paths into the minibuffer prompt in Emacs
 - [emacsmirror/proxy-mode](https://github.com/emacsmirror/proxy-mode) - A minor mode to toggle proxy
@@ -845,7 +849,7 @@
 - [karthink/gptel-quick](https://github.com/karthink/gptel-quick) - Quick LLM lookups in Emacs
 - [DevelopmentCool2449/colorful-mode](https://github.com/DevelopmentCool2449/colorful-mode) - 🎨Preview any color in your buffer
 - [captainflasmr/wowee](https://github.com/captainflasmr/wowee) - Windows Operating With Emacs Enhancements, Allows Emacs-like commands and keybinds in Windows and is based on EWOW -- Emacs Way of Operating Windows
-- [positron-solutions/dslide](https://github.com/positron-solutions/dslide) - Present anything Emacs can do with programmable, extensible, configurable slides made from org mode headings
+- [positron-solutions/dslide](https://github.com/positron-solutions/dslide) - Present anything Emacs can do with programmable, extensible, configurable slides & presentation steps made from org mode headings
 - [abo-abo/ace-link](https://github.com/abo-abo/ace-link) - Quickly follow links in Emacs
 - [noctuid/link-hint.el](https://github.com/noctuid/link-hint.el) - Pentadactyl-like Link Hinting in Emacs with Avy
 - [meta-llama/llama3](https://github.com/meta-llama/llama3) - The official Meta Llama 3 GitHub site
