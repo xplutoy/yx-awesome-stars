@@ -71,6 +71,8 @@
 
 ## Emacs Lisp 
 
+- [LionyxML/emacs-solo](https://github.com/LionyxML/emacs-solo) - A Pure Emacs (no external packages) IDE like configuration.
+- [captainflasmr/Emacs-core](https://github.com/captainflasmr/Emacs-core) - A stripped-down version of my primary Emacs configuration, it is designed to leverage only the default built-in features of Emacs
 - [CeleritasCelery/rune](https://github.com/CeleritasCelery/rune) - Rust VM for Emacs
 - [LionyxML/ros](https://github.com/LionyxML/ros) - screenshot / copy & paste tool for org-mode files
 - [minad/vertico](https://github.com/minad/vertico) - :dizzy: vertico.el - VERTical Interactive COmpletion
@@ -187,7 +189,7 @@
 - [nasyxx/emacs.d](https://github.com/nasyxx/emacs.d) - My emacs configuration
 - [redguardtoo/evil-nerd-commenter](https://github.com/redguardtoo/evil-nerd-commenter) - Comment/uncomment lines efficiently. Like Nerd Commenter in Vim
 - [alexluigit/dirvish](https://github.com/alexluigit/dirvish) - A polished Dired with batteries included.
-- [laishulu/emacs-smart-input-source](https://github.com/laishulu/emacs-smart-input-source) - Less manual switch for native or OS input source (input method).
+- [laishulu/emacs-smart-input-source](https://github.com/laishulu/emacs-smart-input-source) - Minimize manual input source (input method) switching.
 - [rougier/nano-emacs](https://github.com/rougier/nano-emacs) - GNU Emacs / N Λ N O - Emacs made simple
 - [fniessen/gnus-leuven](https://github.com/fniessen/gnus-leuven) - Supercharge your email management with Gnus -- an Emacs configuration with improved defaults. Simplify your inbox with our optimized setup! #gnus #emacs #email #productivity #configuration
 - [bastibe/org-journal](https://github.com/bastibe/org-journal) - A simple org-mode based journaling mode
@@ -383,6 +385,7 @@
 
 ## Python 
 
+- [pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai) - Agent Framework / shim to use Pydantic with LLMs
 - [tinygrad/teenygrad](https://github.com/tinygrad/teenygrad) - If tinygrad wasn't small enough for you...
 - [tinygrad/tinygrad](https://github.com/tinygrad/tinygrad) - You like pytorch? You like micrograd? You love tinygrad! ❤️
 - [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) - Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
