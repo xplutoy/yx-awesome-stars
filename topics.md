@@ -413,6 +413,7 @@
 
 ## emacs 
 
+- [emacs-love/weblorg](https://github.com/emacs-love/weblorg) - Static Site Generator for Emacs
 - [misohena/el-easydraw](https://github.com/misohena/el-easydraw) - Embedded drawing tool for Emacs
 - [kaorahi/howm](https://github.com/kaorahi/howm) - note-taking tool on Emacs
 - [emacs-languagetool/flymake-languagetool](https://github.com/emacs-languagetool/flymake-languagetool) - Flymake support for LanguageTool
@@ -563,6 +564,7 @@
 
 ## html 
 
+- [emacs-love/weblorg](https://github.com/emacs-love/weblorg) - Static Site Generator for Emacs
 - [alhassy/ElispCheatSheet](https://github.com/alhassy/ElispCheatSheet) - Quick reference to the core language of Emacs ---Editor MACroS.
 - [dyweb/awesome-resume-for-chinese](https://github.com/dyweb/awesome-resume-for-chinese) - :page_facing_up: 适合中文的简历模板收集（LaTeX，HTML/JS and so on）由 @hoochanlon 维护
 
@@ -801,6 +803,7 @@
 
 ## others 
 
+- [captainflasmr/Emacs-enhanced](https://github.com/captainflasmr/Emacs-enhanced) - Emacs elisp defuns replacing or enhancing major external packages
 - [fvwmorg/fvwm3](https://github.com/fvwmorg/fvwm3) - FVWM version 3 -- the successor to fvwm2
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [LionyxML/emacs-solo](https://github.com/LionyxML/emacs-solo) - A Pure Emacs (no external packages) IDE like configuration.
