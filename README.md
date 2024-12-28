@@ -72,6 +72,8 @@
 
 ## Emacs Lisp 
 
+- [emacs-love/weblorg](https://github.com/emacs-love/weblorg) - Static Site Generator for Emacs
+- [captainflasmr/Emacs-enhanced](https://github.com/captainflasmr/Emacs-enhanced) - Emacs elisp defuns replacing or enhancing major external packages
 - [LionyxML/emacs-solo](https://github.com/LionyxML/emacs-solo) - A Pure Emacs (no external packages) IDE like configuration.
 - [captainflasmr/Emacs-core](https://github.com/captainflasmr/Emacs-core) - A stripped-down version of my primary Emacs configuration, it is designed to leverage only the default built-in features of Emacs
 - [CeleritasCelery/rune](https://github.com/CeleritasCelery/rune) - Rust VM for Emacs
