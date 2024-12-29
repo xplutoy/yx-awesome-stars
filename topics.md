@@ -413,6 +413,7 @@
 
 ## emacs 
 
+- [pythonic-emacs/anaconda-mode](https://github.com/pythonic-emacs/anaconda-mode) - Code navigation, documentation lookup and completion for Python.
 - [emacs-love/weblorg](https://github.com/emacs-love/weblorg) - Static Site Generator for Emacs
 - [misohena/el-easydraw](https://github.com/misohena/el-easydraw) - Embedded drawing tool for Emacs
 - [kaorahi/howm](https://github.com/kaorahi/howm) - note-taking tool on Emacs
@@ -1019,6 +1020,7 @@
 
 ## python 
 
+- [pythonic-emacs/anaconda-mode](https://github.com/pythonic-emacs/anaconda-mode) - Code navigation, documentation lookup and completion for Python.
 - [pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai) - Agent Framework / shim to use Pydantic with LLMs
 - [pola-rs/polars](https://github.com/pola-rs/polars) - Dataframes powered by a multithreaded, vectorized query engine, written in Rust
 - [Netflix/metaflow](https://github.com/Netflix/metaflow) - Open Source AI/ML Platform
