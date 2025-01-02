@@ -72,6 +72,7 @@
 
 ## Emacs Lisp 
 
+- [twlz0ne/psearch.el](https://github.com/twlz0ne/psearch.el) - Pcase based search for Emacs Lisp
 - [alphapapa/activities.el](https://github.com/alphapapa/activities.el) - Activities for Emacs (suspend and resume activities, i.e. frames/tabs and their windows, buffers)
 - [pythonic-emacs/anaconda-mode](https://github.com/pythonic-emacs/anaconda-mode) - Code navigation, documentation lookup and completion for Python.
 - [emacs-love/weblorg](https://github.com/emacs-love/weblorg) - Static Site Generator for Emacs
