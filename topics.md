@@ -814,6 +814,7 @@
 
 ## others 
 
+- [twlz0ne/psearch.el](https://github.com/twlz0ne/psearch.el) - Pcase based search for Emacs Lisp
 - [codazoda/neatcss](https://github.com/codazoda/neatcss) - Rapidly build efficient sites with Neat, the minimalist css framework.
 - [google-research/circuit_training](https://github.com/google-research/circuit_training) - 
 - [captainflasmr/Emacs-enhanced](https://github.com/captainflasmr/Emacs-enhanced) - Emacs elisp defuns replacing or enhancing major external packages
