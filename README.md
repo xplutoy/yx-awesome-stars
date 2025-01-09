@@ -72,6 +72,7 @@
 
 ## Emacs Lisp 
 
+- [astoff/drepl](https://github.com/astoff/drepl) - REPL protocol for the dumb terminal
 - [emacs-tree-sitter/treesit-fold](https://github.com/emacs-tree-sitter/treesit-fold) - Code folding using treesit.el
 - [yibie/org-supertag](https://github.com/yibie/org-supertag) - Enhance org-mode tag system, borrow idea from tana.
 - [Kinneyzhang/auto-modal](https://github.com/Kinneyzhang/auto-modal) - Automatically switch to use single letter command based on different conditions.
@@ -257,7 +258,7 @@
 
 - [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
 - [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, Mistral, Gemma 2, and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, Phi 4, Gemma 2, and other large language models.
 - [elves/elvish](https://github.com/elves/elvish) - Powerful scripting language & versatile interactive shell
 
 ## HTML 
@@ -296,7 +297,7 @@
 ## Jupyter Notebook 
 
 - [karpathy/micrograd](https://github.com/karpathy/micrograd) - A tiny scalar-valued autograd engine and a neural net library on top of it with PyTorch-like API
-- [FoundationVision/VAR](https://github.com/FoundationVision/VAR) - [NeurIPS 2024 Oral][GPT beats diffusion🔥] [scaling laws in visual generation📈] Official impl. of "Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale Prediction". An *ultra-simple
+- [FoundationVision/VAR](https://github.com/FoundationVision/VAR) - [NeurIPS 2024 Best Paper][GPT beats diffusion🔥] [scaling laws in visual generation📈] Official impl. of "Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale Prediction". An *ultra-
 - [PredictiveScienceLab/data-analytics-se](https://github.com/PredictiveScienceLab/data-analytics-se) - ME 539 - Introduction to Scientific Machine Learning
 - [blue-yonder/tsfresh](https://github.com/blue-yonder/tsfresh) - Automatic extraction of relevant features from time series:
 - [krasserm/bayesian-machine-learning](https://github.com/krasserm/bayesian-machine-learning) - Notebooks about Bayesian methods for machine learning
