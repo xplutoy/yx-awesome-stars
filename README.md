@@ -72,7 +72,7 @@
 
 ## Emacs Lisp 
 
-- [jdtsmith/ultra-scroll](https://github.com/jdtsmith/ultra-scroll) - scroll emacs-mac like lightning
+- [jdtsmith/ultra-scroll](https://github.com/jdtsmith/ultra-scroll) - scroll Emacs like lightning
 - [astoff/drepl](https://github.com/astoff/drepl) - REPL protocol for the dumb terminal
 - [emacs-tree-sitter/treesit-fold](https://github.com/emacs-tree-sitter/treesit-fold) - Code folding using treesit.el
 - [yibie/org-supertag](https://github.com/yibie/org-supertag) - Enhance org-mode tag system, borrow idea from tana.
