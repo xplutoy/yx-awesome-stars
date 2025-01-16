@@ -892,7 +892,7 @@
 - [subeeshvasu/Awesome-Learning-with-Label-Noise](https://github.com/subeeshvasu/Awesome-Learning-with-Label-Noise) - A curated list of resources for Learning with Noisy Labels
 - [minad/tempel](https://github.com/minad/tempel) - :classical_building: TempEl - Simple templates for Emacs
 - [probml/pml2-book](https://github.com/probml/pml2-book) - Probabilistic Machine Learning: Advanced Topics
-- [withinmiaov/A-Survey-on-Mixture-of-Experts](https://github.com/withinmiaov/A-Survey-on-Mixture-of-Experts) - The official GitHub page for the survey paper "A Survey on Mixture of Experts".
+- [withinmiaov/A-Survey-on-Mixture-of-Experts-in-LLMs](https://github.com/withinmiaov/A-Survey-on-Mixture-of-Experts-in-LLMs) - The official GitHub page for the survey paper "A Survey on Mixture of Experts in Large Language Models".
 - [pytorch/botorch](https://github.com/pytorch/botorch) - Bayesian optimization in PyTorch
 - [zhoushengisnoob/DeepClustering](https://github.com/zhoushengisnoob/DeepClustering) - Methods and Implements of Deep Clustering
 - [BradyFU/Awesome-Multimodal-Large-Language-Models](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models) - :sparkles::sparkles:Latest Advances on Multimodal Large Language Models
