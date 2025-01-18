@@ -419,6 +419,7 @@
 
 ## emacs 
 
+- [andorsk/d2-mode](https://github.com/andorsk/d2-mode) - emacs major mode for d2 graphs
 - [szermatt/mistty](https://github.com/szermatt/mistty) - Shell/Comint alternative with a fully functional terminal for Emacs 29.1 and later.
 - [emacs-tree-sitter/treesit-fold](https://github.com/emacs-tree-sitter/treesit-fold) - Code folding using treesit.el
 - [positron-solutions/elisp-repo-kit](https://github.com/positron-solutions/elisp-repo-kit) - Emacs Lisp package for creating an Emacs Lisp Github repo with CI
@@ -659,6 +660,7 @@
 
 ## llm 
 
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Finetune Llama 3.3, Mistral, Phi-4, Qwen 2.5 & Gemma LLMs 2-5x faster with 70% less memory
 - [bentoml/OpenLLM](https://github.com/bentoml/OpenLLM) - Run any open-source LLMs, such as Llama, Mistral, as OpenAI compatible API endpoint in the cloud.
 - [mlc-ai/mlc-llm](https://github.com/mlc-ai/mlc-llm) - Universal LLM Deployment Engine with ML Compilation
 - [eosphoros-ai/DB-GPT](https://github.com/eosphoros-ai/DB-GPT) - AI Native Data App Development framework with AWEL(Agentic Workflow Expression Language) and Agents
@@ -827,6 +829,8 @@
 
 ## others 
 
+- [rui314/minilisp](https://github.com/rui314/minilisp) - A readable lisp in less than 1k lines of C
+- [rui314/chibicc](https://github.com/rui314/chibicc) - A small C compiler
 - [Co-dfns/Co-dfns](https://github.com/Co-dfns/Co-dfns) - High-performance, Reliable, and Parallel APL
 - [antirez/kilo](https://github.com/antirez/kilo) - A text editor in less than 1000 LOC with syntax highlight and search.
 - [skeeto/elfeed](https://github.com/skeeto/elfeed) - An Emacs web feeds client
