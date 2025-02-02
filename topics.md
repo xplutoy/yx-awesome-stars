@@ -50,6 +50,7 @@
 - [emacs](#emacs)
 - [embedded](#embedded)
 - [english](#english)
+- [facebook](#facebook)
 - [firefox](#firefox)
 - [font](#font)
 - [framework](#framework)
@@ -519,6 +520,10 @@
 ## english 
 
 - [2noise/ChatTTS](https://github.com/2noise/ChatTTS) - A generative speech model for daily dialogue.
+
+## facebook 
+
+- [bharathgs/Awesome-pytorch-list](https://github.com/bharathgs/Awesome-pytorch-list) - A comprehensive list of pytorch related content on github,such as different models,implementations,helper libraries,tutorials etc.
 
 ## firefox 
 
