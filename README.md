@@ -423,13 +423,15 @@
 
 ## Python 
 
+- [QwenLM/Qwen-VL](https://github.com/QwenLM/Qwen-VL) - The official repo of Qwen-VL (通义千问-VL) chat & pretrained large vision language model proposed by Alibaba Cloud.
+- [kvcache-ai/ktransformers](https://github.com/kvcache-ai/ktransformers) - A Flexible Framework for Experiencing Cutting-edge LLM Inference Optimizations
 - [volcengine/verl](https://github.com/volcengine/verl) - veRL: Volcano Engine Reinforcement Learning for LLM
 - [unslothai/unsloth](https://github.com/unslothai/unsloth) - Finetune Llama 3.3, DeepSeek-R1 & Reasoning LLMs 2x faster with 70% less memory! 🦥
 - [DLR-RM/stable-baselines3](https://github.com/DLR-RM/stable-baselines3) - PyTorch version of Stable Baselines, reliable implementations of reinforcement learning algorithms.
 - [vwxyzjn/cleanrl](https://github.com/vwxyzjn/cleanrl) - High-quality single file implementation of Deep Reinforcement Learning algorithms with research-friendly features (PPO, DQN, C51, DDPG, TD3, SAC, PPG)
 - [deepseek-ai/DeepSeek-Coder](https://github.com/deepseek-ai/DeepSeek-Coder) - DeepSeek Coder: Let the Code Write Itself
 - [google-research/circuit_training](https://github.com/google-research/circuit_training) - 
-- [bentoml/OpenLLM](https://github.com/bentoml/OpenLLM) - Run any open-source LLMs, such as Llama, Mistral, as OpenAI compatible API endpoint in the cloud.
+- [bentoml/OpenLLM](https://github.com/bentoml/OpenLLM) - Run any open-source LLMs, such as DeepSeek and Llama, as OpenAI compatible API endpoint in the cloud.
 - [mlc-ai/mlc-llm](https://github.com/mlc-ai/mlc-llm) - Universal LLM Deployment Engine with ML Compilation
 - [apache/tvm](https://github.com/apache/tvm) - Open deep learning compiler stack for cpu, gpu and specialized accelerators
 - [eosphoros-ai/DB-GPT](https://github.com/eosphoros-ai/DB-GPT) - AI Native Data App Development framework with AWEL(Agentic Workflow Expression Language) and Agents
@@ -524,6 +526,7 @@
 
 ## Rust 
 
+- [chroma-core/chroma](https://github.com/chroma-core/chroma) - the AI-native open-source embedding database
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
