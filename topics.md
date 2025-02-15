@@ -849,6 +849,7 @@
 
 ## others 
 
+- [brownvc/R3GAN](https://github.com/brownvc/R3GAN) - Code for NeurIPS 2024 paper - The GAN is dead; long live the GAN! A Modern Baseline GAN - by Huang et al.
 - [QwenLM/Qwen-VL](https://github.com/QwenLM/Qwen-VL) - The official repo of Qwen-VL (通义千问-VL) chat & pretrained large vision language model proposed by Alibaba Cloud.
 - [chroma-core/chroma](https://github.com/chroma-core/chroma) - the AI-native open-source embedding database
 - [kvcache-ai/ktransformers](https://github.com/kvcache-ai/ktransformers) - A Flexible Framework for Experiencing Cutting-edge LLM Inference Optimizations
@@ -1177,6 +1178,7 @@
 
 ## reinforcement-learning 
 
+- [OpenRLHF/OpenRLHF](https://github.com/OpenRLHF/OpenRLHF) - An Easy-to-use, Scalable and High-performance RLHF Framework (70B+ PPO Full Tuning & Iterative DPO & LoRA & RingAttention & RFT)
 - [DLR-RM/stable-baselines3](https://github.com/DLR-RM/stable-baselines3) - PyTorch version of Stable Baselines, reliable implementations of reinforcement learning algorithms.
 - [vwxyzjn/cleanrl](https://github.com/vwxyzjn/cleanrl) - High-quality single file implementation of Deep Reinforcement Learning algorithms with research-friendly features (PPO, DQN, C51, DDPG, TD3, SAC, PPG)
 - [datawhalechina/leedl-tutorial](https://github.com/datawhalechina/leedl-tutorial) - 《李宏毅深度学习教程》（李宏毅老师推荐👍，苹果书🍎），PDF下载地址：https://github.com/datawhalechina/leedl-tutorial/releases
