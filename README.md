@@ -29,6 +29,7 @@
 - [R](#r)
 - [Ruby](#ruby)
 - [Rust](#rust)
+- [Sage](#sage)
 - [Shell](#shell)
 - [TeX](#tex)
 - [TypeScript](#typescript)
@@ -90,6 +91,7 @@
 
 ## Emacs Lisp 
 
+- [daedsidog/evedel](https://github.com/daedsidog/evedel) - Instructed LLM programmer/assistant for Emacs
 - [andorsk/d2-mode](https://github.com/andorsk/d2-mode) - emacs major mode for d2 graphs
 - [skeeto/elfeed](https://github.com/skeeto/elfeed) - An Emacs web feeds client
 - [szermatt/mistty](https://github.com/szermatt/mistty) - Shell/Comint alternative with a fully functional terminal for Emacs 29.1 and later.
@@ -558,6 +560,10 @@
 - [sunface/rust-course](https://github.com/sunface/rust-course) - “连续八年成为全世界最受喜爱的语言，无 GC 也无需手动内存管理、极高的性能和安全性、过程/OO/函数式编程、优秀的包管理、JS 未来基石" — 工作之余的第二语言来试试 Rust 吧。本书拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，这可能是目前最用心的 Rust 中文学习教程 / Book
 - [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn.
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
+
+## Sage 
+
+- [elikaski/ECC_Attacks](https://github.com/elikaski/ECC_Attacks) - Known attacks on Elliptic Curve Cryptography
 
 ## Shell 
 
