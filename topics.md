@@ -907,7 +907,7 @@
 - [jdtsmith/ultra-scroll](https://github.com/jdtsmith/ultra-scroll) - scroll Emacs like lightning
 - [astoff/drepl](https://github.com/astoff/drepl) - REPL protocol for the dumb terminal
 - [deepseek-ai/DeepSeek-Coder](https://github.com/deepseek-ai/DeepSeek-Coder) - DeepSeek Coder: Let the Code Write Itself
-- [yibie/org-supertag](https://github.com/yibie/org-supertag) - Enhance org-mode tag system, borrow idea from tana.
+- [yibie/org-supertag](https://github.com/yibie/org-supertag) - Make tag system great again, based on org-mode.
 - [Kinneyzhang/auto-modal](https://github.com/Kinneyzhang/auto-modal) - Automatically switch to use single letter command based on different conditions.
 - [twlz0ne/psearch.el](https://github.com/twlz0ne/psearch.el) - Pcase based search for Emacs Lisp
 - [codazoda/neatcss](https://github.com/codazoda/neatcss) - Rapidly build efficient sites with Neat, the minimalist css framework.
