@@ -120,6 +120,7 @@
 
 ## ai 
 
+- [MatthewZMD/aidermacs](https://github.com/MatthewZMD/aidermacs) - Emacs AI Pair Programming Solution
 - [tninja/aider.el](https://github.com/tninja/aider.el) - aider emacs plugin for https://github.com/paul-gauthier/aider
 - [lanceberge/elysium](https://github.com/lanceberge/elysium) - Automatically apply AI-generated code changes in Emacs
 - [daedsidog/evedel](https://github.com/daedsidog/evedel) - Instructed LLM programmer/assistant for Emacs
@@ -236,6 +237,7 @@
 
 ## chatgpt 
 
+- [MatthewZMD/aidermacs](https://github.com/MatthewZMD/aidermacs) - Emacs AI Pair Programming Solution
 - [daedsidog/evedel](https://github.com/daedsidog/evedel) - Instructed LLM programmer/assistant for Emacs
 - [RUCAIBox/LLMSurvey](https://github.com/RUCAIBox/LLMSurvey) - The official GitHub page for the survey paper "A Survey of Large Language Models".
 - [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI 🤖 PyPi: autogen-agentchat Discord: https://aka.ms/autogen-discord Office Hour: https://aka.ms/autogen-officehour
@@ -444,6 +446,7 @@
 
 ## emacs 
 
+- [MatthewZMD/aidermacs](https://github.com/MatthewZMD/aidermacs) - Emacs AI Pair Programming Solution
 - [tninja/aider.el](https://github.com/tninja/aider.el) - aider emacs plugin for https://github.com/paul-gauthier/aider
 - [lanceberge/elysium](https://github.com/lanceberge/elysium) - Automatically apply AI-generated code changes in Emacs
 - [daedsidog/evedel](https://github.com/daedsidog/evedel) - Instructed LLM programmer/assistant for Emacs
@@ -706,6 +709,7 @@
 
 ## llm 
 
+- [MatthewZMD/aidermacs](https://github.com/MatthewZMD/aidermacs) - Emacs AI Pair Programming Solution
 - [tninja/aider.el](https://github.com/tninja/aider.el) - aider emacs plugin for https://github.com/paul-gauthier/aider
 - [lanceberge/elysium](https://github.com/lanceberge/elysium) - Automatically apply AI-generated code changes in Emacs
 - [RUCAIBox/LLMSurvey](https://github.com/RUCAIBox/LLMSurvey) - The official GitHub page for the survey paper "A Survey of Large Language Models".
@@ -889,6 +893,7 @@
 
 ## others 
 
+- [eval-exec/eee.el](https://github.com/eval-exec/eee.el) - Launch TUI commands in an external terminal asynchronously💪 , seamlessly integrating callbacks within Emacs⚡. Elevate your Emacs experience with eee.el 🥰
 - [jschaf/powershell.el](https://github.com/jschaf/powershell.el) - An Emacs mode for editing and running Microsoft PowerShell code.
 - [elikaski/ECC_Attacks](https://github.com/elikaski/ECC_Attacks) - Known attacks on Elliptic Curve Cryptography
 - [deepseek-ai/FlashMLA](https://github.com/deepseek-ai/FlashMLA) - FlashMLA: Efficient MLA decoding kernels
