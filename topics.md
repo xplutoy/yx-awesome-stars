@@ -96,6 +96,7 @@
 - [p2p](#p2p)
 - [package-manager](#package-manager)
 - [php](#php)
+- [privacy](#privacy)
 - [programming](#programming)
 - [publishing](#publishing)
 - [python](#python)
@@ -254,7 +255,7 @@
 - [morsoli/llm-books](https://github.com/morsoli/llm-books) - 利用LLM构建应用实践笔记
 - [2noise/ChatTTS](https://github.com/2noise/ChatTTS) - A generative speech model for daily dialogue.
 - [karthink/gptel](https://github.com/karthink/gptel) - A simple LLM client for Emacs
-- [xenodium/chatgpt-shell](https://github.com/xenodium/chatgpt-shell) - A multi-llm Emacs shell (ChatGPT, Claude, Gemini, Kagi, Ollama, Perplexity) + editing integrations
+- [xenodium/chatgpt-shell](https://github.com/xenodium/chatgpt-shell) - A multi-llm Emacs shell (ChatGPT, Claude, DeepSeek, Gemini, Kagi, Ollama, Perplexity) + editing integrations
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
 - [BlinkDL/ChatRWKV](https://github.com/BlinkDL/ChatRWKV) - ChatRWKV is like ChatGPT but powered by RWKV (100% RNN) language model, and open source.
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering
@@ -495,7 +496,7 @@
 - [lorniu/mpvi](https://github.com/lorniu/mpvi) - Media Tool on Emacs, with lots of features integrated, based on EMMS and MPV.
 - [tecosaur/org-pandoc-import](https://github.com/tecosaur/org-pandoc-import) - Mirror of https://git.tecosaur.net/tec/org-pandoc-import
 - [d12frosted/homebrew-emacs-plus](https://github.com/d12frosted/homebrew-emacs-plus) - Emacs Plus formulae for the Homebrew package manager
-- [xenodium/chatgpt-shell](https://github.com/xenodium/chatgpt-shell) - A multi-llm Emacs shell (ChatGPT, Claude, Gemini, Kagi, Ollama, Perplexity) + editing integrations
+- [xenodium/chatgpt-shell](https://github.com/xenodium/chatgpt-shell) - A multi-llm Emacs shell (ChatGPT, Claude, DeepSeek, Gemini, Kagi, Ollama, Perplexity) + editing integrations
 - [rougier/elegant-emacs](https://github.com/rougier/elegant-emacs) - A very minimal but elegant emacs (I think)
 - [eki3z/mini-echo.el](https://github.com/eki3z/mini-echo.el) - Show buffer status in echo area , get rid of mode-line!
 - [protesilaos/denote](https://github.com/protesilaos/denote) - Simple notes for Emacs with an efficient file-naming scheme
@@ -590,6 +591,7 @@
 
 ## hacktoberfest 
 
+- [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”.
 - [eosphoros-ai/DB-GPT](https://github.com/eosphoros-ai/DB-GPT) - AI Native Data App Development framework with AWEL(Agentic Workflow Expression Language) and Agents
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [pdm-project/pdm](https://github.com/pdm-project/pdm) - A modern Python package and dependency manager supporting the latest PEP standards
@@ -697,6 +699,7 @@
 
 ## linux 
 
+- [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”.
 - [eafer/rdrview](https://github.com/eafer/rdrview) - Firefox Reader View as a command line tool
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
@@ -795,6 +798,7 @@
 
 ## macos 
 
+- [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”.
 - [eafer/rdrview](https://github.com/eafer/rdrview) - Firefox Reader View as a command line tool
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [troglobit/mg](https://github.com/troglobit/mg) - Micro (GNU) Emacs-like text editor ❤️ public-domain
@@ -1136,6 +1140,10 @@
 
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
 
+## privacy 
+
+- [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”.
+
 ## programming 
 
 - [daedsidog/evedel](https://github.com/daedsidog/evedel) - Instructed LLM programmer/assistant for Emacs
@@ -1280,6 +1288,7 @@
 
 ## security 
 
+- [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”.
 - [eosphoros-ai/DB-GPT](https://github.com/eosphoros-ai/DB-GPT) - AI Native Data App Development framework with AWEL(Agentic Workflow Expression Language) and Agents
 
 ## shell 
@@ -1347,6 +1356,7 @@
 
 ## windows 
 
+- [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”.
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
 - [laishulu/emacs-smart-input-source](https://github.com/laishulu/emacs-smart-input-source) - Minimize manual input source (input method) switching.
