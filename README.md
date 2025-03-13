@@ -10,6 +10,7 @@
 - [Batchfile](#batchfile)
 - [C](#c)
 - [C++](#c++)
+- [CMake](#cmake)
 - [CSS](#css)
 - [Clojure](#clojure)
 - [Common Lisp](#common-lisp)
@@ -23,6 +24,7 @@
 - [Jupyter Notebook](#jupyter-notebook)
 - [Lean](#lean)
 - [Lua](#lua)
+- [MATLAB](#matlab)
 - [MDX](#mdx)
 - [Others](#others)
 - [Python](#python)
@@ -73,6 +75,10 @@
 - [casouri/xeft](https://github.com/casouri/xeft) - Fast, interactive Emacs note searching
 - [mawww/kakoune](https://github.com/mawww/kakoune) - mawww's experiment for a better code editor
 - [rizsotto/Bear](https://github.com/rizsotto/Bear) - Bear is a tool that generates a compilation database for clang tooling.
+
+## CMake 
+
+- [mint-lab/3dv_tutorial](https://github.com/mint-lab/3dv_tutorial) - An Invitation to 3D Vision: A Tutorial for Everyone
 
 ## CSS 
 
@@ -290,7 +296,7 @@
 ## Go 
 
 - [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, and other large language models.
 - [elves/elvish](https://github.com/elves/elvish) - Powerful scripting language & versatile interactive shell
 
 ## HTML 
@@ -376,6 +382,10 @@
 - [echasnovski/mini.nvim](https://github.com/echasnovski/mini.nvim) - Library of 40+ independent Lua modules improving overall Neovim (version 0.8 and higher) experience with minimal effort
 - [savq/paq-nvim](https://github.com/savq/paq-nvim) - 🌚  Neovim package manager
 
+## MATLAB 
+
+- [MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning](https://github.com/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning) - This is the homepage of a new book entitled "Mathematical Foundations of Reinforcement Learning."
+
 ## MDX 
 
 - [trigaten/Learn_Prompting](https://github.com/trigaten/Learn_Prompting) - Prompt Engineering, Generative AI, and LLM Guide by Learn Prompting | Join our discord for the largest Prompt Engineering learning community
@@ -384,6 +394,7 @@
 
 ## Others 
 
+- [yueen-ma/Awesome-VLA](https://github.com/yueen-ma/Awesome-VLA) - 
 - [TianxingChen/Embodied-AI-Guide](https://github.com/TianxingChen/Embodied-AI-Guide) - 具身智能入门指南 Embodied-AI-Guide
 - [amusi/AI-Job-Notes](https://github.com/amusi/AI-Job-Notes) - AI算法岗求职攻略（涵盖准备攻略、刷题指南、内推和AI公司清单等资料）
 - [kickingvegas/elisp-for-python](https://github.com/kickingvegas/elisp-for-python) - Elisp Cheatsheet for Python Programmers
