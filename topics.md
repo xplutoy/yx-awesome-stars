@@ -899,6 +899,7 @@
 
 ## others 
 
+- [lizqwerscott/mcp.el](https://github.com/lizqwerscott/mcp.el) - An Mcp client inside Emacs
 - [yueen-ma/Awesome-VLA](https://github.com/yueen-ma/Awesome-VLA) - 
 - [TianxingChen/Embodied-AI-Guide](https://github.com/TianxingChen/Embodied-AI-Guide) - 具身智能入门指南 Embodied-AI-Guide
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
