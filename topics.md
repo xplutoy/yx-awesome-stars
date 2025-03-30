@@ -901,7 +901,7 @@
 
 - [leggedrobotics/rsl_rl](https://github.com/leggedrobotics/rsl_rl) - Fast and simple implementation of RL algorithms, designed to run fully on GPU.
 - [PKUFlyingPig/cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning) - 计算机自学指南
-- [lorniu/pdd.el](https://github.com/lorniu/pdd.el) - HTTP Library Adapter for Emacs, support url.el and plz.el, and can be extended.
+- [lorniu/pdd.el](https://github.com/lorniu/pdd.el) - A versatile HTTP library for Emacs.
 - [ginqi7/org-reminders](https://github.com/ginqi7/org-reminders) - An Emacs plugin for interacting between macOS Reminders and org mode.
 - [lizqwerscott/mcp.el](https://github.com/lizqwerscott/mcp.el) - An Mcp client inside Emacs
 - [yueen-ma/Awesome-VLA](https://github.com/yueen-ma/Awesome-VLA) - 
