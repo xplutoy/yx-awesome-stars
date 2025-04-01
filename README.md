@@ -100,6 +100,7 @@
 
 ## Emacs Lisp 
 
+- [jamescherti/stripspace.el](https://github.com/jamescherti/stripspace.el) - Ensures that Emacs removes trailing whitespace before saving a buffer
 - [lorniu/pdd.el](https://github.com/lorniu/pdd.el) - A versatile HTTP library for Emacs.
 - [ginqi7/org-reminders](https://github.com/ginqi7/org-reminders) - An Emacs plugin for interacting between macOS Reminders and org mode.
 - [lizqwerscott/mcp.el](https://github.com/lizqwerscott/mcp.el) - An Mcp client inside Emacs
