@@ -607,7 +607,6 @@
 - [hyperopt/hyperopt](https://github.com/hyperopt/hyperopt) - Distributed Asynchronous Hyperparameter Optimization in Python
 - [JuliaLang/julia](https://github.com/JuliaLang/julia) - The Julia Programming Language
 - [optuna/optuna](https://github.com/optuna/optuna) - A hyperparameter optimization framework
-- [geekan/MetaGPT](https://github.com/geekan/MetaGPT) - 🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming
 - [ydataai/ydata-profiling](https://github.com/ydataai/ydata-profiling) - 1 Line of code data quality profiling & exploratory data analysis for Pandas and Spark DataFrames.
 - [gradio-app/gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
 - [sb2nov/mac-setup](https://github.com/sb2nov/mac-setup) - Installing Development environment on macOS
@@ -904,10 +903,11 @@
 
 ## others 
 
+- [fan-ziqi/robot_lab](https://github.com/fan-ziqi/robot_lab) - RL Extension Library for Robots, Based on IsaacLab.
 - [jamescherti/stripspace.el](https://github.com/jamescherti/stripspace.el) - Ensures that Emacs removes trailing whitespace before saving a buffer
 - [leggedrobotics/rsl_rl](https://github.com/leggedrobotics/rsl_rl) - Fast and simple implementation of RL algorithms, designed to run fully on GPU.
 - [PKUFlyingPig/cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning) - 计算机自学指南
-- [lorniu/pdd.el](https://github.com/lorniu/pdd.el) - A versatile HTTP library for Emacs.
+- [lorniu/pdd.el](https://github.com/lorniu/pdd.el) - HTTP library for Emacs.
 - [ginqi7/org-reminders](https://github.com/ginqi7/org-reminders) - An Emacs plugin for interacting between macOS Reminders and org mode.
 - [lizqwerscott/mcp.el](https://github.com/lizqwerscott/mcp.el) - An Mcp client inside Emacs
 - [yueen-ma/Awesome-VLA](https://github.com/yueen-ma/Awesome-VLA) - 
