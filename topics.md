@@ -903,6 +903,7 @@
 
 ## others 
 
+- [IDEA-Research/Grounded-Segment-Anything](https://github.com/IDEA-Research/Grounded-Segment-Anything) - Grounded SAM: Marrying Grounding DINO with Segment Anything & Stable Diffusion & Recognize Anything - Automatically Detect , Segment and Generate Anything
 - [fan-ziqi/robot_lab](https://github.com/fan-ziqi/robot_lab) - RL Extension Library for Robots, Based on IsaacLab.
 - [jamescherti/stripspace.el](https://github.com/jamescherti/stripspace.el) - Ensures that Emacs removes trailing whitespace before saving a buffer
 - [leggedrobotics/rsl_rl](https://github.com/leggedrobotics/rsl_rl) - Fast and simple implementation of RL algorithms, designed to run fully on GPU.
