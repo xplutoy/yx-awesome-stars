@@ -101,9 +101,10 @@
 
 ## Emacs Lisp 
 
+- [MArpogaus/auto-side-windows](https://github.com/MArpogaus/auto-side-windows) - 
 - [bluzky/relysium](https://github.com/bluzky/relysium) - Your AI co-developer. Bring joy to coding!
 - [ndwarshuis/org-sql](https://github.com/ndwarshuis/org-sql) - SQL backend for Emacs Org-Mode
-- [meedstrom/indexed](https://github.com/meedstrom/indexed) - 
+- [meedstrom/indexed](https://github.com/meedstrom/indexed) - Turn thousands of Org files into a database in seconds
 - [jamescherti/stripspace.el](https://github.com/jamescherti/stripspace.el) - Ensures that Emacs removes trailing whitespace before saving a buffer
 - [lorniu/pdd.el](https://github.com/lorniu/pdd.el) - HTTP library for Emacs.
 - [ginqi7/org-reminders](https://github.com/ginqi7/org-reminders) - An Emacs plugin for interacting between macOS Reminders and org mode.
@@ -350,6 +351,7 @@
 
 ## Jupyter Notebook 
 
+- [google-deepmind/mujoco](https://github.com/google-deepmind/mujoco) - Multi-Joint dynamics with Contact. A general purpose physics simulator.
 - [IDEA-Research/Grounded-Segment-Anything](https://github.com/IDEA-Research/Grounded-Segment-Anything) - Grounded SAM: Marrying Grounding DINO with Segment Anything & Stable Diffusion & Recognize Anything - Automatically Detect , Segment and Generate Anything
 - [karpathy/micrograd](https://github.com/karpathy/micrograd) - A tiny scalar-valued autograd engine and a neural net library on top of it with PyTorch-like API
 - [FoundationVision/VAR](https://github.com/FoundationVision/VAR) - [NeurIPS 2024 Best Paper][GPT beats diffusion🔥] [scaling laws in visual generation📈] Official impl. of "Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale Prediction". An *ultra-
