@@ -124,7 +124,7 @@
 
 - [danielmiessler/fabric](https://github.com/danielmiessler/fabric) - fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
 - [MatthewZMD/aidermacs](https://github.com/MatthewZMD/aidermacs) - AI Pair Programming in Emacs with Aider
-- [tninja/aider.el](https://github.com/tninja/aider.el) - Interact with Aider: AI pair programming made simple
+- [tninja/aider.el](https://github.com/tninja/aider.el) - AI assisted programming in Emacs with Aider
 - [lanceberge/elysium](https://github.com/lanceberge/elysium) - Automatically apply AI-generated code changes in Emacs
 - [daedsidog/evedel](https://github.com/daedsidog/evedel) - Instructed LLM programmer/assistant for Emacs
 - [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI 🤖 PyPi: autogen-agentchat Discord: https://aka.ms/autogen-discord Office Hour: https://aka.ms/autogen-officehour
@@ -460,7 +460,7 @@
 - [jamescherti/stripspace.el](https://github.com/jamescherti/stripspace.el) - Ensures that Emacs removes trailing whitespace before saving a buffer
 - [joaotavora/sly](https://github.com/joaotavora/sly) - Sylvester the Cat's Common Lisp IDE
 - [MatthewZMD/aidermacs](https://github.com/MatthewZMD/aidermacs) - AI Pair Programming in Emacs with Aider
-- [tninja/aider.el](https://github.com/tninja/aider.el) - Interact with Aider: AI pair programming made simple
+- [tninja/aider.el](https://github.com/tninja/aider.el) - AI assisted programming in Emacs with Aider
 - [lanceberge/elysium](https://github.com/lanceberge/elysium) - Automatically apply AI-generated code changes in Emacs
 - [daedsidog/evedel](https://github.com/daedsidog/evedel) - Instructed LLM programmer/assistant for Emacs
 - [andorsk/d2-mode](https://github.com/andorsk/d2-mode) - emacs major mode for d2 graphs
@@ -722,7 +722,7 @@
 
 - [browser-use/browser-use](https://github.com/browser-use/browser-use) - Make websites accessible for AI agents
 - [MatthewZMD/aidermacs](https://github.com/MatthewZMD/aidermacs) - AI Pair Programming in Emacs with Aider
-- [tninja/aider.el](https://github.com/tninja/aider.el) - Interact with Aider: AI pair programming made simple
+- [tninja/aider.el](https://github.com/tninja/aider.el) - AI assisted programming in Emacs with Aider
 - [lanceberge/elysium](https://github.com/lanceberge/elysium) - Automatically apply AI-generated code changes in Emacs
 - [RUCAIBox/LLMSurvey](https://github.com/RUCAIBox/LLMSurvey) - The official GitHub page for the survey paper "A Survey of Large Language Models".
 - [unslothai/unsloth](https://github.com/unslothai/unsloth) - Finetune Llama 4, DeepSeek-R1, Gemma 3 & Reasoning LLMs 2x faster with 70% less memory! 🦥
