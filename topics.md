@@ -932,6 +932,9 @@
 
 ## others 
 
+- [guohua-zhang/LeggedRobotsLab](https://github.com/guohua-zhang/LeggedRobotsLab) - A legged robots learning library based on IsaacLab
+- [leggedrobotics/elevation_mapping_cupy](https://github.com/leggedrobotics/elevation_mapping_cupy) - Elevation Mapping on GPU.
+- [RoboVerseOrg/RoboVerse](https://github.com/RoboVerseOrg/RoboVerse) - RoboVerse: Towards a Unified Platform, Dataset and Benchmark for Scalable and Generalizable Robot Learning
 - [qiayuanl/legged_control](https://github.com/qiayuanl/legged_control) - NMPC, WBC, state estimation, and sim2real framework for legged robots based on OCS2 and ros-controls
 - [ShuoYangRobotics/A1-QP-MPC-Controller](https://github.com/ShuoYangRobotics/A1-QP-MPC-Controller) - An open source implementation of MIT Cheetah 3 controllers
 - [mit-biomimetics/Cheetah-Software](https://github.com/mit-biomimetics/Cheetah-Software) - 
