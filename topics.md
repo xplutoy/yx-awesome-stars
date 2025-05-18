@@ -933,6 +933,8 @@
 
 ## others 
 
+- [lmcggg/RL-based-MPC-for-dts](https://github.com/lmcggg/RL-based-MPC-for-dts) - 
+- [gynamics/koishi-theme.el](https://github.com/gynamics/koishi-theme.el) - The Emacs theme in your subconsciousness!
 - [robfiras/loco-mujoco](https://github.com/robfiras/loco-mujoco) - Imitation learning benchmark focusing on complex locomotion tasks using MuJoCo.
 - [leggedrobotics/viplanner](https://github.com/leggedrobotics/viplanner) - ViPlanner: Visual Semantic Imperative Learning for Local Navigation
 - [guohua-zhang/LeggedRobotsLab](https://github.com/guohua-zhang/LeggedRobotsLab) - A legged robots learning library based on IsaacLab
