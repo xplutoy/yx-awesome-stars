@@ -110,6 +110,7 @@
 
 ## Emacs Lisp 
 
+- [gynamics/koishi-theme.el](https://github.com/gynamics/koishi-theme.el) - The Emacs theme in your subconsciousness!
 - [MArpogaus/auto-side-windows](https://github.com/MArpogaus/auto-side-windows) - 
 - [bluzky/relysium](https://github.com/bluzky/relysium) - Your AI co-developer. Bring joy to coding!
 - [ndwarshuis/org-sql](https://github.com/ndwarshuis/org-sql) - SQL backend for Emacs Org-Mode
@@ -410,6 +411,7 @@
 
 ## MATLAB 
 
+- [lmcggg/RL-based-MPC-for-dts](https://github.com/lmcggg/RL-based-MPC-for-dts) - 
 - [MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning](https://github.com/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning) - This is the homepage of a new book entitled "Mathematical Foundations of Reinforcement Learning."
 
 ## MDX 
