@@ -488,6 +488,7 @@
 
 ## Python 
 
+- [NVlabs/HOVER](https://github.com/NVlabs/HOVER) - HOVER
 - [robfiras/loco-mujoco](https://github.com/robfiras/loco-mujoco) - Imitation learning benchmark focusing on complex locomotion tasks using MuJoCo.
 - [leggedrobotics/viplanner](https://github.com/leggedrobotics/viplanner) - ViPlanner: Visual Semantic Imperative Learning for Local Navigation
 - [guohua-zhang/LeggedRobotsLab](https://github.com/guohua-zhang/LeggedRobotsLab) - A legged robots learning library based on IsaacLab
