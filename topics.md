@@ -933,6 +933,7 @@
 
 ## others 
 
+- [NVlabs/HOVER](https://github.com/NVlabs/HOVER) - HOVER
 - [lmcggg/RL-based-MPC-for-dts](https://github.com/lmcggg/RL-based-MPC-for-dts) - 
 - [gynamics/koishi-theme.el](https://github.com/gynamics/koishi-theme.el) - The Emacs theme in your subconsciousness!
 - [robfiras/loco-mujoco](https://github.com/robfiras/loco-mujoco) - Imitation learning benchmark focusing on complex locomotion tasks using MuJoCo.
