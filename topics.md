@@ -584,7 +584,7 @@
 
 - [SpaceTimee/Fusion-JetBrainsMapleMono](https://github.com/SpaceTimee/Fusion-JetBrainsMapleMono) - JetBrains Maple Mono: The free and open-source font fused with JetBrains Mono & Maple Mono
 - [subframe7536/maple-font](https://github.com/subframe7536/maple-font) - Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font for IDE and terminal, fine-grained customization options. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1，细粒度的自定义选项
-- [lxgw/LxgwWenKai](https://github.com/lxgw/LxgwWenKai) - An open-source Chinese font derived from Fontworks' Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。
+- [lxgw/LxgwWenKai](https://github.com/lxgw/LxgwWenKai) - An unprofessional open-source Chinese font derived from Fontworks' Klee One. 一款非专业的开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。
 
 ## framework 
 
@@ -935,6 +935,7 @@
 
 ## others 
 
+- [hku-mars/FAST-LIVO2](https://github.com/hku-mars/FAST-LIVO2) - FAST-LIVO2: Fast, Direct LiDAR-Inertial-Visual Odometry
 - [YanjieZe/awesome-humanoid-robot-learning](https://github.com/YanjieZe/awesome-humanoid-robot-learning) - A Paper List for Humanoid Robot Learning.
 - [jonyzhang2023/awesome-humanoid-learning](https://github.com/jonyzhang2023/awesome-humanoid-learning) - Humanoid Robots Resources
 - [NVlabs/HOVER](https://github.com/NVlabs/HOVER) - HOVER
