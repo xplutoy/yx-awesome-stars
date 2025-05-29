@@ -565,6 +565,7 @@
 
 ## embedded 
 
+- [acados/acados](https://github.com/acados/acados) - Fast and embedded solvers for nonlinear optimal control and nonlinear model predictive control
 - [micropython/micropython](https://github.com/micropython/micropython) - MicroPython - a lean and efficient Python implementation for microcontrollers and constrained systems
 
 ## english 
@@ -935,6 +936,8 @@
 
 ## others 
 
+- [iit-DLSLab/muse](https://github.com/iit-DLSLab/muse) - A State Estimation Package for Quadruped Robots, that fuses Proprioceptive and Exteroceptive data
+- [iit-DLSLab/Quadruped-PyMPC](https://github.com/iit-DLSLab/Quadruped-PyMPC) - A model predictive controller for quadruped robots based on the single rigid body model and written in python. Gradient-based (acados) or Sampling-based (jax)
 - [hku-mars/FAST-LIVO2](https://github.com/hku-mars/FAST-LIVO2) - FAST-LIVO2: Fast, Direct LiDAR-Inertial-Visual Odometry
 - [YanjieZe/awesome-humanoid-robot-learning](https://github.com/YanjieZe/awesome-humanoid-robot-learning) - A Paper List for Humanoid Robot Learning.
 - [jonyzhang2023/awesome-humanoid-learning](https://github.com/jonyzhang2023/awesome-humanoid-learning) - Humanoid Robots Resources
