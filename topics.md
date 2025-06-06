@@ -316,6 +316,7 @@
 
 ## compiler 
 
+- [merrymercy/awesome-tensor-compilers](https://github.com/merrymercy/awesome-tensor-compilers) - A list of awesome compiler projects and papers for tensor computation and deep learning.
 - [zwang4/awesome-machine-learning-in-compilers](https://github.com/zwang4/awesome-machine-learning-in-compilers) - Must read research papers and links to tools and datasets that are related to using machine learning for compilers and systems optimisation
 - [aalhour/awesome-compilers](https://github.com/aalhour/awesome-compilers) - :sunglasses: Curated list of awesome resources on Compilers, Interpreters and Runtimes
 - [sdiehl/write-you-a-haskell](https://github.com/sdiehl/write-you-a-haskell) - Building a modern functional compiler from first principles. (http://dev.stephendiehl.com/fun/)
@@ -397,6 +398,7 @@
 
 ## deep-learning 
 
+- [merrymercy/awesome-tensor-compilers](https://github.com/merrymercy/awesome-tensor-compilers) - A list of awesome compiler projects and papers for tensor computation and deep learning.
 - [jmtomczak/intro_dgm](https://github.com/jmtomczak/intro_dgm) - "Deep Generative Modeling": Introductory Examples
 - [Toni-SM/skrl](https://github.com/Toni-SM/skrl) - Modular reinforcement learning library (on PyTorch and JAX) with support for NVIDIA Isaac Gym, Omniverse Isaac Gym and Isaac Lab
 - [tensorlayer/RLzoo](https://github.com/tensorlayer/RLzoo) - A Comprehensive Reinforcement Learning Zoo for Simple Usage 🚀
@@ -781,6 +783,7 @@
 
 ## machine-learning 
 
+- [merrymercy/awesome-tensor-compilers](https://github.com/merrymercy/awesome-tensor-compilers) - A list of awesome compiler projects and papers for tensor computation and deep learning.
 - [google-deepmind/optax](https://github.com/google-deepmind/optax) - Optax is a gradient processing and optimization library for JAX.
 - [MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning](https://github.com/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning) - This is the homepage of a new book entitled "Mathematical Foundations of Reinforcement Learning."
 - [Toni-SM/skrl](https://github.com/Toni-SM/skrl) - Modular reinforcement learning library (on PyTorch and JAX) with support for NVIDIA Isaac Gym, Omniverse Isaac Gym and Isaac Lab
@@ -935,6 +938,7 @@
 
 ## others 
 
+- [Alescontrela/AMP_for_hardware](https://github.com/Alescontrela/AMP_for_hardware) - Code for "Adversarial Motion Priors Make Good Substitutes for Complex Reward Functions"
 - [google-research/tuning_playbook](https://github.com/google-research/tuning_playbook) - A playbook for systematically maximizing the performance of deep learning models.
 - [google/orbax](https://github.com/google/orbax) - Orbax provides common checkpointing and persistence utilities for JAX users
 - [LeCAR-Lab/HumanoidVerse](https://github.com/LeCAR-Lab/HumanoidVerse) - 
