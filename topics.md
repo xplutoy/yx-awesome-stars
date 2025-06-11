@@ -941,6 +941,7 @@
 
 ## others 
 
+- [chauby/BipedalWalkingRobots](https://github.com/chauby/BipedalWalkingRobots) - Linear Inverted Pendulum Model based bipedal walking
 - [sisl/MPOPIS](https://github.com/sisl/MPOPIS) - Adaptive importance sampling modification to MPPI
 - [RobertTLange/gymnax](https://github.com/RobertTLange/gymnax) - RL Environments in JAX  🌍
 - [Housz/awesome-simulation](https://github.com/Housz/awesome-simulation) - Resources for Physics based simulation in Computer Graphics 图形学中物理模拟的资源整理
