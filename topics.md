@@ -346,6 +346,7 @@
 
 ## cpp 
 
+- [ethz-adrl/control-toolbox](https://github.com/ethz-adrl/control-toolbox) - The Control Toolbox - An Open-Source C++ Library for Robotics, Optimal and Model Predictive Control
 - [ssloy/tinyraycaster](https://github.com/ssloy/tinyraycaster) - 486 lines of C++: old-school FPS in a weekend
 - [changkun/modern-cpp-tutorial](https://github.com/changkun/modern-cpp-tutorial) - 📚 Modern C++ Tutorial: C++11/14/17/20 On the Fly | https://changkun.de/modern-cpp/
 - [AnthonyCalandra/modern-cpp-features](https://github.com/AnthonyCalandra/modern-cpp-features) - A cheatsheet of modern C++ language and library features.
@@ -743,7 +744,7 @@
 - [tninja/aider.el](https://github.com/tninja/aider.el) - AI assisted programming in Emacs with Aider
 - [lanceberge/elysium](https://github.com/lanceberge/elysium) - Automatically apply AI-generated code changes in Emacs
 - [RUCAIBox/LLMSurvey](https://github.com/RUCAIBox/LLMSurvey) - The official GitHub page for the survey paper "A Survey of Large Language Models".
-- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Finetune Qwen3, Llama 4, TTS, DeepSeek-R1 & Gemma 3 LLMs 2x faster with 70% less memory! 🦥
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Fine-tuning & Reinforcement Learning for LLMs. 🦥 Train Qwen3, Llama 4, DeepSeek-R1, Gemma 3, TTS 2x faster with 70% less VRAM.
 - [bentoml/OpenLLM](https://github.com/bentoml/OpenLLM) - Run any open-source LLMs, such as DeepSeek and Llama, as OpenAI compatible API endpoint in the cloud.
 - [mlc-ai/mlc-llm](https://github.com/mlc-ai/mlc-llm) - Universal LLM Deployment Engine with ML Compilation
 - [eosphoros-ai/DB-GPT](https://github.com/eosphoros-ai/DB-GPT) - AI Native Data App Development framework with AWEL(Agentic Workflow Expression Language) and Agents
@@ -941,6 +942,7 @@
 
 ## others 
 
+- [ethz-adrl/towr](https://github.com/ethz-adrl/towr) - A light-weight, Eigen-based C++ library for trajectory optimization for legged robots.
 - [chauby/BipedalWalkingRobots](https://github.com/chauby/BipedalWalkingRobots) - Linear Inverted Pendulum Model based bipedal walking
 - [sisl/MPOPIS](https://github.com/sisl/MPOPIS) - Adaptive importance sampling modification to MPPI
 - [RobertTLange/gymnax](https://github.com/RobertTLange/gymnax) - RL Environments in JAX  🌍
@@ -1364,6 +1366,7 @@
 
 ## robotics 
 
+- [ethz-adrl/control-toolbox](https://github.com/ethz-adrl/control-toolbox) - The Control Toolbox - An Open-Source C++ Library for Robotics, Optimal and Model Predictive Control
 - [LongchaoDa/AwesomeSim2Real](https://github.com/LongchaoDa/AwesomeSim2Real) - AwesomeSim2Real - An update-to-date Sim-to-Real repo of "Survey of Sim-to-Real Methods in RL: Progress, Prospects and Challenges with Foundation Models"
 - [google-deepmind/mujoco_menagerie](https://github.com/google-deepmind/mujoco_menagerie) - A collection of high-quality models for the MuJoCo physics engine, curated by Google DeepMind.
 - [rpng/open_vins](https://github.com/rpng/open_vins) - An open source platform for visual-inertial navigation research.
@@ -1449,7 +1452,7 @@
 
 ## text-to-speech 
 
-- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Finetune Qwen3, Llama 4, TTS, DeepSeek-R1 & Gemma 3 LLMs 2x faster with 70% less memory! 🦥
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Fine-tuning & Reinforcement Learning for LLMs. 🦥 Train Qwen3, Llama 4, DeepSeek-R1, Gemma 3, TTS 2x faster with 70% less VRAM.
 - [2noise/ChatTTS](https://github.com/2noise/ChatTTS) - A generative speech model for daily dialogue.
 
 ## ui 
