@@ -368,6 +368,7 @@
 
 ## Jupyter Notebook 
 
+- [marianorivera/How2TrainUrVAE](https://github.com/marianorivera/How2TrainUrVAE) - How To Train Your VAE CODE
 - [josipd/torch-two-sample](https://github.com/josipd/torch-two-sample) - A PyTorch library for two-sample tests
 - [RussTedrake/manipulation](https://github.com/RussTedrake/manipulation) - Course notes for MIT manipulation class
 - [jmtomczak/intro_dgm](https://github.com/jmtomczak/intro_dgm) - "Deep Generative Modeling": Introductory Examples
@@ -502,6 +503,8 @@
 
 ## Python 
 
+- [rubenvillegas/cvpr2018nkn](https://github.com/rubenvillegas/cvpr2018nkn) - Tensorflow implementation of the CVPR 2018 paper: Neural Kinematic Networks for Unsupervised Motion Retargetting
+- [DeepMotionEditing/deep-motion-editing](https://github.com/DeepMotionEditing/deep-motion-editing) - An end-to-end library for editing and rendering motion of 3D characters with deep learning [SIGGRAPH 2020]
 - [erwincoumans/motion_imitation](https://github.com/erwincoumans/motion_imitation) - Code accompanying the paper "Learning Agile Robotic Locomotion Skills by Imitating Animals"
 - [OpenRobotLab/HIMLoco](https://github.com/OpenRobotLab/HIMLoco) - Learning-based locomotion control from OpenRobotLab, including Hybrid Internal Model & H-Infinity Locomotion Control
 - [PRIME-RL/SimpleVLA-RL](https://github.com/PRIME-RL/SimpleVLA-RL) - Online RL with Simple Reward Enables Training VLA Models with Only One Trajectory
