@@ -400,6 +400,7 @@
 
 ## deep-learning 
 
+- [DeepMotionEditing/deep-motion-editing](https://github.com/DeepMotionEditing/deep-motion-editing) - An end-to-end library for editing and rendering motion of 3D characters with deep learning [SIGGRAPH 2020]
 - [merrymercy/awesome-tensor-compilers](https://github.com/merrymercy/awesome-tensor-compilers) - A list of awesome compiler projects and papers for tensor computation and deep learning.
 - [jmtomczak/intro_dgm](https://github.com/jmtomczak/intro_dgm) - "Deep Generative Modeling": Introductory Examples
 - [Toni-SM/skrl](https://github.com/Toni-SM/skrl) - Modular reinforcement learning library (on PyTorch and JAX) with support for NVIDIA Isaac Gym, Omniverse Isaac Gym and Isaac Lab
@@ -942,6 +943,8 @@
 
 ## others 
 
+- [rubenvillegas/cvpr2018nkn](https://github.com/rubenvillegas/cvpr2018nkn) - Tensorflow implementation of the CVPR 2018 paper: Neural Kinematic Networks for Unsupervised Motion Retargetting
+- [marianorivera/How2TrainUrVAE](https://github.com/marianorivera/How2TrainUrVAE) - How To Train Your VAE CODE
 - [erwincoumans/motion_imitation](https://github.com/erwincoumans/motion_imitation) - Code accompanying the paper "Learning Agile Robotic Locomotion Skills by Imitating Animals"
 - [josipd/torch-two-sample](https://github.com/josipd/torch-two-sample) - A PyTorch library for two-sample tests
 - [OpenRobotLab/HIMLoco](https://github.com/OpenRobotLab/HIMLoco) - Learning-based locomotion control from OpenRobotLab, including Hybrid Internal Model & H-Infinity Locomotion Control
