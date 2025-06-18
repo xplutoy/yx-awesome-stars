@@ -133,7 +133,7 @@
 
 ## ai 
 
-- [danielmiessler/fabric](https://github.com/danielmiessler/fabric) - fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
+- [danielmiessler/fabric](https://github.com/danielmiessler/fabric) - Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
 - [MatthewZMD/aidermacs](https://github.com/MatthewZMD/aidermacs) - AI Pair Programming in Emacs with Aider
 - [tninja/aider.el](https://github.com/tninja/aider.el) - AI assisted programming in Emacs with Aider
 - [lanceberge/elysium](https://github.com/lanceberge/elysium) - Automatically apply AI-generated code changes in Emacs
@@ -788,6 +788,7 @@
 
 ## machine-learning 
 
+- [osqp/osqp](https://github.com/osqp/osqp) - The Operator Splitting QP Solver
 - [merrymercy/awesome-tensor-compilers](https://github.com/merrymercy/awesome-tensor-compilers) - A list of awesome compiler projects and papers for tensor computation and deep learning.
 - [google-deepmind/optax](https://github.com/google-deepmind/optax) - Optax is a gradient processing and optimization library for JAX.
 - [MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning](https://github.com/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning) - This is the homepage of a new book entitled "Mathematical Foundations of Reinforcement Learning."
@@ -944,6 +945,7 @@
 
 ## others 
 
+- [loongOpen/OpenLoong-Dyn-Control](https://github.com/loongOpen/OpenLoong-Dyn-Control) - Whole-Body Dynamics Control Software Package for Humanoid Robots
 - [rubenvillegas/cvpr2018nkn](https://github.com/rubenvillegas/cvpr2018nkn) - Tensorflow implementation of the CVPR 2018 paper: Neural Kinematic Networks for Unsupervised Motion Retargetting
 - [marianorivera/How2TrainUrVAE](https://github.com/marianorivera/How2TrainUrVAE) - How To Train Your VAE CODE
 - [erwincoumans/motion_imitation](https://github.com/erwincoumans/motion_imitation) - Code accompanying the paper "Learning Agile Robotic Locomotion Skills by Imitating Animals"
