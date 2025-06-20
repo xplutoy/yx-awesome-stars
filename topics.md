@@ -133,6 +133,7 @@
 
 ## ai 
 
+- [roboterax/humanoid-gym](https://github.com/roboterax/humanoid-gym) - Humanoid-Gym: Reinforcement Learning for Humanoid Robot with Zero-Shot Sim2Real Transfer https://arxiv.org/abs/2404.05695
 - [danielmiessler/fabric](https://github.com/danielmiessler/fabric) - Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
 - [MatthewZMD/aidermacs](https://github.com/MatthewZMD/aidermacs) - AI Pair Programming in Emacs with Aider
 - [tninja/aider.el](https://github.com/tninja/aider.el) - AI assisted programming in Emacs with Aider
@@ -160,6 +161,7 @@
 
 ## artificial-intelligence 
 
+- [roboterax/humanoid-gym](https://github.com/roboterax/humanoid-gym) - Humanoid-Gym: Reinforcement Learning for Humanoid Robot with Zero-Shot Sim2Real Transfer https://arxiv.org/abs/2404.05695
 - [amusi/AI-Job-Notes](https://github.com/amusi/AI-Job-Notes) - AI算法岗求职攻略（涵盖准备攻略、刷题指南、内推和AI公司清单等资料）
 - [zwang4/awesome-machine-learning-in-compilers](https://github.com/zwang4/awesome-machine-learning-in-compilers) - Must read research papers and links to tools and datasets that are related to using machine learning for compilers and systems optimisation
 - [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. All in a modern, AI-native editor.
@@ -788,6 +790,7 @@
 
 ## machine-learning 
 
+- [roboterax/humanoid-gym](https://github.com/roboterax/humanoid-gym) - Humanoid-Gym: Reinforcement Learning for Humanoid Robot with Zero-Shot Sim2Real Transfer https://arxiv.org/abs/2404.05695
 - [osqp/osqp](https://github.com/osqp/osqp) - The Operator Splitting QP Solver
 - [merrymercy/awesome-tensor-compilers](https://github.com/merrymercy/awesome-tensor-compilers) - A list of awesome compiler projects and papers for tensor computation and deep learning.
 - [google-deepmind/optax](https://github.com/google-deepmind/optax) - Optax is a gradient processing and optimization library for JAX.
@@ -1368,6 +1371,7 @@
 
 ## reinforcement-learning 
 
+- [nicklashansen/tdmpc2](https://github.com/nicklashansen/tdmpc2) - Code for "TD-MPC2: Scalable, Robust World Models for Continuous Control"
 - [luchris429/purejaxrl](https://github.com/luchris429/purejaxrl) - Really Fast End-to-End Jax RL Implementations
 - [google/brax](https://github.com/google/brax) - Massively parallel rigidbody physics simulation on accelerator hardware.
 - [MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning](https://github.com/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning) - This is the homepage of a new book entitled "Mathematical Foundations of Reinforcement Learning."
@@ -1383,6 +1387,8 @@
 
 ## robotics 
 
+- [roboterax/humanoid-gym](https://github.com/roboterax/humanoid-gym) - Humanoid-Gym: Reinforcement Learning for Humanoid Robot with Zero-Shot Sim2Real Transfer https://arxiv.org/abs/2404.05695
+- [nicklashansen/tdmpc2](https://github.com/nicklashansen/tdmpc2) - Code for "TD-MPC2: Scalable, Robust World Models for Continuous Control"
 - [ethz-adrl/control-toolbox](https://github.com/ethz-adrl/control-toolbox) - The Control Toolbox - An Open-Source C++ Library for Robotics, Optimal and Model Predictive Control
 - [LongchaoDa/AwesomeSim2Real](https://github.com/LongchaoDa/AwesomeSim2Real) - AwesomeSim2Real - An update-to-date Sim-to-Real repo of "Survey of Sim-to-Real Methods in RL: Progress, Prospects and Challenges with Foundation Models"
 - [google-deepmind/mujoco_menagerie](https://github.com/google-deepmind/mujoco_menagerie) - A collection of high-quality models for the MuJoCo physics engine, curated by Google DeepMind.
