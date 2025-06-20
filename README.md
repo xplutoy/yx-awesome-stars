@@ -504,6 +504,8 @@
 
 ## Python 
 
+- [roboterax/humanoid-gym](https://github.com/roboterax/humanoid-gym) - Humanoid-Gym: Reinforcement Learning for Humanoid Robot with Zero-Shot Sim2Real Transfer https://arxiv.org/abs/2404.05695
+- [nicklashansen/tdmpc2](https://github.com/nicklashansen/tdmpc2) - Code for "TD-MPC2: Scalable, Robust World Models for Continuous Control"
 - [rubenvillegas/cvpr2018nkn](https://github.com/rubenvillegas/cvpr2018nkn) - Tensorflow implementation of the CVPR 2018 paper: Neural Kinematic Networks for Unsupervised Motion Retargetting
 - [DeepMotionEditing/deep-motion-editing](https://github.com/DeepMotionEditing/deep-motion-editing) - An end-to-end library for editing and rendering motion of 3D characters with deep learning [SIGGRAPH 2020]
 - [erwincoumans/motion_imitation](https://github.com/erwincoumans/motion_imitation) - Code accompanying the paper "Learning Agile Robotic Locomotion Skills by Imitating Animals"
