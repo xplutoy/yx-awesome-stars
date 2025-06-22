@@ -504,6 +504,7 @@
 
 ## Python 
 
+- [silvery107/rl-mpc-locomotion](https://github.com/silvery107/rl-mpc-locomotion) - Deep RL for MPC control of Quadruped Robot Locomotion
 - [roboterax/humanoid-gym](https://github.com/roboterax/humanoid-gym) - Humanoid-Gym: Reinforcement Learning for Humanoid Robot with Zero-Shot Sim2Real Transfer https://arxiv.org/abs/2404.05695
 - [nicklashansen/tdmpc2](https://github.com/nicklashansen/tdmpc2) - Code for "TD-MPC2: Scalable, Robust World Models for Continuous Control"
 - [rubenvillegas/cvpr2018nkn](https://github.com/rubenvillegas/cvpr2018nkn) - Tensorflow implementation of the CVPR 2018 paper: Neural Kinematic Networks for Unsupervised Motion Retargetting
