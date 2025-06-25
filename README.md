@@ -434,6 +434,7 @@
 
 ## Others 
 
+- [loongOpen/OpenLoong-Framework](https://github.com/loongOpen/OpenLoong-Framework) - 
 - [Housz/awesome-simulation](https://github.com/Housz/awesome-simulation) - Resources for Physics based simulation in Computer Graphics 图形学中物理模拟的资源整理
 - [merrymercy/awesome-tensor-compilers](https://github.com/merrymercy/awesome-tensor-compilers) - A list of awesome compiler projects and papers for tensor computation and deep learning.
 - [google-research/tuning_playbook](https://github.com/google-research/tuning_playbook) - A playbook for systematically maximizing the performance of deep learning models.
@@ -539,7 +540,7 @@
 - [arvkevi/kneed](https://github.com/arvkevi/kneed) - Knee point detection in Python :chart_with_upwards_trend:
 - [leggedrobotics/rsl_rl](https://github.com/leggedrobotics/rsl_rl) - Fast and simple implementation of RL algorithms, designed to run fully on GPU.
 - [browser-use/browser-use](https://github.com/browser-use/browser-use) - 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
-- [subframe7536/maple-font](https://github.com/subframe7536/maple-font) - Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font for IDE and terminal, fine-grained customization options. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1，细粒度的自定义选项
+- [subframe7536/maple-font](https://github.com/subframe7536/maple-font) - Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font icons for IDE and terminal, fine-grained customization options. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1，细粒度的自定义选项
 - [Toni-SM/skrl](https://github.com/Toni-SM/skrl) - Modular reinforcement learning library (on PyTorch and JAX) with support for NVIDIA Isaac Gym, Omniverse Isaac Gym and Isaac Lab
 - [tensorlayer/RLzoo](https://github.com/tensorlayer/RLzoo) - A Comprehensive Reinforcement Learning Zoo for Simple Usage 🚀
 - [pprp/Awesome-LLM-Quantization](https://github.com/pprp/Awesome-LLM-Quantization) - Awesome list for LLM quantization
