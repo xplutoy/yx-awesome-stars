@@ -68,6 +68,7 @@
 
 ## C++ 
 
+- [uzh-rpg/flightmare](https://github.com/uzh-rpg/flightmare) - An Open Flexible Quadrotor Simulator
 - [loongOpen/OpenLoong-Dyn-Control](https://github.com/loongOpen/OpenLoong-Dyn-Control) - Whole-Body Dynamics Control Software Package for Humanoid Robots
 - [ethz-adrl/control-toolbox](https://github.com/ethz-adrl/control-toolbox) - The Control Toolbox - An Open-Source C++ Library for Robotics, Optimal and Model Predictive Control
 - [ethz-adrl/towr](https://github.com/ethz-adrl/towr) - A light-weight, Eigen-based C++ library for trajectory optimization for legged robots.
@@ -505,6 +506,7 @@
 
 ## Python 
 
+- [ami-iit/amp-rsl-rl](https://github.com/ami-iit/amp-rsl-rl) - 🔁 AMP-RSL-RL: Adversarial Motion Priors for robotic RL (PPO + motion imitation)
 - [silvery107/rl-mpc-locomotion](https://github.com/silvery107/rl-mpc-locomotion) - Deep RL for MPC control of Quadruped Robot Locomotion
 - [roboterax/humanoid-gym](https://github.com/roboterax/humanoid-gym) - Humanoid-Gym: Reinforcement Learning for Humanoid Robot with Zero-Shot Sim2Real Transfer https://arxiv.org/abs/2404.05695
 - [nicklashansen/tdmpc2](https://github.com/nicklashansen/tdmpc2) - Code for "TD-MPC2: Scalable, Robust World Models for Continuous Control"
