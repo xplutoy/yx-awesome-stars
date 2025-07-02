@@ -68,6 +68,7 @@
 
 ## C++ 
 
+- [choreonoid/choreonoid](https://github.com/choreonoid/choreonoid) - An integrated graphical robotics application framework including a simulator, a motion editor, etc.
 - [ceres-solver/ceres-solver](https://github.com/ceres-solver/ceres-solver) - A large scale non-linear optimization library
 - [uzh-rpg/flightmare](https://github.com/uzh-rpg/flightmare) - An Open Flexible Quadrotor Simulator
 - [loongOpen/OpenLoong-Dyn-Control](https://github.com/loongOpen/OpenLoong-Dyn-Control) - Whole-Body Dynamics Control Software Package for Humanoid Robots
