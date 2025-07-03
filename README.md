@@ -54,6 +54,7 @@
 
 ## C 
 
+- [erincatto/box2d](https://github.com/erincatto/box2d) - Box2D is a 2D physics engine for games
 - [osqp/osqp](https://github.com/osqp/osqp) - The Operator Splitting QP Solver
 - [acados/acados](https://github.com/acados/acados) - Fast and embedded solvers for nonlinear optimal control and nonlinear model predictive control
 - [eafer/rdrview](https://github.com/eafer/rdrview) - Firefox Reader View as a command line tool
@@ -68,6 +69,7 @@
 
 ## C++ 
 
+- [bulletphysics/bullet3](https://github.com/bulletphysics/bullet3) - Bullet Physics SDK: real-time collision detection and multi-physics simulation for VR, games, visual effects, robotics, machine learning etc.
 - [choreonoid/choreonoid](https://github.com/choreonoid/choreonoid) - An integrated graphical robotics application framework including a simulator, a motion editor, etc.
 - [ceres-solver/ceres-solver](https://github.com/ceres-solver/ceres-solver) - A large scale non-linear optimization library
 - [uzh-rpg/flightmare](https://github.com/uzh-rpg/flightmare) - An Open Flexible Quadrotor Simulator
@@ -509,6 +511,11 @@
 
 ## Python 
 
+- [EmptyBlueBox/BVH2SMPL](https://github.com/EmptyBlueBox/BVH2SMPL) - I love human motion retargeting.
+- [stephane-caron/pink](https://github.com/stephane-caron/pink) - Python inverse kinematics using Pinocchio and QP solvers
+- [kevinzakka/mink](https://github.com/kevinzakka/mink) - Python inverse kinematics based on MuJoCo
+- [OpenMotionLab/MotionGPT](https://github.com/OpenMotionLab/MotionGPT) - [NeurIPS 2023] MotionGPT: Human Motion as a Foreign Language, a unified motion-language generation model using LLMs
+- [TeleHuman/PBHC](https://github.com/TeleHuman/PBHC) - Official Implementation of "KungfuBot: Physics-Based Humanoid Whole-Body Control for Learning Highly-Dynamic Skills"
 - [OpenRobotLab/HoST](https://github.com/OpenRobotLab/HoST) - [RSS 2025 Best Systems Paper Finalist] 💐Official implementation of "Learning Humanoid Standing-up Control across Diverse Postures"
 - [facebookresearch/theseus](https://github.com/facebookresearch/theseus) - A library for differentiable nonlinear optimization
 - [ami-iit/amp-rsl-rl](https://github.com/ami-iit/amp-rsl-rl) - 🔁 AMP-RSL-RL: Adversarial Motion Priors for robotic RL (PPO + motion imitation)
