@@ -511,6 +511,7 @@
 
 ## Python 
 
+- [SMPLCap/SMPLest-X](https://github.com/SMPLCap/SMPLest-X) - Official code for "SMPLest-X: Ultimate Scaling for Expressive Human Pose and Shape Estimation"
 - [EmptyBlueBox/BVH2SMPL](https://github.com/EmptyBlueBox/BVH2SMPL) - I love human motion retargeting.
 - [stephane-caron/pink](https://github.com/stephane-caron/pink) - Python inverse kinematics using Pinocchio and QP solvers
 - [kevinzakka/mink](https://github.com/kevinzakka/mink) - Python inverse kinematics based on MuJoCo
