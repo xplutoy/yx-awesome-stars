@@ -960,6 +960,7 @@
 
 ## others 
 
+- [SMPLCap/SMPLest-X](https://github.com/SMPLCap/SMPLest-X) - Official code for "SMPLest-X: Ultimate Scaling for Expressive Human Pose and Shape Estimation"
 - [EmptyBlueBox/BVH2SMPL](https://github.com/EmptyBlueBox/BVH2SMPL) - I love human motion retargeting.
 - [erincatto/box2d](https://github.com/erincatto/box2d) - Box2D is a 2D physics engine for games
 - [TeleHuman/PBHC](https://github.com/TeleHuman/PBHC) - Official Implementation of "KungfuBot: Physics-Based Humanoid Whole-Body Control for Learning Highly-Dynamic Skills"
