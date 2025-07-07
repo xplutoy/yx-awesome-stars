@@ -69,6 +69,7 @@
 
 ## C++ 
 
+- [google-deepmind/mujoco_mpc](https://github.com/google-deepmind/mujoco_mpc) - Real-time behaviour synthesis with MuJoCo, using Predictive Control
 - [bulletphysics/bullet3](https://github.com/bulletphysics/bullet3) - Bullet Physics SDK: real-time collision detection and multi-physics simulation for VR, games, visual effects, robotics, machine learning etc.
 - [choreonoid/choreonoid](https://github.com/choreonoid/choreonoid) - An integrated graphical robotics application framework including a simulator, a motion editor, etc.
 - [ceres-solver/ceres-solver](https://github.com/ceres-solver/ceres-solver) - A large scale non-linear optimization library
