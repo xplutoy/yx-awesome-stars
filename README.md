@@ -440,6 +440,7 @@
 
 ## Others 
 
+- [leofan90/Awesome-World-Models](https://github.com/leofan90/Awesome-World-Models) - A comprehensive list of papers for the definition of World Models and using World Models for General Video Generation, Embodied AI, and Autonomous Driving, including papers, codes, and related website
 - [Zymrael/awesome-neural-ode](https://github.com/Zymrael/awesome-neural-ode) - A collection of resources regarding the interplay between differential equations, deep learning, dynamical systems, control and numerical methods.
 - [loongOpen/OpenLoong-Framework](https://github.com/loongOpen/OpenLoong-Framework) - 
 - [Housz/awesome-simulation](https://github.com/Housz/awesome-simulation) - Resources for Physics based simulation in Computer Graphics 图形学中物理模拟的资源整理
@@ -512,6 +513,8 @@
 
 ## Python 
 
+- [NVIDIA/warp](https://github.com/NVIDIA/warp) - A Python framework for accelerated simulation, data generation and spatial computing.
+- [wayveai/mile](https://github.com/wayveai/mile) - PyTorch code for the paper "Model-Based Imitation Learning for Urban Driving".
 - [SMPLCap/SMPLest-X](https://github.com/SMPLCap/SMPLest-X) - Official code for "SMPLest-X: Ultimate Scaling for Expressive Human Pose and Shape Estimation"
 - [EmptyBlueBox/BVH2SMPL](https://github.com/EmptyBlueBox/BVH2SMPL) - I love human motion retargeting.
 - [stephane-caron/pink](https://github.com/stephane-caron/pink) - Python inverse kinematics using Pinocchio and QP solvers
@@ -712,6 +715,7 @@
 
 ## TeX 
 
+- [vdumoulin/conv_arithmetic](https://github.com/vdumoulin/conv_arithmetic) - A technical report on convolution arithmetic in the context of deep learning
 - [IUCompilerCourse/Essentials-of-Compilation](https://github.com/IUCompilerCourse/Essentials-of-Compilation) - A book about compiling Racket and Python to x86-64 assembly
 - [hmemcpy/milewski-ctfp-pdf](https://github.com/hmemcpy/milewski-ctfp-pdf) - Bartosz Milewski's 'Category Theory for Programmers' unofficial PDF and LaTeX source
 - [wklchris/Note-by-LaTeX](https://github.com/wklchris/Note-by-LaTeX) - 《简单粗暴 LaTeX》出版图书开源仓库 | The opensource repo for my published LaTeX book.
