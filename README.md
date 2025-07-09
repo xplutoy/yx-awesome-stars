@@ -513,6 +513,7 @@
 
 ## Python 
 
+- [locuslab/TCN](https://github.com/locuslab/TCN) - Sequence modeling benchmarks and temporal convolutional networks
 - [NVIDIA/warp](https://github.com/NVIDIA/warp) - A Python framework for accelerated simulation, data generation and spatial computing.
 - [wayveai/mile](https://github.com/wayveai/mile) - PyTorch code for the paper "Model-Based Imitation Learning for Urban Driving".
 - [SMPLCap/SMPLest-X](https://github.com/SMPLCap/SMPLest-X) - Official code for "SMPLest-X: Ultimate Scaling for Expressive Human Pose and Shape Estimation"
