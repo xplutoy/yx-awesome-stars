@@ -69,6 +69,7 @@
 
 ## C++ 
 
+- [stephane-caron/lipm_walking_controller](https://github.com/stephane-caron/lipm_walking_controller) - Walking controller for humanoid robots based on inverted pendulum tracking
 - [google-deepmind/mujoco_mpc](https://github.com/google-deepmind/mujoco_mpc) - Real-time behaviour synthesis with MuJoCo, using Predictive Control
 - [bulletphysics/bullet3](https://github.com/bulletphysics/bullet3) - Bullet Physics SDK: real-time collision detection and multi-physics simulation for VR, games, visual effects, robotics, machine learning etc.
 - [choreonoid/choreonoid](https://github.com/choreonoid/choreonoid) - An integrated graphical robotics application framework including a simulator, a motion editor, etc.
@@ -334,6 +335,7 @@
 
 ## HTML 
 
+- [MrNeRF/awesome-3D-gaussian-splatting](https://github.com/MrNeRF/awesome-3D-gaussian-splatting) - Curated list of papers and resources focused on 3D Gaussian Splatting, intended to keep pace with the anticipated surge of research in the coming months.
 - [PKUFlyingPig/cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning) - 计算机自学指南
 - [codazoda/neatcss](https://github.com/codazoda/neatcss) - Rapidly build efficient sites with Neat, the minimalist css framework.
 - [yihui/hugo-xmin](https://github.com/yihui/hugo-xmin) - eXtremely Minimal Hugo theme: about 140 lines of code in total, including HTML and CSS (with no dependencies)
@@ -376,6 +378,8 @@
 
 ## Jupyter Notebook 
 
+- [google/evojax](https://github.com/google/evojax) - 
+- [pablormier/yabox](https://github.com/pablormier/yabox) - Yet another black-box optimization library for Python
 - [marianorivera/How2TrainUrVAE](https://github.com/marianorivera/How2TrainUrVAE) - How To Train Your VAE CODE
 - [josipd/torch-two-sample](https://github.com/josipd/torch-two-sample) - A PyTorch library for two-sample tests
 - [RussTedrake/manipulation](https://github.com/RussTedrake/manipulation) - Course notes for MIT manipulation class
@@ -513,6 +517,7 @@
 
 ## Python 
 
+- [DEAP/deap](https://github.com/DEAP/deap) - Distributed Evolutionary Algorithms in Python
 - [locuslab/TCN](https://github.com/locuslab/TCN) - Sequence modeling benchmarks and temporal convolutional networks
 - [NVIDIA/warp](https://github.com/NVIDIA/warp) - A Python framework for accelerated simulation, data generation and spatial computing.
 - [wayveai/mile](https://github.com/wayveai/mile) - PyTorch code for the paper "Model-Based Imitation Learning for Urban Driving".
