@@ -1065,7 +1065,7 @@
 - [james-stoup/org-mode-table-tutorial](https://github.com/james-stoup/org-mode-table-tutorial) - A simplified guide to mastering Org Mode table functions
 - [volcengine/verl](https://github.com/volcengine/verl) - verl: Volcano Engine Reinforcement Learning for LLMs
 - [IUCompilerCourse/Essentials-of-Compilation](https://github.com/IUCompilerCourse/Essentials-of-Compilation) - A book about compiling Racket and Python to x86-64 assembly
-- [lem-project/lem](https://github.com/lem-project/lem) - Common Lisp editor/IDE with high expansibility
+- [lem-project/lem](https://github.com/lem-project/lem) - General-purpose editor/IDE with high expansibility in Common Lisp
 - [rui314/minilisp](https://github.com/rui314/minilisp) - A readable lisp in less than 1k lines of C
 - [rui314/chibicc](https://github.com/rui314/chibicc) - A small C compiler
 - [Co-dfns/Co-dfns](https://github.com/Co-dfns/Co-dfns) - High-performance, Reliable, and Parallel APL
