@@ -519,6 +519,7 @@
 
 ## Python 
 
+- [LeCAR-Lab/FALCON](https://github.com/LeCAR-Lab/FALCON) - Official implementation of "FALCON: Learning Force-Adaptive Humanoid Loco-Manipulation"
 - [forgi86/pyMPC](https://github.com/forgi86/pyMPC) - A Model Predictive Control (MPC) Python library based on the OSQP solver.
 - [zixuan417/smooth-humanoid-locomotion](https://github.com/zixuan417/smooth-humanoid-locomotion) - [IROS 2025] Learning Smooth Humanoid Locomotion through Lipschitz-Constrained Policies
 - [facebookresearch/hydra](https://github.com/facebookresearch/hydra) - Hydra is a framework for elegantly configuring complex applications
