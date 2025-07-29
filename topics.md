@@ -982,6 +982,7 @@
 
 ## others 
 
+- [LeCAR-Lab/FALCON](https://github.com/LeCAR-Lab/FALCON) - Official implementation of "FALCON: Learning Force-Adaptive Humanoid Loco-Manipulation"
 - [ragnard/gptel-magit](https://github.com/ragnard/gptel-magit) - 
 - [swig/swig](https://github.com/swig/swig) - SWIG is a software development tool that connects programs written in C and C++ with a variety of high-level programming languages.
 - [forgi86/pyMPC](https://github.com/forgi86/pyMPC) - A Model Predictive Control (MPC) Python library based on the OSQP solver.
