@@ -362,7 +362,6 @@
 - [HumanSignal/label-studio](https://github.com/HumanSignal/label-studio) - Label Studio is a multi-type data labeling and annotation tool with standardized output format
 - [eliahuhorwitz/Academic-project-page-template](https://github.com/eliahuhorwitz/Academic-project-page-template) - A project page template for academic papers. Demo at https://eliahuhorwitz.github.io/Academic-project-page-template/
 - [afc163/fanyi](https://github.com/afc163/fanyi) - A 🇨🇳 and 🇺🇸 translator in your command line
-- [sb2nov/mac-setup](https://github.com/sb2nov/mac-setup) - Installing Development environment on macOS
 - [zotero/zotero](https://github.com/zotero/zotero) - Zotero is a free, easy-to-use tool to help you collect, organize, annotate, cite, and share your research sources.
 - [018/zotcard](https://github.com/018/zotcard) - ZotCard is a plug-in for Zotero, which is a card note-taking enhancement tool. It provides card templates (such as concept card, character card, golden sentence card, etc., by default, you can customi
 - [Kenshin/simpread](https://github.com/Kenshin/simpread) - 简悦 ( SimpRead ) - 让你瞬间进入沉浸式阅读的扩展
@@ -746,6 +745,7 @@
 - [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
 - [dataelement/bisheng](https://github.com/dataelement/bisheng) - BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive features include: GenAI workflow, RAG, Agent, Unified model management, Evaluation, SF
+- [sb2nov/mac-setup](https://github.com/sb2nov/mac-setup) - Installing Development environment on macOS
 - [gdh1995/vimium-c](https://github.com/gdh1995/vimium-c) - A keyboard shortcut browser extension for keyboard-based navigation and tab operations with an advanced omnibar
 - [iShareStuff/ZoteroTheme](https://github.com/iShareStuff/ZoteroTheme) - ZoteroTheme Plugin
 - [windingwind/zotero-pdf-translate](https://github.com/windingwind/zotero-pdf-translate) - Translate PDF, EPub, webpage, metadata, annotations, notes to the target language. Support 20+ translate services.
