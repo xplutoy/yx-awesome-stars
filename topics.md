@@ -130,7 +130,6 @@
 - [vuejs](#vuejs)
 - [windows](#windows)
 - [xcode](#xcode)
-- [zsh](#zsh)
 
 ## 3d 
 
@@ -1215,6 +1214,8 @@
 - [casouri/xeft](https://github.com/casouri/xeft) - Fast, interactive Emacs note searching
 - [manateelazycat/insert-translated-name](https://github.com/manateelazycat/insert-translated-name) - Insert translated string as variable or function name
 - [minad/jinx](https://github.com/minad/jinx) - 🪄 Enchanted Spell Checker
+- [ikhomutov/zsh-auto-venv](https://github.com/ikhomutov/zsh-auto-venv) - Automatically activate venv when enter the project folder
+- [mattmc3/zsh_unplugged](https://github.com/mattmc3/zsh_unplugged) - 🤔 perhaps you don't need a Zsh plugin manager after all...
 - [astoff/code-cells.el](https://github.com/astoff/code-cells.el) - Emacs utilities for code split into cells, including Jupyter notebooks
 - [fritzgrabo/elfeed-webkit](https://github.com/fritzgrabo/elfeed-webkit) - Emacs: Render elfeed entries in embedded webkit widgets
 - [dholm/benchmark-init-el](https://github.com/dholm/benchmark-init-el) - Benchmark your Emacs initialization
@@ -1291,6 +1292,7 @@
 - [SystemCrafters/crafted-emacs](https://github.com/SystemCrafters/crafted-emacs) - A sensible base Emacs configuration.
 - [abo-abo/hydra](https://github.com/abo-abo/hydra) - make Emacs bindings that stick around
 - [kahun/awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) - A curated list of amazingly awesome open source sysadmin resources inspired by Awesome PHP.
+- [agkozak/zsh-z](https://github.com/agkozak/zsh-z) - Jump quickly to directories that you have visited "frecently." A native Zsh port of z.sh with added features.
 - [rupa/z](https://github.com/rupa/z) - z - jump around
 - [redguardtoo/emacs.d](https://github.com/redguardtoo/emacs.d) - Fast and robust Emacs setup.
 - [familyld/Awesome-Best-Papers](https://github.com/familyld/Awesome-Best-Papers) - Collect awesome best papers from top AI conferences.
@@ -1617,18 +1619,6 @@
 ## xcode 
 
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
-
-## zsh 
-
-- [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
-- [liquidprompt/liquidprompt](https://github.com/liquidprompt/liquidprompt) - A full-featured & carefully designed adaptive prompt for Bash & Zsh
-- [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
-- [ikhomutov/zsh-auto-venv](https://github.com/ikhomutov/zsh-auto-venv) - Automatically activate venv when enter the project folder
-- [mattmc3/zsh_unplugged](https://github.com/mattmc3/zsh_unplugged) - 🤔 perhaps you don't need a Zsh plugin manager after all...
-- [goreliu/zshguide](https://github.com/goreliu/zshguide) - Zsh 开发指南
-- [agkozak/zsh-z](https://github.com/agkozak/zsh-z) - Jump quickly to directories that you have visited "frecently." A native Zsh port of z.sh with added features.
-- [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
-- [rothgar/mastering-zsh](https://github.com/rothgar/mastering-zsh) - Advanced topics to take advantage of zsh 👩‍💻👨‍💻
 
 
 ## License
