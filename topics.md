@@ -93,6 +93,7 @@
 - [no-code](#no-code)
 - [nodejs](#nodejs)
 - [objective-c](#objective-c)
+- [obsidian-md](#obsidian-md)
 - [open-source](#open-source)
 - [openai](#openai)
 - [opencv](#opencv)
@@ -956,6 +957,10 @@
 ## objective-c 
 
 - [xmake-io/xmake](https://github.com/xmake-io/xmake) - 🔥 A cross-platform build utility based on Lua
+
+## obsidian-md 
+
+- [windingwind/zotero-better-notes](https://github.com/windingwind/zotero-better-notes) - Everything about note management. All in Zotero.
 
 ## open-source 
 
