@@ -1041,7 +1041,7 @@
 - [RobertTLange/gymnax](https://github.com/RobertTLange/gymnax) - RL Environments in JAX  🌍
 - [Housz/awesome-simulation](https://github.com/Housz/awesome-simulation) - Resources for Physics based simulation in Computer Graphics 图形学中物理模拟的资源整理
 - [RussTedrake/manipulation](https://github.com/RussTedrake/manipulation) - Course notes for MIT manipulation class
-- [Alescontrela/AMP_for_hardware](https://github.com/Alescontrela/AMP_for_hardware) - Code for "Adversarial Motion Priors Make Good Substitutes for Complex Reward Functions"
+- [escontra/AMP_for_hardware](https://github.com/escontra/AMP_for_hardware) - Code for "Adversarial Motion Priors Make Good Substitutes for Complex Reward Functions"
 - [google-research/tuning_playbook](https://github.com/google-research/tuning_playbook) - A playbook for systematically maximizing the performance of deep learning models.
 - [google/orbax](https://github.com/google/orbax) - Orbax provides common checkpointing and persistence utilities for JAX users
 - [LeCAR-Lab/HumanoidVerse](https://github.com/LeCAR-Lab/HumanoidVerse) - 
