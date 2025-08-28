@@ -525,6 +525,7 @@
 
 ## Python 
 
+- [vuer-ai/vuer](https://github.com/vuer-ai/vuer) - Vuer is a 3D visualization tool for robotics and VR applications.
 - [Open-X-Humanoid/TienKung-Lab](https://github.com/Open-X-Humanoid/TienKung-Lab) - Tien Kung-Lab: Direct IsaacLab Workflow for Legged Robots
 - [LeCAR-Lab/FALCON](https://github.com/LeCAR-Lab/FALCON) - Official implementation of "FALCON: Learning Force-Adaptive Humanoid Loco-Manipulation"
 - [forgi86/pyMPC](https://github.com/forgi86/pyMPC) - A Model Predictive Control (MPC) Python library based on the OSQP solver.
@@ -600,7 +601,7 @@
 - [mlc-ai/mlc-llm](https://github.com/mlc-ai/mlc-llm) - Universal LLM Deployment Engine with ML Compilation
 - [apache/tvm](https://github.com/apache/tvm) - Open deep learning compiler stack for cpu, gpu and specialized accelerators
 - [eosphoros-ai/DB-GPT](https://github.com/eosphoros-ai/DB-GPT) - AI Native Data App Development framework with AWEL(Agentic Workflow Expression Language) and Agents
-- [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) - Start building LLM-empowered multi-agent applications in an easier way.
+- [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) - AgentScope: Agent-Oriented Programming for Building LLM Applications
 - [pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai) - Agent Framework / shim to use Pydantic with LLMs
 - [tinygrad/teenygrad](https://github.com/tinygrad/teenygrad) - If tinygrad wasn't small enough for you...
 - [tinygrad/tinygrad](https://github.com/tinygrad/tinygrad) - You like pytorch? You like micrograd? You love tinygrad! ❤️
