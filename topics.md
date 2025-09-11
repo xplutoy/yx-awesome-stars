@@ -1003,6 +1003,8 @@
 
 ## others 
 
+- [aCodeDog/awesome-loco-manipulation](https://github.com/aCodeDog/awesome-loco-manipulation) - 
+- [apexrl/HugWBC](https://github.com/apexrl/HugWBC) - 
 - [HybridRobotics/whole_body_tracking](https://github.com/HybridRobotics/whole_body_tracking) - 
 - [ZhengyiLuo/PHC](https://github.com/ZhengyiLuo/PHC) - Official Implementation of the ICCV 2023 paper:  Perpetual Humanoid Control for Real-time Simulated Avatars
 - [vuer-ai/vuer](https://github.com/vuer-ai/vuer) - Vuer is a 3D visualization tool for robotics and VR applications.
@@ -1376,7 +1378,7 @@
 - [micropython/micropython](https://github.com/micropython/micropython) - MicroPython - a lean and efficient Python implementation for microcontrollers and constrained systems
 - [pythonic-emacs/anaconda-mode](https://github.com/pythonic-emacs/anaconda-mode) - Code navigation, documentation lookup and completion for Python.
 - [pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai) - GenAI Agent Framework, the Pydantic way
-- [pola-rs/polars](https://github.com/pola-rs/polars) - Dataframes powered by a multithreaded, vectorized query engine, written in Rust
+- [pola-rs/polars](https://github.com/pola-rs/polars) - Extremely fast Query Engine for DataFrames, written in Rust
 - [Netflix/metaflow](https://github.com/Netflix/metaflow) - Build, Manage and Deploy AI/ML Systems
 - [openinterpreter/open-interpreter](https://github.com/openinterpreter/open-interpreter) - A natural language interface for computers
 - [marimo-team/marimo](https://github.com/marimo-team/marimo) - Transform data, train models, and run SQL with marimo — feels like a next-gen reactive notebook, stored as Git-friendly reproducible Python. Deploy as scripts, pipelines, endpoints, and apps. All from
@@ -1486,6 +1488,7 @@
 
 ## robotics 
 
+- [leggedrobotics/ocs2](https://github.com/leggedrobotics/ocs2) - Optimal Control for Switched Systems
 - [RobotLocomotion/drake](https://github.com/RobotLocomotion/drake) - Model-based design and verification for robotics.
 - [rerun-io/rerun](https://github.com/rerun-io/rerun) - Visualize streams of multimodal data. Free, fast, easy to use, and simple to integrate. Built in Rust.
 - [stephane-caron/lipm_walking_controller](https://github.com/stephane-caron/lipm_walking_controller) - Walking controller for humanoid robots based on inverted pendulum tracking
@@ -1519,7 +1522,7 @@
 - [chroma-core/chroma](https://github.com/chroma-core/chroma) - Open-source search and retrieval database for AI applications.
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
-- [pola-rs/polars](https://github.com/pola-rs/polars) - Dataframes powered by a multithreaded, vectorized query engine, written in Rust
+- [pola-rs/polars](https://github.com/pola-rs/polars) - Extremely fast Query Engine for DataFrames, written in Rust
 - [zurawiki/gptcommit](https://github.com/zurawiki/gptcommit) - A git prepare-commit-msg hook for authoring commit messages with LLMs.
 - [tealdeer-rs/tealdeer](https://github.com/tealdeer-rs/tealdeer) - A very fast implementation of tldr in Rust.
 - [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
