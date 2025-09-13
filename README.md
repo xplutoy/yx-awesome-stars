@@ -556,7 +556,7 @@
 - [DeepMotionEditing/deep-motion-editing](https://github.com/DeepMotionEditing/deep-motion-editing) - An end-to-end library for editing and rendering motion of 3D characters with deep learning [SIGGRAPH 2020]
 - [erwincoumans/motion_imitation](https://github.com/erwincoumans/motion_imitation) - Code accompanying the paper "Learning Agile Robotic Locomotion Skills by Imitating Animals"
 - [InternRobotics/HIMLoco](https://github.com/InternRobotics/HIMLoco) - Learning-based locomotion control from OpenRobotLab, including Hybrid Internal Model & H-Infinity Locomotion Control
-- [PRIME-RL/SimpleVLA-RL](https://github.com/PRIME-RL/SimpleVLA-RL) - Online RL with Simple Reward Enables Training VLA Models with Only One Trajectory
+- [PRIME-RL/SimpleVLA-RL](https://github.com/PRIME-RL/SimpleVLA-RL) - SimpleVLA-RL: Scaling VLA Training via Reinforcement Learning
 - [chauby/BipedalWalkingRobots](https://github.com/chauby/BipedalWalkingRobots) - Linear Inverted Pendulum Model based bipedal walking
 - [LongchaoDa/AwesomeSim2Real](https://github.com/LongchaoDa/AwesomeSim2Real) - AwesomeSim2Real - An update-to-date Sim-to-Real repo of "Survey of Sim-to-Real Methods in RL: Progress, Prospects and Challenges with Foundation Models"
 - [RobertTLange/gymnax](https://github.com/RobertTLange/gymnax) - RL Environments in JAX  🌍
