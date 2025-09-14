@@ -517,7 +517,7 @@
 
 ## emacs 
 
-- [jamescherti/stripspace.el](https://github.com/jamescherti/stripspace.el) - Ensures that Emacs removes trailing whitespace before saving a buffer
+- [jamescherti/stripspace.el](https://github.com/jamescherti/stripspace.el) - stripspace.el - Ensure Emacs Automatically removes trailing whitespace before saving a buffer, with an option to preserve the cursor column
 - [joaotavora/sly](https://github.com/joaotavora/sly) - Sylvester the Cat's Common Lisp IDE
 - [MatthewZMD/aidermacs](https://github.com/MatthewZMD/aidermacs) - AI Pair Programming in Emacs with Aider
 - [tninja/aider.el](https://github.com/tninja/aider.el) - AI assisted programming in Emacs with Aider
@@ -1040,7 +1040,7 @@
 - [erwincoumans/motion_imitation](https://github.com/erwincoumans/motion_imitation) - Code accompanying the paper "Learning Agile Robotic Locomotion Skills by Imitating Animals"
 - [josipd/torch-two-sample](https://github.com/josipd/torch-two-sample) - A PyTorch library for two-sample tests
 - [InternRobotics/HIMLoco](https://github.com/InternRobotics/HIMLoco) - Learning-based locomotion control from OpenRobotLab, including Hybrid Internal Model & H-Infinity Locomotion Control
-- [PRIME-RL/SimpleVLA-RL](https://github.com/PRIME-RL/SimpleVLA-RL) - Online RL with Simple Reward Enables Training VLA Models with Only One Trajectory
+- [PRIME-RL/SimpleVLA-RL](https://github.com/PRIME-RL/SimpleVLA-RL) - SimpleVLA-RL: Scaling VLA Training via Reinforcement Learning
 - [ethz-adrl/towr](https://github.com/ethz-adrl/towr) - A light-weight, Eigen-based C++ library for trajectory optimization for legged robots.
 - [chauby/BipedalWalkingRobots](https://github.com/chauby/BipedalWalkingRobots) - Linear Inverted Pendulum Model based bipedal walking
 - [sisl/MPOPIS](https://github.com/sisl/MPOPIS) - Adaptive importance sampling modification to MPPI
