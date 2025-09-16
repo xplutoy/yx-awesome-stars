@@ -68,6 +68,7 @@
 
 ## C++ 
 
+- [Rhoban/placo](https://github.com/Rhoban/placo) - Rhoban Planning and Control
 - [leggedrobotics/ocs2](https://github.com/leggedrobotics/ocs2) - Optimal Control for Switched Systems
 - [RobotLocomotion/drake](https://github.com/RobotLocomotion/drake) - Model-based design and verification for robotics.
 - [lnotspotl/tbai_ros](https://github.com/lnotspotl/tbai_ros) - Towards better athletic intelligence
