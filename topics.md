@@ -1003,6 +1003,7 @@
 
 ## others 
 
+- [Rhoban/placo](https://github.com/Rhoban/placo) - Rhoban Planning and Control
 - [aCodeDog/awesome-loco-manipulation](https://github.com/aCodeDog/awesome-loco-manipulation) - 
 - [apexrl/HugWBC](https://github.com/apexrl/HugWBC) - 
 - [HybridRobotics/whole_body_tracking](https://github.com/HybridRobotics/whole_body_tracking) - 
