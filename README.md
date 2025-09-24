@@ -186,7 +186,7 @@
 - [purcell/exec-path-from-shell](https://github.com/purcell/exec-path-from-shell) - Make Emacs use the $PATH set up by the user's shell
 - [mickeynp/combobulate](https://github.com/mickeynp/combobulate) - Structured Editing and Navigation in Emacs with Tree-Sitter
 - [cute-jumper/bing-dict.el](https://github.com/cute-jumper/bing-dict.el) - Minimalists' Bing dictionary for Emacs
-- [jamescherti/quick-sdcv.el](https://github.com/jamescherti/quick-sdcv.el) - Emacs offline dictionary using the 'sdcv'
+- [jamescherti/quick-sdcv.el](https://github.com/jamescherti/quick-sdcv.el) - Emacs offline dictionary using 'sdcv'
 - [yibie/org-zettel-ref-mode](https://github.com/yibie/org-zettel-ref-mode) - org-zettel-ref-mode: A Zettelkasten-style literature note tool.
 - [ahyatt/llm](https://github.com/ahyatt/llm) - A package abstracting llm capabilities for emacs.
 - [s-kostyaev/ellama](https://github.com/s-kostyaev/ellama) - Ellama is a tool for interacting with large language models from Emacs.
@@ -214,7 +214,7 @@
 - [bastibe/annotate.el](https://github.com/bastibe/annotate.el) - Annotate.el
 - [armindarvish/consult-omni](https://github.com/armindarvish/consult-omni) - A Powerful Versatile Omni Search inside Emacs
 - [victorhge/iedit](https://github.com/victorhge/iedit) - Modify multiple occurrences simultaneously
-- [drym-org/symex.el](https://github.com/drym-org/symex.el) - An intuitive way to edit Lisp symbolic expressions ("symexes") structurally in Emacs
+- [drym-org/symex.el](https://github.com/drym-org/symex.el) - An expressive modal way to write code (esp. Lisp) in Emacs
 - [ethan-leba/tree-edit](https://github.com/ethan-leba/tree-edit) - 🌲   Structural editing in Emacs for any™ language!
 - [minad/cape](https://github.com/minad/cape) - 🦸cape.el - Completion At Point Extensions
 - [xenodium/ready-player](https://github.com/xenodium/ready-player) - 
