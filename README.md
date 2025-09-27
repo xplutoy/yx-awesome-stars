@@ -529,6 +529,7 @@
 
 ## Python 
 
+- [YanjieZe/GMR](https://github.com/YanjieZe/GMR) - GMR: General Motion Retargeting. Retarget human motions into diverse humanoid robots in real time on CPU. Retargeter for TWIST.
 - [apexrl/HugWBC](https://github.com/apexrl/HugWBC) - 
 - [HybridRobotics/whole_body_tracking](https://github.com/HybridRobotics/whole_body_tracking) - 
 - [ZhengyiLuo/PHC](https://github.com/ZhengyiLuo/PHC) - Official Implementation of the ICCV 2023 paper:  Perpetual Humanoid Control for Real-time Simulated Avatars
