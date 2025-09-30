@@ -99,7 +99,7 @@
 - [google-deepmind/mujoco](https://github.com/google-deepmind/mujoco) - Multi-Joint dynamics with Contact. A general purpose physics simulator.
 - [DeepRoboticsLab/Lite3_rl_deploy](https://github.com/DeepRoboticsLab/Lite3_rl_deploy) - 
 - [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “KeePass Password Safe”.
-- [deepseek-ai/FlashMLA](https://github.com/deepseek-ai/FlashMLA) - FlashMLA: Efficient MLA kernels
+- [deepseek-ai/FlashMLA](https://github.com/deepseek-ai/FlashMLA) - FlashMLA: Efficient Multi-head Latent Attention Kernels
 - [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is an analytical in-process SQL database management system
 - [catboost/catboost](https://github.com/catboost/catboost) - A fast, scalable, high performance Gradient Boosting on Decision Trees library, used for ranking, classification, regression and other machine learning tasks for Python, R, Java, C++. Supports computa
 - [dmlc/xgboost](https://github.com/dmlc/xgboost) - Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library,  for Python, R, Java, Scala, C++ and more. Runs on single machine, Hadoop, Spark, Dask, Flink and DataFlow
