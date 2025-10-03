@@ -31,6 +31,7 @@
 - [R](#r)
 - [Ruby](#ruby)
 - [Rust](#rust)
+- [SWIG](#swig)
 - [Sage](#sage)
 - [Shell](#shell)
 - [TeX](#tex)
@@ -73,7 +74,6 @@
 - [leggedrobotics/ocs2](https://github.com/leggedrobotics/ocs2) - Optimal Control for Switched Systems
 - [RobotLocomotion/drake](https://github.com/RobotLocomotion/drake) - Model-based design and verification for robotics.
 - [lnotspotl/tbai_ros](https://github.com/lnotspotl/tbai_ros) - Towards better athletic intelligence
-- [swig/swig](https://github.com/swig/swig) - SWIG is a software development tool that connects programs written in C and C++ with a variety of high-level programming languages.
 - [ANYbotics/grid_map](https://github.com/ANYbotics/grid_map) - Universal grid map library for mobile robotic mapping
 - [stephane-caron/lipm_walking_controller](https://github.com/stephane-caron/lipm_walking_controller) - Walking controller for humanoid robots based on inverted pendulum tracking
 - [google-deepmind/mujoco_mpc](https://github.com/google-deepmind/mujoco_mpc) - Real-time behaviour synthesis with MuJoCo, using Predictive Control
@@ -719,6 +719,10 @@
 - [sunface/rust-course](https://github.com/sunface/rust-course) - “连续八年成为全世界最受喜爱的语言，无 GC 也无需手动内存管理、极高的性能和安全性、过程/OO/函数式编程、优秀的包管理、JS 未来基石" — 工作之余的第二语言来试试 Rust 吧。本书拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，这可能是目前最用心的 Rust 中文学习教程 / Book
 - [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn.
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
+
+## SWIG 
+
+- [swig/swig](https://github.com/swig/swig) - SWIG is a software development tool that connects programs written in C and C++ with a variety of high-level programming languages.
 
 ## Sage 
 
