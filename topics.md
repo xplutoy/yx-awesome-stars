@@ -131,6 +131,7 @@
 - [ui](#ui)
 - [vim](#vim)
 - [virtual-reality](#virtual-reality)
+- [visualization](#visualization)
 - [vuejs](#vuejs)
 - [windows](#windows)
 - [xcode](#xcode)
@@ -683,6 +684,7 @@
 - [hyperopt/hyperopt](https://github.com/hyperopt/hyperopt) - Distributed Asynchronous Hyperparameter Optimization in Python
 - [JuliaLang/julia](https://github.com/JuliaLang/julia) - The Julia Programming Language
 - [ydataai/ydata-profiling](https://github.com/ydataai/ydata-profiling) - 1 Line of code data quality profiling & exploratory data analysis for Pandas and Spark DataFrames.
+- [pypa/pipx](https://github.com/pypa/pipx) - Install and Run Python Applications in Isolated Environments
 - [sb2nov/mac-setup](https://github.com/sb2nov/mac-setup) - Installing Development environment on macOS
 - [JamesIves/github-pages-deploy-action](https://github.com/JamesIves/github-pages-deploy-action) - 🚀 Automatically deploy your project to GitHub Pages using GitHub Actions. This action can be configured to push your production-ready code into any branch you'd like.
 - [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim framework providing solid defaults and a beautiful UI, enhancing your neovim experience.
@@ -1010,14 +1012,13 @@
 
 ## others 
 
-- [YanjieZe/GMR](https://github.com/YanjieZe/GMR) - GMR: General Motion Retargeting. Retarget human motions into diverse humanoid robots in real time on CPU. Retargeter for TWIST.
+- [YanjieZe/GMR](https://github.com/YanjieZe/GMR) - [arXiv 2025] GMR: General Motion Retargeting. Retarget human motions into diverse humanoid robots in real time on CPU. Retargeter for TWIST.
 - [Simple-Robotics/aligator](https://github.com/Simple-Robotics/aligator) - A versatile and efficient C++ library for real-time constrained trajectory optimization
 - [Rhoban/placo](https://github.com/Rhoban/placo) - Rhoban Planning and Control
 - [aCodeDog/awesome-loco-manipulation](https://github.com/aCodeDog/awesome-loco-manipulation) - 
 - [apexrl/HugWBC](https://github.com/apexrl/HugWBC) - 
 - [HybridRobotics/whole_body_tracking](https://github.com/HybridRobotics/whole_body_tracking) - 
 - [ZhengyiLuo/PHC](https://github.com/ZhengyiLuo/PHC) - Official Implementation of the ICCV 2023 paper:  Perpetual Humanoid Control for Real-time Simulated Avatars
-- [vuer-ai/vuer](https://github.com/vuer-ai/vuer) - Vuer is a 3D visualization tool for robotics and VR applications.
 - [ruanyf/weekly](https://github.com/ruanyf/weekly) - 科技爱好者周刊，每周五发布
 - [lnotspotl/tbai_ros](https://github.com/lnotspotl/tbai_ros) - Towards better athletic intelligence
 - [opendilab/awesome-diffusion-model-in-rl](https://github.com/opendilab/awesome-diffusion-model-in-rl) - A curated list of Diffusion Model in RL resources (continually updated)
@@ -1083,7 +1084,7 @@
 - [GuyTevet/motion-diffusion-model](https://github.com/GuyTevet/motion-diffusion-model) - The official PyTorch implementation of the paper "Human Motion Diffusion Model"
 - [protesilaos/emacs-lisp-elements](https://github.com/protesilaos/emacs-lisp-elements) - A book that provides a big picture view of the Emacs Lisp programming language.
 - [huggingface/lerobot](https://github.com/huggingface/lerobot) - 🤗 LeRobot: Making AI for Robotics more accessible with end-to-end learning
-- [NVIDIA/Isaac-GR00T](https://github.com/NVIDIA/Isaac-GR00T) - NVIDIA Isaac GR00T N1.5 is the world's first open foundation model for generalized humanoid robot reasoning and skills.
+- [NVIDIA/Isaac-GR00T](https://github.com/NVIDIA/Isaac-GR00T) - NVIDIA Isaac GR00T N1.5 -  A Foundation Model for Generalist Robots.
 - [LeCAR-Lab/human2humanoid](https://github.com/LeCAR-Lab/human2humanoid) - [IROS 2024] Learning Human-to-Humanoid Real-Time Whole-Body Teleoperation.                    [CoRL 2024] OmniH2O: Universal and Dexterous Human-to-Humanoid Whole-Body Teleoperation and Learning
 - [Manaro-Alpha/DreamWaQ](https://github.com/Manaro-Alpha/DreamWaQ) - 
 - [MArpogaus/auto-side-windows](https://github.com/MArpogaus/auto-side-windows) - 
@@ -1636,6 +1637,13 @@
 ## virtual-reality 
 
 - [bulletphysics/bullet3](https://github.com/bulletphysics/bullet3) - Bullet Physics SDK: real-time collision detection and multi-physics simulation for VR, games, visual effects, robotics, machine learning etc.
+
+## visualization 
+
+- [vuer-ai/vuer](https://github.com/vuer-ai/vuer) - Vuer is a 3D visualization tool for robotics and VR applications.
+- [rerun-io/rerun](https://github.com/rerun-io/rerun) - Visualize streams of multimodal data. Free, fast, easy to use, and simple to integrate. Built in Rust.
+- [DistrictDataLabs/yellowbrick](https://github.com/DistrictDataLabs/yellowbrick) - Visual analysis and diagnostic tools to facilitate machine learning model selection.
+- [plotly/plotly.py](https://github.com/plotly/plotly.py) - The interactive graphing library for Python :sparkles:
 
 ## vuejs 
 
