@@ -397,7 +397,7 @@
 - [jmtomczak/intro_dgm](https://github.com/jmtomczak/intro_dgm) - "Deep Generative Modeling": Introductory Examples
 - [google/brax](https://github.com/google/brax) - Massively parallel rigidbody physics simulation on accelerator hardware.
 - [google-deepmind/mujoco_playground](https://github.com/google-deepmind/mujoco_playground) - An open-source library for GPU-accelerated robot learning and sim-to-real transfer.
-- [NVIDIA/Isaac-GR00T](https://github.com/NVIDIA/Isaac-GR00T) - NVIDIA Isaac GR00T N1.5 is the world's first open foundation model for generalized humanoid robot reasoning and skills.
+- [NVIDIA/Isaac-GR00T](https://github.com/NVIDIA/Isaac-GR00T) - NVIDIA Isaac GR00T N1.5 -  A Foundation Model for Generalist Robots.
 - [IDEA-Research/Grounded-Segment-Anything](https://github.com/IDEA-Research/Grounded-Segment-Anything) - Grounded SAM: Marrying Grounding DINO with Segment Anything & Stable Diffusion & Recognize Anything - Automatically Detect , Segment and Generate Anything
 - [karpathy/micrograd](https://github.com/karpathy/micrograd) - A tiny scalar-valued autograd engine and a neural net library on top of it with PyTorch-like API
 - [FoundationVision/VAR](https://github.com/FoundationVision/VAR) - [NeurIPS 2024 Best Paper Award][GPT beats diffusion🔥] [scaling laws in visual generation📈] Official impl. of "Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale Prediction". An *
@@ -529,7 +529,7 @@
 
 ## Python 
 
-- [YanjieZe/GMR](https://github.com/YanjieZe/GMR) - GMR: General Motion Retargeting. Retarget human motions into diverse humanoid robots in real time on CPU. Retargeter for TWIST.
+- [YanjieZe/GMR](https://github.com/YanjieZe/GMR) - [arXiv 2025] GMR: General Motion Retargeting. Retarget human motions into diverse humanoid robots in real time on CPU. Retargeter for TWIST.
 - [apexrl/HugWBC](https://github.com/apexrl/HugWBC) - 
 - [HybridRobotics/whole_body_tracking](https://github.com/HybridRobotics/whole_body_tracking) - 
 - [ZhengyiLuo/PHC](https://github.com/ZhengyiLuo/PHC) - Official Implementation of the ICCV 2023 paper:  Perpetual Humanoid Control for Real-time Simulated Avatars
