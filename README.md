@@ -389,6 +389,7 @@
 
 ## Jupyter Notebook 
 
+- [Albusgive/mujoco_learning](https://github.com/Albusgive/mujoco_learning) - 
 - [google/evojax](https://github.com/google/evojax) - 
 - [pablormier/yabox](https://github.com/pablormier/yabox) - Yet another black-box optimization library for Python
 - [marianorivera/How2TrainUrVAE](https://github.com/marianorivera/How2TrainUrVAE) - How To Train Your VAE CODE
