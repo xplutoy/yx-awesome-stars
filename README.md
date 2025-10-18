@@ -389,6 +389,7 @@
 
 ## Jupyter Notebook 
 
+- [zju3dv/GVHMR](https://github.com/zju3dv/GVHMR) - Code for "GVHMR: World-Grounded Human Motion Recovery via Gravity-View Coordinates", Siggraph Asia 2024
 - [Albusgive/mujoco_learning](https://github.com/Albusgive/mujoco_learning) - 
 - [google/evojax](https://github.com/google/evojax) - 
 - [pablormier/yabox](https://github.com/pablormier/yabox) - Yet another black-box optimization library for Python
@@ -450,7 +451,7 @@
 ## MDX 
 
 - [trigaten/Learn_Prompting](https://github.com/trigaten/Learn_Prompting) - Prompt Engineering, Generative AI, and LLM Guide by Learn Prompting | Join our discord for the largest Prompt Engineering learning community
-- [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering
+- [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.
 
 ## Others 
 
