@@ -389,6 +389,7 @@
 
 ## Jupyter Notebook 
 
+- [petercorke/RVC3-python](https://github.com/petercorke/RVC3-python) - Code examples for Robotics, Vision & Control 3rd edition in Python
 - [zju3dv/GVHMR](https://github.com/zju3dv/GVHMR) - Code for "GVHMR: World-Grounded Human Motion Recovery via Gravity-View Coordinates", Siggraph Asia 2024
 - [Albusgive/mujoco_learning](https://github.com/Albusgive/mujoco_learning) - 
 - [google/evojax](https://github.com/google/evojax) - 
