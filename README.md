@@ -9,6 +9,7 @@
 - [AutoHotkey](#autohotkey)
 - [Batchfile](#batchfile)
 - [C](#c)
+- [C#](#c#)
 - [C++](#c++)
 - [CMake](#cmake)
 - [CSS](#css)
@@ -27,6 +28,7 @@
 - [MATLAB](#matlab)
 - [MDX](#mdx)
 - [Others](#others)
+- [PostScript](#postscript)
 - [Python](#python)
 - [R](#r)
 - [Ruby](#ruby)
@@ -66,6 +68,10 @@
 - [freebsd/freebsd-src](https://github.com/freebsd/freebsd-src) - The FreeBSD src tree publish-only repository. Experimenting with 'simple' pull requests....
 - [troglobit/mg](https://github.com/troglobit/mg) - Micro (GNU) Emacs-like text editor ❤️ public-domain
 - [pgvector/pgvector](https://github.com/pgvector/pgvector) - Open-source vector similarity search for Postgres
+
+## C# # 
+
+- [mxgmn/WaveFunctionCollapse](https://github.com/mxgmn/WaveFunctionCollapse) - Bitmap & tilemap generation from a single example with the help of ideas from quantum mechanics
 
 ## C++ 
 
@@ -530,8 +536,13 @@
 - [he-y/Awesome-Pruning](https://github.com/he-y/Awesome-Pruning) - A curated list of neural network pruning resources.
 - [xialeiliu/Awesome-Incremental-Learning](https://github.com/xialeiliu/Awesome-Incremental-Learning) - Awesome Incremental Learning
 
+## PostScript 
+
+- [Foundations-of-Computer-Vision/visionbook](https://github.com/Foundations-of-Computer-Vision/visionbook) - &lt;Foundations of Computer Vision&gt; Book
+
 ## Python 
 
+- [leggedrobotics/terrain-generator](https://github.com/leggedrobotics/terrain-generator) - 
 - [YanjieZe/GMR](https://github.com/YanjieZe/GMR) - [arXiv 2025] GMR: General Motion Retargeting. Retarget human motions into diverse humanoid robots in real time on CPU. Retargeter for TWIST.
 - [apexrl/HugWBC](https://github.com/apexrl/HugWBC) - 
 - [HybridRobotics/whole_body_tracking](https://github.com/HybridRobotics/whole_body_tracking) - 
