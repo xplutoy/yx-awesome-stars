@@ -543,6 +543,7 @@
 
 ## Python 
 
+- [DataFlux-Robot/FluxWeave](https://github.com/DataFlux-Robot/FluxWeave) - Urdf tool
 - [leggedrobotics/terrain-generator](https://github.com/leggedrobotics/terrain-generator) - 
 - [YanjieZe/GMR](https://github.com/YanjieZe/GMR) - [arXiv 2025] GMR: General Motion Retargeting. Retarget human motions into diverse humanoid robots in real time on CPU. Retargeter for TWIST.
 - [apexrl/HugWBC](https://github.com/apexrl/HugWBC) - 
