@@ -302,7 +302,7 @@
 - [jerrypnz/.emacs.d](https://github.com/jerrypnz/.emacs.d) - My personal emacs configuration
 - [jerrypnz/major-mode-hydra.el](https://github.com/jerrypnz/major-mode-hydra.el) - Spacemacs-esque major mode leader key powered by Hydra
 - [Malabarba/elisp-bug-hunter](https://github.com/Malabarba/elisp-bug-hunter) - Hunt down errors in elisp files.
-- [mkcms/interactive-align](https://github.com/mkcms/interactive-align) - Interactively align by regular expression in emacs
+- [mkcms/ialign](https://github.com/mkcms/ialign) - Interactively align by regular expression in emacs
 - [casouri/valign](https://github.com/casouri/valign) - Pixel-perfect visual alignment for Org and Markdown tables.
 - [nobiot/org-transclusion](https://github.com/nobiot/org-transclusion) - Emacs package to enable transclusion with Org Mode
 - [manateelazycat/lazycat-emacs](https://github.com/manateelazycat/lazycat-emacs) - Andy Stewart's emacs
