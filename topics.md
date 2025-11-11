@@ -1039,6 +1039,7 @@
 
 ## others 
 
+- [chungmin99/pyroki](https://github.com/chungmin99/pyroki) - A Modular Toolkit for Robot Kinematic Optimization
 - [DataFlux-Robot/FluxWeave](https://github.com/DataFlux-Robot/FluxWeave) - Urdf tool
 - [Foundations-of-Computer-Vision/visionbook](https://github.com/Foundations-of-Computer-Vision/visionbook) - &lt;Foundations of Computer Vision&gt; Book
 - [leggedrobotics/terrain-generator](https://github.com/leggedrobotics/terrain-generator) - 
@@ -1124,7 +1125,7 @@
 - [bluzky/relysium](https://github.com/bluzky/relysium) - Your AI co-developer. Bring joy to coding!
 - [ndwarshuis/org-sql](https://github.com/ndwarshuis/org-sql) - SQL backend for Emacs Org-Mode
 - [meedstrom/org-mem](https://github.com/meedstrom/org-mem) - Turn thousands of Org files into a database in seconds
-- [DeepRoboticsLab/Lite3_rl_deploy](https://github.com/DeepRoboticsLab/Lite3_rl_deploy) - 
+- [DeepRoboticsLab/Lite3_rl_deploy](https://github.com/DeepRoboticsLab/Lite3_rl_deploy) - Sim-to-sim and sim-to-real deployment for Lite3 Robot
 - [apexrl/Diff4RLSurvey](https://github.com/apexrl/Diff4RLSurvey) - This repository contains a collection of resources and papers on Diffusion Models for RL, accompanying the paper "Diffusion Models for Reinforcement Learning: A Survey"
 - [Kedreamix/Awesome-Talking-Head-Synthesis](https://github.com/Kedreamix/Awesome-Talking-Head-Synthesis) - 💬 An extensive collection of exceptional resources dedicated to the captivating world of talking face synthesis!   ⭐ If you find this repo useful, please give it a star! 🤩
 - [IDEA-Research/Grounded-Segment-Anything](https://github.com/IDEA-Research/Grounded-Segment-Anything) - Grounded SAM: Marrying Grounding DINO with Segment Anything & Stable Diffusion & Recognize Anything - Automatically Detect , Segment and Generate Anything
