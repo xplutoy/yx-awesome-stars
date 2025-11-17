@@ -246,7 +246,7 @@
 - [armindarvish/consult-web](https://github.com/armindarvish/consult-web) - Powerful Web and Omni Search inside Emacs
 - [protesilaos/consult-denote](https://github.com/protesilaos/consult-denote) - Use Consult in tandem with Denote
 - [kickingvegas/casual-calc](https://github.com/kickingvegas/casual-calc) - Casual Calc - An opinionated Transient user interface for Emacs Calc.
-- [karthink/gptel](https://github.com/karthink/gptel) - A simple LLM client for Emacs
+- [karthink/gptel](https://github.com/karthink/gptel) - A simple, extensible LLM client for Emacs
 - [lorniu/mpvi](https://github.com/lorniu/mpvi) - Watch video and take interactive video notes in Emacs.
 - [tecosaur/org-pandoc-import](https://github.com/tecosaur/org-pandoc-import) - Mirror of https://git.tecosaur.net/tec/org-pandoc-import
 - [jdtsmith/speedrect](https://github.com/jdtsmith/speedrect) - Quick key bindings and other tools for rectangle-mark-mode
