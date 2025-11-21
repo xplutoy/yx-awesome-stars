@@ -75,6 +75,7 @@
 
 ## C++ 
 
+- [ori-drs/plane_seg](https://github.com/ori-drs/plane_seg) - Plane Segmentation Utilites
 - [Simple-Robotics/aligator](https://github.com/Simple-Robotics/aligator) - A versatile and efficient C++ library for real-time constrained trajectory optimization
 - [Rhoban/placo](https://github.com/Rhoban/placo) - Rhoban Planning and Control
 - [leggedrobotics/ocs2](https://github.com/leggedrobotics/ocs2) - Optimal Control for Switched Systems
@@ -463,6 +464,7 @@
 
 ## Others 
 
+- [ggambetta/computer-graphics-from-scratch](https://github.com/ggambetta/computer-graphics-from-scratch) - Text, diagrams, and source code for the book Computer Graphics from scratch.
 - [hzwer/Awesome-Optical-Flow](https://github.com/hzwer/Awesome-Optical-Flow) - This is a list of awesome paper about optical flow and related work.
 - [ruanyf/weekly](https://github.com/ruanyf/weekly) - 科技爱好者周刊，每周五发布
 - [opendilab/awesome-diffusion-model-in-rl](https://github.com/opendilab/awesome-diffusion-model-in-rl) - A curated list of Diffusion Model in RL resources (continually updated)
@@ -543,6 +545,8 @@
 
 ## Python 
 
+- [Renforce-Dynamics/trackerLab](https://github.com/Renforce-Dynamics/trackerLab) - Unifying IsaacLab and Whole-Body Control in One Modular Framework
+- [Renforce-Dynamics/beyondAMP](https://github.com/Renforce-Dynamics/beyondAMP) - One-Step Integration of AMP into IsaacLab
 - [AtsushiSakai/PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics) - Python sample codes and textbook for robotics algorithms.
 - [chungmin99/pyroki](https://github.com/chungmin99/pyroki) - A Modular Toolkit for Robot Kinematic Optimization
 - [DataFlux-Robot/FluxWeave](https://github.com/DataFlux-Robot/FluxWeave) - Urdf tool
@@ -716,7 +720,7 @@
 
 ## Rust 
 
-- [rerun-io/rerun](https://github.com/rerun-io/rerun) - Visualize streams of multimodal data. Free, fast, easy to use, and simple to integrate. Built in Rust.
+- [rerun-io/rerun](https://github.com/rerun-io/rerun) - An open source SDK for logging, storing, querying, and visualizing multimodal and multi-rate data
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [huacnlee/autocorrect](https://github.com/huacnlee/autocorrect) - A linter and formatter to help you to improve copywriting, correct spaces, words, and punctuations between CJK (Chinese, Japanese, Korean).
