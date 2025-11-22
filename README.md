@@ -303,7 +303,7 @@
 - [jerrypnz/.emacs.d](https://github.com/jerrypnz/.emacs.d) - My personal emacs configuration
 - [jerrypnz/major-mode-hydra.el](https://github.com/jerrypnz/major-mode-hydra.el) - Spacemacs-esque major mode leader key powered by Hydra
 - [Malabarba/elisp-bug-hunter](https://github.com/Malabarba/elisp-bug-hunter) - Hunt down errors in elisp files.
-- [mkcms/ialign](https://github.com/mkcms/ialign) - Interactively align by regular expression in emacs
+- [mkcms/ialign](https://github.com/mkcms/ialign) - Interactively align by regular expression in Emacs
 - [casouri/valign](https://github.com/casouri/valign) - Pixel-perfect visual alignment for Org and Markdown tables.
 - [nobiot/org-transclusion](https://github.com/nobiot/org-transclusion) - Emacs package to enable transclusion with Org Mode
 - [manateelazycat/lazycat-emacs](https://github.com/manateelazycat/lazycat-emacs) - Andy Stewart's emacs
@@ -464,6 +464,7 @@
 
 ## Others 
 
+- [kscalelabs/kbot](https://github.com/kscalelabs/kbot) - The K-Scale Robot
 - [ggambetta/computer-graphics-from-scratch](https://github.com/ggambetta/computer-graphics-from-scratch) - Text, diagrams, and source code for the book Computer Graphics from scratch.
 - [hzwer/Awesome-Optical-Flow](https://github.com/hzwer/Awesome-Optical-Flow) - This is a list of awesome paper about optical flow and related work.
 - [ruanyf/weekly](https://github.com/ruanyf/weekly) - 科技爱好者周刊，每周五发布
