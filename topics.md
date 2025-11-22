@@ -618,7 +618,7 @@
 - [laishulu/emacs-smart-input-source](https://github.com/laishulu/emacs-smart-input-source) - Minimize manual input source (input method) switching.
 - [rougier/nano-emacs](https://github.com/rougier/nano-emacs) - GNU Emacs / N Λ N O - Emacs made simple
 - [meow-edit/meow](https://github.com/meow-edit/meow) - Yet another modal editing on Emacs / 猫态编辑
-- [mkcms/ialign](https://github.com/mkcms/ialign) - Interactively align by regular expression in emacs
+- [mkcms/ialign](https://github.com/mkcms/ialign) - Interactively align by regular expression in Emacs
 - [nobiot/org-transclusion](https://github.com/nobiot/org-transclusion) - Emacs package to enable transclusion with Org Mode
 - [emacs-evil/evil-collection](https://github.com/emacs-evil/evil-collection) - A set of keybindings for evil-mode
 - [emacs-evil/evil](https://github.com/emacs-evil/evil) - The extensible vi layer for Emacs.
@@ -1046,6 +1046,7 @@
 
 ## others 
 
+- [kscalelabs/kbot](https://github.com/kscalelabs/kbot) - The K-Scale Robot
 - [ori-drs/plane_seg](https://github.com/ori-drs/plane_seg) - Plane Segmentation Utilites
 - [ggambetta/computer-graphics-from-scratch](https://github.com/ggambetta/computer-graphics-from-scratch) - Text, diagrams, and source code for the book Computer Graphics from scratch.
 - [chungmin99/pyroki](https://github.com/chungmin99/pyroki) - A Modular Toolkit for Robot Kinematic Optimization
