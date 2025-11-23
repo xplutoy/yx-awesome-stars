@@ -373,6 +373,7 @@
 
 ## computer-vision 
 
+- [colmap/colmap](https://github.com/colmap/colmap) - COLMAP - Structure-from-Motion and Multi-View Stereo
 - [hzwer/Awesome-Optical-Flow](https://github.com/hzwer/Awesome-Optical-Flow) - This is a list of awesome paper about optical flow and related work.
 - [rerun-io/rerun](https://github.com/rerun-io/rerun) - An open source SDK for logging, storing, querying, and visualizing multimodal and multi-rate data
 - [ceres-solver/ceres-solver](https://github.com/ceres-solver/ceres-solver) - A large scale non-linear optimization library
