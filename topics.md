@@ -9,6 +9,7 @@
 - [ai](#ai)
 - [ai-agents](#ai-agents)
 - [algorithm](#algorithm)
+- [algorithms](#algorithms)
 - [analytics](#analytics)
 - [android](#android)
 - [artificial-intelligence](#artificial-intelligence)
@@ -30,6 +31,7 @@
 - [clash](#clash)
 - [cli](#cli)
 - [clojure](#clojure)
+- [command-line](#command-line)
 - [compiler](#compiler)
 - [computer-science](#computer-science)
 - [computer-vision](#computer-vision)
@@ -144,6 +146,7 @@
 
 ## 3d 
 
+- [artivis/manif](https://github.com/artivis/manif) - A small C++11 header-only library for Lie theory.
 - [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) - Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.
 - [ssloy/tinyraycaster](https://github.com/ssloy/tinyraycaster) - 486 lines of C++: old-school FPS in a weekend
 
@@ -180,6 +183,11 @@
 
 - [AtsushiSakai/PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics) - Python sample codes and textbook for robotics algorithms.
 - [mxgmn/WaveFunctionCollapse](https://github.com/mxgmn/WaveFunctionCollapse) - Bitmap & tilemap generation from a single example with the help of ideas from quantum mechanics
+
+## algorithms 
+
+- [pablormier/yabox](https://github.com/pablormier/yabox) - Yet another black-box optimization library for Python
+- [amusi/AI-Job-Notes](https://github.com/amusi/AI-Job-Notes) - AI算法岗求职攻略（涵盖准备攻略、刷题指南、内推和AI公司清单等资料）
 
 ## analytics 
 
@@ -278,6 +286,7 @@
 
 ## c-plus-plus 
 
+- [artivis/manif](https://github.com/artivis/manif) - A small C++11 header-only library for Lie theory.
 - [stephane-caron/lipm_walking_controller](https://github.com/stephane-caron/lipm_walking_controller) - Walking controller for humanoid robots based on inverted pendulum tracking
 - [ceres-solver/ceres-solver](https://github.com/ceres-solver/ceres-solver) - A large scale non-linear optimization library
 - [ssloy/tinyraycaster](https://github.com/ssloy/tinyraycaster) - 486 lines of C++: old-school FPS in a weekend
@@ -355,6 +364,16 @@
 - [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap
 - [abo-abo/lispy](https://github.com/abo-abo/lispy) - Short and sweet LISP editing
 
+## command-line 
+
+- [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
+- [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
+- [jamescherti/quick-sdcv.el](https://github.com/jamescherti/quick-sdcv.el) - Emacs offline dictionary using 'sdcv'
+- [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
+- [afc163/fanyi](https://github.com/afc163/fanyi) - A 🇨🇳 and 🇺🇸 translator in your command line
+- [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
+- [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
+
 ## compiler 
 
 - [merrymercy/awesome-tensor-compilers](https://github.com/merrymercy/awesome-tensor-compilers) - A list of awesome compiler projects and papers for tensor computation and deep learning.
@@ -373,6 +392,7 @@
 
 ## computer-vision 
 
+- [artivis/manif](https://github.com/artivis/manif) - A small C++11 header-only library for Lie theory.
 - [colmap/colmap](https://github.com/colmap/colmap) - COLMAP - Structure-from-Motion and Multi-View Stereo
 - [hzwer/Awesome-Optical-Flow](https://github.com/hzwer/Awesome-Optical-Flow) - This is a list of awesome paper about optical flow and related work.
 - [rerun-io/rerun](https://github.com/rerun-io/rerun) - An open source SDK for logging, storing, querying, and visualizing multimodal and multi-rate data
@@ -1141,7 +1161,7 @@
 - [Kedreamix/Awesome-Talking-Head-Synthesis](https://github.com/Kedreamix/Awesome-Talking-Head-Synthesis) - 💬 An extensive collection of exceptional resources dedicated to the captivating world of talking face synthesis!   ⭐ If you find this repo useful, please give it a star! 🤩
 - [IDEA-Research/Grounded-Segment-Anything](https://github.com/IDEA-Research/Grounded-Segment-Anything) - Grounded SAM: Marrying Grounding DINO with Segment Anything & Stable Diffusion & Recognize Anything - Automatically Detect , Segment and Generate Anything
 - [fan-ziqi/robot_lab](https://github.com/fan-ziqi/robot_lab) - RL Extension Library for Robots, Based on IsaacLab.
-- [leggedrobotics/rsl_rl](https://github.com/leggedrobotics/rsl_rl) - A fast and simple implementation of RL algorithms, designed to run fully on GPU.
+- [leggedrobotics/rsl_rl](https://github.com/leggedrobotics/rsl_rl) - A fast and simple implementation of learning algorithms for robotics.
 - [PKUFlyingPig/cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning) - 计算机自学指南
 - [lorniu/pdd.el](https://github.com/lorniu/pdd.el) - HTTP library & Async Toolkit for Emacs
 - [ginqi7/org-reminders](https://github.com/ginqi7/org-reminders) - An Emacs plugin for interacting between macOS Reminders and org mode.
@@ -1489,6 +1509,7 @@
 
 ## python3 
 
+- [artivis/manif](https://github.com/artivis/manif) - A small C++11 header-only library for Lie theory.
 - [pablormier/yabox](https://github.com/pablormier/yabox) - Yet another black-box optimization library for Python
 
 ## pytorch 
@@ -1551,6 +1572,7 @@
 
 ## robotics 
 
+- [artivis/manif](https://github.com/artivis/manif) - A small C++11 header-only library for Lie theory.
 - [Renforce-Dynamics/trackerLab](https://github.com/Renforce-Dynamics/trackerLab) - Unifying IsaacLab and Whole-Body Control in One Modular Framework
 - [Renforce-Dynamics/beyondAMP](https://github.com/Renforce-Dynamics/beyondAMP) - One-Step Integration of AMP into IsaacLab
 - [AtsushiSakai/PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics) - Python sample codes and textbook for robotics algorithms.
