@@ -75,6 +75,7 @@
 
 ## C++ 
 
+- [artivis/manif](https://github.com/artivis/manif) - A small C++11 header-only library for Lie theory.
 - [colmap/colmap](https://github.com/colmap/colmap) - COLMAP - Structure-from-Motion and Multi-View Stereo
 - [ori-drs/plane_seg](https://github.com/ori-drs/plane_seg) - Plane Segmentation Utilites
 - [Simple-Robotics/aligator](https://github.com/Simple-Robotics/aligator) - A versatile and efficient C++ library for real-time constrained trajectory optimization
@@ -371,6 +372,7 @@
 
 ## JavaScript 
 
+- [vuer-ai/vuer](https://github.com/vuer-ai/vuer) - Vuer is a 3D visualization tool for robotics and VR applications.
 - [danielmiessler/Fabric](https://github.com/danielmiessler/Fabric) - Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
 - [alphapapa/emacs-package-dev-handbook](https://github.com/alphapapa/emacs-package-dev-handbook) - An Emacs package development handbook. Built with Emacs, by Emacs package developers, for Emacs package developers.
 - [cohomolo-gy/haskell-resources](https://github.com/cohomolo-gy/haskell-resources) - A List of Foundational Haskell Papers
@@ -556,7 +558,6 @@
 - [apexrl/HugWBC](https://github.com/apexrl/HugWBC) - 
 - [HybridRobotics/whole_body_tracking](https://github.com/HybridRobotics/whole_body_tracking) - 
 - [ZhengyiLuo/PHC](https://github.com/ZhengyiLuo/PHC) - Official Implementation of the ICCV 2023 paper:  Perpetual Humanoid Control for Real-time Simulated Avatars
-- [vuer-ai/vuer](https://github.com/vuer-ai/vuer) - Vuer is a 3D visualization tool for robotics and VR applications.
 - [Open-X-Humanoid/TienKung-Lab](https://github.com/Open-X-Humanoid/TienKung-Lab) - Tien Kung-Lab: Direct IsaacLab Workflow for Legged Robots
 - [LeCAR-Lab/FALCON](https://github.com/LeCAR-Lab/FALCON) - Official implementation of "FALCON: Learning Force-Adaptive Humanoid Loco-Manipulation"
 - [forgi86/pyMPC](https://github.com/forgi86/pyMPC) - A Model Predictive Control (MPC) Python library based on the OSQP solver.
@@ -608,7 +609,7 @@
 - [fan-ziqi/robot_lab](https://github.com/fan-ziqi/robot_lab) - RL Extension Library for Robots, Based on IsaacLab.
 - [isaac-sim/IsaacLab](https://github.com/isaac-sim/IsaacLab) - Unified framework for robot learning built on NVIDIA Isaac Sim
 - [arvkevi/kneed](https://github.com/arvkevi/kneed) - Knee point detection in Python :chart_with_upwards_trend:
-- [leggedrobotics/rsl_rl](https://github.com/leggedrobotics/rsl_rl) - A fast and simple implementation of RL algorithms, designed to run fully on GPU.
+- [leggedrobotics/rsl_rl](https://github.com/leggedrobotics/rsl_rl) - A fast and simple implementation of learning algorithms for robotics.
 - [browser-use/browser-use](https://github.com/browser-use/browser-use) - 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
 - [subframe7536/maple-font](https://github.com/subframe7536/maple-font) - Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font icons for IDE and terminal, fine-grained customization options. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1，细粒度的自定义选项
 - [Toni-SM/skrl](https://github.com/Toni-SM/skrl) - Modular Reinforcement Learning (RL) library (implemented in PyTorch, JAX, and NVIDIA Warp) with support for Gymnasium/Gym, NVIDIA Isaac Lab, Brax and other environments
