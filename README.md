@@ -75,6 +75,7 @@
 
 ## C++ 
 
+- [nvidia-isaac/nvblox](https://github.com/nvidia-isaac/nvblox) - A GPU-accelerated TSDF and ESDF library for robots equipped with RGB-D cameras.
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
 - [ben-strasser/fast-cpp-csv-parser](https://github.com/ben-strasser/fast-cpp-csv-parser) - fast-cpp-csv-parser
 - [artivis/manif](https://github.com/artivis/manif) - A small C++11 header-only library for Lie theory.
