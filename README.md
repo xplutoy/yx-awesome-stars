@@ -579,7 +579,7 @@
 - [TeleHuman/PBHC](https://github.com/TeleHuman/PBHC) - Official Implementation of "KungfuBot: Physics-Based Humanoid Whole-Body Control for Learning Highly-Dynamic Skills"
 - [InternRobotics/HoST](https://github.com/InternRobotics/HoST) - [RSS 2025 Best Systems Paper Finalist] 💐Official implementation of "Learning Humanoid Standing-up Control across Diverse Postures"
 - [facebookresearch/theseus](https://github.com/facebookresearch/theseus) - A library for differentiable nonlinear optimization
-- [ami-iit/amp-rsl-rl](https://github.com/ami-iit/amp-rsl-rl) - 🔁 AMP-RSL-RL: Adversarial Motion Priors for robotic RL (PPO + motion imitation)
+- [gbionics/amp-rsl-rl](https://github.com/gbionics/amp-rsl-rl) - 🔁 AMP-RSL-RL: Adversarial Motion Priors for robotic RL (PPO + motion imitation)
 - [silvery107/rl-mpc-locomotion](https://github.com/silvery107/rl-mpc-locomotion) - Deep RL for MPC control of Quadruped Robot Locomotion
 - [roboterax/humanoid-gym](https://github.com/roboterax/humanoid-gym) - Humanoid-Gym: Reinforcement Learning for Humanoid Robot with Zero-Shot Sim2Real Transfer https://arxiv.org/abs/2404.05695
 - [nicklashansen/tdmpc2](https://github.com/nicklashansen/tdmpc2) - Code for "TD-MPC2: Scalable, Robust World Models for Continuous Control"
