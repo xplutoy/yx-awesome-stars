@@ -1116,6 +1116,7 @@
 
 ## others 
 
+- [coal-library/coal](https://github.com/coal-library/coal) - An extension of the Flexible Collision Library
 - [Tonghe-Zhang/Awesome-Flow-RL-Papers](https://github.com/Tonghe-Zhang/Awesome-Flow-RL-Papers) - A collection of paper/projects that trains flow matching model/policies via RL.
 - [leggedrobotics/pace-sim2real](https://github.com/leggedrobotics/pace-sim2real) - PACE: A systematic approach for sim-to-real transfer of legged robots, identifying actuator and joint dynamics with standard joint encoders.
 - [nvidia-isaac/nvblox](https://github.com/nvidia-isaac/nvblox) - A GPU-accelerated TSDF and ESDF library for robots equipped with RGB-D cameras.
@@ -1505,6 +1506,7 @@
 
 ## python 
 
+- [qpsolvers/qpsolvers](https://github.com/qpsolvers/qpsolvers) - Quadratic programming solvers in Python with a unified API
 - [AtsushiSakai/PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics) - Python sample codes and textbook for robotics algorithms.
 - [rerun-io/rerun](https://github.com/rerun-io/rerun) - An open source SDK for logging, storing, querying, and visualizing multimodal and multi-rate data
 - [pablormier/yabox](https://github.com/pablormier/yabox) - Yet another black-box optimization library for Python
@@ -1644,6 +1646,7 @@
 
 ## robotics 
 
+- [loco-3d/crocoddyl](https://github.com/loco-3d/crocoddyl) - Crocoddyl is an optimal control library for robot control under contact sequence. Its solver is based on various efficient Differential Dynamic Programming (DDP)-like algorithms
 - [zubair-irshad/Awesome-Implicit-NeRF-Robotics](https://github.com/zubair-irshad/Awesome-Implicit-NeRF-Robotics) - A comprehensive list of Implicit Representations and NeRF papers relating to Robotics/RL domain, including papers, codes, and related websites
 - [artivis/manif](https://github.com/artivis/manif) - A small C++11 header-only library for Lie theory.
 - [Renforce-Dynamics/trackerLab](https://github.com/Renforce-Dynamics/trackerLab) - TrackerLab is a cutting-edge modular framework for humanoid motion retargeting, trajectory tracking, and skill-level control, built on top of IsaacLab.
