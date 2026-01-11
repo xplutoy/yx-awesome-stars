@@ -75,6 +75,8 @@
 
 ## C++ 
 
+- [coal-library/coal](https://github.com/coal-library/coal) - An extension of the Flexible Collision Library
+- [loco-3d/crocoddyl](https://github.com/loco-3d/crocoddyl) - Crocoddyl is an optimal control library for robot control under contact sequence. Its solver is based on various efficient Differential Dynamic Programming (DDP)-like algorithms
 - [nvidia-isaac/nvblox](https://github.com/nvidia-isaac/nvblox) - A GPU-accelerated TSDF and ESDF library for robots equipped with RGB-D cameras.
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
 - [ben-strasser/fast-cpp-csv-parser](https://github.com/ben-strasser/fast-cpp-csv-parser) - fast-cpp-csv-parser
@@ -550,6 +552,7 @@
 
 ## Python 
 
+- [qpsolvers/qpsolvers](https://github.com/qpsolvers/qpsolvers) - Quadratic programming solvers in Python with a unified API
 - [leggedrobotics/pace-sim2real](https://github.com/leggedrobotics/pace-sim2real) - PACE: A systematic approach for sim-to-real transfer of legged robots, identifying actuator and joint dynamics with standard joint encoders.
 - [Renforce-Dynamics/trackerLab](https://github.com/Renforce-Dynamics/trackerLab) - TrackerLab is a cutting-edge modular framework for humanoid motion retargeting, trajectory tracking, and skill-level control, built on top of IsaacLab.
 - [Renforce-Dynamics/beyondAMP](https://github.com/Renforce-Dynamics/beyondAMP) - beyondAMP provides a unified pipeline to integrate Adversarial Motion Priors (AMP) into any IsaacLab robot setup, with minimal modifications and full compatibility with custom robot designs.
