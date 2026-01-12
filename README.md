@@ -468,6 +468,7 @@
 
 ## Others 
 
+- [BaiShuanghao/Awesome-Robotics-Manipulation](https://github.com/BaiShuanghao/Awesome-Robotics-Manipulation) - A comprehensive list of papers about Robot Manipulation, including papers, codes, and related websites.
 - [Tonghe-Zhang/Awesome-Flow-RL-Papers](https://github.com/Tonghe-Zhang/Awesome-Flow-RL-Papers) - A collection of paper/projects that trains flow matching model/policies via RL.
 - [zubair-irshad/Awesome-Implicit-NeRF-Robotics](https://github.com/zubair-irshad/Awesome-Implicit-NeRF-Robotics) - A comprehensive list of Implicit Representations and NeRF papers relating to Robotics/RL domain, including papers, codes, and related websites
 - [StarCycle/Awesome-Embodied-AI-Job](https://github.com/StarCycle/Awesome-Embodied-AI-Job) - Lumina Robotics Talent Call | Lumina社区具身智能招贤榜 | A list for Embodied AI / Robotics Jobs (PhD, RA, intern, full-time, etc
@@ -552,6 +553,8 @@
 
 ## Python 
 
+- [Genesis-Embodied-AI/Genesis](https://github.com/Genesis-Embodied-AI/Genesis) - A generative world for general-purpose robotics & embodied AI learning.
+- [haosulab/ManiSkill](https://github.com/haosulab/ManiSkill) - SAPIEN Manipulation Skill Framework, an open source GPU parallelized robotics simulator and benchmark, led by Hillbot, Inc.
 - [qpsolvers/qpsolvers](https://github.com/qpsolvers/qpsolvers) - Quadratic programming solvers in Python with a unified API
 - [leggedrobotics/pace-sim2real](https://github.com/leggedrobotics/pace-sim2real) - PACE: A systematic approach for sim-to-real transfer of legged robots, identifying actuator and joint dynamics with standard joint encoders.
 - [Renforce-Dynamics/trackerLab](https://github.com/Renforce-Dynamics/trackerLab) - TrackerLab is a cutting-edge modular framework for humanoid motion retargeting, trajectory tracking, and skill-level control, built on top of IsaacLab.
