@@ -468,6 +468,7 @@
 
 ## Others 
 
+- [tsinghua-fib-lab/World-Model](https://github.com/tsinghua-fib-lab/World-Model) - [ACM CSUR 2025] Understanding World or Predicting Future? A Comprehensive Survey of World Models
 - [BaiShuanghao/Awesome-Robotics-Manipulation](https://github.com/BaiShuanghao/Awesome-Robotics-Manipulation) - A comprehensive list of papers about Robot Manipulation, including papers, codes, and related websites.
 - [Tonghe-Zhang/Awesome-Flow-RL-Papers](https://github.com/Tonghe-Zhang/Awesome-Flow-RL-Papers) - A collection of paper/projects that trains flow matching model/policies via RL.
 - [zubair-irshad/Awesome-Implicit-NeRF-Robotics](https://github.com/zubair-irshad/Awesome-Implicit-NeRF-Robotics) - A comprehensive list of Implicit Representations and NeRF papers relating to Robotics/RL domain, including papers, codes, and related websites
