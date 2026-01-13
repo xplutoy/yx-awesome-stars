@@ -144,6 +144,7 @@
 - [text-to-speech](#text-to-speech)
 - [tui](#tui)
 - [ui](#ui)
+- [video](#video)
 - [vim](#vim)
 - [virtual-reality](#virtual-reality)
 - [visualization](#visualization)
@@ -1117,6 +1118,7 @@
 
 ## others 
 
+- [tsinghua-fib-lab/World-Model](https://github.com/tsinghua-fib-lab/World-Model) - [ACM CSUR 2025] Understanding World or Predicting Future? A Comprehensive Survey of World Models
 - [BaiShuanghao/Awesome-Robotics-Manipulation](https://github.com/BaiShuanghao/Awesome-Robotics-Manipulation) - A comprehensive list of papers about Robot Manipulation, including papers, codes, and related websites.
 - [Genesis-Embodied-AI/Genesis](https://github.com/Genesis-Embodied-AI/Genesis) - A generative world for general-purpose robotics & embodied AI learning.
 - [coal-library/coal](https://github.com/coal-library/coal) - An extension of the Flexible Collision Library
@@ -1767,6 +1769,10 @@
 ## ui 
 
 - [gradio-app/gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
+
+## video 
+
+- [lorniu/mpvi](https://github.com/lorniu/mpvi) - Watch video and take interactive video notes in Emacs.
 
 ## vim 
 
