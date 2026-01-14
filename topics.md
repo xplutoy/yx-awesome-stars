@@ -138,6 +138,7 @@
 - [security](#security)
 - [shell](#shell)
 - [sql](#sql)
+- [stable-diffusion](#stable-diffusion)
 - [statistics](#statistics)
 - [tensorflow](#tensorflow)
 - [terminal](#terminal)
@@ -1734,6 +1735,10 @@
 
 - [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is an analytical in-process SQL database management system
 - [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. Stored as pure Python. All in a modern, AI-native editor.
+
+## stable-diffusion 
+
+- [YangLing0818/Diffusion-Models-Papers-Survey-Taxonomy](https://github.com/YangLing0818/Diffusion-Models-Papers-Survey-Taxonomy) - Diffusion model papers, survey, and taxonomy
 
 ## statistics 
 
