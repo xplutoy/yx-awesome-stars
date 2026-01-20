@@ -100,6 +100,7 @@
 - [microsoft](#microsoft)
 - [natural-language-processing](#natural-language-processing)
 - [neovim](#neovim)
+- [neovim-colorscheme](#neovim-colorscheme)
 - [neural-network](#neural-network)
 - [nextjs](#nextjs)
 - [nlp](#nlp)
@@ -1046,6 +1047,10 @@
 - [savq/paq-nvim](https://github.com/savq/paq-nvim) - 🌚  Neovim package manager
 - [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins.
 
+## neovim-colorscheme 
+
+- [folke/tokyonight.nvim](https://github.com/folke/tokyonight.nvim) - 🏙  A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.
+
 ## neural-network 
 
 - [bharathgs/Awesome-pytorch-list](https://github.com/bharathgs/Awesome-pytorch-list) - A comprehensive list of pytorch related content on github,such as different models,implementations,helper libraries,tutorials etc.
@@ -1164,7 +1169,7 @@
 - [vdumoulin/conv_arithmetic](https://github.com/vdumoulin/conv_arithmetic) - A technical report on convolution arithmetic in the context of deep learning
 - [wayveai/mile](https://github.com/wayveai/mile) - PyTorch code for the paper "Model-Based Imitation Learning for Urban Driving".
 - [google-deepmind/mujoco_mpc](https://github.com/google-deepmind/mujoco_mpc) - Real-time behaviour synthesis with MuJoCo, using Predictive Control
-- [SMPLCap/SMPLest-X](https://github.com/SMPLCap/SMPLest-X) - [TPAMI 2025] Official code for "SMPLest-X: Ultimate Scaling for Expressive Human Pose and Shape Estimation"
+- [MotrixLab/SMPLest-X](https://github.com/MotrixLab/SMPLest-X) - [TPAMI 2025] Official code for "SMPLest-X: Ultimate Scaling for Expressive Human Pose and Shape Estimation"
 - [EmptyBlueBox/BVH2SMPL](https://github.com/EmptyBlueBox/BVH2SMPL) - I love human motion retargeting.
 - [erincatto/box2d](https://github.com/erincatto/box2d) - Box2D is a 2D physics engine for games
 - [TeleHuman/PBHC](https://github.com/TeleHuman/PBHC) - Official Implementation of "KungfuBot: Physics-Based Humanoid Whole-Body Control for Learning Highly-Dynamic Skills"
