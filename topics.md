@@ -646,7 +646,7 @@
 - [xenodium/chatgpt-shell](https://github.com/xenodium/chatgpt-shell) - A multi-llm Emacs shell (ChatGPT, Claude, DeepSeek, Gemini, Kagi, Ollama, Perplexity) + editing integrations
 - [rougier/elegant-emacs](https://github.com/rougier/elegant-emacs) - A very minimal but elegant emacs (I think)
 - [eki3z/mini-echo.el](https://github.com/eki3z/mini-echo.el) - Show buffer status in echo area , get rid of mode-line!
-- [protesilaos/denote](https://github.com/protesilaos/denote) - Simple notes for Emacs with an efficient file-naming scheme
+- [protesilaos/denote](https://github.com/protesilaos/denote) - Efficient file-naming scheme to organise files and write notes with Emacs
 - [pprevos/citar-denote](https://github.com/pprevos/citar-denote) - Emacs package to create and retrieve bibliography notes with the Citar and Denote packages.
 - [universal-ctags/citre](https://github.com/universal-ctags/citre) - A superior code reading & auto-completion tool with pluggable backends.
 - [condy0919/fanyi.el](https://github.com/condy0919/fanyi.el) - Not only English-Chinese translator for Emacs.
@@ -1124,6 +1124,9 @@
 
 ## others 
 
+- [junhong-3dv/s2m2](https://github.com/junhong-3dv/s2m2) - Official implementation of "S²M²: Scalable Stereo Matching Model for Reliable Depth Estimation, ICCV 2025"
+- [Roboparty/atom01_train](https://github.com/Roboparty/atom01_train) - 
+- [Roboparty/roboto_origin](https://github.com/Roboparty/roboto_origin) - Roboto_origin Fully Open-Source DIY Humanoid Robot/萝博头原型机全开源手搓级人形机器人
 - [tsinghua-fib-lab/World-Model](https://github.com/tsinghua-fib-lab/World-Model) - [ACM CSUR 2025] Understanding World or Predicting Future? A Comprehensive Survey of World Models
 - [BaiShuanghao/Awesome-Robotics-Manipulation](https://github.com/BaiShuanghao/Awesome-Robotics-Manipulation) - A comprehensive list of papers about Robot Manipulation, including papers, codes, and related websites.
 - [Genesis-Embodied-AI/Genesis](https://github.com/Genesis-Embodied-AI/Genesis) - A generative world for general-purpose robotics & embodied AI learning.
