@@ -1257,7 +1257,7 @@
 - [kvcache-ai/ktransformers](https://github.com/kvcache-ai/ktransformers) - A Flexible Framework for Experiencing Heterogeneous LLM Inference/Fine-tune Optimizations
 - [kickingvegas/elisp-for-python](https://github.com/kickingvegas/elisp-for-python) - Elisp Cheatsheet for Python Programmers
 - [james-stoup/org-mode-table-tutorial](https://github.com/james-stoup/org-mode-table-tutorial) - A simplified guide to mastering Org Mode table functions
-- [volcengine/verl](https://github.com/volcengine/verl) - verl: Volcano Engine Reinforcement Learning for LLMs
+- [verl-project/verl](https://github.com/verl-project/verl) - verl: Volcano Engine Reinforcement Learning for LLMs
 - [IUCompilerCourse/Essentials-of-Compilation](https://github.com/IUCompilerCourse/Essentials-of-Compilation) - A book about compiling Racket and Python to x86-64 assembly
 - [lem-project/lem](https://github.com/lem-project/lem) - General-purpose editor/IDE with high expansibility in Common Lisp
 - [rui314/minilisp](https://github.com/rui314/minilisp) - A readable lisp in less than 1k lines of C
