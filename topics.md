@@ -1132,6 +1132,7 @@
 
 ## others 
 
+- [eureka-research/DrEureka](https://github.com/eureka-research/DrEureka) - Official Repository for "DrEureka: Language Model Guided Sim-To-Real Transfer" (RSS 2024)
 - [leggedrobotics/defm](https://github.com/leggedrobotics/defm) - source code and trained models for DeFM (Depth Foundation Model)
 - [junhong-3dv/s2m2](https://github.com/junhong-3dv/s2m2) - Official implementation of "S²M²: Scalable Stereo Matching Model for Reliable Depth Estimation, ICCV 2025"
 - [Roboparty/atom01_train](https://github.com/Roboparty/atom01_train) - 
