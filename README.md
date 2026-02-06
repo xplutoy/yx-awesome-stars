@@ -557,6 +557,7 @@
 
 ## Python 
 
+- [eureka-research/DrEureka](https://github.com/eureka-research/DrEureka) - Official Repository for "DrEureka: Language Model Guided Sim-To-Real Transfer" (RSS 2024)
 - [leggedrobotics/defm](https://github.com/leggedrobotics/defm) - source code and trained models for DeFM (Depth Foundation Model)
 - [pyvista/pyvista](https://github.com/pyvista/pyvista) - 3D plotting and mesh analysis through a streamlined interface for the Visualization Toolkit (VTK)
 - [ika-rwth-aachen/ros2_unbag](https://github.com/ika-rwth-aachen/ros2_unbag) - A ROS 2 tool for exporting bags to human readable files. Supports pluggable export routines to handle any message type.
