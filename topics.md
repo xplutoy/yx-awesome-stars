@@ -1132,6 +1132,7 @@
 
 ## others 
 
+- [siyandong/awesome-visual-localization](https://github.com/siyandong/awesome-visual-localization) - A curated list of awesome visual localization research works.
 - [eureka-research/DrEureka](https://github.com/eureka-research/DrEureka) - Official Repository for "DrEureka: Language Model Guided Sim-To-Real Transfer" (RSS 2024)
 - [leggedrobotics/defm](https://github.com/leggedrobotics/defm) - source code and trained models for DeFM (Depth Foundation Model)
 - [junhong-3dv/s2m2](https://github.com/junhong-3dv/s2m2) - Official implementation of "S²M²: Scalable Stereo Matching Model for Reliable Depth Estimation, ICCV 2025"
@@ -1157,7 +1158,7 @@
 - [petercorke/RVC3-python](https://github.com/petercorke/RVC3-python) - Code examples for Robotics, Vision & Control 3rd edition in Python
 - [zju3dv/GVHMR](https://github.com/zju3dv/GVHMR) - Code for "GVHMR: World-Grounded Human Motion Recovery via Gravity-View Coordinates", Siggraph Asia 2024
 - [Albusgive/mujoco_learning](https://github.com/Albusgive/mujoco_learning) - 
-- [YanjieZe/GMR](https://github.com/YanjieZe/GMR) - [arXiv 2025] GMR: General Motion Retargeting. Retarget human motions into diverse humanoid robots in real time on CPU. Retargeter for TWIST.
+- [YanjieZe/GMR](https://github.com/YanjieZe/GMR) - [ICRA 2026] GMR: General Motion Retargeting. Retarget human motions into diverse humanoid robots in real time on CPU. Retargeter for TWIST.
 - [Simple-Robotics/aligator](https://github.com/Simple-Robotics/aligator) - A versatile and efficient C++ library for real-time constrained trajectory optimization
 - [Rhoban/placo](https://github.com/Rhoban/placo) - Rhoban Planning and Control
 - [aCodeDog/awesome-loco-manipulation](https://github.com/aCodeDog/awesome-loco-manipulation) - 
