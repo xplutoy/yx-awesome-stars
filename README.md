@@ -591,7 +591,7 @@
 - [MotrixLab/SMPLest-X](https://github.com/MotrixLab/SMPLest-X) - [TPAMI 2025] Official Code for "SMPLest-X: Ultimate Scaling for Expressive Human Pose and Shape Estimation"
 - [EmptyBlueBox/BVH2SMPL](https://github.com/EmptyBlueBox/BVH2SMPL) - I love human motion retargeting.
 - [stephane-caron/pink](https://github.com/stephane-caron/pink) - Python inverse kinematics using Pinocchio and QP solvers
-- [kevinzakka/mink](https://github.com/kevinzakka/mink) - Python inverse kinematics based on MuJoCo
+- [kevinzakka/mink](https://github.com/kevinzakka/mink) - Python inverse kinematics based on MuJoCo.
 - [OpenMotionLab/MotionGPT](https://github.com/OpenMotionLab/MotionGPT) - [NeurIPS 2023] MotionGPT: Human Motion as a Foreign Language, a unified motion-language generation model using LLMs
 - [TeleHuman/PBHC](https://github.com/TeleHuman/PBHC) - Official Implementation of "KungfuBot: Physics-Based Humanoid Whole-Body Control for Learning Highly-Dynamic Skills"
 - [InternRobotics/HoST](https://github.com/InternRobotics/HoST) - [RSS 2025 Best Systems Paper Finalist] 💐Official implementation of "Learning Humanoid Standing-up Control across Diverse Postures"
