@@ -488,7 +488,6 @@
 - [Housz/awesome-simulation](https://github.com/Housz/awesome-simulation) - Resources for Physics based simulation in Computer Graphics 图形学中物理模拟的资源整理
 - [merrymercy/awesome-tensor-compilers](https://github.com/merrymercy/awesome-tensor-compilers) - A list of awesome compiler projects and papers for tensor computation and deep learning.
 - [google-research/tuning_playbook](https://github.com/google-research/tuning_playbook) - A playbook for systematically maximizing the performance of deep learning models.
-- [YanjieZe/awesome-humanoid-robot-learning](https://github.com/YanjieZe/awesome-humanoid-robot-learning) - A Paper List for Humanoid Robot Learning.
 - [jonyzhang2023/awesome-humanoid-learning](https://github.com/jonyzhang2023/awesome-humanoid-learning) - Humanoid Robots Resources
 - [qqfly/how-to-learn-robotics](https://github.com/qqfly/how-to-learn-robotics) - 开源机器人学学习指南
 - [Morakito/Real-Time-Rendering-4th-CN](https://github.com/Morakito/Real-Time-Rendering-4th-CN) - 《Real-Time Rendering 4th》 (RTR4) 中文翻译
@@ -616,6 +615,7 @@
 - [LeCAR-Lab/HumanoidVerse](https://github.com/LeCAR-Lab/HumanoidVerse) - 
 - [iit-DLSLab/Quadruped-PyMPC](https://github.com/iit-DLSLab/Quadruped-PyMPC) - A model predictive controller for quadruped robots based on the single rigid body model and written in python. Gradient-based (acados) or Sampling-based (jax)
 - [curieuxjy/Awesome_Quadrupedal_Robots](https://github.com/curieuxjy/Awesome_Quadrupedal_Robots) - Awesome Quadrupedal Robots
+- [YanjieZe/awesome-humanoid-robot-learning](https://github.com/YanjieZe/awesome-humanoid-robot-learning) - A Paper List for Humanoid Robot Learning.
 - [NVlabs/HOVER](https://github.com/NVlabs/HOVER) - HOVER
 - [robfiras/loco-mujoco](https://github.com/robfiras/loco-mujoco) - Imitation learning benchmark focusing on complex locomotion tasks using MuJoCo.
 - [leggedrobotics/viplanner](https://github.com/leggedrobotics/viplanner) - ViPlanner: Visual Semantic Imperative Learning for Local Navigation
