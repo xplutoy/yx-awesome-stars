@@ -75,6 +75,7 @@
 
 ## C++ 
 
+- [ejmahler/SplineLibrary](https://github.com/ejmahler/SplineLibrary) - A library to collect many useful spline functions into one place.
 - [coal-library/coal](https://github.com/coal-library/coal) - An extension of the Flexible Collision Library
 - [loco-3d/crocoddyl](https://github.com/loco-3d/crocoddyl) - Crocoddyl is an optimal control library for robot control under contact sequence. Its solver is based on various efficient Differential Dynamic Programming (DDP)-like algorithms
 - [nvidia-isaac/nvblox](https://github.com/nvidia-isaac/nvblox) - A GPU-accelerated TSDF and ESDF library for robots equipped with RGB-D cameras.
