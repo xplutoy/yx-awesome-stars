@@ -195,7 +195,7 @@
 - [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modular pipelines and agent workflows with explicit control over retrieval, routing, m
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
 - [dataelement/bisheng](https://github.com/dataelement/bisheng) - BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive features include: GenAI workflow, RAG, Agent, Unified model management, Evaluation, SF
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 The platform for reliable agents.
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform
 - [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 
 ## ai-agents 
@@ -203,7 +203,7 @@
 - [browser-use/browser-use](https://github.com/browser-use/browser-use) - 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
 - [chroma-core/chroma](https://github.com/chroma-core/chroma) - Open-source search and retrieval database for AI applications.
 - [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) - Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 The platform for reliable agents.
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.
 
 ## algorithm 
@@ -347,7 +347,7 @@
 - [langgptai/LangGPT](https://github.com/langgptai/LangGPT) - LangGPT: Empowering everyone to become a prompt expert! 🚀  📌 结构化提示词（Structured Prompt）提出者 📌 元提示词（Meta-Prompt）发起者   📌 最流行的提示词落地范式 | Language of GPT  The pioneering framework for structured & meta-promp
 - [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 - [morsoli/llm-books](https://github.com/morsoli/llm-books) - 利用LLM构建应用实践笔记
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 The platform for reliable agents.
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform
 - [2noise/ChatTTS](https://github.com/2noise/ChatTTS) - A generative speech model for daily dialogue.
 - [karthink/gptel](https://github.com/karthink/gptel) - A simple, extensible LLM client for Emacs
 - [xenodium/chatgpt-shell](https://github.com/xenodium/chatgpt-shell) - A multi-llm Emacs shell (ChatGPT, Claude, DeepSeek, Gemini, Kagi, Ollama, Perplexity) + editing integrations
@@ -465,7 +465,7 @@
 - [arvkevi/kneed](https://github.com/arvkevi/kneed) - Knee point detection in Python :chart_with_upwards_trend:
 - [statsmodels/statsmodels](https://github.com/statsmodels/statsmodels) - Statsmodels: statistical modeling and econometrics in Python
 - [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps.
-- [ydataai/ydata-profiling](https://github.com/ydataai/ydata-profiling) - 1 Line of code data quality profiling & exploratory data analysis for Pandas and Spark DataFrames.
+- [Data-Centric-AI-Community/ydata-profiling](https://github.com/Data-Centric-AI-Community/ydata-profiling) - 1 Line of code data quality profiling & exploratory data analysis for Pandas and Spark DataFrames.
 - [gradio-app/gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
 - [qinwf/awesome-R](https://github.com/qinwf/awesome-R) - A curated list of awesome R packages, frameworks and software.
 
@@ -484,7 +484,7 @@
 - [microsoft/FLAML](https://github.com/microsoft/FLAML) - A fast library for AutoML and tuning. Join our Discord: https://discord.gg/Cppx2vSPVP.
 - [ray-project/ray](https://github.com/ray-project/ray) - Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.
 - [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps.
-- [ydataai/ydata-profiling](https://github.com/ydataai/ydata-profiling) - 1 Line of code data quality profiling & exploratory data analysis for Pandas and Spark DataFrames.
+- [Data-Centric-AI-Community/ydata-profiling](https://github.com/Data-Centric-AI-Community/ydata-profiling) - 1 Line of code data quality profiling & exploratory data analysis for Pandas and Spark DataFrames.
 - [gradio-app/gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
 - [hadley/r4ds](https://github.com/hadley/r4ds) - R for data science: a book
 - [qinwf/awesome-R](https://github.com/qinwf/awesome-R) - A curated list of awesome R packages, frameworks and software.
@@ -532,7 +532,7 @@
 - [ray-project/ray](https://github.com/ray-project/ray) - Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.
 - [trigaten/Learn_Prompting](https://github.com/trigaten/Learn_Prompting) - Prompt Engineering, Generative AI, and LLM Guide by Learn Prompting | Join our discord for the largest Prompt Engineering learning community
 - [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps.
-- [ydataai/ydata-profiling](https://github.com/ydataai/ydata-profiling) - 1 Line of code data quality profiling & exploratory data analysis for Pandas and Spark DataFrames.
+- [Data-Centric-AI-Community/ydata-profiling](https://github.com/Data-Centric-AI-Community/ydata-profiling) - 1 Line of code data quality profiling & exploratory data analysis for Pandas and Spark DataFrames.
 - [gradio-app/gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
 - [d2l-ai/d2l-zh](https://github.com/d2l-ai/d2l-zh) - 《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被70多个国家的500多所大学用于教学。
 - [baifanxxx/awesome-active-learning](https://github.com/baifanxxx/awesome-active-learning) - A curated list of awesome Active Learning
@@ -718,7 +718,7 @@
 - [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI
 - [run-llama/llama_index](https://github.com/run-llama/llama_index) - LlamaIndex is the leading document agent and OCR platform
 - [langgptai/LangGPT](https://github.com/langgptai/LangGPT) - LangGPT: Empowering everyone to become a prompt expert! 🚀  📌 结构化提示词（Structured Prompt）提出者 📌 元提示词（Meta-Prompt）发起者   📌 最流行的提示词落地范式 | Language of GPT  The pioneering framework for structured & meta-promp
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 The platform for reliable agents.
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform
 - [ContinualAI/avalanche](https://github.com/ContinualAI/avalanche) - Avalanche: an End-to-End Library for Continual Learning based on PyTorch.
 
 ## frontend 
@@ -746,7 +746,7 @@
 - [Netflix/metaflow](https://github.com/Netflix/metaflow) - Build, Manage and Deploy AI/ML Systems
 - [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 21 Lessons, Get Started Building with Generative AI
 - [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modular pipelines and agent workflows with explicit control over retrieval, routing, m
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 The platform for reliable agents.
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.
 
 ## git 
@@ -783,7 +783,7 @@
 - [bobbyiliev/introduction-to-bash-scripting](https://github.com/bobbyiliev/introduction-to-bash-scripting) - Free Introduction to Bash Scripting eBook
 - [hyperopt/hyperopt](https://github.com/hyperopt/hyperopt) - Distributed Asynchronous Hyperparameter Optimization in Python
 - [JuliaLang/julia](https://github.com/JuliaLang/julia) - The Julia Programming Language
-- [ydataai/ydata-profiling](https://github.com/ydataai/ydata-profiling) - 1 Line of code data quality profiling & exploratory data analysis for Pandas and Spark DataFrames.
+- [Data-Centric-AI-Community/ydata-profiling](https://github.com/Data-Centric-AI-Community/ydata-profiling) - 1 Line of code data quality profiling & exploratory data analysis for Pandas and Spark DataFrames.
 - [pypa/pipx](https://github.com/pypa/pipx) - Install and Run Python Applications in Isolated Environments
 - [sb2nov/mac-setup](https://github.com/sb2nov/mac-setup) - Installing Development environment on macOS
 - [JamesIves/github-pages-deploy-action](https://github.com/JamesIves/github-pages-deploy-action) - 🚀 Automatically deploy your project to GitHub Pages using GitHub Actions. This action can be configured to push your production-ready code into any branch you'd like.
@@ -841,7 +841,7 @@
 
 - [plotly/plotly.py](https://github.com/plotly/plotly.py) - The interactive graphing library for Python :sparkles:
 - [microsoft/FLAML](https://github.com/microsoft/FLAML) - A fast library for AutoML and tuning. Join our Discord: https://discord.gg/Cppx2vSPVP.
-- [ydataai/ydata-profiling](https://github.com/ydataai/ydata-profiling) - 1 Line of code data quality profiling & exploratory data analysis for Pandas and Spark DataFrames.
+- [Data-Centric-AI-Community/ydata-profiling](https://github.com/Data-Centric-AI-Community/ydata-profiling) - 1 Line of code data quality profiling & exploratory data analysis for Pandas and Spark DataFrames.
 - [MLEveryday/100-Days-Of-ML-Code](https://github.com/MLEveryday/100-Days-Of-ML-Code) - 100-Days-Of-ML-Code中文版
 
 ## kubernetes 
@@ -916,7 +916,7 @@
 - [dataelement/bisheng](https://github.com/dataelement/bisheng) - BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive features include: GenAI workflow, RAG, Agent, Unified model management, Evaluation, SF
 - [QwenLM/Qwen](https://github.com/QwenLM/Qwen) - The official repo of Qwen (通义千问) chat & pretrained large language model proposed by Alibaba Cloud.
 - [morsoli/llm-books](https://github.com/morsoli/llm-books) - 利用LLM构建应用实践笔记
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 The platform for reliable agents.
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform
 - [BerriAI/litellm](https://github.com/BerriAI/litellm) - Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails, loadbalancing and logging. [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropi
 - [2noise/ChatTTS](https://github.com/2noise/ChatTTS) - A generative speech model for daily dialogue.
 - [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
@@ -983,7 +983,7 @@
 - [ray-project/llm-applications](https://github.com/ray-project/llm-applications) - A comprehensive guide to building RAG-based LLM applications for production.
 - [trigaten/Learn_Prompting](https://github.com/trigaten/Learn_Prompting) - Prompt Engineering, Generative AI, and LLM Guide by Learn Prompting | Join our discord for the largest Prompt Engineering learning community
 - [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps.
-- [ydataai/ydata-profiling](https://github.com/ydataai/ydata-profiling) - 1 Line of code data quality profiling & exploratory data analysis for Pandas and Spark DataFrames.
+- [Data-Centric-AI-Community/ydata-profiling](https://github.com/Data-Centric-AI-Community/ydata-profiling) - 1 Line of code data quality profiling & exploratory data analysis for Pandas and Spark DataFrames.
 - [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modular pipelines and agent workflows with explicit control over retrieval, routing, m
 - [gradio-app/gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
 - [d2l-ai/d2l-zh](https://github.com/d2l-ai/d2l-zh) - 《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被70多个国家的500多所大学用于教学。
@@ -1099,7 +1099,7 @@
 ## open-source 
 
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 The platform for reliable agents.
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform
 - [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim framework providing solid defaults and a beautiful UI, enhancing your neovim experience.
 
@@ -1116,7 +1116,7 @@
 - [dataelement/bisheng](https://github.com/dataelement/bisheng) - BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive features include: GenAI workflow, RAG, Agent, Unified model management, Evaluation, SF
 - [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 - [morsoli/llm-books](https://github.com/morsoli/llm-books) - 利用LLM构建应用实践笔记
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 The platform for reliable agents.
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform
 - [BerriAI/litellm](https://github.com/BerriAI/litellm) - Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails, loadbalancing and logging. [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropi
 - [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.
@@ -1581,7 +1581,7 @@
 - [ray-project/ray](https://github.com/ray-project/ray) - Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.
 - [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - An autonomous agent that conducts deep research on any data using any LLM providers
 - [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps.
-- [ydataai/ydata-profiling](https://github.com/ydataai/ydata-profiling) - 1 Line of code data quality profiling & exploratory data analysis for Pandas and Spark DataFrames.
+- [Data-Centric-AI-Community/ydata-profiling](https://github.com/Data-Centric-AI-Community/ydata-profiling) - 1 Line of code data quality profiling & exploratory data analysis for Pandas and Spark DataFrames.
 - [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modular pipelines and agent workflows with explicit control over retrieval, routing, m
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
 - [dataelement/bisheng](https://github.com/dataelement/bisheng) - BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive features include: GenAI workflow, RAG, Agent, Unified model management, Evaluation, SF
@@ -1589,7 +1589,7 @@
 - [pypa/pipx](https://github.com/pypa/pipx) - Install and Run Python Applications in Isolated Environments
 - [pyenv-win/pyenv-win](https://github.com/pyenv-win/pyenv-win) - pyenv for Windows. pyenv is a simple python version management tool. It lets you easily switch between multiple versions of Python. It's simple, unobtrusive, and follows the UNIX tradition of single-p
 - [d2l-ai/d2l-zh](https://github.com/d2l-ai/d2l-zh) - 《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被70多个国家的500多所大学用于教学。
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 The platform for reliable agents.
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform
 - [mkdocs/mkdocs](https://github.com/mkdocs/mkdocs) - Project documentation with Markdown.
 - [realpython/python-guide](https://github.com/realpython/python-guide) - Python best practices guidebook, written for humans.
 - [2noise/ChatTTS](https://github.com/2noise/ChatTTS) - A generative speech model for daily dialogue.
@@ -1643,7 +1643,7 @@
 - [run-llama/llama_index](https://github.com/run-llama/llama_index) - LlamaIndex is the leading document agent and OCR platform
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
 - [dataelement/bisheng](https://github.com/dataelement/bisheng) - BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive features include: GenAI workflow, RAG, Agent, Unified model management, Evaluation, SF
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 The platform for reliable agents.
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.
 
 ## react 
@@ -1653,6 +1653,7 @@
 
 ## reinforcement-learning 
 
+- [mujocolab/mjlab](https://github.com/mujocolab/mjlab) - Isaac Lab API, powered by MuJoCo-Warp, for RL and robotics research.
 - [haosulab/ManiSkill](https://github.com/haosulab/ManiSkill) - SAPIEN Manipulation Skill Framework, an open source GPU parallelized robotics simulator and benchmark, led by Hillbot, Inc.
 - [Renforce-Dynamics/beyondAMP](https://github.com/Renforce-Dynamics/beyondAMP) - beyondAMP provides a unified pipeline to integrate Adversarial Motion Priors (AMP) into any IsaacLab robot setup, with minimal modifications and full compatibility with custom robot designs.
 - [Open-X-Humanoid/TienKung-Lab](https://github.com/Open-X-Humanoid/TienKung-Lab) - Tien Kung-Lab: Direct IsaacLab Workflow for Legged Robots
@@ -1773,7 +1774,7 @@
 - [statsmodels/statsmodels](https://github.com/statsmodels/statsmodels) - Statsmodels: statistical modeling and econometrics in Python
 - [JuliaAI/MLJ.jl](https://github.com/JuliaAI/MLJ.jl) - A Julia machine learning framework
 - [py-why/causal-learn](https://github.com/py-why/causal-learn) - Causal Discovery in Python. Learning causality from data.
-- [ydataai/ydata-profiling](https://github.com/ydataai/ydata-profiling) - 1 Line of code data quality profiling & exploratory data analysis for Pandas and Spark DataFrames.
+- [Data-Centric-AI-Community/ydata-profiling](https://github.com/Data-Centric-AI-Community/ydata-profiling) - 1 Line of code data quality profiling & exploratory data analysis for Pandas and Spark DataFrames.
 
 ## tensorflow 
 
