@@ -75,6 +75,7 @@
 
 ## C++ 
 
+- [fan-ziqi/rl_sar](https://github.com/fan-ziqi/rl_sar) - Simulation verification and physical deployment of robot reinforcement learning algorithms, suitable for quadruped robots, wheeled robots, and humanoid robots. "sar" represents "simulation and real"
 - [ejmahler/SplineLibrary](https://github.com/ejmahler/SplineLibrary) - A library to collect many useful spline functions into one place.
 - [coal-library/coal](https://github.com/coal-library/coal) - An extension of the Flexible Collision Library
 - [loco-3d/crocoddyl](https://github.com/loco-3d/crocoddyl) - Crocoddyl is an optimal control library for robot control under contact sequence. Its solver is based on various efficient Differential Dynamic Programming (DDP)-like algorithms
@@ -558,6 +559,7 @@
 
 ## Python 
 
+- [chengxuxin/extreme-parkour](https://github.com/chengxuxin/extreme-parkour) - [ICRA 2024]: Train your parkour robot in less than 20 hours.
 - [mujocolab/mjlab](https://github.com/mujocolab/mjlab) - Isaac Lab API, powered by MuJoCo-Warp, for RL and robotics research.
 - [arab-meet/motion_planning](https://github.com/arab-meet/motion_planning) - Welcome to an in-depth visual guide on Motion Planning in Robotics — the brain behind how robots decide where and how to move!
 - [eureka-research/DrEureka](https://github.com/eureka-research/DrEureka) - Official Repository for "DrEureka: Language Model Guided Sim-To-Real Transfer" (RSS 2024)
