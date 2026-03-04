@@ -1133,6 +1133,8 @@
 
 ## others 
 
+- [fan-ziqi/rl_sar](https://github.com/fan-ziqi/rl_sar) - Simulation verification and physical deployment of robot reinforcement learning algorithms, suitable for quadruped robots, wheeled robots, and humanoid robots. "sar" represents "simulation and real"
+- [chengxuxin/extreme-parkour](https://github.com/chengxuxin/extreme-parkour) - [ICRA 2024]: Train your parkour robot in less than 20 hours.
 - [arab-meet/motion_planning](https://github.com/arab-meet/motion_planning) - Welcome to an in-depth visual guide on Motion Planning in Robotics — the brain behind how robots decide where and how to move!
 - [ejmahler/SplineLibrary](https://github.com/ejmahler/SplineLibrary) - A library to collect many useful spline functions into one place.
 - [zsibot/matrix](https://github.com/zsibot/matrix) - MATRiX is an advanced simulation platform that integrates MuJoCo, Unreal Engine 5, and CARLA to provide high-fidelity, interactive environments for robotics research.
