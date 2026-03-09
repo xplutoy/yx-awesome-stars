@@ -978,7 +978,7 @@
 - [microsoft/FLAML](https://github.com/microsoft/FLAML) - A fast library for AutoML and tuning. Join our Discord: https://discord.gg/Cppx2vSPVP.
 - [baal-org/baal](https://github.com/baal-org/baal) - Bayesian active learning library for research and industrial usecases.
 - [ENSTA-U2IS-AI/awesome-uncertainty-deeplearning](https://github.com/ENSTA-U2IS-AI/awesome-uncertainty-deeplearning) - This repository contains a collection of surveys, datasets,  papers, and codes, for predictive uncertainty estimation in deep learning models.
-- [microsoft/LightGBM](https://github.com/microsoft/LightGBM) - A fast, distributed, high performance gradient boosting (GBT, GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine learning tas
+- [lightgbm-org/LightGBM](https://github.com/lightgbm-org/LightGBM) - A fast, distributed, high performance gradient boosting (GBT, GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine learning tas
 - [ray-project/ray](https://github.com/ray-project/ray) - Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.
 - [ray-project/llm-applications](https://github.com/ray-project/llm-applications) - A comprehensive guide to building RAG-based LLM applications for production.
 - [trigaten/Learn_Prompting](https://github.com/trigaten/Learn_Prompting) - Prompt Engineering, Generative AI, and LLM Guide by Learn Prompting | Join our discord for the largest Prompt Engineering learning community
@@ -1023,7 +1023,7 @@
 
 ## microsoft 
 
-- [microsoft/LightGBM](https://github.com/microsoft/LightGBM) - A fast, distributed, high performance gradient boosting (GBT, GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine learning tas
+- [lightgbm-org/LightGBM](https://github.com/lightgbm-org/LightGBM) - A fast, distributed, high performance gradient boosting (GBT, GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine learning tas
 
 ## natural-language-processing 
 
@@ -1133,6 +1133,7 @@
 
 ## others 
 
+- [KwanWaiPang/Awesome-VLN](https://github.com/KwanWaiPang/Awesome-VLN) - Paper Survey for Visual Language Navigation
 - [SLAM-Handbook-contributors/slam-handbook-public-release](https://github.com/SLAM-Handbook-contributors/slam-handbook-public-release) - Release repo for our SLAM Handbook
 - [dreamzero0/dreamzero](https://github.com/dreamzero0/dreamzero) - Code to pretrain, fine-tune, and evaluate DreamZero and run sim & real-world evals
 - [fan-ziqi/rl_sar](https://github.com/fan-ziqi/rl_sar) - Simulation verification and physical deployment of robot reinforcement learning algorithms, suitable for quadruped robots, wheeled robots, and humanoid robots. "sar" represents "simulation and real"
@@ -1579,7 +1580,7 @@
 - [optuna/optuna](https://github.com/optuna/optuna) - A hyperparameter optimization framework
 - [microsoft/FLAML](https://github.com/microsoft/FLAML) - A fast library for AutoML and tuning. Join our Discord: https://discord.gg/Cppx2vSPVP.
 - [baal-org/baal](https://github.com/baal-org/baal) - Bayesian active learning library for research and industrial usecases.
-- [microsoft/LightGBM](https://github.com/microsoft/LightGBM) - A fast, distributed, high performance gradient boosting (GBT, GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine learning tas
+- [lightgbm-org/LightGBM](https://github.com/lightgbm-org/LightGBM) - A fast, distributed, high performance gradient boosting (GBT, GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine learning tas
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 - [wyuenho/emacs-pet](https://github.com/wyuenho/emacs-pet) - Tracks down the correct Python tooling executables from your virtualenvs so you can glue the binaries to Emacs and delete code in init.el
 - [ray-project/ray](https://github.com/ray-project/ray) - Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.
@@ -1635,7 +1636,7 @@
 - [betanalpha/knitr_case_studies](https://github.com/betanalpha/knitr_case_studies) - Inference case studies in knitr
 - [catboost/catboost](https://github.com/catboost/catboost) - A fast, scalable, high performance Gradient Boosting on Decision Trees library, used for ranking, classification, regression and other machine learning tasks for Python, R, Java, C++. Supports computa
 - [facebook/prophet](https://github.com/facebook/prophet) - Tool for producing high quality forecasts for time series data that has multiple seasonality with linear or non-linear growth.
-- [microsoft/LightGBM](https://github.com/microsoft/LightGBM) - A fast, distributed, high performance gradient boosting (GBT, GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine learning tas
+- [lightgbm-org/LightGBM](https://github.com/lightgbm-org/LightGBM) - A fast, distributed, high performance gradient boosting (GBT, GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine learning tas
 - [hadley/r4ds](https://github.com/hadley/r4ds) - R for data science: a book
 - [qinwf/awesome-R](https://github.com/qinwf/awesome-R) - A curated list of awesome R packages, frameworks and software.
 
