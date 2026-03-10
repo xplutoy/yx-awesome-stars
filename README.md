@@ -811,7 +811,7 @@
 - [wklchris/Note-by-LaTeX](https://github.com/wklchris/Note-by-LaTeX) - 《简单粗暴 LaTeX》出版图书开源仓库 | The opensource repo for my published LaTeX book.
 - [vEnhance/napkin](https://github.com/vEnhance/napkin) - An Infinitely Large Napkin
 - [zhaoyongfeng1990/Physics_Notes](https://github.com/zhaoyongfeng1990/Physics_Notes) - Some notes on physics (mostly in Chinese).
-- [openmlsys/openmlsys-zh](https://github.com/openmlsys/openmlsys-zh) - 《Machine Learning Systems: Design and Implementation》- Chinese Version
+- [openmlsys/openmlsys](https://github.com/openmlsys/openmlsys) - 《Machine Learning Systems: Design and Implementation》
 - [Duan-JM/awesome-papers-fewshot](https://github.com/Duan-JM/awesome-papers-fewshot) - Collection for Few-shot Learning
 
 ## TypeScript 
