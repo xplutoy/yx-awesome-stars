@@ -16,6 +16,7 @@
 - [Clojure](#clojure)
 - [Common Lisp](#common-lisp)
 - [Cuda](#cuda)
+- [Dockerfile](#dockerfile)
 - [Emacs Lisp](#emacs-lisp)
 - [Go](#go)
 - [HTML](#html)
@@ -145,6 +146,10 @@
 ## Cuda 
 
 - [deepseek-ai/DeepEP](https://github.com/deepseek-ai/DeepEP) - DeepEP: an efficient expert-parallel communication library
+
+## Dockerfile 
+
+- [iggredible/Learn-Vim](https://github.com/iggredible/Learn-Vim) - Learning Vim and Vimscript doesn't have to be hard. This is the guide that you're looking for 📖
 
 ## Emacs Lisp 
 
@@ -548,7 +553,6 @@
 - [emacs-tw/awesome-emacs](https://github.com/emacs-tw/awesome-emacs) - A community driven list of useful Emacs packages, libraries and other items.
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 - [condy0919/emacs-newbie](https://github.com/condy0919/emacs-newbie) - Introduction to Emacs
-- [iggredible/Learn-Vim](https://github.com/iggredible/Learn-Vim) - Learning Vim and Vimscript doesn't have to be hard. This is the guide that you're looking for 📖
 - [rothgar/mastering-zsh](https://github.com/rothgar/mastering-zsh) - Advanced topics to take advantage of zsh 👩‍💻👨‍💻
 - [familyld/Awesome-Best-Papers](https://github.com/familyld/Awesome-Best-Papers) - Collect awesome best papers from top AI conferences.
 - [he-y/Awesome-Pruning](https://github.com/he-y/Awesome-Pruning) - A curated list of neural network pruning resources.
