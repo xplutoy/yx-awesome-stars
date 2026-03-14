@@ -230,7 +230,7 @@
 - [SavchenkoValeriy/emacs-powerthesaurus](https://github.com/SavchenkoValeriy/emacs-powerthesaurus) - Powerthesaurus integration for Emacs
 - [bnbeckwith/writegood-mode](https://github.com/bnbeckwith/writegood-mode) - Minor mode for Emacs to improve English writing
 - [isamert/corg.el](https://github.com/isamert/corg.el) - 🍾 Auto complete org-mode source/dynamic block headers seamlessly
-- [jamescherti/minimal-emacs.d](https://github.com/jamescherti/minimal-emacs.d) - minimal-emacs.d - Better Emacs defaults and optimized startup, intended to serve as a solid foundation for your vanilla Emacs configuration
+- [jamescherti/minimal-emacs.d](https://github.com/jamescherti/minimal-emacs.d) - minimal-emacs.d - A Customizable Emacs init.el and early-init.el for Better Defaults and Optimized Startup, intended to serve as a solid foundation for your vanilla Emacs configuration | Emacs Starter
 - [jamescherti/dir-config.el](https://github.com/jamescherti/dir-config.el) - dir-config.el - Automatically find and load the .dir-config.el Elisp file
 - [minad/tempel](https://github.com/minad/tempel) - :classical_building: Tempel - Simple templates for Emacs
 - [alphapapa/dogears.el](https://github.com/alphapapa/dogears.el) - Never lose your place in Emacs again
@@ -568,6 +568,7 @@
 
 ## Python 
 
+- [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) - Ultralytics YOLO 🚀
 - [dreamzero0/dreamzero](https://github.com/dreamzero0/dreamzero) - Code to pretrain, fine-tune, and evaluate DreamZero and run sim & real-world evals
 - [chengxuxin/extreme-parkour](https://github.com/chengxuxin/extreme-parkour) - [ICRA 2024]: Train your parkour robot in less than 20 hours.
 - [mujocolab/mjlab](https://github.com/mujocolab/mjlab) - Isaac Lab API, powered by MuJoCo-Warp, for RL and robotics research.
@@ -819,7 +820,7 @@
 - [wklchris/Note-by-LaTeX](https://github.com/wklchris/Note-by-LaTeX) - 《简单粗暴 LaTeX》出版图书开源仓库 | The opensource repo for my published LaTeX book.
 - [vEnhance/napkin](https://github.com/vEnhance/napkin) - An Infinitely Large Napkin
 - [zhaoyongfeng1990/Physics_Notes](https://github.com/zhaoyongfeng1990/Physics_Notes) - Some notes on physics (mostly in Chinese).
-- [openmlsys/openmlsys](https://github.com/openmlsys/openmlsys) - 《Machine Learning Systems: Design and Implementation》
+- [openmlsys/openmlsys](https://github.com/openmlsys/openmlsys) - 《Machine Learning Systems: Design and Implementation》 (V2 is launching soon）
 - [Duan-JM/awesome-papers-fewshot](https://github.com/Duan-JM/awesome-papers-fewshot) - Collection for Few-shot Learning
 
 ## TypeScript 
