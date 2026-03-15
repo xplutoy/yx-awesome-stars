@@ -20,6 +20,7 @@
 - [Emacs Lisp](#emacs-lisp)
 - [Go](#go)
 - [HTML](#html)
+- [Handlebars](#handlebars)
 - [Haskell](#haskell)
 - [JavaScript](#javascript)
 - [Julia](#julia)
@@ -381,6 +382,10 @@
 - [javascript-tutorial/zh.javascript.info](https://github.com/javascript-tutorial/zh.javascript.info) - 现代 JavaScript 教程（The Modern JavaScript Tutorial），以最新的 ECMAScript 规范为基准，通过简单但足够详细的内容，为你讲解从基础到高阶的 JavaScript 相关知识。
 - [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [slegetank/WGEECN](https://github.com/slegetank/WGEECN) - Writing GNU Emacs Extensions 翻译
+
+## Handlebars 
+
+- [phys-sim-book/mdbook-src](https://github.com/phys-sim-book/mdbook-src) - The mdbook source of a free online book on the theory and algorithms of physics-based simulations. You are welcome to make contributions by submitting pull requests or directly contacting the authors.
 
 ## Haskell 
 
@@ -813,7 +818,6 @@
 ## TeX 
 
 - [SLAM-Handbook-contributors/slam-handbook-public-release](https://github.com/SLAM-Handbook-contributors/slam-handbook-public-release) - Release repo for our SLAM Handbook
-- [phys-sim-book/mdbook-src](https://github.com/phys-sim-book/mdbook-src) - The mdbook source of a free online book on the theory and algorithms of physics-based simulations. You are welcome to make contributions by submitting pull requests or directly contacting the authors.
 - [vdumoulin/conv_arithmetic](https://github.com/vdumoulin/conv_arithmetic) - A technical report on convolution arithmetic in the context of deep learning
 - [IUCompilerCourse/Essentials-of-Compilation](https://github.com/IUCompilerCourse/Essentials-of-Compilation) - A book about compiling Racket and Python to x86-64 assembly
 - [hmemcpy/milewski-ctfp-pdf](https://github.com/hmemcpy/milewski-ctfp-pdf) - Bartosz Milewski's 'Category Theory for Programmers' unofficial PDF and LaTeX source
