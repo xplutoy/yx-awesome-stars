@@ -77,6 +77,7 @@
 
 ## C++ 
 
+- [digint/tinyfsm](https://github.com/digint/tinyfsm) - A simple C++ finite state machine library
 - [hku-mars/IKFoM](https://github.com/hku-mars/IKFoM) - A computationally efficient and convenient toolkit of iterated Kalman filter.
 - [hku-mars/FAST_LIO](https://github.com/hku-mars/FAST_LIO) - A computationally efficient and robust LiDAR-inertial odometry (LIO) package
 - [cartographer-project/cartographer](https://github.com/cartographer-project/cartographer) - Cartographer is a system that provides real-time simultaneous localization and mapping (SLAM) in 2D and 3D across multiple platforms and sensor configurations.
