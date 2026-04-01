@@ -1684,6 +1684,7 @@
 
 ## reinforcement-learning 
 
+- [xbpeng/MimicKit](https://github.com/xbpeng/MimicKit) - A lightweight suite of motion imitation methods for training controllers.
 - [mujocolab/mjlab](https://github.com/mujocolab/mjlab) - Isaac Lab API, powered by MuJoCo-Warp, for RL and robotics research.
 - [haosulab/ManiSkill](https://github.com/haosulab/ManiSkill) - SAPIEN Manipulation Skill Framework, an open source GPU parallelized robotics simulator and benchmark
 - [Renforce-Dynamics/beyondAMP](https://github.com/Renforce-Dynamics/beyondAMP) - beyondAMP provides a unified pipeline to integrate Adversarial Motion Priors (AMP) into any IsaacLab robot setup, with minimal modifications and full compatibility with custom robot designs.
@@ -1709,6 +1710,7 @@
 
 ## robotics 
 
+- [xbpeng/MimicKit](https://github.com/xbpeng/MimicKit) - A lightweight suite of motion imitation methods for training controllers.
 - [cartographer-project/cartographer](https://github.com/cartographer-project/cartographer) - Cartographer is a system that provides real-time simultaneous localization and mapping (SLAM) in 2D and 3D across multiple platforms and sensor configurations.
 - [OpenLegged/URDF-Studio](https://github.com/OpenLegged/URDF-Studio) - URDF-Studio is a web-based visual URDF robot modeler with 3D workspace, structured skeleton/detail/hardware workflows, motor library integration, MuJoCo export, and AI assistance.
 - [ika-rwth-aachen/ros2_unbag](https://github.com/ika-rwth-aachen/ros2_unbag) - A ROS 2 tool for exporting bags to human readable files. Supports pluggable export routines to handle any message type.
