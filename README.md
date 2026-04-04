@@ -420,6 +420,7 @@
 
 ## Jupyter Notebook 
 
+- [schoi355/multi_imu_fusion](https://github.com/schoi355/multi_imu_fusion) - "Sensor Fusion for Multiple Distributed IMUs." This work fuses measurements from multiple simulated and real MEMS IMU sensors for state estimation.
 - [petercorke/RVC3-python](https://github.com/petercorke/RVC3-python) - Code examples for Robotics, Vision & Control 3rd edition in Python
 - [zju3dv/GVHMR](https://github.com/zju3dv/GVHMR) - Code for "GVHMR: World-Grounded Human Motion Recovery via Gravity-View Coordinates", Siggraph Asia 2024
 - [Albusgive/mujoco_learning](https://github.com/Albusgive/mujoco_learning) - 
@@ -675,7 +676,7 @@
 - [QwenLM/Qwen-VL](https://github.com/QwenLM/Qwen-VL) - The official repo of Qwen-VL (通义千问-VL) chat & pretrained large vision language model proposed by Alibaba Cloud.
 - [kvcache-ai/ktransformers](https://github.com/kvcache-ai/ktransformers) - A Flexible Framework for Experiencing Heterogeneous LLM Inference/Fine-tune Optimizations
 - [verl-project/verl](https://github.com/verl-project/verl) - verl: Volcano Engine Reinforcement Learning for LLMs
-- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Unsloth Studio is a web UI for training and running open models like Qwen, DeepSeek, gpt-oss and Gemma locally.
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Unsloth Studio is a web UI for training and running open models like Qwen3.5, Gemma 4, DeepSeek, gpt-oss locally.
 - [DLR-RM/stable-baselines3](https://github.com/DLR-RM/stable-baselines3) - PyTorch version of Stable Baselines, reliable implementations of reinforcement learning algorithms.
 - [vwxyzjn/cleanrl](https://github.com/vwxyzjn/cleanrl) - High-quality single file implementation of Deep Reinforcement Learning algorithms with research-friendly features (PPO, DQN, C51, DDPG, TD3, SAC, PPG)
 - [deepseek-ai/DeepSeek-Coder](https://github.com/deepseek-ai/DeepSeek-Coder) - DeepSeek Coder: Let the Code Write Itself
@@ -806,6 +807,7 @@
 
 ## Shell 
 
+- [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
 - [zsibot/matrix](https://github.com/zsibot/matrix) - MATRiX is an advanced simulation platform that integrates MuJoCo, Unreal Engine 5, and CARLA to provide high-fidelity, interactive environments for robotics research.
 - [liquidprompt/liquidprompt](https://github.com/liquidprompt/liquidprompt) - A full-featured & carefully designed adaptive prompt for Bash & Zsh
 - [kiennq/emacs-build](https://github.com/kiennq/emacs-build) - Scripts to build a distribution of Emacs from sources, using MSYS2 and Mingw64(32)
