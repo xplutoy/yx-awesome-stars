@@ -1572,7 +1572,7 @@
 - [AtsushiSakai/PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics) - Python sample codes and textbook for robotics algorithms.
 - [rerun-io/rerun](https://github.com/rerun-io/rerun) - An open source SDK for logging, storing, querying, and visualizing multimodal and multi-rate data
 - [pablormier/yabox](https://github.com/pablormier/yabox) - Yet another black-box optimization library for Python
-- [NVIDIA/warp](https://github.com/NVIDIA/warp) - A Python framework for accelerated simulation, data generation and spatial computing.
+- [NVIDIA/warp](https://github.com/NVIDIA/warp) - A Python framework for GPU-accelerated simulation, robotics, and machine learning.
 - [stephane-caron/pink](https://github.com/stephane-caron/pink) - Python inverse kinematics using Pinocchio and QP solvers
 - [kevinzakka/mink](https://github.com/kevinzakka/mink) - Python inverse kinematics based on MuJoCo.
 - [stack-of-tasks/pinocchio](https://github.com/stack-of-tasks/pinocchio) - A fast and flexible implementation of Rigid Body Dynamics algorithms and their analytical derivatives
