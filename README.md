@@ -58,6 +58,7 @@
 
 ## C 
 
+- [airockchip/rknn_model_zoo](https://github.com/airockchip/rknn_model_zoo) - 
 - [erincatto/box2d](https://github.com/erincatto/box2d) - Box2D is a 2D physics engine for games
 - [osqp/osqp](https://github.com/osqp/osqp) - The Operator Splitting QP Solver
 - [acados/acados](https://github.com/acados/acados) - Fast and embedded solvers for nonlinear optimal control and nonlinear model predictive control
