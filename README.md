@@ -29,6 +29,7 @@
 - [Lua](#lua)
 - [MATLAB](#matlab)
 - [MDX](#mdx)
+- [Makefile](#makefile)
 - [Others](#others)
 - [PostScript](#postscript)
 - [Python](#python)
@@ -489,6 +490,10 @@
 - [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modular pipelines and agent workflows with explicit control over retrieval, routing, m
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.
 
+## Makefile 
+
+- [kickingvegas/elisp-for-python](https://github.com/kickingvegas/elisp-for-python) - Elisp Cheatsheet for Python Programmers
+
 ## Others 
 
 - [singhaman1750/Legged-Robots](https://github.com/singhaman1750/Legged-Robots) - This repository contains papers in the field of legged robots.
@@ -521,7 +526,6 @@
 - [yueen-ma/Awesome-VLA](https://github.com/yueen-ma/Awesome-VLA) - 
 - [TianxingChen/Embodied-AI-Guide](https://github.com/TianxingChen/Embodied-AI-Guide) - [Lumina具身智能社区] 具身智能技术指南 Embodied-AI-Guide
 - [amusi/AI-Job-Notes](https://github.com/amusi/AI-Job-Notes) - AI算法岗求职攻略（涵盖准备攻略、刷题指南、内推和AI公司清单等资料）
-- [kickingvegas/elisp-for-python](https://github.com/kickingvegas/elisp-for-python) - Elisp Cheatsheet for Python Programmers
 - [james-stoup/org-mode-table-tutorial](https://github.com/james-stoup/org-mode-table-tutorial) - A simplified guide to mastering Org Mode table functions
 - [zwang4/awesome-machine-learning-in-compilers](https://github.com/zwang4/awesome-machine-learning-in-compilers) - Must read research papers and links to tools and datasets that are related to using machine learning for compilers and systems optimisation
 - [aalhour/awesome-compilers](https://github.com/aalhour/awesome-compilers) - :sunglasses: Curated list of awesome resources on Compilers, Interpreters and Runtimes
@@ -580,6 +584,7 @@
 
 ## Python 
 
+- [facebookresearch/nwm](https://github.com/facebookresearch/nwm) - Official code for the CVPR 2025 paper "Navigation World Models".
 - [lhfer/claude-howto-zh-cn](https://github.com/lhfer/claude-howto-zh-cn) - Claude Code 中文全面上手指南。基于 luongnv89/claude-howto 本土化重写，面向中国小白用户，保留命令与配置兼容性，并附学习路径与本地化校验护栏。
 - [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) - A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.
 - [xbpeng/MimicKit](https://github.com/xbpeng/MimicKit) - A lightweight suite of motion imitation methods for training controllers.
