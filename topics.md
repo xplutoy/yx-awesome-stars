@@ -1157,6 +1157,7 @@
 
 ## others 
 
+- [facebookresearch/nwm](https://github.com/facebookresearch/nwm) - Official code for the CVPR 2025 paper "Navigation World Models".
 - [TixiaoShan/LIO-SAM](https://github.com/TixiaoShan/LIO-SAM) - LIO-SAM: Tightly-coupled Lidar Inertial Odometry via Smoothing and Mapping
 - [airockchip/rknn_model_zoo](https://github.com/airockchip/rknn_model_zoo) - 
 - [lhfer/claude-howto-zh-cn](https://github.com/lhfer/claude-howto-zh-cn) - Claude Code 中文全面上手指南。基于 luongnv89/claude-howto 本土化重写，面向中国小白用户，保留命令与配置兼容性，并附学习路径与本地化校验护栏。
