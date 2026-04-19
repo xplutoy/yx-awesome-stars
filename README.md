@@ -496,6 +496,7 @@
 
 ## Others 
 
+- [GT-RIPL/Awesome-LLM-Robotics](https://github.com/GT-RIPL/Awesome-LLM-Robotics) - A comprehensive list of papers using large language/multi-modal models for Robotics/RL, including papers, codes, and related websites
 - [singhaman1750/Legged-Robots](https://github.com/singhaman1750/Legged-Robots) - This repository contains papers in the field of legged robots.
 - [KwanWaiPang/Awesome-VLN](https://github.com/KwanWaiPang/Awesome-VLN) - Paper Survey for Visual Language Navigation
 - [siyandong/awesome-visual-localization](https://github.com/siyandong/awesome-visual-localization) - A curated list of awesome visual localization research works.
@@ -584,6 +585,7 @@
 
 ## Python 
 
+- [nasa-jpl/rosa](https://github.com/nasa-jpl/rosa) - ROSA 🤖 is an AI Agent designed to interact with ROS1- and ROS2-based robotics systems using natural language queries. ROSA helps robot developers inspect, diagnose, understand, and operate robots.
 - [facebookresearch/nwm](https://github.com/facebookresearch/nwm) - Official code for the CVPR 2025 paper "Navigation World Models".
 - [lhfer/claude-howto-zh-cn](https://github.com/lhfer/claude-howto-zh-cn) - Claude Code 中文全面上手指南。基于 luongnv89/claude-howto 本土化重写，面向中国小白用户，保留命令与配置兼容性，并附学习路径与本地化校验护栏。
 - [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) - A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.
