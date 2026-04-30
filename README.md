@@ -498,6 +498,7 @@
 
 ## Others 
 
+- [knmcguire/best-of-robot-simulators](https://github.com/knmcguire/best-of-robot-simulators) - A Best-of-list of Robot Simulators, re-generated weekly on Wednesdays
 - [GT-RIPL/Awesome-LLM-Robotics](https://github.com/GT-RIPL/Awesome-LLM-Robotics) - A comprehensive list of papers using large language/multi-modal models for Robotics/RL, including papers, codes, and related websites
 - [singhaman1750/Legged-Robots](https://github.com/singhaman1750/Legged-Robots) - This repository contains papers in the field of legged robots.
 - [KwanWaiPang/Awesome-VLN](https://github.com/KwanWaiPang/Awesome-VLN) - Paper Survey for Visual Language Navigation
