@@ -1166,6 +1166,7 @@
 
 ## others 
 
+- [knmcguire/best-of-robot-simulators](https://github.com/knmcguire/best-of-robot-simulators) - A Best-of-list of Robot Simulators, re-generated weekly on Wednesdays
 - [GT-RIPL/Awesome-LLM-Robotics](https://github.com/GT-RIPL/Awesome-LLM-Robotics) - A comprehensive list of papers using large language/multi-modal models for Robotics/RL, including papers, codes, and related websites
 - [facebookresearch/nwm](https://github.com/facebookresearch/nwm) - Official code for the CVPR 2025 paper "Navigation World Models".
 - [TixiaoShan/LIO-SAM](https://github.com/TixiaoShan/LIO-SAM) - LIO-SAM: Tightly-coupled Lidar Inertial Odometry via Smoothing and Mapping
