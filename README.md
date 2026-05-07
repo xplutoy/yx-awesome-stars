@@ -79,6 +79,7 @@
 
 ## C++ 
 
+- [legubiao/quadruped_ros2_control](https://github.com/legubiao/quadruped_ros2_control) - ROS2-Control implementations for Quadruped robots, include sim2real
 - [TixiaoShan/LIO-SAM](https://github.com/TixiaoShan/LIO-SAM) - LIO-SAM: Tightly-coupled Lidar Inertial Odometry via Smoothing and Mapping
 - [gaoxiang12/lightning-lm](https://github.com/gaoxiang12/lightning-lm) - Lidar Localization and Mapping
 - [digint/tinyfsm](https://github.com/digint/tinyfsm) - A simple C++ finite state machine library
