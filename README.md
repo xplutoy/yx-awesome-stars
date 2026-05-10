@@ -603,7 +603,7 @@
 - [arab-meet/motion_planning](https://github.com/arab-meet/motion_planning) - Welcome to an in-depth visual guide on Motion Planning in Robotics — the brain behind how robots decide where and how to move!
 - [eureka-research/DrEureka](https://github.com/eureka-research/DrEureka) - Official Repository for "DrEureka: Language Model Guided Sim-To-Real Transfer" (RSS 2024)
 - [leggedrobotics/defm](https://github.com/leggedrobotics/defm) - source code and trained models for DeFM (Depth Foundation Model)
-- [pyvista/pyvista](https://github.com/pyvista/pyvista) - 3D plotting and mesh analysis through a streamlined interface for the Visualization Toolkit (VTK)
+- [pyvista/pyvista](https://github.com/pyvista/pyvista) - 3D visualization and mesh analysis for science and engineering
 - [ika-rwth-aachen/ros2_unbag](https://github.com/ika-rwth-aachen/ros2_unbag) - A ROS 2 tool for exporting bags to human readable files. Supports pluggable export routines to handle any message type.
 - [junhong-3dv/s2m2](https://github.com/junhong-3dv/s2m2) - Official implementation of "S²M²: Scalable Stereo Matching Model for Reliable Depth Estimation, ICCV 2025"
 - [Roboparty/roboto_origin](https://github.com/Roboparty/roboto_origin) - Roboto_origin Fully Open-Source DIY Humanoid Robot/萝博头原型机全开源手搓级人形机器人
