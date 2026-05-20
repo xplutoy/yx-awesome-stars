@@ -589,6 +589,7 @@
 
 ## Python 
 
+- [dimensionalOS/dimos](https://github.com/dimensionalOS/dimos) - Dimensional is the agentic operating system for physical space. Vibecode humanoids, quadrupeds, drones, and other hardware platforms in natural language and build multi-agent systems that work seamles
 - [nerfstudio-project/nerfstudio](https://github.com/nerfstudio-project/nerfstudio) - A collaboration friendly studio for NeRFs
 - [nasa-jpl/rosa](https://github.com/nasa-jpl/rosa) - ROSA 🤖 is an AI Agent designed to interact with ROS1- and ROS2-based robotics systems using natural language queries. ROSA helps robot developers inspect, diagnose, understand, and operate robots.
 - [facebookresearch/nwm](https://github.com/facebookresearch/nwm) - Official code for the CVPR 2025 paper "Navigation World Models".
