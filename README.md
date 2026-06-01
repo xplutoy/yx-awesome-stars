@@ -79,6 +79,7 @@
 
 ## C++ 
 
+- [robomechanics/quad-sdk](https://github.com/robomechanics/quad-sdk) - Software tools for agile quadrupeds, developed by the Robomechanics Lab at Carnegie Mellon University.
 - [legubiao/quadruped_ros2_control](https://github.com/legubiao/quadruped_ros2_control) - ROS2-Control implementations for Quadruped robots, include sim2real
 - [TixiaoShan/LIO-SAM](https://github.com/TixiaoShan/LIO-SAM) - LIO-SAM: Tightly-coupled Lidar Inertial Odometry via Smoothing and Mapping
 - [gaoxiang12/lightning-lm](https://github.com/gaoxiang12/lightning-lm) - Lidar Localization and Mapping
@@ -590,6 +591,7 @@
 
 ## Python 
 
+- [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) - 337 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — e
 - [wanshuiyin/Auto-claude-code-research-in-sleep](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep) - ARIS ⚔️ (Auto-Research-In-Sleep) — Lightweight Markdown-only skills for autonomous ML research: cross-model review loops, idea discovery, and experiment automation. No framework, no lock-in — works wi
 - [handsomestWei/patent-disclosure-skill](https://github.com/handsomestWei/patent-disclosure-skill) - 中国专利.skill，从项目文档到可交付的技术交底书，专利点挖掘、联网国知局查新、脱敏成文与自检闭环。
 - [dimensionalOS/dimos](https://github.com/dimensionalOS/dimos) - Dimensional is the agentic operating system for physical space. Vibecode humanoids, quadrupeds, drones, and other hardware platforms in natural language and build multi-agent systems that work seamles
