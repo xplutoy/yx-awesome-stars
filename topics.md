@@ -1245,7 +1245,7 @@
 - [Foundations-of-Computer-Vision/visionbook](https://github.com/Foundations-of-Computer-Vision/visionbook) - &lt;Foundations of Computer Vision&gt; Book
 - [leggedrobotics/terrain-generator](https://github.com/leggedrobotics/terrain-generator) - 
 - [petercorke/RVC3-python](https://github.com/petercorke/RVC3-python) - Code examples for Robotics, Vision & Control 3rd edition in Python
-- [zju3dv/GVHMR](https://github.com/zju3dv/GVHMR) - Code for "GVHMR: World-Grounded Human Motion Recovery via Gravity-View Coordinates", Siggraph Asia 2024
+- [zju3dv/GVHMR](https://github.com/zju3dv/GVHMR) - Code for "GVHMR: World-Grounded Human Motion Recovery via Gravity-View Coordinates", Siggraph Asia 2024, TPAMI 2026
 - [Albusgive/mujoco_learning](https://github.com/Albusgive/mujoco_learning) - 
 - [YanjieZe/GMR](https://github.com/YanjieZe/GMR) - [ICRA 2026] GMR: General Motion Retargeting. Retarget human motions into diverse humanoid robots in real time on CPU. Retargeter for TWIST.
 - [Simple-Robotics/aligator](https://github.com/Simple-Robotics/aligator) - A versatile and efficient C++ library for real-time constrained trajectory optimization
