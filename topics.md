@@ -415,7 +415,6 @@
 
 ## cli 
 
-- [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) - Ultralytics YOLO 🚀
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [eafer/rdrview](https://github.com/eafer/rdrview) - Firefox Reader View as a command line tool
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
@@ -460,7 +459,7 @@
 ## computer-vision 
 
 - [nerfstudio-project/nerfstudio](https://github.com/nerfstudio-project/nerfstudio) - A collaboration friendly studio for NeRFs
-- [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) - Ultralytics YOLO 🚀
+- [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) - Ultralytics YOLO26, YOLO11, YOLOv8 — object detection, instance segmentation, semantic segmentation, image classification, pose estimation, object tracking
 - [zubair-irshad/Awesome-Implicit-NeRF-Robotics](https://github.com/zubair-irshad/Awesome-Implicit-NeRF-Robotics) - A comprehensive list of Implicit Representations and NeRF papers relating to Robotics/RL domain, including papers, codes, and related websites
 - [artivis/manif](https://github.com/artivis/manif) - A small C++11 header-only library for Lie theory.
 - [colmap/colmap](https://github.com/colmap/colmap) - COLMAP - Structure-from-Motion and Multi-View Stereo
@@ -548,7 +547,7 @@
 
 - [wanshuiyin/Auto-claude-code-research-in-sleep](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep) - ARIS ⚔️ (Auto-Research-In-Sleep) — Lightweight Markdown-only skills for autonomous ML research: cross-model review loops, idea discovery, and experiment automation. No framework, no lock-in — works wi
 - [nerfstudio-project/nerfstudio](https://github.com/nerfstudio-project/nerfstudio) - A collaboration friendly studio for NeRFs
-- [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) - Ultralytics YOLO 🚀
+- [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) - Ultralytics YOLO26, YOLO11, YOLOv8 — object detection, instance segmentation, semantic segmentation, image classification, pose estimation, object tracking
 - [zubair-irshad/Awesome-Implicit-NeRF-Robotics](https://github.com/zubair-irshad/Awesome-Implicit-NeRF-Robotics) - A comprehensive list of Implicit Representations and NeRF papers relating to Robotics/RL domain, including papers, codes, and related websites
 - [hzwer/Awesome-Optical-Flow](https://github.com/hzwer/Awesome-Optical-Flow) - This is a list of awesome paper about optical flow and related work.
 - [leofan90/Awesome-World-Models](https://github.com/leofan90/Awesome-World-Models) - A comprehensive list of papers for the definition of World Models and using World Models for General Video Generation, Embodied AI, and Autonomous Driving, including papers, codes, and related website
@@ -1004,7 +1003,7 @@
 
 - [wanshuiyin/Auto-claude-code-research-in-sleep](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep) - ARIS ⚔️ (Auto-Research-In-Sleep) — Lightweight Markdown-only skills for autonomous ML research: cross-model review loops, idea discovery, and experiment automation. No framework, no lock-in — works wi
 - [nerfstudio-project/nerfstudio](https://github.com/nerfstudio-project/nerfstudio) - A collaboration friendly studio for NeRFs
-- [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) - Ultralytics YOLO 🚀
+- [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) - Ultralytics YOLO26, YOLO11, YOLOv8 — object detection, instance segmentation, semantic segmentation, image classification, pose estimation, object tracking
 - [mxgmn/WaveFunctionCollapse](https://github.com/mxgmn/WaveFunctionCollapse) - Bitmap & tilemap generation from a single example with the help of ideas from quantum mechanics
 - [roboterax/humanoid-gym](https://github.com/roboterax/humanoid-gym) - Humanoid-Gym: Reinforcement Learning for Humanoid Robot with Zero-Shot Sim2Real Transfer https://arxiv.org/abs/2404.05695
 - [osqp/osqp](https://github.com/osqp/osqp) - The Operator Splitting QP Solver
@@ -1633,7 +1632,7 @@
 - [Phylliade/ikpy](https://github.com/Phylliade/ikpy) - IKPy, an Universal Inverse Kinematics library
 - [handsomestWei/patent-disclosure-skill](https://github.com/handsomestWei/patent-disclosure-skill) - 中国专利.skill，从项目文档到可交付的技术交底书，专利点挖掘、联网国知局查新、脱敏成文与自检闭环。
 - [MizuhoAOKI/python_simple_mppi](https://github.com/MizuhoAOKI/python_simple_mppi) - Python implementation of MPPI (Model Predictive Path-Integral) controller to understand the basic idea. Mandatory dependencies are numpy and matplotlib only.
-- [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) - Ultralytics YOLO 🚀
+- [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) - Ultralytics YOLO26, YOLO11, YOLOv8 — object detection, instance segmentation, semantic segmentation, image classification, pose estimation, object tracking
 - [pyvista/pyvista](https://github.com/pyvista/pyvista) - 3D visualization and mesh analysis for science and engineering
 - [qpsolvers/qpsolvers](https://github.com/qpsolvers/qpsolvers) - Quadratic programming solvers in Python with a unified API
 - [AtsushiSakai/PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics) - Python sample codes and textbook for robotics algorithms.
@@ -1708,7 +1707,7 @@
 ## pytorch 
 
 - [nerfstudio-project/nerfstudio](https://github.com/nerfstudio-project/nerfstudio) - A collaboration friendly studio for NeRFs
-- [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) - Ultralytics YOLO 🚀
+- [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) - Ultralytics YOLO26, YOLO11, YOLOv8 — object detection, instance segmentation, semantic segmentation, image classification, pose estimation, object tracking
 - [facebookresearch/theseus](https://github.com/facebookresearch/theseus) - A library for differentiable nonlinear optimization
 - [gbionics/amp-rsl-rl](https://github.com/gbionics/amp-rsl-rl) - 🔁 AMP-RSL-RL: Adversarial Motion Priors for robotic RL (PPO + motion imitation)
 - [jmtomczak/intro_dgm](https://github.com/jmtomczak/intro_dgm) - "Deep Generative Modeling": Introductory Examples
