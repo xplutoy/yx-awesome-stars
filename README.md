@@ -164,7 +164,6 @@
 
 ## Emacs Lisp 
 
-- [eval-exec/neomacs](https://github.com/eval-exec/neomacs) - NEO Emacs (WIP): GPU powered Emacs written in Rust with a modern display engine.               Aiming for modern design & multi-threaded Elisp, 10x performance, zero-pause concurrent GC and 100% Emacs
 - [Kinneyzhang/etaf](https://github.com/Kinneyzhang/etaf) - Emacs Text-based Application Framework
 - [Kinneyzhang/emacs-kp](https://github.com/Kinneyzhang/emacs-kp) - Implement of Knuth-plass algorithm in emacs-lisp, support for mixed typesetting of CJK and Latin languages.
 - [ragnard/gptel-magit](https://github.com/ragnard/gptel-magit) - 
@@ -605,7 +604,7 @@
 - [xbpeng/MimicKit](https://github.com/xbpeng/MimicKit) - A lightweight suite of motion imitation methods for training controllers.
 - [666ghj/MiroFish](https://github.com/666ghj/MiroFish) - A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物
 - [nv-tlabs/kimodo](https://github.com/nv-tlabs/kimodo) - Official implementation of Kimodo, a kinematic motion diffusion model for high-quality human(oid) motion generation.
-- [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) - Ultralytics YOLO 🚀
+- [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) - Ultralytics YOLO26, YOLO11, YOLOv8 — object detection, instance segmentation, semantic segmentation, image classification, pose estimation, object tracking
 - [dreamzero0/dreamzero](https://github.com/dreamzero0/dreamzero) - Code to pretrain, fine-tune, and evaluate DreamZero and run sim & real-world evals
 - [chengxuxin/extreme-parkour](https://github.com/chengxuxin/extreme-parkour) - [ICRA 2024]: Train your parkour robot in less than 20 hours.
 - [mujocolab/mjlab](https://github.com/mujocolab/mjlab) - Isaac Lab API, powered by MuJoCo-Warp, for RL and robotics research
@@ -799,6 +798,7 @@
 
 ## Rust 
 
+- [eval-exec/neomacs](https://github.com/eval-exec/neomacs) - NEO Emacs (WIP): GPU powered Emacs written in Rust with a modern display engine.               Aiming for modern design & multi-threaded Elisp, 10x performance, zero-pause concurrent GC and 100% Emacs
 - [rerun-io/rerun](https://github.com/rerun-io/rerun) - Visualize, query, and stream to train on multimodal robotics data.
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
