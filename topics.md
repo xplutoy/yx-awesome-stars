@@ -1204,6 +1204,7 @@
 
 ## others 
 
+- [OpenDriveLab/WholebodyVLA](https://github.com/OpenDriveLab/WholebodyVLA) - [ICLR 2026] Towards Unified Latent VLA for Whole-body Loco-manipulation Control
 - [robomechanics/quad-sdk](https://github.com/robomechanics/quad-sdk) - Software tools for agile quadrupeds, developed by the Robomechanics Lab at Carnegie Mellon University.
 - [arclab-hku/MGDP](https://github.com/arclab-hku/MGDP) - [Adv. Sci. 2026] MGDP: Mastering a Generalized Depth Perception Model for Quadruped Locomotion
 - [dimensionalOS/dimos](https://github.com/dimensionalOS/dimos) - Dimensional is the agentic operating system for physical space. Vibecode humanoids, quadrupeds, drones, and other hardware platforms in natural language and build multi-agent systems that work seamles
