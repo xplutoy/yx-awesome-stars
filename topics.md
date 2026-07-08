@@ -1215,6 +1215,7 @@
 
 ## others 
 
+- [discoverse-dev/MuJoCo-LiDAR](https://github.com/discoverse-dev/MuJoCo-LiDAR) - High-performance LiDAR simulation for MuJoCo with CPU/Taichi/Jax backends, supporting multiple sensor types and ROS integration. 基于 MuJoCo 的高性能激光雷达仿真，支持 CPU/Taichi/Jax 多种后端、多种激光雷达类型及 ROS 集成
 - [OpenDriveLab/WholebodyVLA](https://github.com/OpenDriveLab/WholebodyVLA) - [ICLR 2026] Towards Unified Latent VLA for Whole-body Loco-manipulation Control
 - [robomechanics/quad-sdk](https://github.com/robomechanics/quad-sdk) - Software tools for agile quadrupeds, developed by the Robomechanics Lab at Carnegie Mellon University.
 - [arclab-hku/MGDP](https://github.com/arclab-hku/MGDP) - [Adv. Sci. 2026] MGDP: Mastering a Generalized Depth Perception Model for Quadruped Locomotion
