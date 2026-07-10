@@ -161,6 +161,7 @@
 - [visualization](#visualization)
 - [vuejs](#vuejs)
 - [windows](#windows)
+- [workflow](#workflow)
 - [xcode](#xcode)
 - [zsh](#zsh)
 
@@ -1991,6 +1992,13 @@
 - [laishulu/emacs-smart-input-source](https://github.com/laishulu/emacs-smart-input-source) - Minimize manual input source (input method) switching.
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 - [abyo/nvim-windows](https://github.com/abyo/nvim-windows) - Config files for neoVim on Windows 10
+
+## workflow 
+
+- [pdm-project/pdm](https://github.com/pdm-project/pdm) - A modern Python package and dependency manager supporting the latest PEP standards
+- [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
+- [dataelement/bisheng](https://github.com/dataelement/bisheng) - BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive features include: GenAI workflow, RAG, Agent, Unified model management, Evaluation, SF
+- [JamesIves/github-pages-deploy-action](https://github.com/JamesIves/github-pages-deploy-action) - 🚀 Automatically deploy your project to GitHub Pages using GitHub Actions. This action can be configured to push your production-ready code into any branch you'd like.
 
 ## xcode 
 
