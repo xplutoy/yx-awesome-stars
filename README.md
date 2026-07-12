@@ -597,7 +597,7 @@
 - [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) - 345 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — e
 - [wanshuiyin/Auto-claude-code-research-in-sleep](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep) - ARIS ⚔️ (Auto-Research-In-Sleep) — Lightweight Markdown-only skills for autonomous ML research: cross-model review loops, idea discovery, and experiment automation. No framework, no lock-in — works wi
 - [handsomestWei/patent-disclosure-skill](https://github.com/handsomestWei/patent-disclosure-skill) - 中国专利.skill，从项目文档到可交付的技术交底书，专利点挖掘、联网国知局查新、脱敏成文与自检闭环。
-- [dimensionalOS/dimos](https://github.com/dimensionalOS/dimos) - Dimensional is the agentic operating system for physical space. Vibecode humanoids, quadrupeds, drones, and other hardware platforms in natural language and build multi-agent systems that work seamles
+- [dimensionalOS/dimos](https://github.com/dimensionalOS/dimos) - Dimensional is the agentic operating system for physical space. Command humanoids, quadrupeds, drones, and other hardware platforms in natural language and build multi-agent systems that work seamless
 - [nerfstudio-project/nerfstudio](https://github.com/nerfstudio-project/nerfstudio) - A collaboration friendly studio for NeRFs
 - [nasa-jpl/rosa](https://github.com/nasa-jpl/rosa) - ROSA 🤖 is an AI Agent designed to interact with ROS1- and ROS2-based robotics systems using natural language queries. ROSA helps robot developers inspect, diagnose, understand, and operate robots.
 - [facebookresearch/nwm](https://github.com/facebookresearch/nwm) - Official code for the CVPR 2025 paper "Navigation World Models".
@@ -634,7 +634,7 @@
 - [ZhengyiLuo/PHC](https://github.com/ZhengyiLuo/PHC) - Official Implementation of the ICCV 2023 paper:  Perpetual Humanoid Control for Real-time Simulated Avatars
 - [vuer-ai/vuer](https://github.com/vuer-ai/vuer) - Vuer is a 3D visualization tool for robotics and VR applications.
 - [Open-X-Humanoid/TienKung-Lab](https://github.com/Open-X-Humanoid/TienKung-Lab) - Tien Kung-Lab: Direct IsaacLab Workflow for Legged Robots
-- [LeCAR-Lab/FALCON](https://github.com/LeCAR-Lab/FALCON) - [L4DC 2026] "FALCON: Learning Force-Adaptive Humanoid Loco-Manipulation"
+- [LeCAR-Lab/FALCON](https://github.com/LeCAR-Lab/FALCON) - [L4DC 2026 (Oral)] "FALCON: Learning Force-Adaptive Humanoid Loco-Manipulation"
 - [forgi86/pyMPC](https://github.com/forgi86/pyMPC) - A Model Predictive Control (MPC) Python library based on the OSQP solver.
 - [zixuan417/smooth-humanoid-locomotion](https://github.com/zixuan417/smooth-humanoid-locomotion) - [IROS 2025] Learning Smooth Humanoid Locomotion through Lipschitz-Constrained Policies
 - [facebookresearch/hydra](https://github.com/facebookresearch/hydra) - Hydra is a framework for elegantly configuring complex applications
