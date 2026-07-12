@@ -1220,7 +1220,7 @@
 - [OpenDriveLab/WholebodyVLA](https://github.com/OpenDriveLab/WholebodyVLA) - [ICLR 2026] Towards Unified Latent VLA for Whole-body Loco-manipulation Control
 - [robomechanics/quad-sdk](https://github.com/robomechanics/quad-sdk) - Software tools for agile quadrupeds, developed by the Robomechanics Lab at Carnegie Mellon University.
 - [arclab-hku/MGDP](https://github.com/arclab-hku/MGDP) - [Adv. Sci. 2026] MGDP: Mastering a Generalized Depth Perception Model for Quadruped Locomotion
-- [dimensionalOS/dimos](https://github.com/dimensionalOS/dimos) - Dimensional is the agentic operating system for physical space. Vibecode humanoids, quadrupeds, drones, and other hardware platforms in natural language and build multi-agent systems that work seamles
+- [dimensionalOS/dimos](https://github.com/dimensionalOS/dimos) - Dimensional is the agentic operating system for physical space. Command humanoids, quadrupeds, drones, and other hardware platforms in natural language and build multi-agent systems that work seamless
 - [legubiao/quadruped_ros2_control](https://github.com/legubiao/quadruped_ros2_control) - ROS2-Control implementations for Quadruped robots, include sim2real
 - [knmcguire/best-of-robot-simulators](https://github.com/knmcguire/best-of-robot-simulators) - A Best-of-list of Robot Simulators, re-generated weekly on Wednesdays
 - [GT-RIPL/Awesome-LLM-Robotics](https://github.com/GT-RIPL/Awesome-LLM-Robotics) - A comprehensive list of papers using large language/multi-modal models for Robotics/RL, including papers, codes, and related websites
@@ -1281,7 +1281,7 @@
 - [opendilab/awesome-diffusion-model-in-rl](https://github.com/opendilab/awesome-diffusion-model-in-rl) - A curated list of Diffusion Model in RL resources (continually updated)
 - [Kinneyzhang/etaf](https://github.com/Kinneyzhang/etaf) - Emacs Text-based Application Framework
 - [Kinneyzhang/emacs-kp](https://github.com/Kinneyzhang/emacs-kp) - Implement of Knuth-plass algorithm in emacs-lisp, support for mixed typesetting of CJK and Latin languages.
-- [LeCAR-Lab/FALCON](https://github.com/LeCAR-Lab/FALCON) - [L4DC 2026] "FALCON: Learning Force-Adaptive Humanoid Loco-Manipulation"
+- [LeCAR-Lab/FALCON](https://github.com/LeCAR-Lab/FALCON) - [L4DC 2026 (Oral)] "FALCON: Learning Force-Adaptive Humanoid Loco-Manipulation"
 - [ragnard/gptel-magit](https://github.com/ragnard/gptel-magit) - 
 - [swig/swig](https://github.com/swig/swig) - SWIG is a software development tool that connects programs written in C and C++ with a variety of high-level programming languages.
 - [forgi86/pyMPC](https://github.com/forgi86/pyMPC) - A Model Predictive Control (MPC) Python library based on the OSQP solver.
