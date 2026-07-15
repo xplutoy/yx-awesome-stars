@@ -525,7 +525,6 @@
 - [merrymercy/awesome-tensor-compilers](https://github.com/merrymercy/awesome-tensor-compilers) - A list of awesome compiler projects and papers for tensor computation and deep learning.
 - [google-research/tuning_playbook](https://github.com/google-research/tuning_playbook) - A playbook for systematically maximizing the performance of deep learning models.
 - [jonyzhang2023/awesome-humanoid-learning](https://github.com/jonyzhang2023/awesome-humanoid-learning) - Humanoid Robots Resources
-- [qqfly/how-to-learn-robotics](https://github.com/qqfly/how-to-learn-robotics) - 开源机器人学学习指南
 - [Morakito/Real-Time-Rendering-4th-CN](https://github.com/Morakito/Real-Time-Rendering-4th-CN) - 《Real-Time Rendering 4th》 (RTR4) 中文翻译
 - [protesilaos/emacs-lisp-elements](https://github.com/protesilaos/emacs-lisp-elements) - A book that provides a big picture view of the Emacs Lisp programming language.
 - [apexrl/Diff4RLSurvey](https://github.com/apexrl/Diff4RLSurvey) - This repository contains a collection of resources and papers on Diffusion Models for RL, accompanying the paper "Diffusion Models for Reinforcement Learning: A Survey"
@@ -679,6 +678,7 @@
 - [leggedrobotics/elevation_mapping_cupy](https://github.com/leggedrobotics/elevation_mapping_cupy) - Elevation Mapping on GPU.
 - [RoboVerseOrg/RoboVerse](https://github.com/RoboVerseOrg/RoboVerse) - RoboVerse: Towards a Unified Platform, Dataset and Benchmark for Scalable and Generalizable Robot Learning
 - [google-deepmind/mujoco_playground](https://github.com/google-deepmind/mujoco_playground) - An open-source library for GPU-accelerated robot learning and sim-to-real transfer.
+- [qqfly/how-to-learn-robotics](https://github.com/qqfly/how-to-learn-robotics) - 开源机器人学学习指南
 - [GuyTevet/motion-diffusion-model](https://github.com/GuyTevet/motion-diffusion-model) - The official PyTorch implementation of the paper "Human Motion Diffusion Model"
 - [huggingface/lerobot](https://github.com/huggingface/lerobot) - 🤗 LeRobot: Making AI for Robotics more accessible with end-to-end learning
 - [NVIDIA/Isaac-GR00T](https://github.com/NVIDIA/Isaac-GR00T) - NVIDIA Isaac GR00T N1.7 -  A Foundation Model for Generalist Robots.
@@ -812,7 +812,7 @@
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [pola-rs/polars](https://github.com/pola-rs/polars) - Extremely fast Query Engine for DataFrames, written in Rust
-- [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A lightweight coding agent, optimized for open models like GLM, Deepseek, and Kimi
+- [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A coding agent for low-cost models
 - [zurawiki/gptcommit](https://github.com/zurawiki/gptcommit) - A git prepare-commit-msg hook for authoring commit messages with LLMs.
 - [latex-lsp/texlab](https://github.com/latex-lsp/texlab) - An implementation of the Language Server Protocol for LaTeX
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
