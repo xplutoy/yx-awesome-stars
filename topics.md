@@ -204,7 +204,7 @@
 
 ## ai 
 
-- [papersgpt/papersgpt-for-zotero](https://github.com/papersgpt/papersgpt-for-zotero) - A powerful Zotero AI and MCP plugin with ChatGPT, Gemini 3.5, Claude, DeepSeek V4, Grok, OpenRouter, Kimi 2.6, GLM 5, SiliconFlow, GPT-oss, Gemma 4, Qwen 3.7
+- [papersgpt/papersgpt-for-zotero](https://github.com/papersgpt/papersgpt-for-zotero) - A powerful Zotero AI and MCP plugin with ChatGPT, Gemini 3.5, Claude Fable 5, Claude Sonnet 5, DeepSeek V4, Grok, OpenRouter, Kimi k3, GLM 5.2, SiliconFlow, GPT-oss, Gemma 4, Qwen 3.7
 - [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) - from vibe coding to agentic engineering - practice makes claude perfect
 - [nasa-jpl/rosa](https://github.com/nasa-jpl/rosa) - ROSA 🤖 is an AI Agent designed to interact with ROS1- and ROS2-based robotics systems using natural language queries. ROSA helps robot developers inspect, diagnose, understand, and operate robots.
 - [roboterax/humanoid-gym](https://github.com/roboterax/humanoid-gym) - Humanoid-Gym: Reinforcement Learning for Humanoid Robot with Zero-Shot Sim2Real Transfer https://arxiv.org/abs/2404.05695
@@ -365,7 +365,7 @@
 
 ## chatgpt 
 
-- [papersgpt/papersgpt-for-zotero](https://github.com/papersgpt/papersgpt-for-zotero) - A powerful Zotero AI and MCP plugin with ChatGPT, Gemini 3.5, Claude, DeepSeek V4, Grok, OpenRouter, Kimi 2.6, GLM 5, SiliconFlow, GPT-oss, Gemma 4, Qwen 3.7
+- [papersgpt/papersgpt-for-zotero](https://github.com/papersgpt/papersgpt-for-zotero) - A powerful Zotero AI and MCP plugin with ChatGPT, Gemini 3.5, Claude Fable 5, Claude Sonnet 5, DeepSeek V4, Grok, OpenRouter, Kimi k3, GLM 5.2, SiliconFlow, GPT-oss, Gemma 4, Qwen 3.7
 - [OpenMotionLab/MotionGPT](https://github.com/OpenMotionLab/MotionGPT) - [NeurIPS 2023] MotionGPT: Human Motion as a Foreign Language, a unified motion-language generation model using LLMs
 - [MatthewZMD/aidermacs](https://github.com/MatthewZMD/aidermacs) - AI Pair Programming in Emacs with Aider
 - [daedsidog/evedel](https://github.com/daedsidog/evedel) - Instructed LLM programmer/assistant for Emacs
@@ -410,7 +410,7 @@
 ## claude 
 
 - [wanshuiyin/Auto-claude-code-research-in-sleep](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep) - ARIS ⚔️ (Auto-Research-In-Sleep) — Lightweight Markdown-only skills for autonomous ML research: cross-model review loops, idea discovery, and experiment automation. No framework, no lock-in — works wi
-- [papersgpt/papersgpt-for-zotero](https://github.com/papersgpt/papersgpt-for-zotero) - A powerful Zotero AI and MCP plugin with ChatGPT, Gemini 3.5, Claude, DeepSeek V4, Grok, OpenRouter, Kimi 2.6, GLM 5, SiliconFlow, GPT-oss, Gemma 4, Qwen 3.7
+- [papersgpt/papersgpt-for-zotero](https://github.com/papersgpt/papersgpt-for-zotero) - A powerful Zotero AI and MCP plugin with ChatGPT, Gemini 3.5, Claude Fable 5, Claude Sonnet 5, DeepSeek V4, Grok, OpenRouter, Kimi k3, GLM 5.2, SiliconFlow, GPT-oss, Gemma 4, Qwen 3.7
 - [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) - from vibe coding to agentic engineering - practice makes claude perfect
 - [MatthewZMD/aidermacs](https://github.com/MatthewZMD/aidermacs) - AI Pair Programming in Emacs with Aider
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
@@ -1092,7 +1092,7 @@
 ## mcp 
 
 - [wanshuiyin/Auto-claude-code-research-in-sleep](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep) - ARIS ⚔️ (Auto-Research-In-Sleep) — Lightweight Markdown-only skills for autonomous ML research: cross-model review loops, idea discovery, and experiment automation. No framework, no lock-in — works wi
-- [papersgpt/papersgpt-for-zotero](https://github.com/papersgpt/papersgpt-for-zotero) - A powerful Zotero AI and MCP plugin with ChatGPT, Gemini 3.5, Claude, DeepSeek V4, Grok, OpenRouter, Kimi 2.6, GLM 5, SiliconFlow, GPT-oss, Gemma 4, Qwen 3.7
+- [papersgpt/papersgpt-for-zotero](https://github.com/papersgpt/papersgpt-for-zotero) - A powerful Zotero AI and MCP plugin with ChatGPT, Gemini 3.5, Claude Fable 5, Claude Sonnet 5, DeepSeek V4, Grok, OpenRouter, Kimi k3, GLM 5.2, SiliconFlow, GPT-oss, Gemma 4, Qwen 3.7
 - [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) - Build and run agents you can see, understand and trust.
 - [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - An autonomous agent that conducts deep research on any data using any LLM providers
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
