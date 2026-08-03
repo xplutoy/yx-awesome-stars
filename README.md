@@ -505,6 +505,7 @@
 - [GT-RIPL/Awesome-LLM-Robotics](https://github.com/GT-RIPL/Awesome-LLM-Robotics) - A comprehensive list of papers using large language/multi-modal models for Robotics/RL, including papers, codes, and related websites
 - [singhaman1750/Legged-Robots](https://github.com/singhaman1750/Legged-Robots) - This repository contains papers in the field of legged robots.
 - [KwanWaiPang/Awesome-VLN](https://github.com/KwanWaiPang/Awesome-VLN) - Paper Survey for Visual Language Navigation
+- [zsibot/matrix](https://github.com/zsibot/matrix) - MATRiX is an advanced simulation platform that integrates MuJoCo, Unreal Engine 5, and CARLA to provide high-fidelity, interactive environments for robotics research.
 - [siyandong/awesome-visual-localization](https://github.com/siyandong/awesome-visual-localization) - A curated list of awesome visual localization research works.
 - [Roboparty/roboparty_train](https://github.com/Roboparty/roboparty_train) - Isaac Lab training workspace for Roboparty RPO locomotion policies, including RSL-RL, Sim2Sim, and motion retargeting tools.
 - [YangLing0818/Diffusion-Models-Papers-Survey-Taxonomy](https://github.com/YangLing0818/Diffusion-Models-Papers-Survey-Taxonomy) - Diffusion model papers, survey, and taxonomy
@@ -837,7 +838,6 @@
 
 ## Shell 
 
-- [zsibot/matrix](https://github.com/zsibot/matrix) - MATRiX is an advanced simulation platform that integrates MuJoCo, Unreal Engine 5, and CARLA to provide high-fidelity, interactive environments for robotics research.
 - [liquidprompt/liquidprompt](https://github.com/liquidprompt/liquidprompt) - A full-featured & carefully designed adaptive prompt for Bash & Zsh
 - [kiennq/emacs-build](https://github.com/kiennq/emacs-build) - Scripts to build a distribution of Emacs from sources, using MSYS2 and Mingw64(32)
 - [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
