@@ -1213,6 +1213,7 @@
 
 ## others 
 
+- [facebookresearch/EdgeTAM](https://github.com/facebookresearch/EdgeTAM) - [CVPR 2025] Official PyTorch implementation of "EdgeTAM: On-Device Track Anything Model"
 - [discoverse-dev/MuJoCo-LiDAR](https://github.com/discoverse-dev/MuJoCo-LiDAR) - High-performance LiDAR simulation for MuJoCo with CPU/Warp/Taichi/Jax backends, supporting multiple sensor types and ROS integration. 基于 MuJoCo 的高性能激光雷达仿真，支持 CPU/Warp/Taichi/Jax 多种后端、多种激光雷达类型及 ROS 集成
 - [OpenDriveLab/WholebodyVLA](https://github.com/OpenDriveLab/WholebodyVLA) - [ICLR 2026] Towards Unified Latent VLA for Whole-body Loco-manipulation Control
 - [robomechanics/quad-sdk](https://github.com/robomechanics/quad-sdk) - Software tools for agile quadrupeds, developed by the Robomechanics Lab at Carnegie Mellon University.
