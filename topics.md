@@ -1353,7 +1353,7 @@
 - [NVIDIA/Isaac-GR00T](https://github.com/NVIDIA/Isaac-GR00T) - NVIDIA Isaac GR00T N1.7 -  A Foundation Model for Generalist Robots.
 - [LeCAR-Lab/human2humanoid](https://github.com/LeCAR-Lab/human2humanoid) - [IROS 2024] Learning Human-to-Humanoid Real-Time Whole-Body Teleoperation.                    [CoRL 2024] OmniH2O: Universal and Dexterous Human-to-Humanoid Whole-Body Teleoperation and Learning
 - [Manaro-Alpha/DreamWaQ](https://github.com/Manaro-Alpha/DreamWaQ) - 
-- [MArpogaus/auto-side-windows](https://github.com/MArpogaus/auto-side-windows) - 
+- [MArpogaus/auto-side-windows](https://github.com/MArpogaus/auto-side-windows) - Emacs window management made simple.
 - [bluzky/relysium](https://github.com/bluzky/relysium) - Your AI co-developer. Bring joy to coding!
 - [ndwarshuis/org-sql](https://github.com/ndwarshuis/org-sql) - SQL backend for Emacs Org-Mode
 - [meedstrom/org-mem](https://github.com/meedstrom/org-mem) - Turn thousands of Org files into a database in seconds
