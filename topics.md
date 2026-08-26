@@ -187,7 +187,7 @@
 ## agent-skills 
 
 - [Agents365-ai/drawio-skill](https://github.com/Agents365-ai/drawio-skill) - Generate draw.io diagrams from natural language — 11 presets (UML, SysML/MBSE, BPMN, network, C4…), 36 tools: codebase/CI/infra-to-diagram, image→editable diagram, mind maps, build-up animation, exec-
-- [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) - 345 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — e
+- [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) - 380 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 380+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — e
 
 ## agents 
 
@@ -425,7 +425,7 @@
 ## claude-code 
 
 - [Agents365-ai/drawio-skill](https://github.com/Agents365-ai/drawio-skill) - Generate draw.io diagrams from natural language — 11 presets (UML, SysML/MBSE, BPMN, network, C4…), 36 tools: codebase/CI/infra-to-diagram, image→editable diagram, mind maps, build-up animation, exec-
-- [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) - 345 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — e
+- [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) - 380 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 380+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — e
 - [wanshuiyin/Auto-claude-code-research-in-sleep](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep) - ARIS ⚔️ (Auto-Research-In-Sleep) — Lightweight Markdown-only skills for autonomous ML research: cross-model review loops, idea discovery, and experiment automation. No framework, no lock-in — works wi
 - [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) - from vibe coding to agentic engineering - practice makes claude perfect
 - [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) - A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.
@@ -433,7 +433,7 @@
 ## claude-skills 
 
 - [Agents365-ai/drawio-skill](https://github.com/Agents365-ai/drawio-skill) - Generate draw.io diagrams from natural language — 11 presets (UML, SysML/MBSE, BPMN, network, C4…), 36 tools: codebase/CI/infra-to-diagram, image→editable diagram, mind maps, build-up animation, exec-
-- [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) - 345 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — e
+- [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) - 380 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 380+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — e
 
 ## cli 
 
@@ -480,6 +480,8 @@
 
 ## computer-vision 
 
+- [yyyy231209/zero-copy-vpu-gpu-rga-stitch](https://github.com/yyyy231209/zero-copy-vpu-gpu-rga-stitch) - Zero-copy four-camera real-time panorama stitching on Rockchip RK3588: VPU(MPP) hardware decode -&gt; Mali GPU OpenCL warp -&gt; RGA blend, DMA-BUF zero-copy
+- [yyyy231209/zero-copy-tri-core-npu-inference](https://github.com/yyyy231209/zero-copy-tri-core-npu-inference) - Tri-core NPU tunnel crack detection on Rockchip RK3588: packed-strips 3-in-1 inference (~2.9x), rknn_set_core_mask CORE_0/1/2, DMA-BUF full-chain zero-copy, consumes panorama DMA-BUF
 - [nerfstudio-project/nerfstudio](https://github.com/nerfstudio-project/nerfstudio) - A collaboration friendly studio for NeRFs
 - [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) - Ultralytics YOLO26, YOLO11, YOLOv8 — object detection, instance segmentation, semantic segmentation, image classification, pose estimation, object tracking
 - [zubair-irshad/Awesome-Implicit-NeRF-Robotics](https://github.com/zubair-irshad/Awesome-Implicit-NeRF-Robotics) - A comprehensive list of Implicit Representations and NeRF papers relating to Robotics/RL domain, including papers, codes, and related websites
@@ -506,6 +508,8 @@
 
 ## cpp 
 
+- [yyyy231209/zero-copy-vpu-gpu-rga-stitch](https://github.com/yyyy231209/zero-copy-vpu-gpu-rga-stitch) - Zero-copy four-camera real-time panorama stitching on Rockchip RK3588: VPU(MPP) hardware decode -&gt; Mali GPU OpenCL warp -&gt; RGA blend, DMA-BUF zero-copy
+- [yyyy231209/zero-copy-tri-core-npu-inference](https://github.com/yyyy231209/zero-copy-tri-core-npu-inference) - Tri-core NPU tunnel crack detection on Rockchip RK3588: packed-strips 3-in-1 inference (~2.9x), rknn_set_core_mask CORE_0/1/2, DMA-BUF full-chain zero-copy, consumes panorama DMA-BUF
 - [rerun-io/rerun](https://github.com/rerun-io/rerun) - Visualize, query, and stream to train on multimodal robotics data.
 - [ANYbotics/grid_map](https://github.com/ANYbotics/grid_map) - Universal grid map library for mobile robotic mapping
 - [ethz-adrl/control-toolbox](https://github.com/ethz-adrl/control-toolbox) - The Control Toolbox - An Open-Source C++ Library for Robotics, Optimal and Model Predictive Control
@@ -567,6 +571,7 @@
 
 ## deep-learning 
 
+- [pypose/pypose](https://github.com/pypose/pypose) - A library for differentiable robotics on manifolds.
 - [wanshuiyin/Auto-claude-code-research-in-sleep](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep) - ARIS ⚔️ (Auto-Research-In-Sleep) — Lightweight Markdown-only skills for autonomous ML research: cross-model review loops, idea discovery, and experiment automation. No framework, no lock-in — works wi
 - [nerfstudio-project/nerfstudio](https://github.com/nerfstudio-project/nerfstudio) - A collaboration friendly studio for NeRFs
 - [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) - Ultralytics YOLO26, YOLO11, YOLOv8 — object detection, instance segmentation, semantic segmentation, image classification, pose estimation, object tracking
@@ -625,7 +630,7 @@
 
 ## developer-tools 
 
-- [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) - 345 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — e
+- [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) - 380 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 380+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — e
 - [nasa-jpl/rosa](https://github.com/nasa-jpl/rosa) - ROSA 🤖 is an AI Agent designed to interact with ROS1- and ROS2-based robotics systems using natural language queries. ROSA helps robot developers inspect, diagnose, understand, and operate robots.
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
 - [d2lang/d2](https://github.com/d2lang/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
@@ -765,6 +770,8 @@
 
 ## embedded 
 
+- [yyyy231209/zero-copy-vpu-gpu-rga-stitch](https://github.com/yyyy231209/zero-copy-vpu-gpu-rga-stitch) - Zero-copy four-camera real-time panorama stitching on Rockchip RK3588: VPU(MPP) hardware decode -&gt; Mali GPU OpenCL warp -&gt; RGA blend, DMA-BUF zero-copy
+- [yyyy231209/zero-copy-tri-core-npu-inference](https://github.com/yyyy231209/zero-copy-tri-core-npu-inference) - Tri-core NPU tunnel crack detection on Rockchip RK3588: packed-strips 3-in-1 inference (~2.9x), rknn_set_core_mask CORE_0/1/2, DMA-BUF full-chain zero-copy, consumes panorama DMA-BUF
 - [acados/acados](https://github.com/acados/acados) - Fast and embedded solvers for nonlinear optimal control and nonlinear model predictive control
 - [micropython/micropython](https://github.com/micropython/micropython) - MicroPython - a lean and efficient Python implementation for microcontrollers and constrained systems
 
@@ -939,6 +946,7 @@
 
 ## learning 
 
+- [pypose/pypose](https://github.com/pypose/pypose) - A library for differentiable robotics on manifolds.
 - [ssloy/tinyraycaster](https://github.com/ssloy/tinyraycaster) - 486 lines of C++: old-school FPS in a weekend
 - [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
 - [sunface/rust-course](https://github.com/sunface/rust-course) - 什么？你敢放心的把后背交给 AI? 我赌你不敢，那就来学学 AI 时代最酷、最安全、最快的语言吧。本书拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，这可能是目前最用心的 Rust 中文学习教程 / Book
@@ -951,6 +959,8 @@
 
 ## linux 
 
+- [yyyy231209/zero-copy-vpu-gpu-rga-stitch](https://github.com/yyyy231209/zero-copy-vpu-gpu-rga-stitch) - Zero-copy four-camera real-time panorama stitching on Rockchip RK3588: VPU(MPP) hardware decode -&gt; Mali GPU OpenCL warp -&gt; RGA blend, DMA-BUF zero-copy
+- [yyyy231209/zero-copy-tri-core-npu-inference](https://github.com/yyyy231209/zero-copy-tri-core-npu-inference) - Tri-core NPU tunnel crack detection on Rockchip RK3588: packed-strips 3-in-1 inference (~2.9x), rknn_set_core_mask CORE_0/1/2, DMA-BUF full-chain zero-copy, consumes panorama DMA-BUF
 - [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) - Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.
 - [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “KeePass Password Safe”.
 - [eafer/rdrview](https://github.com/eafer/rdrview) - Firefox Reader View as a command line tool
@@ -1213,6 +1223,8 @@
 
 ## opencv 
 
+- [yyyy231209/zero-copy-vpu-gpu-rga-stitch](https://github.com/yyyy231209/zero-copy-vpu-gpu-rga-stitch) - Zero-copy four-camera real-time panorama stitching on Rockchip RK3588: VPU(MPP) hardware decode -&gt; Mali GPU OpenCL warp -&gt; RGA blend, DMA-BUF zero-copy
+- [yyyy231209/zero-copy-tri-core-npu-inference](https://github.com/yyyy231209/zero-copy-tri-core-npu-inference) - Tri-core NPU tunnel crack detection on Rockchip RK3588: packed-strips 3-in-1 inference (~2.9x), rknn_set_core_mask CORE_0/1/2, DMA-BUF full-chain zero-copy, consumes panorama DMA-BUF
 - [ANYbotics/grid_map](https://github.com/ANYbotics/grid_map) - Universal grid map library for mobile robotic mapping
 - [mint-lab/3dv_tutorial](https://github.com/mint-lab/3dv_tutorial) - An Invitation to 3D Vision: A Tutorial for Everyone
 - [amusi/AI-Job-Notes](https://github.com/amusi/AI-Job-Notes) - AI算法岗求职攻略（涵盖准备攻略、刷题指南、内推和AI公司清单等资料）
@@ -1223,6 +1235,7 @@
 
 ## others 
 
+- [Robbyant/lingbot-map](https://github.com/Robbyant/lingbot-map) - A feed-forward 3D foundation model for reconstructing scenes from streaming data
 - [Robbyant/lingbot-depth](https://github.com/Robbyant/lingbot-depth) - Masked Depth Modeling for Spatial Perception
 - [DoongLi/Active-SLAM-Paper-List](https://github.com/DoongLi/Active-SLAM-Paper-List) - This repository primarily organizes papers, code, and other relevant materials related to Active SLAM and Robotic Exploration.
 - [facebookresearch/EdgeTAM](https://github.com/facebookresearch/EdgeTAM) - [CVPR 2025] Official PyTorch implementation of "EdgeTAM: On-Device Track Anything Model"
@@ -1604,6 +1617,7 @@
 
 ## physics 
 
+- [pypose/pypose](https://github.com/pypose/pypose) - A library for differentiable robotics on manifolds.
 - [gbionics/jaxsim](https://github.com/gbionics/jaxsim) - A differentiable physics engine and multibody dynamics library for control and robot learning.
 - [google-deepmind/mujoco](https://github.com/google-deepmind/mujoco) - Multi-Joint dynamics with Contact. A general purpose physics simulator.
 
@@ -1640,7 +1654,7 @@
 
 ## prompt-engineering 
 
-- [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) - 345 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — e
+- [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) - 380 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 380+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — e
 - [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 21 Lessons, Get Started Building with Generative AI
 - [trigaten/Learn_Prompting](https://github.com/trigaten/Learn_Prompting) - Prompt Engineering, Generative AI, and LLM Guide by Learn Prompting | Join our discord for the largest Prompt Engineering learning community
 - [langgptai/LangGPT](https://github.com/langgptai/LangGPT) - LangGPT: Empowering everyone to become a prompt expert! 🚀  📌 结构化提示词（Structured Prompt）提出者 📌 元提示词（Meta-Prompt）发起者   📌 最流行的提示词落地范式 | Language of GPT  The pioneering framework for structured & meta-promp
@@ -1653,6 +1667,7 @@
 
 ## python 
 
+- [pypose/pypose](https://github.com/pypose/pypose) - A library for differentiable robotics on manifolds.
 - [Phylliade/ikpy](https://github.com/Phylliade/ikpy) - IKPy, an Universal Inverse Kinematics library
 - [MizuhoAOKI/python_simple_mppi](https://github.com/MizuhoAOKI/python_simple_mppi) - Python implementation of MPPI (Model Predictive Path-Integral) controller to understand the basic idea. Mandatory dependencies are numpy and matplotlib only.
 - [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) - Ultralytics YOLO26, YOLO11, YOLOv8 — object detection, instance segmentation, semantic segmentation, image classification, pose estimation, object tracking
@@ -1730,6 +1745,7 @@
 
 ## pytorch 
 
+- [pypose/pypose](https://github.com/pypose/pypose) - A library for differentiable robotics on manifolds.
 - [nerfstudio-project/nerfstudio](https://github.com/nerfstudio-project/nerfstudio) - A collaboration friendly studio for NeRFs
 - [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) - Ultralytics YOLO26, YOLO11, YOLOv8 — object detection, instance segmentation, semantic segmentation, image classification, pose estimation, object tracking
 - [facebookresearch/theseus](https://github.com/facebookresearch/theseus) - A library for differentiable nonlinear optimization
@@ -1801,6 +1817,7 @@
 
 ## robotics 
 
+- [pypose/pypose](https://github.com/pypose/pypose) - A library for differentiable robotics on manifolds.
 - [pantor/ruckig](https://github.com/pantor/ruckig) - Motion Generation for Robots and Machines. Real-time. Jerk-constrained. Time-optimal.
 - [mayataka/robotoc](https://github.com/mayataka/robotoc) - Efficient optimal control solvers for robotic systems.
 - [Phylliade/ikpy](https://github.com/Phylliade/ikpy) - IKPy, an Universal Inverse Kinematics library
