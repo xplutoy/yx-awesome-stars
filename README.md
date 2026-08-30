@@ -168,6 +168,10 @@
 
 ## Emacs Lisp 
 
+- [manzaltu/claude-code-ide.el](https://github.com/manzaltu/claude-code-ide.el) - Claude Code IDE integration for Emacs
+- [karthink/gptel-inline](https://github.com/karthink/gptel-inline) - 
+- [karthink/popper](https://github.com/karthink/popper) - Emacs minor-mode to summon and dismiss buffers easily.
+- [jamescherti/kirigami.el](https://github.com/jamescherti/kirigami.el) - kirigami.el, a unified method to fold and unfold text in Emacs: outline, outline-indent, org-mode, markdown-mode, gfm-mode, vdiff, hideshow, fold-this, ts-fold, treesit-fold, vimish-fold...
 - [Kinneyzhang/etaf](https://github.com/Kinneyzhang/etaf) - Emacs Text-based Application Framework
 - [Kinneyzhang/emacs-kp](https://github.com/Kinneyzhang/emacs-kp) - Implement of Knuth-plass algorithm in emacs-lisp, support for mixed typesetting of CJK and Latin languages.
 - [ragnard/gptel-magit](https://github.com/ragnard/gptel-magit) - 
