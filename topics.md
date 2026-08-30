@@ -671,6 +671,7 @@
 
 ## emacs 
 
+- [jamescherti/kirigami.el](https://github.com/jamescherti/kirigami.el) - kirigami.el, a unified method to fold and unfold text in Emacs: outline, outline-indent, org-mode, markdown-mode, gfm-mode, vdiff, hideshow, fold-this, ts-fold, treesit-fold, vimish-fold...
 - [eval-exec/neomacs](https://github.com/eval-exec/neomacs) - NEO Emacs (WIP): GPU powered Emacs written in Rust with a modern display engine. Aiming for modern design & multi-threaded Elisp, 10x performance, zero-pause concurrent GC and 100% Emacs compatibility
 - [jamescherti/stripspace.el](https://github.com/jamescherti/stripspace.el) - stripspace.el - Ensure Emacs Automatically removes trailing whitespace before saving a buffer, with an option to preserve the cursor column
 - [joaotavora/sly](https://github.com/joaotavora/sly) - Sylvester the Cat's Common Lisp IDE
@@ -1235,6 +1236,9 @@
 
 ## others 
 
+- [manzaltu/claude-code-ide.el](https://github.com/manzaltu/claude-code-ide.el) - Claude Code IDE integration for Emacs
+- [karthink/gptel-inline](https://github.com/karthink/gptel-inline) - 
+- [karthink/popper](https://github.com/karthink/popper) - Emacs minor-mode to summon and dismiss buffers easily.
 - [Robbyant/lingbot-map](https://github.com/Robbyant/lingbot-map) - A feed-forward 3D foundation model for reconstructing scenes from streaming data
 - [Robbyant/lingbot-depth](https://github.com/Robbyant/lingbot-depth) - Masked Depth Modeling for Spatial Perception
 - [DoongLi/Active-SLAM-Paper-List](https://github.com/DoongLi/Active-SLAM-Paper-List) - This repository primarily organizes papers, code, and other relevant materials related to Active SLAM and Robotic Exploration.
