@@ -678,6 +678,7 @@
 
 ## emacs 
 
+- [editor-code-assistant/eca-emacs](https://github.com/editor-code-assistant/eca-emacs) - Editor Code Assistant (ECA) integration for Emacs
 - [jamescherti/kirigami.el](https://github.com/jamescherti/kirigami.el) - kirigami.el, a unified method to fold and unfold text in Emacs: outline, outline-indent, org-mode, markdown-mode, gfm-mode, vdiff, hideshow, fold-this, ts-fold, treesit-fold, vimish-fold...
 - [eval-exec/neomacs](https://github.com/eval-exec/neomacs) - NEO Emacs (WIP): GPU powered Emacs written in Rust with a modern display engine. Aiming for modern design & multi-threaded Elisp, 10x performance, zero-pause concurrent GC and 100% Emacs compatibility
 - [jamescherti/stripspace.el](https://github.com/jamescherti/stripspace.el) - stripspace.el - Ensure Emacs Automatically removes trailing whitespace before saving a buffer, with an option to preserve the cursor column
@@ -863,6 +864,7 @@
 
 ## hacktoberfest 
 
+- [editor-code-assistant/eca-emacs](https://github.com/editor-code-assistant/eca-emacs) - Editor Code Assistant (ECA) integration for Emacs
 - [pyvista/pyvista](https://github.com/pyvista/pyvista) - 3D visualization and mesh analysis for science and engineering
 - [AtsushiSakai/PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics) - Python sample codes and textbook for robotics algorithms.
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
@@ -1244,6 +1246,7 @@
 
 ## others 
 
+- [LeCAR-Lab/SPI-Active](https://github.com/LeCAR-Lab/SPI-Active) - Official Implementation of "Sampling-Based System Identification with Active Exploration for Legged Robot Sim2Real Learning"
 - [Yyshadow/openpi-RLT](https://github.com/Yyshadow/openpi-RLT) - openpi-RLT is an openpi-based real-robot RL system with RL-token-guided action refinement.
 - [z80dev/uv-mode](https://github.com/z80dev/uv-mode) - emacs integration for uv virtual environments
 - [manzaltu/claude-code-ide.el](https://github.com/manzaltu/claude-code-ide.el) - Claude Code IDE integration for Emacs
@@ -1381,7 +1384,7 @@
 - [NVIDIA/Isaac-GR00T](https://github.com/NVIDIA/Isaac-GR00T) - NVIDIA Isaac GR00T N1.7 -  A Foundation Model for Generalist Robots.
 - [LeCAR-Lab/human2humanoid](https://github.com/LeCAR-Lab/human2humanoid) - [IROS 2024] Learning Human-to-Humanoid Real-Time Whole-Body Teleoperation.                    [CoRL 2024] OmniH2O: Universal and Dexterous Human-to-Humanoid Whole-Body Teleoperation and Learning
 - [Manaro-Alpha/DreamWaQ](https://github.com/Manaro-Alpha/DreamWaQ) - 
-- [MArpogaus/auto-side-windows](https://github.com/MArpogaus/auto-side-windows) - Emacs window management made simple.
+- [MArpogaus/auto-side-windows](https://github.com/MArpogaus/auto-side-windows) - Emacs window management made simple
 - [bluzky/relysium](https://github.com/bluzky/relysium) - Your AI co-developer. Bring joy to coding!
 - [ndwarshuis/org-sql](https://github.com/ndwarshuis/org-sql) - SQL backend for Emacs Org-Mode
 - [meedstrom/org-mem](https://github.com/meedstrom/org-mem) - Turn thousands of Org files into a database in seconds
@@ -1805,6 +1808,7 @@
 
 ## reinforcement-learning 
 
+- [iit-DLSLab/sim2real-robot-identification](https://github.com/iit-DLSLab/sim2real-robot-identification) - A joints calibration routine for quadrupeds and manipulators to facilitate sim-to-real transfer from isaaclab and mujoco to real robots
 - [iit-DLSLab/get-up-isaaclab](https://github.com/iit-DLSLab/get-up-isaaclab) - An IsaacLab DirectEnv for the quadruped get-up task, with support for multiple quadruped robots, sim-to-sim, and sim-to-real pipelines
 - [xbpeng/MimicKit](https://github.com/xbpeng/MimicKit) - A lightweight suite of motion imitation methods for training controllers.
 - [mujocolab/mjlab](https://github.com/mujocolab/mjlab) - Isaac Lab API, powered by MuJoCo-Warp, for RL and robotics research
