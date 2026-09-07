@@ -30,6 +30,7 @@
 - [MATLAB](#matlab)
 - [MDX](#mdx)
 - [Makefile](#makefile)
+- [OCaml](#ocaml)
 - [Others](#others)
 - [PostScript](#postscript)
 - [Python](#python)
@@ -509,8 +510,13 @@
 
 - [kickingvegas/elisp-for-python](https://github.com/kickingvegas/elisp-for-python) - Elisp Cheatsheet for Python Programmers
 
+## OCaml 
+
+- [ocaml/merlin](https://github.com/ocaml/merlin) - Context sensitive completion for OCaml in Vim and Emacs
+
 ## Others 
 
+- [sun254667/Awesome-Real2Sim2Real](https://github.com/sun254667/Awesome-Real2Sim2Real) - A curated collection of papers on Sim-to-Real, Real-to-Sim, and Real2Sim2Real transfer for robotics, reinforcement learning, and embodied AI.
 - [DoongLi/Active-SLAM-Paper-List](https://github.com/DoongLi/Active-SLAM-Paper-List) - This repository primarily organizes papers, code, and other relevant materials related to Active SLAM and Robotic Exploration.
 - [OpenDriveLab/WholebodyVLA](https://github.com/OpenDriveLab/WholebodyVLA) - [ICLR 2026] Towards Unified Latent VLA for Whole-body Loco-manipulation Control
 - [knmcguire/best-of-robot-simulators](https://github.com/knmcguire/best-of-robot-simulators) - A Best-of-list of Robot Simulators, re-generated weekly on Wednesdays
@@ -601,6 +607,8 @@
 
 ## Python 
 
+- [ImChong/Robotics_Notebooks](https://github.com/ImChong/Robotics_Notebooks) - 机器人技术栈资料汇总
+- [OpenBMB/SimpleNav](https://github.com/OpenBMB/SimpleNav) - SimpleNav: A simple, unified, reproducible, and extensible framework for navigation VLA research.
 - [LeCAR-Lab/SPI-Active](https://github.com/LeCAR-Lab/SPI-Active) - Official Implementation of "Sampling-Based System Identification with Active Exploration for Legged Robot Sim2Real Learning"
 - [iit-DLSLab/sim2real-robot-identification](https://github.com/iit-DLSLab/sim2real-robot-identification) - A joints calibration routine for quadrupeds and manipulators to facilitate sim-to-real transfer from isaaclab and mujoco to real robots
 - [Yyshadow/openpi-RLT](https://github.com/Yyshadow/openpi-RLT) - openpi-RLT is an openpi-based real-robot RL system with RL-token-guided action refinement.
