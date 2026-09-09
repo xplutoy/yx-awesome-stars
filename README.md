@@ -607,6 +607,8 @@
 
 ## Python 
 
+- [roboflow/rf-detr](https://github.com/roboflow/rf-detr) - RF-DETR is a real-time object detection and segmentation model architecture developed by Roboflow, SOTA on COCO, designed for fine-tuning. [ICLR 2026]
+- [mit-han-lab/vlash](https://github.com/mit-han-lab/vlash) - Real-Time VLAs via Future-state-aware Asynchronous Inference.
 - [ImChong/Robotics_Notebooks](https://github.com/ImChong/Robotics_Notebooks) - 机器人技术栈资料汇总
 - [OpenBMB/SimpleNav](https://github.com/OpenBMB/SimpleNav) - SimpleNav: A simple, unified, reproducible, and extensible framework for navigation VLA research.
 - [LeCAR-Lab/SPI-Active](https://github.com/LeCAR-Lab/SPI-Active) - Official Implementation of "Sampling-Based System Identification with Active Exploration for Legged Robot Sim2Real Learning"
@@ -614,7 +616,7 @@
 - [Yyshadow/openpi-RLT](https://github.com/Yyshadow/openpi-RLT) - openpi-RLT is an openpi-based real-robot RL system with RL-token-guided action refinement.
 - [iit-DLSLab/get-up-isaaclab](https://github.com/iit-DLSLab/get-up-isaaclab) - An IsaacLab DirectEnv for the quadruped get-up task, with support for multiple quadruped robots, sim-to-sim, and sim-to-real pipelines
 - [pypose/pypose](https://github.com/pypose/pypose) - A library for differentiable robotics on manifolds.
-- [Robbyant/lingbot-map](https://github.com/Robbyant/lingbot-map) - A feed-forward 3D foundation model for reconstructing scenes from streaming data
+- [Robbyant/lingbot-map](https://github.com/Robbyant/lingbot-map) - (ECCV 2026 oral) LingBot-Map: Geometric Context Transformer for Streaming 3D Reconstruction
 - [Robbyant/lingbot-depth](https://github.com/Robbyant/lingbot-depth) - Masked Depth Modeling for Spatial Perception
 - [Agents365-ai/drawio-skill](https://github.com/Agents365-ai/drawio-skill) - From text & real sources to maintainable .drawio architecture models: Diagram IR with source-kind profiles, incremental sync preserving manual layout, multi-view projection, architecture-as-test with 
 - [discoverse-dev/MuJoCo-LiDAR](https://github.com/discoverse-dev/MuJoCo-LiDAR) - High-performance LiDAR simulation for MuJoCo with CPU/Warp/Taichi/Jax backends, supporting multiple sensor types and ROS integration. 基于 MuJoCo 的高性能激光雷达仿真，支持 CPU/Warp/Taichi/Jax 多种后端、多种激光雷达类型及 ROS 集成
@@ -719,7 +721,7 @@
 - [arvkevi/kneed](https://github.com/arvkevi/kneed) - Knee point detection in Python :chart_with_upwards_trend:
 - [leggedrobotics/rsl_rl](https://github.com/leggedrobotics/rsl_rl) - A fast and simple implementation of learning algorithms for robotics.
 - [SpaceTimee/Fusion-JetBrainsMapleMono](https://github.com/SpaceTimee/Fusion-JetBrainsMapleMono) - JetBrains Maple Mono: The free and open-source font fused with JetBrains Mono & Maple Mono
-- [browser-use/browser-use](https://github.com/browser-use/browser-use) - 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
+- [browser-use/browser-use](https://github.com/browser-use/browser-use) - Agents that use the browser.
 - [subframe7536/maple-font](https://github.com/subframe7536/maple-font) - Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font icons for IDE and terminal, fine-grained customization options. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1，细粒度的自定义选项
 - [Toni-SM/skrl](https://github.com/Toni-SM/skrl) - Modular Reinforcement Learning (RL) library (implemented in PyTorch, JAX, and NVIDIA Warp) with support for Gymnasium/Gym, NVIDIA Isaac Lab, MuJoCo Playground and other environments
 - [tensorlayer/RLzoo](https://github.com/tensorlayer/RLzoo) - A Comprehensive Reinforcement Learning Zoo for Simple Usage 🚀
@@ -832,6 +834,7 @@
 
 ## Rust 
 
+- [eclipse-zenoh/zenoh](https://github.com/eclipse-zenoh/zenoh) - zenoh unifies data in motion, data in-use, data at rest and computations. It carefully blends traditional pub/sub with geo-distributed storages, queries and computations, while retaining a level of ti
 - [eval-exec/neomacs](https://github.com/eval-exec/neomacs) - NEO Emacs (WIP): GPU powered Emacs written in Rust with a modern display engine. Aiming for modern design & multi-threaded Elisp, 10x performance, zero-pause concurrent GC and 100% Emacs compatibility
 - [rerun-io/rerun](https://github.com/rerun-io/rerun) - Visualize, query, and stream to train on multimodal robotics data.
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
