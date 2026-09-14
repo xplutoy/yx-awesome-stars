@@ -169,6 +169,7 @@
 
 ## Emacs Lisp 
 
+- [jamescherti/lightemacs](https://github.com/jamescherti/lightemacs) - Lightemacs - Fast and Lightweight Emacs Framework
 - [dakra/ghostel](https://github.com/dakra/ghostel) - Terminal emulator powered by libghostty
 - [agzam/remoto.el](https://github.com/agzam/remoto.el) - Browse GitHub repos without cloning
 - [editor-code-assistant/eca-emacs](https://github.com/editor-code-assistant/eca-emacs) - Editor Code Assistant (ECA) integration for Emacs
