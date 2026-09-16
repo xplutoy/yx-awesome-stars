@@ -612,6 +612,9 @@
 
 ## Python 
 
+- [elijah-waichong-chan/go2-convex-mpc](https://github.com/elijah-waichong-chan/go2-convex-mpc) - A convex MPC locomotion controller implemented in MuJoCo with Unitree Go2 quadruped
+- [bojieli/ai-infra-book](https://github.com/bojieli/ai-infra-book) - 《深入理解 AI Infra：量化分析与系统设计》（李博杰 著）开源书稿：从硬件约束和模型架构出发，量化推导 LLM 推理与训练系统设计。含全书正文、PDF、配套计算工具与实验
+- [bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book) - 《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码
 - [roboflow/rf-detr](https://github.com/roboflow/rf-detr) - RF-DETR is a real-time object detection and segmentation model architecture developed by Roboflow, SOTA on COCO, designed for fine-tuning. [ICLR 2026]
 - [mit-han-lab/vlash](https://github.com/mit-han-lab/vlash) - Real-Time VLAs via Future-state-aware Asynchronous Inference.
 - [ImChong/Robotics_Notebooks](https://github.com/ImChong/Robotics_Notebooks) - 机器人技术栈资料汇总
@@ -721,7 +724,7 @@
 - [Manaro-Alpha/DreamWaQ](https://github.com/Manaro-Alpha/DreamWaQ) - 
 - [Kedreamix/Awesome-Talking-Head-Synthesis](https://github.com/Kedreamix/Awesome-Talking-Head-Synthesis) - 💬 An extensive collection of exceptional resources dedicated to the captivating world of talking face synthesis!   ⭐ If you find this repo useful, please give it a star! 🤩
 - [fan-ziqi/robot_lab](https://github.com/fan-ziqi/robot_lab) - RL Extension Library for Robots, Based on IsaacLab.
-- [isaac-sim/IsaacLab](https://github.com/isaac-sim/IsaacLab) - Unified framework for robot learning built on NVIDIA Isaac Sim
+- [isaac-sim/IsaacLab](https://github.com/isaac-sim/IsaacLab) - Unified framework for robot learning with multi-physics/renderer support
 - [arvkevi/kneed](https://github.com/arvkevi/kneed) - Knee point detection in Python :chart_with_upwards_trend:
 - [leggedrobotics/rsl_rl](https://github.com/leggedrobotics/rsl_rl) - A fast and simple implementation of learning algorithms for robotics.
 - [SpaceTimee/Fusion-JetBrainsMapleMono](https://github.com/SpaceTimee/Fusion-JetBrainsMapleMono) - JetBrains Maple Mono: The free and open-source font fused with JetBrains Mono & Maple Mono
