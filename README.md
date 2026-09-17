@@ -80,6 +80,7 @@
 
 ## C++ 
 
+- [wuyi2121/SCAN-Planner](https://github.com/wuyi2121/SCAN-Planner) - SCAN-Planner: Spatial Collision-Aware Local planning for Route-Guided Long-Range Quadruped Navigation
 - [yyyy231209/zero-copy-vpu-gpu-rga-stitch](https://github.com/yyyy231209/zero-copy-vpu-gpu-rga-stitch) - Zero-copy four-camera real-time panorama stitching on Rockchip RK3588: VPU(MPP) hardware decode -&gt; Mali GPU OpenCL warp -&gt; RGA blend, DMA-BUF zero-copy
 - [yyyy231209/zero-copy-tri-core-npu-inference](https://github.com/yyyy231209/zero-copy-tri-core-npu-inference) - Tri-core NPU tunnel crack detection on Rockchip RK3588: packed-strips 3-in-1 inference (~2.9x), rknn_set_core_mask CORE_0/1/2, DMA-BUF full-chain zero-copy, consumes panorama DMA-BUF
 - [pantor/ruckig](https://github.com/pantor/ruckig) - Motion Generation for Robots and Machines. Real-time. Jerk-constrained. Time-optimal.
@@ -624,7 +625,7 @@
 - [Yyshadow/openpi-RLT](https://github.com/Yyshadow/openpi-RLT) - openpi-RLT is an openpi-based real-robot RL system with RL-token-guided action refinement.
 - [iit-DLSLab/get-up-isaaclab](https://github.com/iit-DLSLab/get-up-isaaclab) - An IsaacLab DirectEnv for the quadruped get-up task, with support for multiple quadruped robots, sim-to-sim, and sim-to-real pipelines
 - [pypose/pypose](https://github.com/pypose/pypose) - A library for differentiable robotics on manifolds.
-- [Robbyant/lingbot-map](https://github.com/Robbyant/lingbot-map) - (ECCV 2026 oral) LingBot-Map: Geometric Context Transformer for Streaming 3D Reconstruction
+- [Robbyant/lingbot-map](https://github.com/Robbyant/lingbot-map) - (ECCV 2026 oral & best paper candidate) LingBot-Map: Geometric Context Transformer for Streaming 3D Reconstruction
 - [Robbyant/lingbot-depth](https://github.com/Robbyant/lingbot-depth) - Masked Depth Modeling for Spatial Perception
 - [Agents365-ai/drawio-skill](https://github.com/Agents365-ai/drawio-skill) - Agent skill that turns natural language, code, Terraform/K8s, SQL, OpenAPI, AsyncAPI, Protobuf and GraphQL sources into editable, tested draw.io architecture diagrams: incremental sync, multi-view pro
 - [discoverse-dev/MuJoCo-LiDAR](https://github.com/discoverse-dev/MuJoCo-LiDAR) - High-performance LiDAR simulation for MuJoCo with CPU/Warp/Taichi/Jax backends, supporting multiple sensor types and ROS integration. 基于 MuJoCo 的高性能激光雷达仿真，支持 CPU/Warp/Taichi/Jax 多种后端、多种激光雷达类型及 ROS 集成
