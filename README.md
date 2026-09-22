@@ -533,7 +533,6 @@
 - [GT-RIPL/Awesome-LLM-Robotics](https://github.com/GT-RIPL/Awesome-LLM-Robotics) - A comprehensive list of papers using large language/multi-modal models for Robotics/RL, including papers, codes, and related websites
 - [singhaman1750/Legged-Robots](https://github.com/singhaman1750/Legged-Robots) - This repository contains papers in the field of legged robots.
 - [KwanWaiPang/Awesome-VLN](https://github.com/KwanWaiPang/Awesome-VLN) - Paper Survey for Visual Language Navigation
-- [zsibot/matrix](https://github.com/zsibot/matrix) - MATRiX is an advanced simulation platform that integrates MuJoCo, Unreal Engine 5, and CARLA to provide high-fidelity, interactive environments for robotics research.
 - [siyandong/awesome-visual-localization](https://github.com/siyandong/awesome-visual-localization) - A curated list of awesome visual localization research works.
 - [Roboparty/roboparty_train](https://github.com/Roboparty/roboparty_train) - Isaac Lab training workspace for Roboparty RPO locomotion policies, including RSL-RL, Sim2Sim, and motion retargeting tools.
 - [YangLing0818/Diffusion-Models-Papers-Survey-Taxonomy](https://github.com/YangLing0818/Diffusion-Models-Papers-Survey-Taxonomy) - Diffusion model papers, survey, and taxonomy
@@ -653,6 +652,7 @@
 - [chengxuxin/extreme-parkour](https://github.com/chengxuxin/extreme-parkour) - [ICRA 2024]: Train your parkour robot in less than 20 hours.
 - [mujocolab/mjlab](https://github.com/mujocolab/mjlab) - Isaac Lab API, powered by MuJoCo-Warp, for RL and robotics research
 - [arab-meet/motion_planning](https://github.com/arab-meet/motion_planning) - Welcome to an in-depth visual guide on Motion Planning in Robotics — the brain behind how robots decide where and how to move!
+- [zsibot/matrix](https://github.com/zsibot/matrix) - MATRiX is an advanced simulation platform that integrates MuJoCo, Unreal Engine 5, and CARLA to provide high-fidelity, interactive environments for robotics research.
 - [eureka-research/DrEureka](https://github.com/eureka-research/DrEureka) - Official Repository for "DrEureka: Language Model Guided Sim-To-Real Transfer" (RSS 2024)
 - [leggedrobotics/defm](https://github.com/leggedrobotics/defm) - source code and trained models for DeFM (Depth Foundation Model)
 - [pyvista/pyvista](https://github.com/pyvista/pyvista) - 3D visualization and mesh analysis for science and engineering
