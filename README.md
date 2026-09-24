@@ -617,6 +617,7 @@
 
 ## Python 
 
+- [cocel-postech/genz-icp](https://github.com/cocel-postech/genz-icp) - GenZ-ICP: SOTA robust LiDAR odometry (IEEE RA-L 2025)
 - [NVIDIAGameWorks/kaolin-wisp](https://github.com/NVIDIAGameWorks/kaolin-wisp) - NVIDIA Kaolin Wisp is a PyTorch library powered by NVIDIA Kaolin Core to work with neural fields (including NeRFs, NGLOD, instant-ngp and VQAD).
 - [elijah-waichong-chan/go2-convex-mpc](https://github.com/elijah-waichong-chan/go2-convex-mpc) - A convex MPC locomotion controller implemented in MuJoCo with Unitree Go2 quadruped
 - [bojieli/ai-infra-book](https://github.com/bojieli/ai-infra-book) - 《深入理解 AI Infra：量化分析与系统设计》（李博杰 著）开源书稿：从硬件约束和模型架构出发，量化推导 LLM 推理与训练系统设计。含全书正文、PDF、配套计算工具与实验
