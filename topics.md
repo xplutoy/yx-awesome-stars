@@ -1057,6 +1057,7 @@
 
 ## localization 
 
+- [weisongwen/UrbanLoco](https://github.com/weisongwen/UrbanLoco) - UrbanLoco: A Full Sensor Suite Dataset for Mapping and Localization in Urban Scenes
 - [vectr-ucla/direct_lidar_inertial_odometry](https://github.com/vectr-ucla/direct_lidar_inertial_odometry) - [IEEE ICRA'23] A new lightweight LiDAR-inertial odometry algorithm with a novel coarse-to-fine approach in constructing continuous-time trajectories for precise motion correction.
 - [schoi355/multi_imu_fusion](https://github.com/schoi355/multi_imu_fusion) - "Sensor Fusion for Multiple Distributed IMUs." This work fuses measurements from multiple simulated and real MEMS IMU sensors for state estimation.
 - [cartographer-project/cartographer](https://github.com/cartographer-project/cartographer) - Cartographer is a system that provides real-time simultaneous localization and mapping (SLAM) in 2D and 3D across multiple platforms and sensor configurations.
@@ -1288,6 +1289,16 @@
 
 ## others 
 
+- [DCSI2022/AFLI_Calib](https://github.com/DCSI2022/AFLI_Calib) - AFLI-Calib: Robust LiDAR-IMU extrinsic self-calibration based on adaptive frame length LiDAR odometry
+- [DCSI2022/DALI_SLAM](https://github.com/DCSI2022/DALI_SLAM) - DALI-SLAM: Degeneracy-Aware LiDAR-inertial SLAM with novel distortion correction and accurate multi-constraint pose graph optimization
+- [hku-mars/MARSIM](https://github.com/hku-mars/MARSIM) - MARSIM: A light-weight point-realistic simulator for LiDAR-based UAVs
+- [hku-mars/mlcc](https://github.com/hku-mars/mlcc) - Fast and Accurate Extrinsic Calibration for Multiple LiDARs and Cameras
+- [hku-mars/Voxel-SLAM](https://github.com/hku-mars/Voxel-SLAM) - 
+- [hku-mars/HBA](https://github.com/hku-mars/HBA) - [RAL 2023] A globally consistent LiDAR map optimization module
+- [hku-mars/BALM](https://github.com/hku-mars/BALM) - An efficient and consistent bundle adjustment for lidar mapping
+- [GuanxingLu/vlarl](https://github.com/GuanxingLu/vlarl) - Single-file implementation to advance vision-language-action (VLA) models with reinforcement learning.
+- [APRIL-ZJU/OA-LICalib](https://github.com/APRIL-ZJU/OA-LICalib) - [TRO 2022] Observability-Aware Intrinsic and Extrinsic Calibration of LiDAR-IMU Systems
+- [Robbyant/lingbot-va](https://github.com/Robbyant/lingbot-va) - [RSS 2026] Causal video-action world model for generalist robot control
 - [cuizhenjie/software-engineering-document](https://github.com/cuizhenjie/software-engineering-document) - 软件工程常用文档模板及示例：可行性分析报告、开发计划、需求分析文档、概要设计文档、详细设计文档、用户操作手册、测试计划、测试分析报告、开发进度报告、项目开发总结报告、软件维护手册等
 - [protesilaos/aporetic](https://github.com/protesilaos/aporetic) - Aporetic fonts are a custom build of Iosevka with different style and metrics than the default. This is the successor to my "Iosevka Comfy" fonts.
 - [wuyi2121/SCAN-Planner](https://github.com/wuyi2121/SCAN-Planner) - SCAN-Planner: Spatial Collision-Aware Local planning for Route-Guided Long-Range Quadruped Navigation
@@ -1863,6 +1874,7 @@
 
 ## reinforcement-learning 
 
+- [kevinzakka/mjbatch](https://github.com/kevinzakka/mjbatch) - A Python library for running thousands of MuJoCo simulations in parallel on CPU
 - [bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book) - 《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码
 - [iit-DLSLab/sim2real-robot-identification](https://github.com/iit-DLSLab/sim2real-robot-identification) - A joints calibration routine for quadrupeds and manipulators to facilitate sim-to-real transfer from isaaclab and mujoco to real robots
 - [iit-DLSLab/get-up-isaaclab](https://github.com/iit-DLSLab/get-up-isaaclab) - An IsaacLab DirectEnv for the quadruped get-up task, with support for multiple quadruped robots, sim-to-sim, and sim-to-real pipelines
@@ -1892,6 +1904,7 @@
 
 ## robotics 
 
+- [borglab/gtsam](https://github.com/borglab/gtsam) - GTSAM is a library of C++ classes that implement smoothing and mapping (SAM) in robotics and vision, using factor graphs and Bayes networks as the underlying computing paradigm rather than sparse matr
 - [cocel-postech/genz-icp](https://github.com/cocel-postech/genz-icp) - GenZ-ICP: SOTA robust LiDAR odometry (IEEE RA-L 2025)
 - [vectr-ucla/direct_lidar_inertial_odometry](https://github.com/vectr-ucla/direct_lidar_inertial_odometry) - [IEEE ICRA'23] A new lightweight LiDAR-inertial odometry algorithm with a novel coarse-to-fine approach in constructing continuous-time trajectories for precise motion correction.
 - [elijah-waichong-chan/go2-convex-mpc](https://github.com/elijah-waichong-chan/go2-convex-mpc) - A convex MPC locomotion controller implemented in MuJoCo with Unitree Go2 quadruped
