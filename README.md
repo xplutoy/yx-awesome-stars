@@ -80,6 +80,14 @@
 
 ## C++ 
 
+- [DCSI2022/AFLI_Calib](https://github.com/DCSI2022/AFLI_Calib) - AFLI-Calib: Robust LiDAR-IMU extrinsic self-calibration based on adaptive frame length LiDAR odometry
+- [DCSI2022/DALI_SLAM](https://github.com/DCSI2022/DALI_SLAM) - DALI-SLAM: Degeneracy-Aware LiDAR-inertial SLAM with novel distortion correction and accurate multi-constraint pose graph optimization
+- [hku-mars/MARSIM](https://github.com/hku-mars/MARSIM) - MARSIM: A light-weight point-realistic simulator for LiDAR-based UAVs
+- [hku-mars/mlcc](https://github.com/hku-mars/mlcc) - Fast and Accurate Extrinsic Calibration for Multiple LiDARs and Cameras
+- [hku-mars/Voxel-SLAM](https://github.com/hku-mars/Voxel-SLAM) - 
+- [hku-mars/HBA](https://github.com/hku-mars/HBA) - [RAL 2023] A globally consistent LiDAR map optimization module
+- [hku-mars/BALM](https://github.com/hku-mars/BALM) - An efficient and consistent bundle adjustment for lidar mapping
+- [APRIL-ZJU/OA-LICalib](https://github.com/APRIL-ZJU/OA-LICalib) - [TRO 2022] Observability-Aware Intrinsic and Extrinsic Calibration of LiDAR-IMU Systems
 - [vectr-ucla/direct_lidar_inertial_odometry](https://github.com/vectr-ucla/direct_lidar_inertial_odometry) - [IEEE ICRA'23] A new lightweight LiDAR-inertial odometry algorithm with a novel coarse-to-fine approach in constructing continuous-time trajectories for precise motion correction.
 - [google/filament](https://github.com/google/filament) - Filament is a real-time physically based rendering engine for Android, iOS, Windows, Linux, macOS, and WebGL2
 - [wuyi2121/SCAN-Planner](https://github.com/wuyi2121/SCAN-Planner) - SCAN-Planner: Spatial Collision-Aware Local planning for Route-Guided Long-Range Quadruped Navigation
@@ -451,6 +459,7 @@
 
 ## Jupyter Notebook 
 
+- [borglab/gtsam](https://github.com/borglab/gtsam) - GTSAM is a library of C++ classes that implement smoothing and mapping (SAM) in robotics and vision, using factor graphs and Bayes networks as the underlying computing paradigm rather than sparse matr
 - [facebookresearch/EdgeTAM](https://github.com/facebookresearch/EdgeTAM) - [CVPR 2025] Official PyTorch implementation of "EdgeTAM: On-Device Track Anything Model"
 - [MizuhoAOKI/python_simple_mppi](https://github.com/MizuhoAOKI/python_simple_mppi) - Python implementation of MPPI (Model Predictive Path-Integral) controller to understand the basic idea. Mandatory dependencies are numpy and matplotlib only.
 - [schoi355/multi_imu_fusion](https://github.com/schoi355/multi_imu_fusion) - "Sensor Fusion for Multiple Distributed IMUs." This work fuses measurements from multiple simulated and real MEMS IMU sensors for state estimation.
@@ -483,7 +492,6 @@
 - [langgptai/LangGPT](https://github.com/langgptai/LangGPT) - LangGPT: Empowering everyone to become a prompt expert! 🚀  📌 结构化提示词（Structured Prompt）提出者 📌 元提示词（Meta-Prompt）发起者   📌 最流行的提示词落地范式 | Language of GPT  The pioneering framework for structured & meta-promp
 - [udlbook/udlbook](https://github.com/udlbook/udlbook) - Understanding Deep Learning - Simon J.D. Prince
 - [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
-- [MLEveryday/100-Days-Of-ML-Code](https://github.com/MLEveryday/100-Days-Of-ML-Code) - 100-Days-Of-ML-Code中文版
 - [google/neural-tangents](https://github.com/google/neural-tangents) - Fast and Easy Infinite Neural Networks in Python
 - [mml-book/mml-book.github.io](https://github.com/mml-book/mml-book.github.io) - Companion webpage to the book "Mathematics For Machine Learning"
 - [probml/pml-book](https://github.com/probml/pml-book) - "Probabilistic Machine Learning" - a book series by Kevin Murphy
@@ -620,6 +628,10 @@
 
 ## Python 
 
+- [weisongwen/UrbanLoco](https://github.com/weisongwen/UrbanLoco) - UrbanLoco: A Full Sensor Suite Dataset for Mapping and Localization in Urban Scenes
+- [GuanxingLu/vlarl](https://github.com/GuanxingLu/vlarl) - Single-file implementation to advance vision-language-action (VLA) models with reinforcement learning.
+- [Robbyant/lingbot-va](https://github.com/Robbyant/lingbot-va) - [RSS 2026] Causal video-action world model for generalist robot control
+- [kevinzakka/mjbatch](https://github.com/kevinzakka/mjbatch) - A Python library for running thousands of MuJoCo simulations in parallel on CPU
 - [cocel-postech/genz-icp](https://github.com/cocel-postech/genz-icp) - GenZ-ICP: SOTA robust LiDAR odometry (IEEE RA-L 2025)
 - [NVIDIAGameWorks/kaolin-wisp](https://github.com/NVIDIAGameWorks/kaolin-wisp) - NVIDIA Kaolin Wisp is a PyTorch library powered by NVIDIA Kaolin Core to work with neural fields (including NeRFs, NGLOD, instant-ngp and VQAD).
 - [elijah-waichong-chan/go2-convex-mpc](https://github.com/elijah-waichong-chan/go2-convex-mpc) - A convex MPC locomotion controller implemented in MuJoCo with Unitree Go2 quadruped
@@ -823,6 +835,7 @@
 - [mkdocs/mkdocs](https://github.com/mkdocs/mkdocs) - Project documentation with Markdown.
 - [BerriAI/litellm](https://github.com/BerriAI/litellm) - The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging [Bedrock, Azure, OpenAI, Anthropi
 - [2noise/ChatTTS](https://github.com/2noise/ChatTTS) - A generative speech model for daily dialogue.
+- [MLEveryday/100-Days-Of-ML-Code](https://github.com/MLEveryday/100-Days-Of-ML-Code) - 100-Days-Of-ML-Code中文版
 - [manateelazycat/holo-layer](https://github.com/manateelazycat/holo-layer) - HoloLayer is a multimedia layer plugin designed specifically for Emacs
 - [microsoft/cascadia-code](https://github.com/microsoft/cascadia-code) - This is a fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal.
 - [Lionelsy/Conference-Accepted-Paper-List](https://github.com/Lionelsy/Conference-Accepted-Paper-List) - Some Conferences' accepted paper lists (including AI, ML, Robotic)
