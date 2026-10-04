@@ -80,6 +80,7 @@
 
 ## C++ 
 
+- [dongjing3309/minisam](https://github.com/dongjing3309/minisam) - A general and flexible factor graph non-linear least square optimization framework
 - [lian-yue0515/D-LI-Init](https://github.com/lian-yue0515/D-LI-Init) - Dynamic Initialization for LiDAR-inertial SLAM
 - [DCSI2022/AFLI_Calib](https://github.com/DCSI2022/AFLI_Calib) - AFLI-Calib: Robust LiDAR-IMU extrinsic self-calibration based on adaptive frame length LiDAR odometry
 - [DCSI2022/DALI_SLAM](https://github.com/DCSI2022/DALI_SLAM) - DALI-SLAM: Degeneracy-Aware LiDAR-inertial SLAM with novel distortion correction and accurate multi-constraint pose graph optimization
@@ -216,7 +217,7 @@
 - [daedsidog/evedel](https://github.com/daedsidog/evedel) - Instructed LLM programmer/assistant for Emacs
 - [andorsk/d2-mode](https://github.com/andorsk/d2-mode) - emacs major mode for d2 graphs
 - [emacs-elfeed/elfeed](https://github.com/emacs-elfeed/elfeed) - An Emacs web feeds client
-- [szermatt/mistty](https://github.com/szermatt/mistty) - Shell/Comint alternative with a fully functional terminal for Emacs 29.1 and later.
+- [szermatt/mistty](https://github.com/szermatt/mistty) - Alacritty-based terminal for Emacs with shell/comint behavior
 - [jdtsmith/ultra-scroll](https://github.com/jdtsmith/ultra-scroll) - scroll Emacs like lightning
 - [astoff/drepl](https://github.com/astoff/drepl) - REPL protocol for the dumb terminal
 - [emacs-tree-sitter/treesit-fold](https://github.com/emacs-tree-sitter/treesit-fold) - Code folding using treesit.el
@@ -403,6 +404,7 @@
 
 ## Go 
 
+- [habedi/hann](https://github.com/habedi/hann) - A fast approximate nearest neighbor search library for Go
 - [danielmiessler/Fabric](https://github.com/danielmiessler/Fabric) - Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
 - [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
 - [d2lang/d2](https://github.com/d2lang/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
@@ -629,6 +631,7 @@
 
 ## Python 
 
+- [sshaoshuai/PointRCNN](https://github.com/sshaoshuai/PointRCNN) - PointRCNN: 3D Object Proposal Generation and Detection from Point Cloud, CVPR 2019.
 - [weisongwen/UrbanLoco](https://github.com/weisongwen/UrbanLoco) - UrbanLoco: A Full Sensor Suite Dataset for Mapping and Localization in Urban Scenes
 - [GuanxingLu/vlarl](https://github.com/GuanxingLu/vlarl) - Single-file implementation to advance vision-language-action (VLA) models with reinforcement learning.
 - [Robbyant/lingbot-va](https://github.com/Robbyant/lingbot-va) - [RSS 2026] Causal video-action world model for generalist robot control
