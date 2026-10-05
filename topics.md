@@ -498,6 +498,7 @@
 
 ## computer-vision 
 
+- [VlSomers/keypoint_promptable_reidentification](https://github.com/VlSomers/keypoint_promptable_reidentification) - [ECCV24] Keypoint Promptable Re-Identification: SOTA ReID method robust to occlusions and multi-person ambiguity
 - [roboflow/rf-detr](https://github.com/roboflow/rf-detr) - RF-DETR is a real-time object detection and segmentation model architecture developed by Roboflow, SOTA on COCO, designed for fine-tuning. [ICLR 2026]
 - [yyyy231209/zero-copy-vpu-gpu-rga-stitch](https://github.com/yyyy231209/zero-copy-vpu-gpu-rga-stitch) - Zero-copy four-camera real-time panorama stitching on Rockchip RK3588: VPU(MPP) hardware decode -&gt; Mali GPU OpenCL warp -&gt; RGA blend, DMA-BUF zero-copy
 - [yyyy231209/zero-copy-tri-core-npu-inference](https://github.com/yyyy231209/zero-copy-tri-core-npu-inference) - Tri-core NPU tunnel crack detection on Rockchip RK3588: packed-strips 3-in-1 inference (~2.9x), rknn_set_core_mask CORE_0/1/2, DMA-BUF full-chain zero-copy, consumes panorama DMA-BUF
@@ -591,6 +592,7 @@
 
 ## deep-learning 
 
+- [VlSomers/keypoint_promptable_reidentification](https://github.com/VlSomers/keypoint_promptable_reidentification) - [ECCV24] Keypoint Promptable Re-Identification: SOTA ReID method robust to occlusions and multi-person ambiguity
 - [pypose/pypose](https://github.com/pypose/pypose) - A library for differentiable robotics on manifolds.
 - [wanshuiyin/Auto-claude-code-research-in-sleep](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep) - ARIS ⚔️ (Auto-Research-In-Sleep) — Lightweight Markdown-only skills for autonomous ML research: cross-model review loops, idea discovery, and experiment automation. No framework, no lock-in — works wi
 - [nerfstudio-project/nerfstudio](https://github.com/nerfstudio-project/nerfstudio) - A collaboration friendly studio for NeRFs
@@ -1291,6 +1293,9 @@
 
 ## others 
 
+- [opentx/opentx](https://github.com/opentx/opentx) - OpenTX custom firmware for Transmitters
+- [abewley/sort](https://github.com/abewley/sort) - Simple, online, and realtime tracking of multiple objects in a video sequence.
+- [hailanyi/3D-Multi-Object-Tracker](https://github.com/hailanyi/3D-Multi-Object-Tracker) - A project for 3D multi-object tracking
 - [sshaoshuai/PointRCNN](https://github.com/sshaoshuai/PointRCNN) - PointRCNN: 3D Object Proposal Generation and Detection from Point Cloud, CVPR 2019.
 - [lian-yue0515/D-LI-Init](https://github.com/lian-yue0515/D-LI-Init) - Dynamic Initialization for LiDAR-inertial SLAM
 - [DCSI2022/AFLI_Calib](https://github.com/DCSI2022/AFLI_Calib) - AFLI-Calib: Robust LiDAR-IMU extrinsic self-calibration based on adaptive frame length LiDAR odometry
@@ -1830,6 +1835,7 @@
 
 ## pytorch 
 
+- [VlSomers/keypoint_promptable_reidentification](https://github.com/VlSomers/keypoint_promptable_reidentification) - [ECCV24] Keypoint Promptable Re-Identification: SOTA ReID method robust to occlusions and multi-person ambiguity
 - [NVIDIAGameWorks/kaolin-wisp](https://github.com/NVIDIAGameWorks/kaolin-wisp) - NVIDIA Kaolin Wisp is a PyTorch library powered by NVIDIA Kaolin Core to work with neural fields (including NeRFs, NGLOD, instant-ngp and VQAD).
 - [pypose/pypose](https://github.com/pypose/pypose) - A library for differentiable robotics on manifolds.
 - [nerfstudio-project/nerfstudio](https://github.com/nerfstudio-project/nerfstudio) - A collaboration friendly studio for NeRFs
