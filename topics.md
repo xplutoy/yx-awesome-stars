@@ -708,7 +708,7 @@
 - [editor-code-assistant/eca-emacs](https://github.com/editor-code-assistant/eca-emacs) - Editor Code Assistant (ECA) integration for Emacs
 - [jamescherti/kirigami.el](https://github.com/jamescherti/kirigami.el) - kirigami.el, a unified method to fold and unfold text in Emacs: outline, outline-indent, org-mode, markdown-mode, gfm-mode, vdiff, hideshow, fold-this, ts-fold, treesit-fold, vimish-fold...
 - [eval-exec/neomacs](https://github.com/eval-exec/neomacs) - NEO Emacs (WIP): GPU powered Emacs written in Rust with a modern display engine. Aiming for modern design & multi-threaded Elisp, 10x performance, zero-pause concurrent GC and 100% Emacs compatibility
-- [jamescherti/stripspace.el](https://github.com/jamescherti/stripspace.el) - stripspace.el - Ensure Emacs Automatically removes trailing whitespace before saving a buffer, with an option to preserve the cursor column
+- [jamescherti/stripspace.el](https://github.com/jamescherti/stripspace.el) - stripspace.el - Make Emacs auto remove trailing whitespace before saving buffers (optionally preserve the cursor column, normalize indentation, and restrict whitespace cleanup to clean buffers)
 - [joaotavora/sly](https://github.com/joaotavora/sly) - Sylvester the Cat's Common Lisp IDE
 - [MatthewZMD/aidermacs](https://github.com/MatthewZMD/aidermacs) - AI Pair Programming in Emacs with Aider
 - [tninja/aider.el](https://github.com/tninja/aider.el) - AI assisted programming in Emacs with Aider
