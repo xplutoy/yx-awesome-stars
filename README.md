@@ -80,6 +80,7 @@
 
 ## C++ 
 
+- [mit-acl/mighty](https://github.com/mit-acl/mighty) - MIGHTY: Hermite spline-based real-time trajectory planner for single- and multi-agent  UAVs and ground robots (ROS 2). Accepted to IEEE RA-L.
 - [opentx/opentx](https://github.com/opentx/opentx) - OpenTX custom firmware for Transmitters
 - [dongjing3309/minisam](https://github.com/dongjing3309/minisam) - A general and flexible factor graph non-linear least square optimization framework
 - [lian-yue0515/D-LI-Init](https://github.com/lian-yue0515/D-LI-Init) - Dynamic Initialization for LiDAR-inertial SLAM
@@ -542,6 +543,8 @@
 
 ## Others 
 
+- [OpenHelix-Team/Awesome-VLA-RL](https://github.com/OpenHelix-Team/Awesome-VLA-RL) - This repository summarizes recent advances in the VLA + RL paradigm and provides a taxonomic classification of relevant works.
+- [KwanWaiPang/Awesome-Legged-Robot-Localization-and-Mapping](https://github.com/KwanWaiPang/Awesome-Legged-Robot-Localization-and-Mapping) - Paper Survey for SLAM in Legged Robot
 - [cuizhenjie/software-engineering-document](https://github.com/cuizhenjie/software-engineering-document) - 软件工程常用文档模板及示例：可行性分析报告、开发计划、需求分析文档、概要设计文档、详细设计文档、用户操作手册、测试计划、测试分析报告、开发进度报告、项目开发总结报告、软件维护手册等
 - [protesilaos/aporetic](https://github.com/protesilaos/aporetic) - Aporetic fonts are a custom build of Iosevka with different style and metrics than the default. This is the successor to my "Iosevka Comfy" fonts.
 - [sun254667/Awesome-Real2Sim2Real](https://github.com/sun254667/Awesome-Real2Sim2Real) - A curated collection of papers on Sim-to-Real, Real-to-Sim, and Real2Sim2Real transfer for robotics, reinforcement learning, and embodied AI.
@@ -633,6 +636,7 @@
 
 ## Python 
 
+- [google-research/pointdit](https://github.com/google-research/pointdit) - [ICML'26] PointDiT: Pixel-Space Diffusion for Monocular Geometry Estimation
 - [abewley/sort](https://github.com/abewley/sort) - Simple, online, and realtime tracking of multiple objects in a video sequence.
 - [VlSomers/keypoint_promptable_reidentification](https://github.com/VlSomers/keypoint_promptable_reidentification) - [ECCV24] Keypoint Promptable Re-Identification: SOTA ReID method robust to occlusions and multi-person ambiguity
 - [hailanyi/3D-Multi-Object-Tracker](https://github.com/hailanyi/3D-Multi-Object-Tracker) - A project for 3D multi-object tracking
