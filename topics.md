@@ -1293,6 +1293,9 @@
 
 ## others 
 
+- [OpenHelix-Team/Awesome-VLA-RL](https://github.com/OpenHelix-Team/Awesome-VLA-RL) - This repository summarizes recent advances in the VLA + RL paradigm and provides a taxonomic classification of relevant works.
+- [google-research/pointdit](https://github.com/google-research/pointdit) - [ICML'26] PointDiT: Pixel-Space Diffusion for Monocular Geometry Estimation
+- [KwanWaiPang/Awesome-Legged-Robot-Localization-and-Mapping](https://github.com/KwanWaiPang/Awesome-Legged-Robot-Localization-and-Mapping) - Paper Survey for SLAM in Legged Robot
 - [opentx/opentx](https://github.com/opentx/opentx) - OpenTX custom firmware for Transmitters
 - [abewley/sort](https://github.com/abewley/sort) - Simple, online, and realtime tracking of multiple objects in a video sequence.
 - [hailanyi/3D-Multi-Object-Tracker](https://github.com/hailanyi/3D-Multi-Object-Tracker) - A project for 3D multi-object tracking
@@ -1914,6 +1917,7 @@
 
 ## robotics 
 
+- [mit-acl/mighty](https://github.com/mit-acl/mighty) - MIGHTY: Hermite spline-based real-time trajectory planner for single- and multi-agent  UAVs and ground robots (ROS 2). Accepted to IEEE RA-L.
 - [dongjing3309/minisam](https://github.com/dongjing3309/minisam) - A general and flexible factor graph non-linear least square optimization framework
 - [borglab/gtsam](https://github.com/borglab/gtsam) - GTSAM is a library of C++ classes that implement smoothing and mapping (SAM) in robotics and vision, using factor graphs and Bayes networks as the underlying computing paradigm rather than sparse matr
 - [cocel-postech/genz-icp](https://github.com/cocel-postech/genz-icp) - GenZ-ICP: SOTA robust LiDAR odometry (IEEE RA-L 2025)
