@@ -297,6 +297,7 @@
 
 ## awesome 
 
+- [3D-Vision-World/awesome-NeRF-and-3DGS-SLAM](https://github.com/3D-Vision-World/awesome-NeRF-and-3DGS-SLAM) - A comprehensive list of Implicit Representations, NeRF and 3D Gaussian Splatting papers relating to SLAM/Robotics domain, including papers, videos, codes, and related websites
 - [sun254667/Awesome-Real2Sim2Real](https://github.com/sun254667/Awesome-Real2Sim2Real) - A curated collection of papers on Sim-to-Real, Real-to-Sim, and Real2Sim2Real transfer for robotics, reinforcement learning, and embodied AI.
 - [leofan90/Awesome-World-Models](https://github.com/leofan90/Awesome-World-Models) - A comprehensive list of papers for the definition of World Models and using World Models for General Video Generation, Embodied AI, and Autonomous Driving, including papers, codes, and related website
 - [curieuxjy/Awesome_Quadrupedal_Robots](https://github.com/curieuxjy/Awesome_Quadrupedal_Robots) - Awesome Quadrupedal Robots
@@ -498,6 +499,10 @@
 
 ## computer-vision 
 
+- [fundamentalvision/BEVFormer](https://github.com/fundamentalvision/BEVFormer) - [ECCV 2022] This is the official implementation of BEVFormer, a camera-only framework for autonomous driving perception, e.g., 3D object detection and semantic map segmentation.
+- [lpiccinelli-eth/UniDepth](https://github.com/lpiccinelli-eth/UniDepth) - Universal Monocular Metric Depth Estimation
+- [muskie82/MonoGS](https://github.com/muskie82/MonoGS) - [CVPR'24 Highlight & Best Demo Award] Gaussian Splatting SLAM
+- [spla-tam/SplaTAM](https://github.com/spla-tam/SplaTAM) - SplaTAM: Splat, Track & Map 3D Gaussians for Dense RGB-D SLAM (CVPR 2024)
 - [VlSomers/keypoint_promptable_reidentification](https://github.com/VlSomers/keypoint_promptable_reidentification) - [ECCV24] Keypoint Promptable Re-Identification: SOTA ReID method robust to occlusions and multi-person ambiguity
 - [roboflow/rf-detr](https://github.com/roboflow/rf-detr) - RF-DETR is a real-time object detection and segmentation model architecture developed by Roboflow, SOTA on COCO, designed for fine-tuning. [ICLR 2026]
 - [yyyy231209/zero-copy-vpu-gpu-rga-stitch](https://github.com/yyyy231209/zero-copy-vpu-gpu-rga-stitch) - Zero-copy four-camera real-time panorama stitching on Rockchip RK3588: VPU(MPP) hardware decode -&gt; Mali GPU OpenCL warp -&gt; RGA blend, DMA-BUF zero-copy
@@ -592,6 +597,7 @@
 
 ## deep-learning 
 
+- [fundamentalvision/BEVFormer](https://github.com/fundamentalvision/BEVFormer) - [ECCV 2022] This is the official implementation of BEVFormer, a camera-only framework for autonomous driving perception, e.g., 3D object detection and semantic map segmentation.
 - [VlSomers/keypoint_promptable_reidentification](https://github.com/VlSomers/keypoint_promptable_reidentification) - [ECCV24] Keypoint Promptable Re-Identification: SOTA ReID method robust to occlusions and multi-person ambiguity
 - [pypose/pypose](https://github.com/pypose/pypose) - A library for differentiable robotics on manifolds.
 - [wanshuiyin/Auto-claude-code-research-in-sleep](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep) - ARIS ⚔️ (Auto-Research-In-Sleep) — Lightweight Markdown-only skills for autonomous ML research: cross-model review loops, idea discovery, and experiment automation. No framework, no lock-in — works wi
@@ -1293,6 +1299,23 @@
 
 ## others 
 
+- [SXDR/PanoMMOcc](https://github.com/SXDR/PanoMMOcc) - 
+- [the-masses/FreeOcc](https://github.com/the-masses/FreeOcc) - [RSS 2026] FreeOcc: Training-Free Embodied Open-Vocabulary Occupancy Prediction
+- [Yzichen/FlashOCC](https://github.com/Yzichen/FlashOCC) - 
+- [ucaszyp/MonoOcc](https://github.com/ucaszyp/MonoOcc) - [ICRA'2024] MonoOcc: Digging into Monocular Semantic Occupancy Prediction
+- [JuIvyy/LegoOcc](https://github.com/JuIvyy/LegoOcc) - [CVPR2026 Oral, Award Candidate] Monocular Open Vocabulary Occupancy Prediction for Indoor Scenes
+- [OpenDriveLab/End-to-end-Autonomous-Driving](https://github.com/OpenDriveLab/End-to-end-Autonomous-Driving) - [IEEE T-PAMI 2024] All you need for End-to-end Autonomous Driving
+- [zya3d/Awesome-3D-Occupancy-Prediction](https://github.com/zya3d/Awesome-3D-Occupancy-Prediction) - Vision-based 3D occupancy prediction in autonomous driving: a review and outlook
+- [nikhilvyas/SOAP](https://github.com/nikhilvyas/SOAP) - 
+- [liushiliushi/JitRL](https://github.com/liushiliushi/JitRL) - 
+- [dorian3d/DBoW2](https://github.com/dorian3d/DBoW2) - Enhanced hierarchical bag-of-word library for C++
+- [DengKaiCQ/GigaSLAM](https://github.com/DengKaiCQ/GigaSLAM) - GigaSLAM official code implementation
+- [Huangying-Zhan/DF-VO](https://github.com/Huangying-Zhan/DF-VO) - Depth and Flow for Visual Odometry
+- [princeton-vl/DPVO](https://github.com/princeton-vl/DPVO) - Deep Patch Visual Odometry/SLAM
+- [amap-cvlab/ABot-Earth-0.5](https://github.com/amap-cvlab/ABot-Earth-0.5) - Generative 3D Earth Model by AMap-cvlab
+- [amap-cvlab/ABot-Recon](https://github.com/amap-cvlab/ABot-Recon) - Streaming 3D reconstruction from only video input: Revisiting Local Context for Long-Horizon Streaming 3D Reconstruction
+- [APRIL-ZJU/Gaussian-LIC](https://github.com/APRIL-ZJU/Gaussian-LIC) - [ICRA 2025 & IJRR 2026] Gaussian-LIC2: LiDAR-Inertial-Camera Gaussian Splatting SLAM (in Real Time)
+- [Lab-of-AI-and-Robotics/GS_ICP_SLAM](https://github.com/Lab-of-AI-and-Robotics/GS_ICP_SLAM) - [ECCV 2024] RGBD GS-ICP SLAM
 - [OpenHelix-Team/Awesome-VLA-RL](https://github.com/OpenHelix-Team/Awesome-VLA-RL) - This repository summarizes recent advances in the VLA + RL paradigm and provides a taxonomic classification of relevant works.
 - [google-research/pointdit](https://github.com/google-research/pointdit) - [ICML'26] PointDiT: Pixel-Space Diffusion for Monocular Geometry Estimation
 - [KwanWaiPang/Awesome-Legged-Robot-Localization-and-Mapping](https://github.com/KwanWaiPang/Awesome-Legged-Robot-Localization-and-Mapping) - Paper Survey for SLAM in Legged Robot
@@ -1917,6 +1940,9 @@
 
 ## robotics 
 
+- [muskie82/MonoGS](https://github.com/muskie82/MonoGS) - [CVPR'24 Highlight & Best Demo Award] Gaussian Splatting SLAM
+- [spla-tam/SplaTAM](https://github.com/spla-tam/SplaTAM) - SplaTAM: Splat, Track & Map 3D Gaussians for Dense RGB-D SLAM (CVPR 2024)
+- [3D-Vision-World/awesome-NeRF-and-3DGS-SLAM](https://github.com/3D-Vision-World/awesome-NeRF-and-3DGS-SLAM) - A comprehensive list of Implicit Representations, NeRF and 3D Gaussian Splatting papers relating to SLAM/Robotics domain, including papers, videos, codes, and related websites
 - [mit-acl/mighty](https://github.com/mit-acl/mighty) - MIGHTY: Hermite spline-based real-time trajectory planner for single- and multi-agent  UAVs and ground robots (ROS 2). Accepted to IEEE RA-L.
 - [dongjing3309/minisam](https://github.com/dongjing3309/minisam) - A general and flexible factor graph non-linear least square optimization framework
 - [borglab/gtsam](https://github.com/borglab/gtsam) - GTSAM is a library of C++ classes that implement smoothing and mapping (SAM) in robotics and vision, using factor graphs and Bayes networks as the underlying computing paradigm rather than sparse matr
