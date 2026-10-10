@@ -1299,6 +1299,11 @@
 
 ## others 
 
+- [wzzheng/OccWorld](https://github.com/wzzheng/OccWorld) - [ECCV 2024] 3D World Model for Autonomous Driving
+- [huang-yh/GaussianFormer](https://github.com/huang-yh/GaussianFormer) - [ECCV 2024] Scene as Gaussians for Vision-Based 3D Semantic Occupancy Prediction
+- [mit-han-lab/lpd](https://github.com/mit-han-lab/lpd) - [ICLR 2026 Oral] Locality-aware Parallel Decoding for Efficient Autoregressive Image Generation
+- [mit-han-lab/foreact](https://github.com/mit-han-lab/foreact) - [CVPR 2026 Highlight] ForeAct: Steering Your VLA with Efficient Visual Foresight Planning
+- [tianweiy/MVP](https://github.com/tianweiy/MVP) - 
 - [SXDR/PanoMMOcc](https://github.com/SXDR/PanoMMOcc) - 
 - [the-masses/FreeOcc](https://github.com/the-masses/FreeOcc) - [RSS 2026] FreeOcc: Training-Free Embodied Open-Vocabulary Occupancy Prediction
 - [Yzichen/FlashOCC](https://github.com/Yzichen/FlashOCC) - 
