@@ -80,6 +80,8 @@
 
 ## C++ 
 
+- [DRCL-USC/Hector_Simulation](https://github.com/DRCL-USC/Hector_Simulation) - Simulation Software (ROS/MATLAB) for HECTOR Humanoid Robot Locomotion Control/Bipedal Locomotion Control/Force-and-moment-based MPC
+- [quimortiz/dynoplan](https://github.com/quimortiz/dynoplan) - 
 - [dorian3d/DBoW2](https://github.com/dorian3d/DBoW2) - Enhanced hierarchical bag-of-word library for C++
 - [DengKaiCQ/GigaSLAM](https://github.com/DengKaiCQ/GigaSLAM) - GigaSLAM official code implementation
 - [princeton-vl/DPVO](https://github.com/princeton-vl/DPVO) - Deep Patch Visual Odometry/SLAM
@@ -548,6 +550,8 @@
 
 ## Others 
 
+- [Roboparty/MimicLite](https://github.com/Roboparty/MimicLite) - 
+- [Roboparty/Party_OS](https://github.com/Roboparty/Party_OS) - A Humanoid System build by RoboParty_Lab
 - [SXDR/PanoMMOcc](https://github.com/SXDR/PanoMMOcc) - 
 - [OpenDriveLab/End-to-end-Autonomous-Driving](https://github.com/OpenDriveLab/End-to-end-Autonomous-Driving) - [IEEE T-PAMI 2024] All you need for End-to-end Autonomous Driving
 - [zya3d/Awesome-3D-Occupancy-Prediction](https://github.com/zya3d/Awesome-3D-Occupancy-Prediction) - Vision-based 3D occupancy prediction in autonomous driving: a review and outlook
@@ -646,6 +650,8 @@
 
 ## Python 
 
+- [Roboparty/UFO](https://github.com/Roboparty/UFO) - An open-source unsupervised RL framework for humanoid control with FB/TeCH training, robot-aware motion import, and real-world teleoperation.
+- [Roboparty/human-humanoid-tools](https://github.com/Roboparty/human-humanoid-tools) - 
 - [wzzheng/OccWorld](https://github.com/wzzheng/OccWorld) - [ECCV 2024] 3D World Model for Autonomous Driving
 - [huang-yh/GaussianFormer](https://github.com/huang-yh/GaussianFormer) - [ECCV 2024] Scene as Gaussians for Vision-Based 3D Semantic Occupancy Prediction
 - [mit-han-lab/lpd](https://github.com/mit-han-lab/lpd) - [ICLR 2026 Oral] Locality-aware Parallel Decoding for Efficient Autoregressive Image Generation
