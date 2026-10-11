@@ -1299,6 +1299,11 @@
 
 ## others 
 
+- [DRCL-USC/Hector_Simulation](https://github.com/DRCL-USC/Hector_Simulation) - Simulation Software (ROS/MATLAB) for HECTOR Humanoid Robot Locomotion Control/Bipedal Locomotion Control/Force-and-moment-based MPC
+- [Roboparty/UFO](https://github.com/Roboparty/UFO) - An open-source unsupervised RL framework for humanoid control with FB/TeCH training, robot-aware motion import, and real-world teleoperation.
+- [Roboparty/MimicLite](https://github.com/Roboparty/MimicLite) - 
+- [Roboparty/human-humanoid-tools](https://github.com/Roboparty/human-humanoid-tools) - 
+- [Roboparty/Party_OS](https://github.com/Roboparty/Party_OS) - A Humanoid System build by RoboParty_Lab
 - [wzzheng/OccWorld](https://github.com/wzzheng/OccWorld) - [ECCV 2024] 3D World Model for Autonomous Driving
 - [huang-yh/GaussianFormer](https://github.com/huang-yh/GaussianFormer) - [ECCV 2024] Scene as Gaussians for Vision-Based 3D Semantic Occupancy Prediction
 - [mit-han-lab/lpd](https://github.com/mit-han-lab/lpd) - [ICLR 2026 Oral] Locality-aware Parallel Decoding for Efficient Autoregressive Image Generation
@@ -1945,6 +1950,7 @@
 
 ## robotics 
 
+- [quimortiz/dynoplan](https://github.com/quimortiz/dynoplan) - 
 - [muskie82/MonoGS](https://github.com/muskie82/MonoGS) - [CVPR'24 Highlight & Best Demo Award] Gaussian Splatting SLAM
 - [spla-tam/SplaTAM](https://github.com/spla-tam/SplaTAM) - SplaTAM: Splat, Track & Map 3D Gaussians for Dense RGB-D SLAM (CVPR 2024)
 - [3D-Vision-World/awesome-NeRF-and-3DGS-SLAM](https://github.com/3D-Vision-World/awesome-NeRF-and-3DGS-SLAM) - A comprehensive list of Implicit Representations, NeRF and 3D Gaussian Splatting papers relating to SLAM/Robotics domain, including papers, videos, codes, and related websites
