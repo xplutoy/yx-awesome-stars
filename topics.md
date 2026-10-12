@@ -486,7 +486,7 @@
 - [merrymercy/awesome-tensor-compilers](https://github.com/merrymercy/awesome-tensor-compilers) - A list of awesome compiler projects and papers for tensor computation and deep learning.
 - [zwang4/awesome-machine-learning-in-compilers](https://github.com/zwang4/awesome-machine-learning-in-compilers) - Must read research papers and links to tools and datasets that are related to using machine learning for compilers and systems optimisation
 - [aalhour/awesome-compilers](https://github.com/aalhour/awesome-compilers) - :sunglasses: Curated list of awesome resources on Compilers, Interpreters and Runtimes
-- [sdiehl/write-you-a-haskell](https://github.com/sdiehl/write-you-a-haskell) - Building a modern functional compiler from first principles. (http://dev.stephendiehl.com/fun/)
+- [sdiehl/write-you-a-haskell](https://github.com/sdiehl/write-you-a-haskell) - Building a modern functional compiler from first principles.
 - [apache/tvm](https://github.com/apache/tvm) - Open Machine Learning Compiler Framework
 - [hylang/hy](https://github.com/hylang/hy) - A dialect of Lisp that's embedded in Python
 - [typst/typst](https://github.com/typst/typst) - A markup-based typesetting system that is powerful and easy to learn.
@@ -928,6 +928,7 @@
 ## haskell 
 
 - [jgm/pandoc](https://github.com/jgm/pandoc) - Universal markup converter
+- [sdiehl/write-you-a-haskell](https://github.com/sdiehl/write-you-a-haskell) - Building a modern functional compiler from first principles.
 - [hmemcpy/milewski-ctfp-pdf](https://github.com/hmemcpy/milewski-ctfp-pdf) - Bartosz Milewski's 'Category Theory for Programmers' unofficial PDF and LaTeX source
 
 ## homebrew 
@@ -1299,6 +1300,8 @@
 
 ## others 
 
+- [HorizonRobotics/Sparse4D](https://github.com/HorizonRobotics/Sparse4D) - 
+- [megvii-research/PETR](https://github.com/megvii-research/PETR) - [ECCV2022] PETR: Position Embedding Transformation for Multi-View 3D Object Detection & [ICCV2023] PETRv2: A Unified Framework for 3D Perception from Multi-Camera Images
 - [DRCL-USC/Hector_Simulation](https://github.com/DRCL-USC/Hector_Simulation) - Simulation Software (ROS/MATLAB) for HECTOR Humanoid Robot Locomotion Control/Bipedal Locomotion Control/Force-and-moment-based MPC
 - [Roboparty/UFO](https://github.com/Roboparty/UFO) - An open-source unsupervised RL framework for humanoid control with FB/TeCH training, robot-aware motion import, and real-world teleoperation.
 - [Roboparty/MimicLite](https://github.com/Roboparty/MimicLite) - 
@@ -1920,6 +1923,7 @@
 
 ## reinforcement-learning 
 
+- [purdue-tracelab/Humanoid-Locomotion-Survey](https://github.com/purdue-tracelab/Humanoid-Locomotion-Survey) - Companion repository for "Evolution of Humanoid Locomotion Control" in Science Robotics (2026)
 - [kevinzakka/mjbatch](https://github.com/kevinzakka/mjbatch) - A Python library for running thousands of MuJoCo simulations in parallel on CPU
 - [bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book) - 《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码
 - [iit-DLSLab/sim2real-robot-identification](https://github.com/iit-DLSLab/sim2real-robot-identification) - A joints calibration routine for quadrupeds and manipulators to facilitate sim-to-real transfer from isaaclab and mujoco to real robots
@@ -2016,6 +2020,7 @@
 - [huacnlee/autocorrect](https://github.com/huacnlee/autocorrect) - A linter and formatter to help you to improve copywriting, correct spaces, words, and punctuations between CJK (Chinese, Japanese, Korean).
 - [chroma-core/chroma](https://github.com/chroma-core/chroma) - Search infrastructure for AI
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
+- [sdiehl/write-you-a-haskell](https://github.com/sdiehl/write-you-a-haskell) - Building a modern functional compiler from first principles.
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [pola-rs/polars](https://github.com/pola-rs/polars) - Extremely fast Query Engine for DataFrames, written in Rust
 - [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A coding agent for open models like Kimi K3 and GLM 5.3
