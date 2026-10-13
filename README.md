@@ -80,6 +80,10 @@
 
 ## C++ 
 
+- [leggedrobotics/SimBenchmark](https://github.com/leggedrobotics/SimBenchmark) - Physics engine benchmark for robotics applications: RaiSim vs Bullet vs ODE vs MuJoCo vs DartSim
+- [dartsim/dart](https://github.com/dartsim/dart) - DART: Dynamic Animation and Robotics Toolkit
+- [yunifuchioka/opt-mimic-raisim](https://github.com/yunifuchioka/opt-mimic-raisim) - RL code for the paper "OPT-Mimic: Imitation of Optimized Trajectories for Dynamic Quadruped Behaviors"
+- [raisimTech/raisim2Lib](https://github.com/raisimTech/raisim2Lib) - 
 - [DRCL-USC/Hector_Simulation](https://github.com/DRCL-USC/Hector_Simulation) - Simulation Software (ROS/MATLAB) for HECTOR Humanoid Robot Locomotion Control/Bipedal Locomotion Control/Force-and-moment-based MPC
 - [quimortiz/dynoplan](https://github.com/quimortiz/dynoplan) - 
 - [dorian3d/DBoW2](https://github.com/dorian3d/DBoW2) - Enhanced hierarchical bag-of-word library for C++
@@ -192,10 +196,10 @@
 
 ## Emacs Lisp 
 
-- [jamescherti/wizard.el](https://github.com/jamescherti/wizard.el) - wizard: A Lightweight Suite of Essential Emacs Functions
+- [jamescherti/wizard.el](https://github.com/jamescherti/wizard.el) - wizard: A lightweight suite of useful Emacs functions
 - [jamescherti/buffer-terminator.el](https://github.com/jamescherti/buffer-terminator.el) - buffer-terminator - Safely Terminate Emacs Buffers Automatically to Enhance Performance
 - [vmargb/project-x](https://github.com/vmargb/project-x) - Ehancements to Emacs' built in project library and tab-bar mode.
-- [xenodium/agent-shell](https://github.com/xenodium/agent-shell) - A native Emacs buffer to interact with LLM agents powered by ACP
+- [xenodium/agent-shell](https://github.com/xenodium/agent-shell) - Brings your favorite AI agents to Emacs, keeping you at home: familiar buffers and bindings, no terminal emulation. Powered by ACP.
 - [ArthurHeymans/emacs-tramp-rpc](https://github.com/ArthurHeymans/emacs-tramp-rpc) - High-performance TRAMP backend using JSON-RPC instead of shell parsing
 - [minad/org-modern](https://github.com/minad/org-modern) - :unicorn: Modern Org Style
 - [jamescherti/lightemacs](https://github.com/jamescherti/lightemacs) - Lightemacs - Fast and Lightweight Emacs Framework
@@ -651,6 +655,8 @@
 
 ## Python 
 
+- [jslee02/awesome-robotics-libraries](https://github.com/jslee02/awesome-robotics-libraries) - :sunglasses: A curated list of robotics libraries and software
+- [xbs0325/j601-surround-demo](https://github.com/xbs0325/j601-surround-demo) - Seeed reComputer Thor J601 surround-view demo: GPU BEV stitch, occupancy, YOLO-World, VLM captions.
 - [megvii-research/PETR](https://github.com/megvii-research/PETR) - [ECCV2022] PETR: Position Embedding Transformation for Multi-View 3D Object Detection & [ICCV2023] PETRv2: A Unified Framework for 3D Perception from Multi-Camera Images
 - [Roboparty/UFO](https://github.com/Roboparty/UFO) - An open-source unsupervised RL framework for humanoid control with FB/TeCH training, robot-aware motion import, and real-world teleoperation.
 - [Roboparty/human-humanoid-tools](https://github.com/Roboparty/human-humanoid-tools) - 
