@@ -1303,6 +1303,9 @@
 
 ## others 
 
+- [om-ai-lab/VLX-Seek](https://github.com/om-ai-lab/VLX-Seek) - VLX-Seek is an efficient VLM that grounds fine-grained visual targets with high precision in wild environments.
+- [om-ai-lab/VLX-Flow](https://github.com/om-ai-lab/VLX-Flow) - VLX-Flow: streaming VLM for real-time general vision intelligence
+- [Denghaoyuan123/Awesome-RL-VLA](https://github.com/Denghaoyuan123/Awesome-RL-VLA) - A Survey on Reinforcement Learning of Vision-Language-Action Models for Robotic Manipulation
 - [leggedrobotics/SimBenchmark](https://github.com/leggedrobotics/SimBenchmark) - Physics engine benchmark for robotics applications: RaiSim vs Bullet vs ODE vs MuJoCo vs DartSim
 - [yunifuchioka/opt-mimic-raisim](https://github.com/yunifuchioka/opt-mimic-raisim) - RL code for the paper "OPT-Mimic: Imitation of Optimized Trajectories for Dynamic Quadruped Behaviors"
 - [raisimTech/raisim2Lib](https://github.com/raisimTech/raisim2Lib) - 
