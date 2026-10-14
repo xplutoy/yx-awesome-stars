@@ -554,6 +554,8 @@
 
 ## Others 
 
+- [om-ai-lab/VLX-Flow](https://github.com/om-ai-lab/VLX-Flow) - VLX-Flow: streaming VLM for real-time general vision intelligence
+- [Denghaoyuan123/Awesome-RL-VLA](https://github.com/Denghaoyuan123/Awesome-RL-VLA) - A Survey on Reinforcement Learning of Vision-Language-Action Models for Robotic Manipulation
 - [purdue-tracelab/Humanoid-Locomotion-Survey](https://github.com/purdue-tracelab/Humanoid-Locomotion-Survey) - Companion repository for "Evolution of Humanoid Locomotion Control" in Science Robotics (2026)
 - [Roboparty/MimicLite](https://github.com/Roboparty/MimicLite) - 
 - [Roboparty/Party_OS](https://github.com/Roboparty/Party_OS) - A Humanoid System build by RoboParty_Lab
@@ -655,6 +657,7 @@
 
 ## Python 
 
+- [om-ai-lab/VLX-Seek](https://github.com/om-ai-lab/VLX-Seek) - VLX-Seek is an efficient VLM that grounds fine-grained visual targets with high precision in wild environments.
 - [jslee02/awesome-robotics-libraries](https://github.com/jslee02/awesome-robotics-libraries) - :sunglasses: A curated list of robotics libraries and software
 - [xbs0325/j601-surround-demo](https://github.com/xbs0325/j601-surround-demo) - Seeed reComputer Thor J601 surround-view demo: GPU BEV stitch, occupancy, YOLO-World, VLM captions.
 - [megvii-research/PETR](https://github.com/megvii-research/PETR) - [ECCV2022] PETR: Position Embedding Transformation for Multi-View 3D Object Detection & [ICCV2023] PETRv2: A Unified Framework for 3D Perception from Multi-Camera Images
