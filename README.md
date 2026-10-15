@@ -808,7 +808,7 @@
 - [arvkevi/kneed](https://github.com/arvkevi/kneed) - Knee point detection in Python :chart_with_upwards_trend:
 - [leggedrobotics/rsl_rl](https://github.com/leggedrobotics/rsl_rl) - A fast and simple implementation of learning algorithms for robotics.
 - [SpaceTimee/Fusion-JetBrainsMapleMono](https://github.com/SpaceTimee/Fusion-JetBrainsMapleMono) - JetBrains Maple Mono: The free and open-source font fused with JetBrains Mono & Maple Mono
-- [browser-use/browser-use](https://github.com/browser-use/browser-use) - Agents that use the browser.
+- [browser-use/browser-use](https://github.com/browser-use/browser-use) - Open-source Python library for AI browser agents, plus Browser Use Cloud: stealth browsers and a hosted agent API.
 - [subframe7536/maple-font](https://github.com/subframe7536/maple-font) - Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font icons for IDE and terminal, fine-grained customization options. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1，细粒度的自定义选项
 - [Toni-SM/skrl](https://github.com/Toni-SM/skrl) - Modular Reinforcement Learning (RL) library (implemented in PyTorch, JAX, and NVIDIA Warp) with support for Gymnasium/Gym, NVIDIA Isaac Lab, MuJoCo Playground and other environments
 - [tensorlayer/RLzoo](https://github.com/tensorlayer/RLzoo) - A Comprehensive Reinforcement Learning Zoo for Simple Usage 🚀
