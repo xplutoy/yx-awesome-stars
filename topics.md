@@ -1965,6 +1965,7 @@
 
 ## robotics 
 
+- [robocasa/robocasa](https://github.com/robocasa/robocasa) - RoboCasa: Large-Scale Simulation of Everyday Tasks for Generalist Robots
 - [jslee02/awesome-robotics-libraries](https://github.com/jslee02/awesome-robotics-libraries) - :sunglasses: A curated list of robotics libraries and software
 - [dartsim/dart](https://github.com/dartsim/dart) - DART: Dynamic Animation and Robotics Toolkit
 - [quimortiz/dynoplan](https://github.com/quimortiz/dynoplan) - 
