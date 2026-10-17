@@ -657,6 +657,7 @@
 
 ## Python 
 
+- [robocasa/robocasa](https://github.com/robocasa/robocasa) - RoboCasa: Large-Scale Simulation of Everyday Tasks for Generalist Robots
 - [om-ai-lab/VLX-Seek](https://github.com/om-ai-lab/VLX-Seek) - VLX-Seek is an efficient VLM that grounds fine-grained visual targets with high precision in wild environments.
 - [jslee02/awesome-robotics-libraries](https://github.com/jslee02/awesome-robotics-libraries) - :sunglasses: A curated list of robotics libraries and software
 - [xbs0325/j601-surround-demo](https://github.com/xbs0325/j601-surround-demo) - Seeed reComputer Thor J601 surround-view demo: GPU BEV stitch, occupancy, YOLO-World, VLM captions.
