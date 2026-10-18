@@ -80,6 +80,8 @@
 
 ## C++ 
 
+- [UM-ARM-Lab/sdf_tools](https://github.com/UM-ARM-Lab/sdf_tools) - Builds 2D signed distance fields from images, 3D signed distance fields from pointclouds, 3D signed distance fields from Octomap, provides a lightweight signed distance field library, message types fo
+- [haosulab/SAPIEN](https://github.com/haosulab/SAPIEN) - SAPIEN Embodied AI Platform
 - [leggedrobotics/SimBenchmark](https://github.com/leggedrobotics/SimBenchmark) - Physics engine benchmark for robotics applications: RaiSim vs Bullet vs ODE vs MuJoCo vs DartSim
 - [dartsim/dart](https://github.com/dartsim/dart) - DART: Dynamic Animation and Robotics Toolkit
 - [yunifuchioka/opt-mimic-raisim](https://github.com/yunifuchioka/opt-mimic-raisim) - RL code for the paper "OPT-Mimic: Imitation of Optimized Trajectories for Dynamic Quadruped Behaviors"
@@ -554,6 +556,7 @@
 
 ## Others 
 
+- [Songwxuan/Embodied-AI-Paper-TopConf](https://github.com/Songwxuan/Embodied-AI-Paper-TopConf) - [Actively Maintained🔥] A list of Embodied AI papers accepted by top conferences (ICLR, NeurIPS, ICML, RSS, CoRL, ICRA, IROS, CVPR, ICCV, ECCV).
 - [om-ai-lab/VLX-Flow](https://github.com/om-ai-lab/VLX-Flow) - VLX-Flow: streaming VLM for real-time general vision intelligence
 - [Denghaoyuan123/Awesome-RL-VLA](https://github.com/Denghaoyuan123/Awesome-RL-VLA) - A Survey on Reinforcement Learning of Vision-Language-Action Models for Robotic Manipulation
 - [purdue-tracelab/Humanoid-Locomotion-Survey](https://github.com/purdue-tracelab/Humanoid-Locomotion-Survey) - Companion repository for "Evolution of Humanoid Locomotion Control" in Science Robotics (2026)
@@ -657,6 +660,12 @@
 
 ## Python 
 
+- [UM-ARM-Lab/pytorch_icem](https://github.com/UM-ARM-Lab/pytorch_icem) - Parallelized pytorch implementation of iCEM
+- [UM-ARM-Lab/pytorch_mppi](https://github.com/UM-ARM-Lab/pytorch_mppi) - Model Predictive Path Integral (MPPI) with approximate dynamics implemented in pytorch
+- [UM-ARM-Lab/pytorch_volumetric](https://github.com/UM-ARM-Lab/pytorch_volumetric) - Volumetric structures such as voxels and SDFs implemented in pytorch
+- [UM-ARM-Lab/pytorch_kinematics](https://github.com/UM-ARM-Lab/pytorch_kinematics) - Robot kinematics implemented in pytorch
+- [rai-opensource/judo](https://github.com/rai-opensource/judo) - Judo: a hackable sampling-based MPC toolbox
+- [tmjeong1103/RIMKit](https://github.com/tmjeong1103/RIMKit) - Robot Intelligence Lab Motion Kit for human-to-humanoid motion retargeting
 - [robocasa/robocasa](https://github.com/robocasa/robocasa) - RoboCasa: Large-Scale Simulation of Everyday Tasks for Generalist Robots
 - [om-ai-lab/VLX-Seek](https://github.com/om-ai-lab/VLX-Seek) - VLX-Seek is an efficient VLM that grounds fine-grained visual targets with high precision in wild environments.
 - [jslee02/awesome-robotics-libraries](https://github.com/jslee02/awesome-robotics-libraries) - :sunglasses: A curated list of robotics libraries and software
@@ -923,6 +932,8 @@
 
 ## Rust 
 
+- [tokio-rs/axum](https://github.com/tokio-rs/axum) - HTTP routing and request-handling library for Rust that focuses on ergonomics and modularity
+- [dora-rs/dora](https://github.com/dora-rs/dora) - DORA (Dataflow-Oriented Robotic Architecture) is middleware designed to streamline and simplify the creation of AI-based robotic applications. It offers low latency, composable, and distributed datafl
 - [eclipse-zenoh/zenoh](https://github.com/eclipse-zenoh/zenoh) - zenoh unifies data in motion, data in-use, data at rest and computations. It carefully blends traditional pub/sub with geo-distributed storages, queries and computations, while retaining a level of ti
 - [eval-exec/neomacs](https://github.com/eval-exec/neomacs) - NEO Emacs (WIP): GPU powered Emacs written in Rust with a modern display engine. Aiming for modern design & multi-threaded Elisp, 10x performance, zero-pause concurrent GC and 100% Emacs compatibility
 - [rerun-io/rerun](https://github.com/rerun-io/rerun) - Visualize, query, and stream to train on multimodal robotics data.
