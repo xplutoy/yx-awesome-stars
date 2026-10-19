@@ -80,6 +80,12 @@
 
 ## C++ 
 
+- [johnzhang3/mujoco_mpc_deploy](https://github.com/johnzhang3/mujoco_mpc_deploy) - Whole-Body Model-Predictive Control of Legged Robots with MuJoCo
+- [facebookresearch/habitat-sim](https://github.com/facebookresearch/habitat-sim) - A flexible, high-performance 3D simulator for Embodied AI research.
+- [Nadrin/PBR](https://github.com/Nadrin/PBR) - An implementation of physically based shading & image based lighting in D3D11, D3D12, Vulkan, and OpenGL 4.
+- [haosulab/MPlib](https://github.com/haosulab/MPlib) - a Lightweight Motion Planning Package
+- [NVIDIA-Omniverse/PhysX](https://github.com/NVIDIA-Omniverse/PhysX) - NVIDIA PhysX SDK
+- [SarahWeiii/CoACD](https://github.com/SarahWeiii/CoACD) - [SIGGRAPH2022] Approximate Convex Decomposition for 3D Meshes with Collision-Aware Concavity and Tree Search
 - [UM-ARM-Lab/sdf_tools](https://github.com/UM-ARM-Lab/sdf_tools) - Builds 2D signed distance fields from images, 3D signed distance fields from pointclouds, 3D signed distance fields from Octomap, provides a lightweight signed distance field library, message types fo
 - [haosulab/SAPIEN](https://github.com/haosulab/SAPIEN) - SAPIEN Embodied AI Platform
 - [leggedrobotics/SimBenchmark](https://github.com/leggedrobotics/SimBenchmark) - Physics engine benchmark for robotics applications: RaiSim vs Bullet vs ODE vs MuJoCo vs DartSim
@@ -190,6 +196,7 @@
 
 ## Cuda 
 
+- [eliphatfs/cuacd](https://github.com/eliphatfs/cuacd) - GPU-accelerated approximate convex decomposition for 3D meshes.
 - [deepseek-ai/DeepEP](https://github.com/deepseek-ai/DeepEP) - DeepEP: an efficient expert-parallel communication library
 
 ## Dockerfile 
@@ -198,6 +205,7 @@
 
 ## Emacs Lisp 
 
+- [szymonwilczek/au-themes](https://github.com/szymonwilczek/au-themes) - Calm, low-glare Emacs themes for anyone who finds most themes too loud.
 - [jamescherti/wizard.el](https://github.com/jamescherti/wizard.el) - wizard: A lightweight suite of useful Emacs functions
 - [jamescherti/buffer-terminator.el](https://github.com/jamescherti/buffer-terminator.el) - buffer-terminator - Safely Terminate Emacs Buffers Automatically to Enhance Performance
 - [vmargb/project-x](https://github.com/vmargb/project-x) - Ehancements to Emacs' built in project library and tab-bar mode.
@@ -478,6 +486,7 @@
 
 ## Jupyter Notebook 
 
+- [jrapudg/RTWholeBodyMPPI](https://github.com/jrapudg/RTWholeBodyMPPI) - We present the first successful deployment of a whole-body sampling-based MPC system on a real-world quadruped robot. Our approach enables real-time, contact-rich locomotion and manipulation using a s
 - [HorizonRobotics/Sparse4D](https://github.com/HorizonRobotics/Sparse4D) - 
 - [borglab/gtsam](https://github.com/borglab/gtsam) - GTSAM is a library of C++ classes that implement smoothing and mapping (SAM) in robotics and vision, using factor graphs and Bayes networks as the underlying computing paradigm rather than sparse matr
 - [facebookresearch/EdgeTAM](https://github.com/facebookresearch/EdgeTAM) - [CVPR 2025] Official PyTorch implementation of "EdgeTAM: On-Device Track Anything Model"
@@ -556,6 +565,8 @@
 
 ## Others 
 
+- [robot-descriptions/awesome-robot-descriptions](https://github.com/robot-descriptions/awesome-robot-descriptions) - A curated list of awesome robot descriptions (URDF, MJCF)
+- [SanderMertens/ecs-faq](https://github.com/SanderMertens/ecs-faq) - Frequently asked questions about Entity Component Systems
 - [Songwxuan/Embodied-AI-Paper-TopConf](https://github.com/Songwxuan/Embodied-AI-Paper-TopConf) - [Actively Maintained🔥] A list of Embodied AI papers accepted by top conferences (ICLR, NeurIPS, ICML, RSS, CoRL, ICRA, IROS, CVPR, ICCV, ECCV).
 - [om-ai-lab/VLX-Flow](https://github.com/om-ai-lab/VLX-Flow) - VLX-Flow: streaming VLM for real-time general vision intelligence
 - [Denghaoyuan123/Awesome-RL-VLA](https://github.com/Denghaoyuan123/Awesome-RL-VLA) - A Survey on Reinforcement Learning of Vision-Language-Action Models for Robotic Manipulation
@@ -660,6 +671,13 @@
 
 ## Python 
 
+- [robot-descriptions/robot_descriptions.py](https://github.com/robot-descriptions/robot_descriptions.py) - Access 200+ robot descriptions from the main Python robotics frameworks
+- [vincekurtz/hydrax](https://github.com/vincekurtz/hydrax) - Sampling-based model predictive control on GPU with JAX/MJX
+- [MarkFzp/humanplus](https://github.com/MarkFzp/humanplus) - [CoRL 2024] HumanPlus: Humanoid Shadowing and Imitation from Humans
+- [geopavlakos/hamer](https://github.com/geopavlakos/hamer) - HaMeR: Reconstructing Hands in 3D with Transformers
+- [facebookresearch/habitat-lab](https://github.com/facebookresearch/habitat-lab) - A modular high-level library to train embodied AI agents across a variety of tasks and environments.
+- [StanfordVL/iGibson](https://github.com/StanfordVL/iGibson) - A Simulation Environment to train Robots in Large Realistic Interactive Scenes
+- [SarahWeiii/pamo](https://github.com/SarahWeiii/pamo) - [PG2025] PaMO: Parallel Mesh Optimization for Intersection-Free Low-Poly Modeling on the GPU
 - [UM-ARM-Lab/pytorch_icem](https://github.com/UM-ARM-Lab/pytorch_icem) - Parallelized pytorch implementation of iCEM
 - [UM-ARM-Lab/pytorch_mppi](https://github.com/UM-ARM-Lab/pytorch_mppi) - Model Predictive Path Integral (MPPI) with approximate dynamics implemented in pytorch
 - [UM-ARM-Lab/pytorch_volumetric](https://github.com/UM-ARM-Lab/pytorch_volumetric) - Volumetric structures such as voxels and SDFs implemented in pytorch
@@ -932,6 +950,8 @@
 
 ## Rust 
 
+- [alvr-org/ALVR](https://github.com/alvr-org/ALVR) - Stream VR games from your PC to your headset via Wi-Fi
+- [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
 - [tokio-rs/axum](https://github.com/tokio-rs/axum) - HTTP routing and request-handling library for Rust that focuses on ergonomics and modularity
 - [dora-rs/dora](https://github.com/dora-rs/dora) - DORA (Dataflow-Oriented Robotic Architecture) is middleware designed to streamline and simplify the creation of AI-based robotic applications. It offers low latency, composable, and distributed datafl
 - [eclipse-zenoh/zenoh](https://github.com/eclipse-zenoh/zenoh) - zenoh unifies data in motion, data in-use, data at rest and computations. It carefully blends traditional pub/sub with geo-distributed storages, queries and computations, while retaining a level of ti
