@@ -60,6 +60,7 @@
 
 ## C 
 
+- [xuankuzcr/LIV_handhold](https://github.com/xuankuzcr/LIV_handhold) - Hardware-synchronized device for FAST-LIVO (Handheld & UAV).
 - [airockchip/rknn_model_zoo](https://github.com/airockchip/rknn_model_zoo) - 
 - [erincatto/box2d](https://github.com/erincatto/box2d) - Box2D is a 2D physics engine for games
 - [osqp/osqp](https://github.com/osqp/osqp) - The Operator Splitting QP Solver
@@ -80,6 +81,13 @@
 
 ## C++ 
 
+- [hku-mars/VoxelMap](https://github.com/hku-mars/VoxelMap) - [RA-L 2022] An efficient and probabilistic adaptive voxel mapping method for LiDAR odometry
+- [hku-mars/LIV_handhold_2](https://github.com/hku-mars/LIV_handhold_2) - LIV-Eye: A Low-Cost LiDAR-Inertial-Visual Fusion 3D Sensor for Robotics and Embodied AI.
+- [hku-mars/FAST-Calib](https://github.com/hku-mars/FAST-Calib) - A Handy Extrinsic Calibration Tool for LiDAR-camera Systems.
+- [hku-mars/GS-SDF](https://github.com/hku-mars/GS-SDF) - [IROS 2025] LiDAR-Augmented Gaussian Splatting and Neural SDF for Geometrically Consistent Rendering and Reconstruction
+- [hku-mars/ikd-Tree](https://github.com/hku-mars/ikd-Tree) - This repository provides implementation of an incremental k-d tree for robotic applications.
+- [ChaoqinRobotics/LINS---LiDAR-inertial-SLAM](https://github.com/ChaoqinRobotics/LINS---LiDAR-inertial-SLAM) - A Lidar-Inertial State Estimator for Robust and Efficient Navigation based on iterated error-state Kalman filter
+- [hku-mars/FAST-LIVO](https://github.com/hku-mars/FAST-LIVO) - A Fast and Tightly-coupled Sparse-Direct LiDAR-Inertial-Visual Odometry (LIVO).
 - [johnzhang3/mujoco_mpc_deploy](https://github.com/johnzhang3/mujoco_mpc_deploy) - Whole-Body Model-Predictive Control of Legged Robots with MuJoCo
 - [facebookresearch/habitat-sim](https://github.com/facebookresearch/habitat-sim) - A flexible, high-performance 3D simulator for Embodied AI research.
 - [Nadrin/PBR](https://github.com/Nadrin/PBR) - An implementation of physically based shading & image based lighting in D3D11, D3D12, Vulkan, and OpenGL 4.
@@ -486,6 +494,7 @@
 
 ## Jupyter Notebook 
 
+- [google-research/kubric](https://github.com/google-research/kubric) - A data generation pipeline for creating semi-realistic synthetic multi-object videos with rich annotations such as instance segmentation masks, depth maps, and optical flow.
 - [jrapudg/RTWholeBodyMPPI](https://github.com/jrapudg/RTWholeBodyMPPI) - We present the first successful deployment of a whole-body sampling-based MPC system on a real-world quadruped robot. Our approach enables real-time, contact-rich locomotion and manipulation using a s
 - [HorizonRobotics/Sparse4D](https://github.com/HorizonRobotics/Sparse4D) - 
 - [borglab/gtsam](https://github.com/borglab/gtsam) - GTSAM is a library of C++ classes that implement smoothing and mapping (SAM) in robotics and vision, using factor graphs and Bayes networks as the underlying computing paradigm rather than sparse matr
@@ -671,6 +680,7 @@
 
 ## Python 
 
+- [starVLA/starVLA](https://github.com/starVLA/starVLA) - StarVLA: A Lego-like Codebase for Vision-Language-Action Model Developing
 - [robot-descriptions/robot_descriptions.py](https://github.com/robot-descriptions/robot_descriptions.py) - Access 200+ robot descriptions from the main Python robotics frameworks
 - [vincekurtz/hydrax](https://github.com/vincekurtz/hydrax) - Sampling-based model predictive control on GPU with JAX/MJX
 - [MarkFzp/humanplus](https://github.com/MarkFzp/humanplus) - [CoRL 2024] HumanPlus: Humanoid Shadowing and Imitation from Humans
