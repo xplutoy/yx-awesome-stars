@@ -81,6 +81,7 @@
 
 ## C++ 
 
+- [JakobEngel/dso](https://github.com/JakobEngel/dso) - Direct Sparse Odometry
 - [hku-mars/VoxelMap](https://github.com/hku-mars/VoxelMap) - [RA-L 2022] An efficient and probabilistic adaptive voxel mapping method for LiDAR odometry
 - [hku-mars/LIV_handhold_2](https://github.com/hku-mars/LIV_handhold_2) - LIV-Eye: A Low-Cost LiDAR-Inertial-Visual Fusion 3D Sensor for Robotics and Embodied AI.
 - [hku-mars/FAST-Calib](https://github.com/hku-mars/FAST-Calib) - A Handy Extrinsic Calibration Tool for LiDAR-camera Systems.
@@ -175,7 +176,7 @@
 - [DeepRoboticsLab/Lite3_rl_deploy](https://github.com/DeepRoboticsLab/Lite3_rl_deploy) - Sim-to-sim and sim-to-real deployment for Lite3 Robot
 - [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “KeePass Password Safe”.
 - [deepseek-ai/FlashMLA](https://github.com/deepseek-ai/FlashMLA) - FlashMLA: Efficient Multi-head Latent Attention Kernels
-- [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is an analytical in-process SQL database management system
+- [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is a high-performance analytical database system
 - [catboost/catboost](https://github.com/catboost/catboost) - A fast, scalable, high performance Gradient Boosting on Decision Trees library, used for ranking, classification, regression and other machine learning tasks for Python, R, Java, C++. Supports computa
 - [dmlc/xgboost](https://github.com/dmlc/xgboost) - Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library,  for Python, R, Java, Scala, C and more. Runs on single machine, Hadoop, Spark, Dask, Flink and DataFlow
 - [lightgbm-org/LightGBM](https://github.com/lightgbm-org/LightGBM) - A fast, distributed, high performance gradient boosting (GBT, GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine learning tas
