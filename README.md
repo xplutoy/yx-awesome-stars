@@ -689,6 +689,7 @@
 
 ## Python 
 
+- [CuboiLeo/SuperMimic-Reproduced](https://github.com/CuboiLeo/SuperMimic-Reproduced) - Reproduction of SuperMimic (arXiv:2610.28480): learned differentiable world model + BPTT policy for G1 humanoid motion tracking, on mjlab/MuJoCo Warp
 - [windsting/a-tour-of-cpp-2nd-cn](https://github.com/windsting/a-tour-of-cpp-2nd-cn) - A Tour of C++ (Second Edition) non-official Chinese Translation
 - [RoboDojo-Benchmark/RoboDojo](https://github.com/RoboDojo-Benchmark/RoboDojo) - Official repository for RoboDojo
 - [starVLA/starVLA](https://github.com/starVLA/starVLA) - StarVLA: A Lego-like Codebase for Vision-Language-Action Model Developing
