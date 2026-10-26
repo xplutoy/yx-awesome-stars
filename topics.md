@@ -376,7 +376,7 @@
 
 - [digint/tinyfsm](https://github.com/digint/tinyfsm) - A simple C++ finite state machine library
 - [artivis/manif](https://github.com/artivis/manif) - A small C++11 header-only library for Lie theory.
-- [stephane-caron/lipm_walking_controller](https://github.com/stephane-caron/lipm_walking_controller) - Walking controller for humanoid robots based on inverted pendulum tracking
+- [stephane-caron/lipm_walking_controller](https://github.com/stephane-caron/lipm_walking_controller) - Stair-climbing controller for HRP-4 humanoid robots
 - [ceres-solver/ceres-solver](https://github.com/ceres-solver/ceres-solver) - A large scale non-linear optimization library
 - [ssloy/tinyraycaster](https://github.com/ssloy/tinyraycaster) - 486 lines of C++: old-school FPS in a weekend
 - [stack-of-tasks/pinocchio](https://github.com/stack-of-tasks/pinocchio) - A fast and flexible implementation of Rigid Body Dynamics algorithms and their analytical derivatives
@@ -2068,7 +2068,7 @@
 - [leggedrobotics/ocs2](https://github.com/leggedrobotics/ocs2) - Optimal Control for Switched Systems
 - [RobotLocomotion/drake](https://github.com/RobotLocomotion/drake) - Model-based design and verification for robotics.
 - [rerun-io/rerun](https://github.com/rerun-io/rerun) - Visualize, query, and stream to train on multimodal robotics data.
-- [stephane-caron/lipm_walking_controller](https://github.com/stephane-caron/lipm_walking_controller) - Walking controller for humanoid robots based on inverted pendulum tracking
+- [stephane-caron/lipm_walking_controller](https://github.com/stephane-caron/lipm_walking_controller) - Stair-climbing controller for HRP-4 humanoid robots
 - [bulletphysics/bullet3](https://github.com/bulletphysics/bullet3) - Bullet Physics SDK: real-time collision detection and multi-physics simulation for VR, games, visual effects, robotics, machine learning etc.
 - [pink-kinematics/pink](https://github.com/pink-kinematics/pink) - Python inverse kinematics using Pinocchio and QP solvers
 - [facebookresearch/theseus](https://github.com/facebookresearch/theseus) - A library for differentiable nonlinear optimization
