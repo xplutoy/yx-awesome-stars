@@ -1320,6 +1320,7 @@
 
 ## others 
 
+- [facebookresearch/GeoRT](https://github.com/facebookresearch/GeoRT) - Geometric Retargeting A Principled, Ultrafast Neural Hand Retargeting Algorithm
 - [CuboiLeo/SuperMimic-Reproduced](https://github.com/CuboiLeo/SuperMimic-Reproduced) - Reproduction of SuperMimic (arXiv:2610.28480): learned differentiable world model + BPTT policy for G1 humanoid motion tracking, on mjlab/MuJoCo Warp
 - [windsting/a-tour-of-cpp-2nd-cn](https://github.com/windsting/a-tour-of-cpp-2nd-cn) - A Tour of C++ (Second Edition) non-official Chinese Translation
 - [beltransen/velo2cam_calibration](https://github.com/beltransen/velo2cam_calibration) - Automatic Extrinsic Calibration Method for LiDAR and Camera Sensor Setups. ROS Package.
