@@ -60,6 +60,7 @@
 
 ## C 
 
+- [facebookresearch/GeoRT](https://github.com/facebookresearch/GeoRT) - Geometric Retargeting A Principled, Ultrafast Neural Hand Retargeting Algorithm
 - [xuankuzcr/LIV_handhold](https://github.com/xuankuzcr/LIV_handhold) - Hardware-synchronized device for FAST-LIVO (Handheld & UAV).
 - [airockchip/rknn_model_zoo](https://github.com/airockchip/rknn_model_zoo) - 
 - [erincatto/box2d](https://github.com/erincatto/box2d) - Box2D is a 2D physics engine for games
