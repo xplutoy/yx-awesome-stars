@@ -16,6 +16,7 @@
 - [algorithms](#algorithms)
 - [analytics](#analytics)
 - [android](#android)
+- [arduino](#arduino)
 - [artificial-intelligence](#artificial-intelligence)
 - [atom](#atom)
 - [automation](#automation)
@@ -150,6 +151,7 @@
 - [security](#security)
 - [self-hosted](#self-hosted)
 - [shell](#shell)
+- [skills](#skills)
 - [sql](#sql)
 - [stable-diffusion](#stable-diffusion)
 - [statistics](#statistics)
@@ -273,6 +275,10 @@
 
 - [google/filament](https://github.com/google/filament) - Filament is a real-time physically based rendering engine for Android, iOS, Windows, Linux, macOS, and WebGL2
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
+
+## arduino 
+
+- [simplefoc/Arduino-FOC](https://github.com/simplefoc/Arduino-FOC) - Arduino FOC for BLDC and Stepper motors - Arduino Based Field Oriented Control Algorithm Library
 
 ## artificial-intelligence 
 
@@ -1320,6 +1326,12 @@
 
 ## others 
 
+- [QwenLM/Qwen-Drive-1.0](https://github.com/QwenLM/Qwen-Drive-1.0) - An Initial Step towards a Vision-Language Foundation Model for Autonomous Driving
+- [rombrew/phobia](https://github.com/rombrew/phobia) - Phobia Motor Controller
+- [haozhang04/LeggedSkillDeploy](https://github.com/haozhang04/LeggedSkillDeploy) - A deployment framework for reinforcement learning-based motion control of legged robots, covering bipedal, quadrupedal, wheeled-bipedal, and wheeled-quadrupedal robots.
+- [Zhengtianjin/go2-supermimic](https://github.com/Zhengtianjin/go2-supermimic) - 
+- [Novaxis-Robot-Group/navigation-agent](https://github.com/Novaxis-Robot-Group/navigation-agent) - 
+- [sjtuyinjie/Ultra-Fusion](https://github.com/sjtuyinjie/Ultra-Fusion) - Ultra-Fusion: A Resilient Tightly-Coupled Multi-Sensor Fusion SLAM Framework under Sensor Degradation and Spatiotemporal Perturbation
 - [facebookresearch/GeoRT](https://github.com/facebookresearch/GeoRT) - Geometric Retargeting A Principled, Ultrafast Neural Hand Retargeting Algorithm
 - [CuboiLeo/SuperMimic-Reproduced](https://github.com/CuboiLeo/SuperMimic-Reproduced) - Reproduction of SuperMimic (arXiv:2610.28480): learned differentiable world model + BPTT policy for G1 humanoid motion tracking, on mjlab/MuJoCo Warp
 - [windsting/a-tour-of-cpp-2nd-cn](https://github.com/windsting/a-tour-of-cpp-2nd-cn) - A Tour of C++ (Second Edition) non-official Chinese Translation
@@ -2149,6 +2161,10 @@
 - [goreliu/zshguide](https://github.com/goreliu/zshguide) - Zsh 开发指南
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 - [rothgar/mastering-zsh](https://github.com/rothgar/mastering-zsh) - Advanced topics to take advantage of zsh 👩‍💻👨‍💻
+
+## skills 
+
+- [langgenius/dify](https://github.com/langgenius/dify) - Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without reb
 
 ## sql 
 
