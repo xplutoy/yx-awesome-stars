@@ -16,6 +16,7 @@
 - [algorithms](#algorithms)
 - [analytics](#analytics)
 - [android](#android)
+- [animation](#animation)
 - [arduino](#arduino)
 - [artificial-intelligence](#artificial-intelligence)
 - [atom](#atom)
@@ -275,6 +276,14 @@
 
 - [google/filament](https://github.com/google/filament) - Filament is a real-time physically based rendering engine for Android, iOS, Windows, Linux, macOS, and WebGL2
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
+
+## animation 
+
+- [MizuhoAOKI/python_simple_mppi](https://github.com/MizuhoAOKI/python_simple_mppi) - Python implementation of MPPI (Model Predictive Path-Integral) controller to understand the basic idea. Mandatory dependencies are numpy and matplotlib only.
+- [xbpeng/MimicKit](https://github.com/xbpeng/MimicKit) - A lightweight suite of motion imitation methods for training controllers.
+- [Renforce-Dynamics/beyondAMP](https://github.com/Renforce-Dynamics/beyondAMP) - beyondAMP provides a unified pipeline to integrate Adversarial Motion Priors (AMP) into any IsaacLab robot setup, with minimal modifications and full compatibility with custom robot designs.
+- [AtsushiSakai/PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics) - Python sample codes and textbook for robotics algorithms.
+- [3b1b/manim](https://github.com/3b1b/manim) - Animation engine for explanatory math videos
 
 ## arduino 
 
@@ -1326,6 +1335,17 @@
 
 ## others 
 
+- [thisparticle/Awesome-Algorithms-Against-Degeneracy](https://github.com/thisparticle/Awesome-Algorithms-Against-Degeneracy) - 
+- [jisehua/Degenerate-Detection](https://github.com/jisehua/Degenerate-Detection) - 
+- [chengwei0427/ESKF_LIO](https://github.com/chengwei0427/ESKF_LIO) - IESKF-LIO reference to fast_lio1.0(参考fast-lio早期版本，复现的fast-lio2)
+- [chengwei0427/hm-lio](https://github.com/chengwei0427/hm-lio) - A Hash-map based Lidar-Inertial Odometry (A simple reproduction of fastlio 1.0 with Hash-map).
+- [lian-yue0515/MM-LINS](https://github.com/lian-yue0515/MM-LINS) - a Multi-Map LiDAR-Inertial System for Over-Degraded Environments
+- [princeton-vl/DROID-SLAM](https://github.com/princeton-vl/DROID-SLAM) - 
+- [sjtuyinjie/awesome-LiDAR-Visual-SLAM](https://github.com/sjtuyinjie/awesome-LiDAR-Visual-SLAM) - A curated list of resources relevant to LiDAR-Visual-Fusion-SLAM
+- [hku-mars/ImMesh](https://github.com/hku-mars/ImMesh) - ImMesh: An Immediate LiDAR Localization and Meshing Framework
+- [Joanna-HE/LIGO.](https://github.com/Joanna-HE/LIGO.) - 
+- [lukasvst/dm-vio](https://github.com/lukasvst/dm-vio) - Source code for the paper DM-VIO: Delayed Marginalization Visual-Inertial Odometry
+- [sjtuyinjie/Ground-Fusion2](https://github.com/sjtuyinjie/Ground-Fusion2) - Ground-Fusion++: a modular sensor-fusion SLAM system(IROS2025)
 - [QwenLM/Qwen-Drive-1.0](https://github.com/QwenLM/Qwen-Drive-1.0) - An Initial Step towards a Vision-Language Foundation Model for Autonomous Driving
 - [rombrew/phobia](https://github.com/rombrew/phobia) - Phobia Motor Controller
 - [haozhang04/LeggedSkillDeploy](https://github.com/haozhang04/LeggedSkillDeploy) - A deployment framework for reinforcement learning-based motion control of legged robots, covering bipedal, quadrupedal, wheeled-bipedal, and wheeled-quadrupedal robots.
