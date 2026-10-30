@@ -83,6 +83,14 @@
 
 ## C++ 
 
+- [jisehua/Degenerate-Detection](https://github.com/jisehua/Degenerate-Detection) - 
+- [chengwei0427/ESKF_LIO](https://github.com/chengwei0427/ESKF_LIO) - IESKF-LIO reference to fast_lio1.0(参考fast-lio早期版本，复现的fast-lio2)
+- [chengwei0427/hm-lio](https://github.com/chengwei0427/hm-lio) - A Hash-map based Lidar-Inertial Odometry (A simple reproduction of fastlio 1.0 with Hash-map).
+- [lian-yue0515/MM-LINS](https://github.com/lian-yue0515/MM-LINS) - a Multi-Map LiDAR-Inertial System for Over-Degraded Environments
+- [hku-mars/ImMesh](https://github.com/hku-mars/ImMesh) - ImMesh: An Immediate LiDAR Localization and Meshing Framework
+- [Joanna-HE/LIGO.](https://github.com/Joanna-HE/LIGO.) - 
+- [lukasvst/dm-vio](https://github.com/lukasvst/dm-vio) - Source code for the paper DM-VIO: Delayed Marginalization Visual-Inertial Odometry
+- [sjtuyinjie/Ground-Fusion2](https://github.com/sjtuyinjie/Ground-Fusion2) - Ground-Fusion++: a modular sensor-fusion SLAM system(IROS2025)
 - [simplefoc/Arduino-FOC](https://github.com/simplefoc/Arduino-FOC) - Arduino FOC for BLDC and Stepper motors - Arduino Based Field Oriented Control Algorithm Library
 - [beltransen/velo2cam_calibration](https://github.com/beltransen/velo2cam_calibration) - Automatic Extrinsic Calibration Method for LiDAR and Camera Sensor Setups. ROS Package.
 - [TUMFTM/FAR-LIO](https://github.com/TUMFTM/FAR-LIO) - A highly efficient, CUDA-accelerated framework for Fast, Accurate, and Robust LiDAR-Inertial Odometry.
@@ -584,6 +592,8 @@
 
 ## Others 
 
+- [thisparticle/Awesome-Algorithms-Against-Degeneracy](https://github.com/thisparticle/Awesome-Algorithms-Against-Degeneracy) - 
+- [sjtuyinjie/awesome-LiDAR-Visual-SLAM](https://github.com/sjtuyinjie/awesome-LiDAR-Visual-SLAM) - A curated list of resources relevant to LiDAR-Visual-Fusion-SLAM
 - [XYZ-qiyh/Awesome-Learning-MVS](https://github.com/XYZ-qiyh/Awesome-Learning-MVS) - 📑 A list of awesome learning-based multi-view stereo papers
 - [QwenLM/Qwen-RobotNav](https://github.com/QwenLM/Qwen-RobotNav) - Official Repo for Qwen-RobotNav
 - [robot-descriptions/awesome-robot-descriptions](https://github.com/robot-descriptions/awesome-robot-descriptions) - A curated list of awesome robot descriptions (URDF, MJCF)
@@ -692,6 +702,7 @@
 
 ## Python 
 
+- [princeton-vl/DROID-SLAM](https://github.com/princeton-vl/DROID-SLAM) - 
 - [QwenLM/Qwen-Drive-1.0](https://github.com/QwenLM/Qwen-Drive-1.0) - An Initial Step towards a Vision-Language Foundation Model for Autonomous Driving
 - [haozhang04/LeggedSkillDeploy](https://github.com/haozhang04/LeggedSkillDeploy) - A deployment framework for reinforcement learning-based motion control of legged robots, covering bipedal, quadrupedal, wheeled-bipedal, and wheeled-quadrupedal robots.
 - [Zhengtianjin/go2-supermimic](https://github.com/Zhengtianjin/go2-supermimic) - 
