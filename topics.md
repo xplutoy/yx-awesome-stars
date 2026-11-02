@@ -314,6 +314,8 @@
 
 ## awesome 
 
+- [huangjund/awesome-UMI-Papers](https://github.com/huangjund/awesome-UMI-Papers) - A curated list of Universal Manipulation Interface (UMI) and UMI-style papers, datasets, code, and hardware for robot-free manipulation demonstrations and robot policy learning.
+- [dennisrotondi/awesome-3D-scene-graphs](https://github.com/dennisrotondi/awesome-3D-scene-graphs) - Awesome 3D Scene Graphs: a curated list of 3D scene graph generation and related resources! Now with a companion website to explore the literature!
 - [robot-descriptions/awesome-robot-descriptions](https://github.com/robot-descriptions/awesome-robot-descriptions) - A curated list of awesome robot descriptions (URDF, MJCF)
 - [jslee02/awesome-robotics-libraries](https://github.com/jslee02/awesome-robotics-libraries) - :sunglasses: A curated list of robotics libraries and software
 - [3D-Vision-World/awesome-NeRF-and-3DGS-SLAM](https://github.com/3D-Vision-World/awesome-NeRF-and-3DGS-SLAM) - A comprehensive list of Implicit Representations, NeRF and 3D Gaussian Splatting papers relating to SLAM/Robotics domain, including papers, videos, codes, and related websites
@@ -336,6 +338,7 @@
 
 ## awesome-list 
 
+- [dennisrotondi/awesome-3D-scene-graphs](https://github.com/dennisrotondi/awesome-3D-scene-graphs) - Awesome 3D Scene Graphs: a curated list of 3D scene graph generation and related resources! Now with a companion website to explore the literature!
 - [robot-descriptions/awesome-robot-descriptions](https://github.com/robot-descriptions/awesome-robot-descriptions) - A curated list of awesome robot descriptions (URDF, MJCF)
 - [jslee02/awesome-robotics-libraries](https://github.com/jslee02/awesome-robotics-libraries) - :sunglasses: A curated list of robotics libraries and software
 - [sun254667/Awesome-Real2Sim2Real](https://github.com/sun254667/Awesome-Real2Sim2Real) - A curated collection of papers on Sim-to-Real, Real-to-Sim, and Real2Sim2Real transfer for robotics, reinforcement learning, and embodied AI.
@@ -520,6 +523,8 @@
 
 ## computer-vision 
 
+- [MIT-SPARK/VGGT-SLAM](https://github.com/MIT-SPARK/VGGT-SLAM) - VGGT-SLAM: Dense RGB SLAM Optimized on the SL(4) Manifold
+- [dennisrotondi/awesome-3D-scene-graphs](https://github.com/dennisrotondi/awesome-3D-scene-graphs) - Awesome 3D Scene Graphs: a curated list of 3D scene graph generation and related resources! Now with a companion website to explore the literature!
 - [facebookresearch/habitat-sim](https://github.com/facebookresearch/habitat-sim) - A flexible, high-performance 3D simulator for Embodied AI research.
 - [facebookresearch/habitat-lab](https://github.com/facebookresearch/habitat-lab) - A modular high-level library to train embodied AI agents across a variety of tasks and environments.
 - [fundamentalvision/BEVFormer](https://github.com/fundamentalvision/BEVFormer) - [ECCV 2022] This is the official implementation of BEVFormer, a camera-only framework for autonomous driving perception, e.g., 3D object detection and semantic map segmentation.
@@ -1097,6 +1102,7 @@
 
 ## localization 
 
+- [MIT-SPARK/Kimera-VIO](https://github.com/MIT-SPARK/Kimera-VIO) - Visual Inertial Odometry with SLAM capabilities and 3D Mesh generation.
 - [TUMFTM/FAR-LIO](https://github.com/TUMFTM/FAR-LIO) - A highly efficient, CUDA-accelerated framework for Fast, Accurate, and Robust LiDAR-Inertial Odometry.
 - [weisongwen/UrbanLoco](https://github.com/weisongwen/UrbanLoco) - UrbanLoco: A Full Sensor Suite Dataset for Mapping and Localization in Urban Scenes
 - [vectr-ucla/direct_lidar_inertial_odometry](https://github.com/vectr-ucla/direct_lidar_inertial_odometry) - [IEEE ICRA'23] A new lightweight LiDAR-inertial odometry algorithm with a novel coarse-to-fine approach in constructing continuous-time trajectories for precise motion correction.
@@ -1334,6 +1340,15 @@
 
 ## others 
 
+- [real-stanford/universal_manipulation_interface](https://github.com/real-stanford/universal_manipulation_interface) - Universal Manipulation Interface: In-The-Wild Robot Teaching Without In-The-Wild Robots
+- [MIT-SPARK/DAAAM](https://github.com/MIT-SPARK/DAAAM) - Describe Anything, Anywhere, at Any Moment (DAAAM), a novel approach to real-time, large-scale, spatio-temporal memory
+- [MIT-SPARK/Omniplanner](https://github.com/MIT-SPARK/Omniplanner) - Infrastructure for composing multiple types of planning paradigms.
+- [MIT-SPARK/Khronos](https://github.com/MIT-SPARK/Khronos) - Spatio-Temporal Metric-Semantic SLAM
+- [ethz-asl/voxblox-plusplus](https://github.com/ethz-asl/voxblox-plusplus) - A volumetric object-level semantic mapping framework.
+- [MIT-SPARK/Kimera-RPGO](https://github.com/MIT-SPARK/Kimera-RPGO) - Robust Pose Graph Optimization
+- [MIT-SPARK/Hydra](https://github.com/MIT-SPARK/Hydra) - A system for building 3D Scene Graphs from sensor data in real-time
+- [Eku127/DualMap](https://github.com/Eku127/DualMap) - [RAL-25] An online open-vocabulary mapping system that enables natural language querying to navigate dynamic scenes, with ROS support.
+- [ASISys/DualMap](https://github.com/ASISys/DualMap) - DualMap: Enabling Both Cache Affinity and Load Balancing for Distributed LLM Serving
 - [thisparticle/Awesome-Algorithms-Against-Degeneracy](https://github.com/thisparticle/Awesome-Algorithms-Against-Degeneracy) - 
 - [jisehua/Degenerate-Detection](https://github.com/jisehua/Degenerate-Detection) - 
 - [chengwei0427/ESKF_LIO](https://github.com/chengwei0427/ESKF_LIO) - IESKF-LIO reference to fast_lio1.0(参考fast-lio早期版本，复现的fast-lio2)
@@ -2054,6 +2069,12 @@
 
 ## robotics 
 
+- [huangjund/awesome-UMI-Papers](https://github.com/huangjund/awesome-UMI-Papers) - A curated list of Universal Manipulation Interface (UMI) and UMI-style papers, datasets, code, and hardware for robot-free manipulation demonstrations and robot policy learning.
+- [MIT-SPARK/Kimera-VIO](https://github.com/MIT-SPARK/Kimera-VIO) - Visual Inertial Odometry with SLAM capabilities and 3D Mesh generation.
+- [ethz-asl/voxblox](https://github.com/ethz-asl/voxblox) - A library for flexible voxel-based mapping, mainly focusing on truncated and Euclidean signed distance fields.
+- [MIT-SPARK/Kimera-Semantics](https://github.com/MIT-SPARK/Kimera-Semantics) - Real-Time 3D Semantic Reconstruction from 2D data
+- [dennisrotondi/awesome-3D-scene-graphs](https://github.com/dennisrotondi/awesome-3D-scene-graphs) - Awesome 3D Scene Graphs: a curated list of 3D scene graph generation and related resources! Now with a companion website to explore the literature!
+- [MIT-SPARK/TEASER-plusplus](https://github.com/MIT-SPARK/TEASER-plusplus) - A fast and robust point cloud registration library
 - [RoboDojo-Benchmark/RoboDojo](https://github.com/RoboDojo-Benchmark/RoboDojo) - Official repository for RoboDojo
 - [starVLA/starVLA](https://github.com/starVLA/starVLA) - StarVLA: A Lego-like Codebase for Vision-Language-Action Model Developing
 - [robot-descriptions/awesome-robot-descriptions](https://github.com/robot-descriptions/awesome-robot-descriptions) - A curated list of awesome robot descriptions (URDF, MJCF)
