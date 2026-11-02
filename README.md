@@ -83,6 +83,14 @@
 
 ## C++ 
 
+- [MIT-SPARK/Kimera-VIO](https://github.com/MIT-SPARK/Kimera-VIO) - Visual Inertial Odometry with SLAM capabilities and 3D Mesh generation.
+- [MIT-SPARK/Khronos](https://github.com/MIT-SPARK/Khronos) - Spatio-Temporal Metric-Semantic SLAM
+- [ethz-asl/voxblox-plusplus](https://github.com/ethz-asl/voxblox-plusplus) - A volumetric object-level semantic mapping framework.
+- [ethz-asl/voxblox](https://github.com/ethz-asl/voxblox) - A library for flexible voxel-based mapping, mainly focusing on truncated and Euclidean signed distance fields.
+- [MIT-SPARK/Kimera-Semantics](https://github.com/MIT-SPARK/Kimera-Semantics) - Real-Time 3D Semantic Reconstruction from 2D data
+- [MIT-SPARK/Kimera-RPGO](https://github.com/MIT-SPARK/Kimera-RPGO) - Robust Pose Graph Optimization
+- [MIT-SPARK/TEASER-plusplus](https://github.com/MIT-SPARK/TEASER-plusplus) - A fast and robust point cloud registration library
+- [MIT-SPARK/Hydra](https://github.com/MIT-SPARK/Hydra) - A system for building 3D Scene Graphs from sensor data in real-time
 - [jisehua/Degenerate-Detection](https://github.com/jisehua/Degenerate-Detection) - 
 - [chengwei0427/ESKF_LIO](https://github.com/chengwei0427/ESKF_LIO) - IESKF-LIO reference to fast_lio1.0(参考fast-lio早期版本，复现的fast-lio2)
 - [chengwei0427/hm-lio](https://github.com/chengwei0427/hm-lio) - A Hash-map based Lidar-Inertial Odometry (A simple reproduction of fastlio 1.0 with Hash-map).
@@ -472,7 +480,6 @@
 - [betanalpha/knitr_case_studies](https://github.com/betanalpha/knitr_case_studies) - Inference case studies in knitr
 - [bobbyiliev/introduction-to-bash-scripting](https://github.com/bobbyiliev/introduction-to-bash-scripting) - Free Introduction to Bash Scripting eBook
 - [javascript-tutorial/zh.javascript.info](https://github.com/javascript-tutorial/zh.javascript.info) - 现代 JavaScript 教程（The Modern JavaScript Tutorial），以最新的 ECMAScript 规范为基准，通过简单但足够详细的内容，为你讲解从基础到高阶的 JavaScript 相关知识。
-- [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [slegetank/WGEECN](https://github.com/slegetank/WGEECN) - Writing GNU Emacs Extensions 翻译
 
 ## Handlebars 
@@ -580,6 +587,7 @@
 ## MDX 
 
 - [trigaten/Learn_Prompting](https://github.com/trigaten/Learn_Prompting) - Prompt Engineering, Generative AI, and LLM Guide by Learn Prompting | Join our discord for the largest Prompt Engineering learning community
+- [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.
 
 ## Makefile 
@@ -592,6 +600,7 @@
 
 ## Others 
 
+- [huangjund/awesome-UMI-Papers](https://github.com/huangjund/awesome-UMI-Papers) - A curated list of Universal Manipulation Interface (UMI) and UMI-style papers, datasets, code, and hardware for robot-free manipulation demonstrations and robot policy learning.
 - [thisparticle/Awesome-Algorithms-Against-Degeneracy](https://github.com/thisparticle/Awesome-Algorithms-Against-Degeneracy) - 
 - [sjtuyinjie/awesome-LiDAR-Visual-SLAM](https://github.com/sjtuyinjie/awesome-LiDAR-Visual-SLAM) - A curated list of resources relevant to LiDAR-Visual-Fusion-SLAM
 - [XYZ-qiyh/Awesome-Learning-MVS](https://github.com/XYZ-qiyh/Awesome-Learning-MVS) - 📑 A list of awesome learning-based multi-view stereo papers
@@ -702,6 +711,12 @@
 
 ## Python 
 
+- [real-stanford/universal_manipulation_interface](https://github.com/real-stanford/universal_manipulation_interface) - Universal Manipulation Interface: In-The-Wild Robot Teaching Without In-The-Wild Robots
+- [MIT-SPARK/DAAAM](https://github.com/MIT-SPARK/DAAAM) - Describe Anything, Anywhere, at Any Moment (DAAAM), a novel approach to real-time, large-scale, spatio-temporal memory
+- [MIT-SPARK/VGGT-SLAM](https://github.com/MIT-SPARK/VGGT-SLAM) - VGGT-SLAM: Dense RGB SLAM Optimized on the SL(4) Manifold
+- [MIT-SPARK/Omniplanner](https://github.com/MIT-SPARK/Omniplanner) - Infrastructure for composing multiple types of planning paradigms.
+- [Eku127/DualMap](https://github.com/Eku127/DualMap) - [RAL-25] An online open-vocabulary mapping system that enables natural language querying to navigate dynamic scenes, with ROS support.
+- [ASISys/DualMap](https://github.com/ASISys/DualMap) - DualMap: Enabling Both Cache Affinity and Load Balancing for Distributed LLM Serving
 - [princeton-vl/DROID-SLAM](https://github.com/princeton-vl/DROID-SLAM) - 
 - [QwenLM/Qwen-Drive-1.0](https://github.com/QwenLM/Qwen-Drive-1.0) - An Initial Step towards a Vision-Language Foundation Model for Autonomous Driving
 - [haozhang04/LeggedSkillDeploy](https://github.com/haozhang04/LeggedSkillDeploy) - A deployment framework for reinforcement learning-based motion control of legged robots, covering bipedal, quadrupedal, wheeled-bipedal, and wheeled-quadrupedal robots.
@@ -1063,6 +1078,7 @@
 
 ## TypeScript 
 
+- [dennisrotondi/awesome-3D-scene-graphs](https://github.com/dennisrotondi/awesome-3D-scene-graphs) - Awesome 3D Scene Graphs: a curated list of 3D scene graph generation and related resources! Now with a companion website to explore the literature!
 - [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) - DeepSeek Harness: Everything is a Plugin.
 - [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
 - [OpenLegged/URDF-Studio](https://github.com/OpenLegged/URDF-Studio) - URDF-Studio is a web-based visual URDF robot modeler with 3D workspace, structured skeleton/detail/hardware workflows, motor library integration, MuJoCo export, and AI assistance.
