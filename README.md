@@ -520,6 +520,9 @@
 
 ## Jupyter Notebook 
 
+- [IDEA-Research/DAB-DETR](https://github.com/IDEA-Research/DAB-DETR) - [ICLR 2022] Official implementation of the paper "DAB-DETR: Dynamic Anchor Boxes are Better Queries for DETR"
+- [ChaoningZhang/MobileSAM](https://github.com/ChaoningZhang/MobileSAM) - This is the official code for MobileSAM project that makes SAM lightweight for mobile applications and beyond!
+- [xinyu1205/recognize-anything](https://github.com/xinyu1205/recognize-anything) - Open-source and strong foundation image recognition models.
 - [google-research/kubric](https://github.com/google-research/kubric) - A data generation pipeline for creating semi-realistic synthetic multi-object videos with rich annotations such as instance segmentation masks, depth maps, and optical flow.
 - [jrapudg/RTWholeBodyMPPI](https://github.com/jrapudg/RTWholeBodyMPPI) - We present the first successful deployment of a whole-body sampling-based MPC system on a real-world quadruped robot. Our approach enables real-time, contact-rich locomotion and manipulation using a s
 - [HorizonRobotics/Sparse4D](https://github.com/HorizonRobotics/Sparse4D) - 
@@ -601,6 +604,7 @@
 
 ## Others 
 
+- [IDEA-Research/awesome-detection-transformer](https://github.com/IDEA-Research/awesome-detection-transformer) - Collect some papers about transformer for detection and segmentation. Awesome Detection Transformer for Computer Vision (CV)
 - [huangjund/awesome-UMI-Papers](https://github.com/huangjund/awesome-UMI-Papers) - A curated list of Universal Manipulation Interface (UMI) and UMI-style papers, datasets, code, and hardware for robot-free manipulation demonstrations and robot policy learning.
 - [thisparticle/Awesome-Algorithms-Against-Degeneracy](https://github.com/thisparticle/Awesome-Algorithms-Against-Degeneracy) - 
 - [sjtuyinjie/awesome-LiDAR-Visual-SLAM](https://github.com/sjtuyinjie/awesome-LiDAR-Visual-SLAM) - A curated list of resources relevant to LiDAR-Visual-Fusion-SLAM
@@ -712,6 +716,15 @@
 
 ## Python 
 
+- [Alibaba-MIIL/ASL](https://github.com/Alibaba-MIIL/ASL) - Official Pytorch Implementation of: "Asymmetric Loss For Multi-Label Classification"(ICCV, 2021) paper
+- [SlongLiu/query2labels](https://github.com/SlongLiu/query2labels) - Official implementation of paper "Query2Label: A Simple Transformer Way to Multi-Label Classification".
+- [IDEA-Research/DINO](https://github.com/IDEA-Research/DINO) - [ICLR 2023] Official implementation of the paper "DINO: DETR with Improved DeNoising Anchor Boxes for End-to-End Object Detection"
+- [CASIA-LMC-Lab/FastSAM](https://github.com/CASIA-LMC-Lab/FastSAM) - Fast Segment Anything
+- [AILab-CVC/YOLO-World](https://github.com/AILab-CVC/YOLO-World) - [CVPR 2024] Real-Time Open-Vocabulary Object Detection
+- [BJHYZJ/DovSG](https://github.com/BJHYZJ/DovSG) - [RA-L 2025] Dynamic Open-Vocabulary 3D Scene Graphs for Long-term Language-Guided Mobile Manipulation
+- [IDEA-Research/MaskDINO](https://github.com/IDEA-Research/MaskDINO) - [CVPR 2023] Official implementation of the paper "Mask DINO: Towards A Unified Transformer-based Framework for Object Detection and Segmentation"
+- [IDEA-Research/detrex](https://github.com/IDEA-Research/detrex) - detrex is a research platform for DETR-based object detection, segmentation, pose estimation and other visual recognition tasks.
+- [IDEA-Research/GroundingDINO](https://github.com/IDEA-Research/GroundingDINO) - [ECCV 2024] Official implementation of the paper "Grounding DINO: Marrying DINO with Grounded Pre-Training for Open-Set Object Detection"
 - [real-stanford/universal_manipulation_interface](https://github.com/real-stanford/universal_manipulation_interface) - Universal Manipulation Interface: In-The-Wild Robot Teaching Without In-The-Wild Robots
 - [MIT-SPARK/DAAAM](https://github.com/MIT-SPARK/DAAAM) - Describe Anything, Anywhere, at Any Moment (DAAAM), a novel approach to real-time, large-scale, spatio-temporal memory
 - [MIT-SPARK/VGGT-SLAM](https://github.com/MIT-SPARK/VGGT-SLAM) - VGGT-SLAM: Dense RGB SLAM Optimized on the SL(4) Manifold
