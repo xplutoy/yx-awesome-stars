@@ -523,6 +523,7 @@
 
 ## computer-vision 
 
+- [MAC-VO/MAC-VO](https://github.com/MAC-VO/MAC-VO) - [ICRA 2025 Best Paper] MAC-VO: Metrics-aware Covariance for Learning-based Stereo Visual Odometry
 - [IDEA-Research/DINO](https://github.com/IDEA-Research/DINO) - [ICLR 2023] Official implementation of the paper "DINO: DETR with Improved DeNoising Anchor Boxes for End-to-End Object Detection"
 - [harry7557558/spirula-studio](https://github.com/harry7557558/spirula-studio) - Cross-vendor 3D Gaussian Splatting trainer - video to splat to mesh, Vulkan or CUDA.
 - [MIT-SPARK/VGGT-SLAM](https://github.com/MIT-SPARK/VGGT-SLAM) - VGGT-SLAM: Dense RGB SLAM Optimized on the SL(4) Manifold
@@ -563,6 +564,7 @@
 
 ## cpp 
 
+- [Simple-Robotics/proxsuite](https://github.com/Simple-Robotics/proxsuite) - The Advanced Proximal Optimization Toolbox
 - [yyyy231209/zero-copy-vpu-gpu-rga-stitch](https://github.com/yyyy231209/zero-copy-vpu-gpu-rga-stitch) - Zero-copy four-camera real-time panorama stitching on Rockchip RK3588: VPU(MPP) hardware decode -&gt; Mali GPU OpenCL warp -&gt; RGA blend, DMA-BUF zero-copy
 - [yyyy231209/zero-copy-tri-core-npu-inference](https://github.com/yyyy231209/zero-copy-tri-core-npu-inference) - Tri-core NPU tunnel crack detection on Rockchip RK3588: packed-strips 3-in-1 inference (~2.9x), rknn_set_core_mask CORE_0/1/2, DMA-BUF full-chain zero-copy, consumes panorama DMA-BUF
 - [rerun-io/rerun](https://github.com/rerun-io/rerun) - Visualize, query, and stream to train on multimodal robotics data.
@@ -1343,6 +1345,14 @@
 
 ## others 
 
+- [based-robotics/mjinx](https://github.com/based-robotics/mjinx) - Numerical Inverse Kinematics solver based on JAX + MJX
+- [jc-bao/awesome-mujoco](https://github.com/jc-bao/awesome-mujoco) - A collection of awesome projects using MuJoCo.
+- [Simple-Robotics/LoIK](https://github.com/Simple-Robotics/LoIK) - Low-Complexity Inverse Kinematics
+- [sailab-ai/NablaEngine](https://github.com/sailab-ai/NablaEngine) - Fast, exact simulation gradients for the Unitree G1: a differentiable GPU physics engine with JAX and PyTorch interfaces.
+- [sailab-ai/MoSim](https://github.com/sailab-ai/MoSim) - [CVPR 2025] Neural Motion Simulator Pushing the Limit of World Models in Reinforcement Learning
+- [sailab-ai/NablaMimic](https://github.com/sailab-ai/NablaMimic) - Ultra-Efficient Humanoid Control with Differentiable Simulation.
+- [HKUST-Aerial-Robotics/CO-Calib](https://github.com/HKUST-Aerial-Robotics/CO-Calib) - A Plug-in Robust Multi-camera Calibration Toolbox
+- [UX-Decoder/Semantic-SAM](https://github.com/UX-Decoder/Semantic-SAM) - [ECCV 2024] Official implementation of the paper "Semantic-SAM: Segment and Recognize Anything at Any Granularity"
 - [Alibaba-MIIL/ASL](https://github.com/Alibaba-MIIL/ASL) - Official Pytorch Implementation of: "Asymmetric Loss For Multi-Label Classification"(ICCV, 2021) paper
 - [SlongLiu/query2labels](https://github.com/SlongLiu/query2labels) - Official implementation of paper "Query2Label: A Simple Transformer Way to Multi-Label Classification".
 - [IDEA-Research/DAB-DETR](https://github.com/IDEA-Research/DAB-DETR) - [ICLR 2022] Official implementation of the paper "DAB-DETR: Dynamic Anchor Boxes are Better Queries for DETR"
@@ -1918,6 +1928,7 @@
 
 ## python 
 
+- [hanruihua/ir-sim](https://github.com/hanruihua/ir-sim) - A  Python-based lightweight robot simulator designed for navigation, control, and learning
 - [facebookresearch/habitat-lab](https://github.com/facebookresearch/habitat-lab) - A modular high-level library to train embodied AI agents across a variety of tasks and environments.
 - [pypose/pypose](https://github.com/pypose/pypose) - A library for differentiable robotics on manifolds.
 - [Phylliade/ikpy](https://github.com/Phylliade/ikpy) - IKPy, an Universal Inverse Kinematics library
@@ -2051,6 +2062,7 @@
 
 ## reinforcement-learning 
 
+- [hanruihua/ir-sim](https://github.com/hanruihua/ir-sim) - A  Python-based lightweight robot simulator designed for navigation, control, and learning
 - [MarkFzp/humanplus](https://github.com/MarkFzp/humanplus) - [CoRL 2024] HumanPlus: Humanoid Shadowing and Imitation from Humans
 - [facebookresearch/habitat-lab](https://github.com/facebookresearch/habitat-lab) - A modular high-level library to train embodied AI agents across a variety of tasks and environments.
 - [purdue-tracelab/Humanoid-Locomotion-Survey](https://github.com/purdue-tracelab/Humanoid-Locomotion-Survey) - Companion repository for "Evolution of Humanoid Locomotion Control" in Science Robotics (2026)
@@ -2084,6 +2096,11 @@
 
 ## robotics 
 
+- [based-robotics/mujoco-sysid](https://github.com/based-robotics/mujoco-sysid) - System identification with MuJoCo
+- [Simple-Robotics/Simple](https://github.com/Simple-Robotics/Simple) - The Simple Simulator: Simulation Made Simple
+- [stack-of-tasks/tsid](https://github.com/stack-of-tasks/tsid) - Efficient Task Space Inverse Dynamics (TSID) based on Pinocchio
+- [Simple-Robotics/proxsuite](https://github.com/Simple-Robotics/proxsuite) - The Advanced Proximal Optimization Toolbox
+- [hanruihua/ir-sim](https://github.com/hanruihua/ir-sim) - A  Python-based lightweight robot simulator designed for navigation, control, and learning
 - [huangjund/awesome-UMI-Papers](https://github.com/huangjund/awesome-UMI-Papers) - A curated list of Universal Manipulation Interface (UMI) and UMI-style papers, datasets, code, and hardware for robot-free manipulation demonstrations and robot policy learning.
 - [MIT-SPARK/Kimera-VIO](https://github.com/MIT-SPARK/Kimera-VIO) - Visual Inertial Odometry with SLAM capabilities and 3D Mesh generation.
 - [ethz-asl/voxblox](https://github.com/ethz-asl/voxblox) - A library for flexible voxel-based mapping, mainly focusing on truncated and Euclidean signed distance fields.
