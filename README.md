@@ -83,6 +83,10 @@
 
 ## C++ 
 
+- [Simple-Robotics/LoIK](https://github.com/Simple-Robotics/LoIK) - Low-Complexity Inverse Kinematics
+- [Simple-Robotics/Simple](https://github.com/Simple-Robotics/Simple) - The Simple Simulator: Simulation Made Simple
+- [stack-of-tasks/tsid](https://github.com/stack-of-tasks/tsid) - Efficient Task Space Inverse Dynamics (TSID) based on Pinocchio
+- [Simple-Robotics/proxsuite](https://github.com/Simple-Robotics/proxsuite) - The Advanced Proximal Optimization Toolbox
 - [harry7557558/spirula-studio](https://github.com/harry7557558/spirula-studio) - Cross-vendor 3D Gaussian Splatting trainer - video to splat to mesh, Vulkan or CUDA.
 - [MIT-SPARK/Kimera-VIO](https://github.com/MIT-SPARK/Kimera-VIO) - Visual Inertial Odometry with SLAM capabilities and 3D Mesh generation.
 - [MIT-SPARK/Khronos](https://github.com/MIT-SPARK/Khronos) - Spatio-Temporal Metric-Semantic SLAM
@@ -520,6 +524,7 @@
 
 ## Jupyter Notebook 
 
+- [based-robotics/mujoco-sysid](https://github.com/based-robotics/mujoco-sysid) - System identification with MuJoCo
 - [IDEA-Research/DAB-DETR](https://github.com/IDEA-Research/DAB-DETR) - [ICLR 2022] Official implementation of the paper "DAB-DETR: Dynamic Anchor Boxes are Better Queries for DETR"
 - [ChaoningZhang/MobileSAM](https://github.com/ChaoningZhang/MobileSAM) - This is the official code for MobileSAM project that makes SAM lightweight for mobile applications and beyond!
 - [xinyu1205/recognize-anything](https://github.com/xinyu1205/recognize-anything) - Open-source and strong foundation image recognition models.
@@ -604,6 +609,7 @@
 
 ## Others 
 
+- [jc-bao/awesome-mujoco](https://github.com/jc-bao/awesome-mujoco) - A collection of awesome projects using MuJoCo.
 - [IDEA-Research/awesome-detection-transformer](https://github.com/IDEA-Research/awesome-detection-transformer) - Collect some papers about transformer for detection and segmentation. Awesome Detection Transformer for Computer Vision (CV)
 - [huangjund/awesome-UMI-Papers](https://github.com/huangjund/awesome-UMI-Papers) - A curated list of Universal Manipulation Interface (UMI) and UMI-style papers, datasets, code, and hardware for robot-free manipulation demonstrations and robot policy learning.
 - [thisparticle/Awesome-Algorithms-Against-Degeneracy](https://github.com/thisparticle/Awesome-Algorithms-Against-Degeneracy) - 
@@ -716,6 +722,14 @@
 
 ## Python 
 
+- [based-robotics/mjinx](https://github.com/based-robotics/mjinx) - Numerical Inverse Kinematics solver based on JAX + MJX
+- [sailab-ai/NablaEngine](https://github.com/sailab-ai/NablaEngine) - Fast, exact simulation gradients for the Unitree G1: a differentiable GPU physics engine with JAX and PyTorch interfaces.
+- [sailab-ai/MoSim](https://github.com/sailab-ai/MoSim) - [CVPR 2025] Neural Motion Simulator Pushing the Limit of World Models in Reinforcement Learning
+- [sailab-ai/NablaMimic](https://github.com/sailab-ai/NablaMimic) - Ultra-Efficient Humanoid Control with Differentiable Simulation.
+- [HKUST-Aerial-Robotics/CO-Calib](https://github.com/HKUST-Aerial-Robotics/CO-Calib) - A Plug-in Robust Multi-camera Calibration Toolbox
+- [hanruihua/ir-sim](https://github.com/hanruihua/ir-sim) - A  Python-based lightweight robot simulator designed for navigation, control, and learning
+- [MAC-VO/MAC-VO](https://github.com/MAC-VO/MAC-VO) - [ICRA 2025 Best Paper] MAC-VO: Metrics-aware Covariance for Learning-based Stereo Visual Odometry
+- [UX-Decoder/Semantic-SAM](https://github.com/UX-Decoder/Semantic-SAM) - [ECCV 2024] Official implementation of the paper "Semantic-SAM: Segment and Recognize Anything at Any Granularity"
 - [Alibaba-MIIL/ASL](https://github.com/Alibaba-MIIL/ASL) - Official Pytorch Implementation of: "Asymmetric Loss For Multi-Label Classification"(ICCV, 2021) paper
 - [SlongLiu/query2labels](https://github.com/SlongLiu/query2labels) - Official implementation of paper "Query2Label: A Simple Transformer Way to Multi-Label Classification".
 - [IDEA-Research/DINO](https://github.com/IDEA-Research/DINO) - [ICLR 2023] Official implementation of the paper "DINO: DETR with Improved DeNoising Anchor Boxes for End-to-End Object Detection"
