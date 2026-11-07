@@ -79,10 +79,14 @@
 
 ## C# # 
 
+- [robotflow-initiative/rfuniverse](https://github.com/robotflow-initiative/rfuniverse) - Robot physics simulation and RL platform based on Unity / 基于Unity的机器人物理仿真和RL平台
 - [mxgmn/WaveFunctionCollapse](https://github.com/mxgmn/WaveFunctionCollapse) - Bitmap & tilemap generation from a single example with the help of ideas from quantum mechanics
 
 ## C++ 
 
+- [sofa-framework/sofa](https://github.com/sofa-framework/sofa) - Real-time multi-physics simulation with an emphasis on medical simulation.
+- [projectchrono/chrono](https://github.com/projectchrono/chrono) - High-performance C++ library for multiphysics and multibody dynamics simulations
+- [A2R-Lab/TinySDP](https://github.com/A2R-Lab/TinySDP) - Real-time semidefinite optimization for embedded robotics, RSS 2026
 - [Simple-Robotics/LoIK](https://github.com/Simple-Robotics/LoIK) - Low-Complexity Inverse Kinematics
 - [Simple-Robotics/Simple](https://github.com/Simple-Robotics/Simple) - The Simple Simulator: Simulation Made Simple
 - [stack-of-tasks/tsid](https://github.com/stack-of-tasks/tsid) - Efficient Task Space Inverse Dynamics (TSID) based on Pinocchio
@@ -514,6 +518,9 @@
 
 ## Julia 
 
+- [RoboticExplorationLab/Algames.jl](https://github.com/RoboticExplorationLab/Algames.jl) - ALGAMES: Game Theoretic Solver for Trajectory Optimization
+- [RoboticExplorationLab/Altro.jl](https://github.com/RoboticExplorationLab/Altro.jl) - 
+- [RoboticExplorationLab/TrajectoryOptimization.jl](https://github.com/RoboticExplorationLab/TrajectoryOptimization.jl) - A fast trajectory optimization library written in Julia
 - [sisl/MPOPIS](https://github.com/sisl/MPOPIS) - Adaptive importance sampling modification to MPPI
 - [JuliaAI/MLJ.jl](https://github.com/JuliaAI/MLJ.jl) - A Julia machine learning framework
 - [jump-dev/JuMP.jl](https://github.com/jump-dev/JuMP.jl) - Modeling language for Mathematical Optimization (linear, mixed-integer, conic, semidefinite, nonlinear)
@@ -722,6 +729,9 @@
 
 ## Python 
 
+- [NVlabs/ASPIRE](https://github.com/NVlabs/ASPIRE) - ASPIRE: Agentic /Skills Discovery for Robotics
+- [A2R-Lab/ADMM_FPGA](https://github.com/A2R-Lab/ADMM_FPGA) - 
+- [A2R-Lab/HJCD-IK](https://github.com/A2R-Lab/HJCD-IK) - GPU-Accelerated Inverse Kinematics
 - [based-robotics/mjinx](https://github.com/based-robotics/mjinx) - Numerical Inverse Kinematics solver based on JAX + MJX
 - [sailab-ai/NablaEngine](https://github.com/sailab-ai/NablaEngine) - Fast, exact simulation gradients for the Unitree G1: a differentiable GPU physics engine with JAX and PyTorch interfaces.
 - [sailab-ai/MoSim](https://github.com/sailab-ai/MoSim) - [CVPR 2025] Neural Motion Simulator Pushing the Limit of World Models in Reinforcement Learning
@@ -994,7 +1004,7 @@
 - [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modular pipelines and agent workflows with explicit control over retrieval, routing, m
 - [run-llama/llama_index](https://github.com/run-llama/llama_index) - LlamaIndex is the document processing platform for AI
 - [langgenius/dify](https://github.com/langgenius/dify) - Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without reb
-- [dataelement/bisheng](https://github.com/dataelement/bisheng) - BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive features include: GenAI workflow, RAG, Agent, Unified model management, Evaluation, SF
+- [dataelement/bisheng](https://github.com/dataelement/bisheng) - BISHENG is an open-source enterprise Agent platform for building, deploying, and managing AI applications. It combines AI agents, workflows, RAG and knowledge management, desktop agent integration, an
 - [gradio-app/gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
 - [pypa/pipx](https://github.com/pypa/pipx) - Install and Run Python Applications in Isolated Environments
 - [QwenLM/Qwen](https://github.com/QwenLM/Qwen) - The official repo of Qwen (通义千问) chat & pretrained large language model proposed by Alibaba Cloud.
