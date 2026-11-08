@@ -110,6 +110,7 @@
 - [markdown](#markdown)
 - [matlab](#matlab)
 - [mcp](#mcp)
+- [mcp-server](#mcp-server)
 - [natural-language-processing](#natural-language-processing)
 - [neovim](#neovim)
 - [neovim-colorscheme](#neovim-colorscheme)
@@ -292,6 +293,7 @@
 
 ## artificial-intelligence 
 
+- [NVlabs/VoxFormer](https://github.com/NVlabs/VoxFormer) - Official PyTorch implementation of VoxFormer [CVPR 2023 Highlight]
 - [leofan90/Awesome-World-Models](https://github.com/leofan90/Awesome-World-Models) - A comprehensive list of papers for the definition of World Models and using World Models for General Video Generation, Embodied AI, and Autonomous Driving, including papers, codes, and related website
 - [roboterax/humanoid-gym](https://github.com/roboterax/humanoid-gym) - Humanoid-Gym: Reinforcement Learning for Humanoid Robot with Zero-Shot Sim2Real Transfer https://arxiv.org/abs/2404.05695
 - [MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning](https://github.com/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning) - This is the homepage of a new book entitled "Mathematical Foundations of Reinforcement Learning."
@@ -524,6 +526,9 @@
 
 ## computer-vision 
 
+- [NVlabs/VoxFormer](https://github.com/NVlabs/VoxFormer) - Official PyTorch implementation of VoxFormer [CVPR 2023 Highlight]
+- [NVlabs/neuralangelo](https://github.com/NVlabs/neuralangelo) - Official implementation of "Neuralangelo: High-Fidelity Neural Surface Reconstruction" (CVPR 2023)
+- [NVlabs/instant-ngp](https://github.com/NVlabs/instant-ngp) - Instant neural graphics primitives: lightning fast NeRF and more
 - [MAC-VO/MAC-VO](https://github.com/MAC-VO/MAC-VO) - [ICRA 2025 Best Paper] MAC-VO: Metrics-aware Covariance for Learning-based Stereo Visual Odometry
 - [IDEA-Research/DINO](https://github.com/IDEA-Research/DINO) - [ICLR 2023] Official implementation of the paper "DINO: DETR with Improved DeNoising Anchor Boxes for End-to-End Object Detection"
 - [harry7557558/spirula-studio](https://github.com/harry7557558/spirula-studio) - Cross-vendor 3D Gaussian Splatting trainer - video to splat to mesh, Vulkan or CUDA.
@@ -631,6 +636,7 @@
 
 ## deep-learning 
 
+- [NVlabs/VoxFormer](https://github.com/NVlabs/VoxFormer) - Official PyTorch implementation of VoxFormer [CVPR 2023 Highlight]
 - [IDEA-Research/DINO](https://github.com/IDEA-Research/DINO) - [ICLR 2023] Official implementation of the paper "DINO: DETR with Improved DeNoising Anchor Boxes for End-to-End Object Detection"
 - [facebookresearch/habitat-lab](https://github.com/facebookresearch/habitat-lab) - A modular high-level library to train embodied AI agents across a variety of tasks and environments.
 - [fundamentalvision/BEVFormer](https://github.com/fundamentalvision/BEVFormer) - [ECCV 2022] This is the official implementation of BEVFormer, a camera-only framework for autonomous driving perception, e.g., 3D object detection and semantic map segmentation.
@@ -1140,6 +1146,8 @@
 
 ## machine-learning 
 
+- [NVlabs/VoxFormer](https://github.com/NVlabs/VoxFormer) - Official PyTorch implementation of VoxFormer [CVPR 2023 Highlight]
+- [NVlabs/instant-ngp](https://github.com/NVlabs/instant-ngp) - Instant neural graphics primitives: lightning fast NeRF and more
 - [jslee02/awesome-robotics-libraries](https://github.com/jslee02/awesome-robotics-libraries) - :sunglasses: A curated list of robotics libraries and software
 - [roboflow/rf-detr](https://github.com/roboflow/rf-detr) - RF-DETR is a real-time object detection and segmentation model architecture developed by Roboflow, SOTA on COCO, designed for fine-tuning. [ICLR 2026]
 - [wanshuiyin/Auto-claude-code-research-in-sleep](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep) - ARIS ⚔️ (Auto-Research-In-Sleep) — Lightweight Markdown-only skills for autonomous ML research: cross-model review loops, idea discovery, and experiment automation. No framework, no lock-in — works wi
@@ -1229,6 +1237,13 @@
 - [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modular pipelines and agent workflows with explicit control over retrieval, routing, m
 - [langgenius/dify](https://github.com/langgenius/dify) - Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without reb
 
+## mcp-server 
+
+- [Agents365-ai/drawio-skill](https://github.com/Agents365-ai/drawio-skill) - Agent skill that turns natural language, code, Terraform/K8s, SQL, OpenAPI, AsyncAPI, Protobuf and GraphQL sources into editable, tested draw.io architecture diagrams: incremental sync, multi-view pro
+- [wanshuiyin/Auto-claude-code-research-in-sleep](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep) - ARIS ⚔️ (Auto-Research-In-Sleep) — Lightweight Markdown-only skills for autonomous ML research: cross-model review loops, idea discovery, and experiment automation. No framework, no lock-in — works wi
+- [papersgpt/papersgpt-for-zotero](https://github.com/papersgpt/papersgpt-for-zotero) - Professional AI research tool for Zotero: chat with PDFs, whole-library search, Literature Radar, AutoPilot. 30+ LLMs or local models; built-in MCP server.
+- [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - An autonomous agent that conducts deep research on any data using any LLM providers
+
 ## natural-language-processing 
 
 - [RUCAIBox/LLMSurvey](https://github.com/RUCAIBox/LLMSurvey) - The official GitHub page for the survey paper "A Survey of Large Language Models".
@@ -1264,6 +1279,7 @@
 
 ## neural-network 
 
+- [NVlabs/instant-ngp](https://github.com/NVlabs/instant-ngp) - Instant neural graphics primitives: lightning fast NeRF and more
 - [HIPS/autograd](https://github.com/HIPS/autograd) - Efficiently computes derivatives of NumPy code.
 - [bharathgs/Awesome-pytorch-list](https://github.com/bharathgs/Awesome-pytorch-list) - A comprehensive list of pytorch related content on github,such as different models,implementations,helper libraries,tutorials etc.
 
@@ -1349,6 +1365,17 @@
 
 ## others 
 
+- [NVlabs/neural-robot-dynamics](https://github.com/NVlabs/neural-robot-dynamics) - [CoRL 2025] Neural Robot Dynamics
+- [facebookresearch/MHR](https://github.com/facebookresearch/MHR) - Momentum Human Rig is an anatomically-inspired parametric full-body digital human model developed at Meta. It includes: A parametric body skeletal model; A realistic 3D mesh skinned to the skeleton wi
+- [naver/anny](https://github.com/naver/anny) - Anny, A Free and Interpretable Human Body Model for all ages, written in PyTorch.
+- [NVlabs/FastGen](https://github.com/NVlabs/FastGen) - NVIDIA FastGen: Fast Generation from Diffusion Models
+- [NVlabs/SPADE](https://github.com/NVlabs/SPADE) - Semantic Image Synthesis with SPADE
+- [NVlabs/InstantSplat](https://github.com/NVlabs/InstantSplat) - InstantSplat: Sparse-view SfM-free Gaussian Splatting in Seconds
+- [NVlabs/describe-anything](https://github.com/NVlabs/describe-anything) - [ICCV 2025] Implementation for Describe Anything: Detailed Localized Image and Video Captioning
+- [NVlabs/nvdiffrast](https://github.com/NVlabs/nvdiffrast) - Nvdiffrast - Modular Primitives for High-Performance Differentiable Rendering
+- [NVlabs/FoundationStereo](https://github.com/NVlabs/FoundationStereo) - [CVPR 2025 Best Paper Nomination] FoundationStereo: Zero-Shot Stereo Matching
+- [yifan123/flow_grpo](https://github.com/yifan123/flow_grpo) - [NeurIPS 2025] An official implementation of Flow-GRPO: Training Flow Matching Models via Online RL
+- [NVlabs/DiffusionNFT](https://github.com/NVlabs/DiffusionNFT) - [ICLR 2026 Oral] DiffusionNFT: Online Diffusion Reinforcement with Forward Process
 - [NVlabs/ASPIRE](https://github.com/NVlabs/ASPIRE) - ASPIRE: Agentic /Skills Discovery for Robotics
 - [robotflow-initiative/rfuniverse](https://github.com/robotflow-initiative/rfuniverse) - Robot physics simulation and RL platform based on Unity / 基于Unity的机器人物理仿真和RL平台
 - [RoboticExplorationLab/Algames.jl](https://github.com/RoboticExplorationLab/Algames.jl) - ALGAMES: Game Theoretic Solver for Trajectory Optimization
@@ -1940,6 +1967,7 @@
 
 ## python 
 
+- [NVlabs/SOMA-X](https://github.com/NVlabs/SOMA-X) - SOMA: Unifying Parametric Human Body Models
 - [hanruihua/ir-sim](https://github.com/hanruihua/ir-sim) - A  Python-based lightweight robot simulator designed for navigation, control, and learning
 - [facebookresearch/habitat-lab](https://github.com/facebookresearch/habitat-lab) - A modular high-level library to train embodied AI agents across a variety of tasks and environments.
 - [pypose/pypose](https://github.com/pypose/pypose) - A library for differentiable robotics on manifolds.
@@ -2021,6 +2049,9 @@
 
 ## pytorch 
 
+- [NVlabs/SOMA-X](https://github.com/NVlabs/SOMA-X) - SOMA: Unifying Parametric Human Body Models
+- [NVlabs/curobo](https://github.com/NVlabs/curobo) - CUDA Accelerated Robot Library
+- [NVlabs/Sana](https://github.com/NVlabs/Sana) - SANA & Sol: Efficient Generative Models and Full-Stack Training & Inference Engines for Image, Video, and World Modeling
 - [IDEA-Research/detrex](https://github.com/IDEA-Research/detrex) - detrex is a research platform for DETR-based object detection, segmentation, pose estimation and other visual recognition tasks.
 - [UM-ARM-Lab/pytorch_mppi](https://github.com/UM-ARM-Lab/pytorch_mppi) - Model Predictive Path Integral (MPPI) with approximate dynamics implemented in pytorch
 - [UM-ARM-Lab/pytorch_volumetric](https://github.com/UM-ARM-Lab/pytorch_volumetric) - Volumetric structures such as voxels and SDFs implemented in pytorch
@@ -2073,6 +2104,7 @@
 
 ## reinforcement-learning 
 
+- [NVlabs/Sana](https://github.com/NVlabs/Sana) - SANA & Sol: Efficient Generative Models and Full-Stack Training & Inference Engines for Image, Video, and World Modeling
 - [hanruihua/ir-sim](https://github.com/hanruihua/ir-sim) - A  Python-based lightweight robot simulator designed for navigation, control, and learning
 - [MarkFzp/humanplus](https://github.com/MarkFzp/humanplus) - [CoRL 2024] HumanPlus: Humanoid Shadowing and Imitation from Humans
 - [facebookresearch/habitat-lab](https://github.com/facebookresearch/habitat-lab) - A modular high-level library to train embodied AI agents across a variety of tasks and environments.
@@ -2107,6 +2139,7 @@
 
 ## robotics 
 
+- [NVlabs/curobo](https://github.com/NVlabs/curobo) - CUDA Accelerated Robot Library
 - [projectchrono/chrono](https://github.com/projectchrono/chrono) - High-performance C++ library for multiphysics and multibody dynamics simulations
 - [A2R-Lab/TinySDP](https://github.com/A2R-Lab/TinySDP) - Real-time semidefinite optimization for embedded robotics, RSS 2026
 - [based-robotics/mujoco-sysid](https://github.com/based-robotics/mujoco-sysid) - System identification with MuJoCo
