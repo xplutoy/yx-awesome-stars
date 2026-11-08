@@ -84,6 +84,7 @@
 
 ## C++ 
 
+- [NVlabs/nvdiffrast](https://github.com/NVlabs/nvdiffrast) - Nvdiffrast - Modular Primitives for High-Performance Differentiable Rendering
 - [sofa-framework/sofa](https://github.com/sofa-framework/sofa) - Real-time multi-physics simulation with an emphasis on medical simulation.
 - [projectchrono/chrono](https://github.com/projectchrono/chrono) - High-performance C++ library for multiphysics and multibody dynamics simulations
 - [A2R-Lab/TinySDP](https://github.com/A2R-Lab/TinySDP) - Real-time semidefinite optimization for embedded robotics, RSS 2026
@@ -239,6 +240,7 @@
 
 ## Cuda 
 
+- [NVlabs/instant-ngp](https://github.com/NVlabs/instant-ngp) - Instant neural graphics primitives: lightning fast NeRF and more
 - [eliphatfs/cuacd](https://github.com/eliphatfs/cuacd) - GPU-accelerated approximate convex decomposition for 3D meshes.
 - [deepseek-ai/DeepEP](https://github.com/deepseek-ai/DeepEP) - DeepEP: an efficient expert-parallel communication library
 
@@ -729,6 +731,21 @@
 
 ## Python 
 
+- [NVlabs/neural-robot-dynamics](https://github.com/NVlabs/neural-robot-dynamics) - [CoRL 2025] Neural Robot Dynamics
+- [NVlabs/SOMA-X](https://github.com/NVlabs/SOMA-X) - SOMA: Unifying Parametric Human Body Models
+- [facebookresearch/MHR](https://github.com/facebookresearch/MHR) - Momentum Human Rig is an anatomically-inspired parametric full-body digital human model developed at Meta. It includes: A parametric body skeletal model; A realistic 3D mesh skinned to the skeleton wi
+- [naver/anny](https://github.com/naver/anny) - Anny, A Free and Interpretable Human Body Model for all ages, written in PyTorch.
+- [NVlabs/curobo](https://github.com/NVlabs/curobo) - CUDA Accelerated Robot Library
+- [NVlabs/FastGen](https://github.com/NVlabs/FastGen) - NVIDIA FastGen: Fast Generation from Diffusion Models
+- [NVlabs/Sana](https://github.com/NVlabs/Sana) - SANA & Sol: Efficient Generative Models and Full-Stack Training & Inference Engines for Image, Video, and World Modeling
+- [NVlabs/SPADE](https://github.com/NVlabs/SPADE) - Semantic Image Synthesis with SPADE
+- [NVlabs/VoxFormer](https://github.com/NVlabs/VoxFormer) - Official PyTorch implementation of VoxFormer [CVPR 2023 Highlight]
+- [NVlabs/neuralangelo](https://github.com/NVlabs/neuralangelo) - Official implementation of "Neuralangelo: High-Fidelity Neural Surface Reconstruction" (CVPR 2023)
+- [NVlabs/InstantSplat](https://github.com/NVlabs/InstantSplat) - InstantSplat: Sparse-view SfM-free Gaussian Splatting in Seconds
+- [NVlabs/describe-anything](https://github.com/NVlabs/describe-anything) - [ICCV 2025] Implementation for Describe Anything: Detailed Localized Image and Video Captioning
+- [NVlabs/FoundationStereo](https://github.com/NVlabs/FoundationStereo) - [CVPR 2025 Best Paper Nomination] FoundationStereo: Zero-Shot Stereo Matching
+- [yifan123/flow_grpo](https://github.com/yifan123/flow_grpo) - [NeurIPS 2025] An official implementation of Flow-GRPO: Training Flow Matching Models via Online RL
+- [NVlabs/DiffusionNFT](https://github.com/NVlabs/DiffusionNFT) - [ICLR 2026 Oral] DiffusionNFT: Online Diffusion Reinforcement with Forward Process
 - [NVlabs/ASPIRE](https://github.com/NVlabs/ASPIRE) - ASPIRE: Agentic /Skills Discovery for Robotics
 - [A2R-Lab/ADMM_FPGA](https://github.com/A2R-Lab/ADMM_FPGA) - 
 - [A2R-Lab/HJCD-IK](https://github.com/A2R-Lab/HJCD-IK) - GPU-Accelerated Inverse Kinematics
