@@ -84,6 +84,7 @@
 
 ## C++ 
 
+- [Genesis-Embodied-AI/quadrants](https://github.com/Genesis-Embodied-AI/quadrants) - High-performance multi-platform compiler for physics simulation
 - [NVlabs/nvdiffrast](https://github.com/NVlabs/nvdiffrast) - Nvdiffrast - Modular Primitives for High-Performance Differentiable Rendering
 - [sofa-framework/sofa](https://github.com/sofa-framework/sofa) - Real-time multi-physics simulation with an emphasis on medical simulation.
 - [projectchrono/chrono](https://github.com/projectchrono/chrono) - High-performance C++ library for multiphysics and multibody dynamics simulations
@@ -731,6 +732,13 @@
 
 ## Python 
 
+- [gbionics/adam](https://github.com/gbionics/adam) - adam implements a collection of algorithms for calculating rigid-body dynamics in Jax, CasADi, PyTorch, and Numpy.
+- [Genesis-Embodied-AI/DiffTactile](https://github.com/Genesis-Embodied-AI/DiffTactile) - [ICLR 2024] DiffTactile: A Physics-based Differentiable Tactile Simulator for Contact-rich Robotic Manipulation
+- [Improbable-AI/dexenv](https://github.com/Improbable-AI/dexenv) - Code for Visual Dexterity: In-Hand Reorientation of Novel and Complex Object Shapes (Science Robotics)
+- [Stanford-TML/robot_keyframe_kit](https://github.com/Stanford-TML/robot_keyframe_kit) - Create motion for any robot through editing keyframe
+- [hshi74/toddlerbot](https://github.com/hshi74/toddlerbot) - 
+- [caipeide/drift_drl](https://github.com/caipeide/drift_drl) - High-speed Autonomous Drifting with Deep Reinforcement Learning
+- [UWRobotLearning/WheeledLab](https://github.com/UWRobotLearning/WheeledLab) - Environments, assets, workflow for open-source mobile robotics, integrated with IsaacLab.
 - [NVlabs/neural-robot-dynamics](https://github.com/NVlabs/neural-robot-dynamics) - [CoRL 2025] Neural Robot Dynamics
 - [NVlabs/SOMA-X](https://github.com/NVlabs/SOMA-X) - SOMA: Unifying Parametric Human Body Models
 - [facebookresearch/MHR](https://github.com/facebookresearch/MHR) - Momentum Human Rig is an anatomically-inspired parametric full-body digital human model developed at Meta. It includes: A parametric body skeletal model; A realistic 3D mesh skinned to the skeleton wi
