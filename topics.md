@@ -94,6 +94,7 @@
 - [json](#json)
 - [julia](#julia)
 - [jupyter-notebook](#jupyter-notebook)
+- [knowledge-graph](#knowledge-graph)
 - [kubernetes](#kubernetes)
 - [language](#language)
 - [latex](#latex)
@@ -510,6 +511,7 @@
 
 ## compiler 
 
+- [Genesis-Embodied-AI/quadrants](https://github.com/Genesis-Embodied-AI/quadrants) - High-performance multi-platform compiler for physics simulation
 - [merrymercy/awesome-tensor-compilers](https://github.com/merrymercy/awesome-tensor-compilers) - A list of awesome compiler projects and papers for tensor computation and deep learning.
 - [zwang4/awesome-machine-learning-in-compilers](https://github.com/zwang4/awesome-machine-learning-in-compilers) - Must read research papers and links to tools and datasets that are related to using machine learning for compilers and systems optimisation
 - [aalhour/awesome-compilers](https://github.com/aalhour/awesome-compilers) - :sunglasses: Curated list of awesome resources on Compilers, Interpreters and Runtimes
@@ -1029,6 +1031,11 @@
 - [Data-Centric-AI-Community/fg-data-profiling](https://github.com/Data-Centric-AI-Community/fg-data-profiling) - 1 Line of code data quality profiling & exploratory data analysis for Pandas and Spark DataFrames.
 - [MLEveryday/100-Days-Of-ML-Code](https://github.com/MLEveryday/100-Days-Of-ML-Code) - 100-Days-Of-ML-Code中文版
 
+## knowledge-graph 
+
+- [666ghj/MiroFish](https://github.com/666ghj/MiroFish) - A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物
+- [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: https://logseq.io/p/NX4mc_ggEV
+
 ## kubernetes 
 
 - [Agents365-ai/drawio-skill](https://github.com/Agents365-ai/drawio-skill) - Agent skill that turns natural language, code, Terraform/K8s, SQL, OpenAPI, AsyncAPI, Protobuf and GraphQL sources into editable, tested draw.io architecture diagrams: incremental sync, multi-view pro
@@ -1306,6 +1313,7 @@
 
 ## numpy 
 
+- [gbionics/adam](https://github.com/gbionics/adam) - adam implements a collection of algorithms for calculating rigid-body dynamics in Jax, CasADi, PyTorch, and Numpy.
 - [HIPS/autograd](https://github.com/HIPS/autograd) - Efficiently computes derivatives of NumPy code.
 
 ## objective-c 
@@ -1365,6 +1373,11 @@
 
 ## others 
 
+- [Genesis-Embodied-AI/DiffTactile](https://github.com/Genesis-Embodied-AI/DiffTactile) - [ICLR 2024] DiffTactile: A Physics-based Differentiable Tactile Simulator for Contact-rich Robotic Manipulation
+- [Improbable-AI/dexenv](https://github.com/Improbable-AI/dexenv) - Code for Visual Dexterity: In-Hand Reorientation of Novel and Complex Object Shapes (Science Robotics)
+- [hshi74/toddlerbot](https://github.com/hshi74/toddlerbot) - 
+- [caipeide/drift_drl](https://github.com/caipeide/drift_drl) - High-speed Autonomous Drifting with Deep Reinforcement Learning
+- [UWRobotLearning/WheeledLab](https://github.com/UWRobotLearning/WheeledLab) - Environments, assets, workflow for open-source mobile robotics, integrated with IsaacLab.
 - [NVlabs/neural-robot-dynamics](https://github.com/NVlabs/neural-robot-dynamics) - [CoRL 2025] Neural Robot Dynamics
 - [facebookresearch/MHR](https://github.com/facebookresearch/MHR) - Momentum Human Rig is an anatomically-inspired parametric full-body digital human model developed at Meta. It includes: A parametric body skeletal model; A realistic 3D mesh skinned to the skeleton wi
 - [naver/anny](https://github.com/naver/anny) - Anny, A Free and Interpretable Human Body Model for all ages, written in PyTorch.
@@ -1967,6 +1980,8 @@
 
 ## python 
 
+- [gbionics/adam](https://github.com/gbionics/adam) - adam implements a collection of algorithms for calculating rigid-body dynamics in Jax, CasADi, PyTorch, and Numpy.
+- [Genesis-Embodied-AI/quadrants](https://github.com/Genesis-Embodied-AI/quadrants) - High-performance multi-platform compiler for physics simulation
 - [NVlabs/SOMA-X](https://github.com/NVlabs/SOMA-X) - SOMA: Unifying Parametric Human Body Models
 - [hanruihua/ir-sim](https://github.com/hanruihua/ir-sim) - A  Python-based lightweight robot simulator designed for navigation, control, and learning
 - [facebookresearch/habitat-lab](https://github.com/facebookresearch/habitat-lab) - A modular high-level library to train embodied AI agents across a variety of tasks and environments.
@@ -2049,6 +2064,7 @@
 
 ## pytorch 
 
+- [gbionics/adam](https://github.com/gbionics/adam) - adam implements a collection of algorithms for calculating rigid-body dynamics in Jax, CasADi, PyTorch, and Numpy.
 - [NVlabs/SOMA-X](https://github.com/NVlabs/SOMA-X) - SOMA: Unifying Parametric Human Body Models
 - [NVlabs/curobo](https://github.com/NVlabs/curobo) - CUDA Accelerated Robot Library
 - [NVlabs/Sana](https://github.com/NVlabs/Sana) - SANA & Sol: Efficient Generative Models and Full-Stack Training & Inference Engines for Image, Video, and World Modeling
@@ -2104,6 +2120,7 @@
 
 ## reinforcement-learning 
 
+- [gbionics/adam](https://github.com/gbionics/adam) - adam implements a collection of algorithms for calculating rigid-body dynamics in Jax, CasADi, PyTorch, and Numpy.
 - [NVlabs/Sana](https://github.com/NVlabs/Sana) - SANA & Sol: Efficient Generative Models and Full-Stack Training & Inference Engines for Image, Video, and World Modeling
 - [hanruihua/ir-sim](https://github.com/hanruihua/ir-sim) - A  Python-based lightweight robot simulator designed for navigation, control, and learning
 - [MarkFzp/humanplus](https://github.com/MarkFzp/humanplus) - [CoRL 2024] HumanPlus: Humanoid Shadowing and Imitation from Humans
@@ -2139,6 +2156,8 @@
 
 ## robotics 
 
+- [gbionics/adam](https://github.com/gbionics/adam) - adam implements a collection of algorithms for calculating rigid-body dynamics in Jax, CasADi, PyTorch, and Numpy.
+- [Stanford-TML/robot_keyframe_kit](https://github.com/Stanford-TML/robot_keyframe_kit) - Create motion for any robot through editing keyframe
 - [NVlabs/curobo](https://github.com/NVlabs/curobo) - CUDA Accelerated Robot Library
 - [projectchrono/chrono](https://github.com/projectchrono/chrono) - High-performance C++ library for multiphysics and multibody dynamics simulations
 - [A2R-Lab/TinySDP](https://github.com/A2R-Lab/TinySDP) - Real-time semidefinite optimization for embedded robotics, RSS 2026
