@@ -84,6 +84,8 @@
 
 ## C++ 
 
+- [ShuoYangRobotics/Cerberus](https://github.com/ShuoYangRobotics/Cerberus) - Visual-Inertial-Leg Odometry For Legged Robots
+- [leggedrobotics/perceptive_mpc](https://github.com/leggedrobotics/perceptive_mpc) - Code for "Perceptive Model Predictive Control for Continuous Mobile Manipulation"
 - [Genesis-Embodied-AI/quadrants](https://github.com/Genesis-Embodied-AI/quadrants) - High-performance multi-platform compiler for physics simulation
 - [NVlabs/nvdiffrast](https://github.com/NVlabs/nvdiffrast) - Nvdiffrast - Modular Primitives for High-Performance Differentiable Rendering
 - [sofa-framework/sofa](https://github.com/sofa-framework/sofa) - Real-time multi-physics simulation with an emphasis on medical simulation.
@@ -534,6 +536,7 @@
 
 ## Jupyter Notebook 
 
+- [megapose6d/megapose6d](https://github.com/megapose6d/megapose6d) - Code for "MegaPose: 6D Pose Estimation of Novel Objects via Render & Compare", CoRL 2022.
 - [based-robotics/mujoco-sysid](https://github.com/based-robotics/mujoco-sysid) - System identification with MuJoCo
 - [IDEA-Research/DAB-DETR](https://github.com/IDEA-Research/DAB-DETR) - [ICLR 2022] Official implementation of the paper "DAB-DETR: Dynamic Anchor Boxes are Better Queries for DETR"
 - [ChaoningZhang/MobileSAM](https://github.com/ChaoningZhang/MobileSAM) - This is the official code for MobileSAM project that makes SAM lightweight for mobile applications and beyond!
@@ -619,6 +622,7 @@
 
 ## Others 
 
+- [CNJianLiu/Awesome-Object-Pose-Estimation](https://github.com/CNJianLiu/Awesome-Object-Pose-Estimation) - [IJCV 2026] Project Page for "Deep Learning-Based Object Pose Estimation: A Comprehensive Survey".
 - [jc-bao/awesome-mujoco](https://github.com/jc-bao/awesome-mujoco) - A collection of awesome projects using MuJoCo.
 - [IDEA-Research/awesome-detection-transformer](https://github.com/IDEA-Research/awesome-detection-transformer) - Collect some papers about transformer for detection and segmentation. Awesome Detection Transformer for Computer Vision (CV)
 - [huangjund/awesome-UMI-Papers](https://github.com/huangjund/awesome-UMI-Papers) - A curated list of Universal Manipulation Interface (UMI) and UMI-style papers, datasets, code, and hardware for robot-free manipulation demonstrations and robot policy learning.
@@ -732,6 +736,15 @@
 
 ## Python 
 
+- [NVlabs/CenterPose](https://github.com/NVlabs/CenterPose) - Single-Stage Keypoint-based Category-level Object Pose Estimation from an RGB Image (ICRA 2022)
+- [nv-nguyen/cnos](https://github.com/nv-nguyen/cnos) - [ICCV 2023 R6D] PyTorch implementation of CNOS: A Strong Baseline for CAD-based Novel Object Segmentation based on Segmenting Anything and DINOv2
+- [NVlabs/BundleSDF](https://github.com/NVlabs/BundleSDF) - [CVPR 2023] BundleSDF: Neural 6-DoF Tracking and 3D Reconstruction of Unknown Objects
+- [Totoro97/NeuS](https://github.com/Totoro97/NeuS) - Code release for NeuS
+- [TencentARC/GFPGAN](https://github.com/TencentARC/GFPGAN) - GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration.
+- [TencentARC/InstantMesh](https://github.com/TencentARC/InstantMesh) - InstantMesh: Efficient 3D Mesh Generation from a Single Image with Sparse-view Large Reconstruction Models
+- [ddshan/hand_object_detector](https://github.com/ddshan/hand_object_detector) - Project and dataset webpage:
+- [yzqin/dexmv-sim](https://github.com/yzqin/dexmv-sim) - DexMV: Imitation Learning for Dexterous Manipulation from Human Videos, ECCV 2022
+- [tonyzhaozh/aloha](https://github.com/tonyzhaozh/aloha) - 
 - [gbionics/adam](https://github.com/gbionics/adam) - adam implements a collection of algorithms for calculating rigid-body dynamics in Jax, CasADi, PyTorch, and Numpy.
 - [Genesis-Embodied-AI/DiffTactile](https://github.com/Genesis-Embodied-AI/DiffTactile) - [ICLR 2024] DiffTactile: A Physics-based Differentiable Tactile Simulator for Contact-rich Robotic Manipulation
 - [Improbable-AI/dexenv](https://github.com/Improbable-AI/dexenv) - Code for Visual Dexterity: In-Hand Reorientation of Novel and Complex Object Shapes (Science Robotics)
