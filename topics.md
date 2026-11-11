@@ -1128,6 +1128,7 @@
 
 ## localization 
 
+- [HKUST-Aerial-Robotics/GVINS](https://github.com/HKUST-Aerial-Robotics/GVINS) - Tightly coupled GNSS-Visual-Inertial system for locally smooth and globally consistent state estimation in complex environment.
 - [MIT-SPARK/Kimera-VIO](https://github.com/MIT-SPARK/Kimera-VIO) - Visual Inertial Odometry with SLAM capabilities and 3D Mesh generation.
 - [TUMFTM/FAR-LIO](https://github.com/TUMFTM/FAR-LIO) - A highly efficient, CUDA-accelerated framework for Fast, Accurate, and Robust LiDAR-Inertial Odometry.
 - [weisongwen/UrbanLoco](https://github.com/weisongwen/UrbanLoco) - UrbanLoco: A Full Sensor Suite Dataset for Mapping and Localization in Urban Scenes
@@ -1377,6 +1378,26 @@
 
 ## others 
 
+- [heyuanYao-pku/Control-VAE](https://github.com/heyuanYao-pku/Control-VAE) - 
+- [leggedrobotics/robotic_world_model](https://github.com/leggedrobotics/robotic_world_model) - Repository for our papers: Robotic World Model: A Neural Network Simulator for Robust Policy Optimization in Robotics and Uncertainty-Aware Robotic World Model Makes Offline Model-Based Reinforcement 
+- [HybridRobotics/supermimic](https://github.com/HybridRobotics/supermimic) - Humanoid whole-body motion tracking with one differentiable world model.
+- [shaoyifei96/Symskill](https://github.com/shaoyifei96/Symskill) - SymSkill: Symbol and Skill Co-Invention for Data-Efficient and Real-Time Long-Horizon Manipulation
+- [HumanNOVA/HumanNOVA](https://github.com/HumanNOVA/HumanNOVA) - HumanNOVA: Photorealistic, Universal and Rapid 3D Human Avatar Modeling from a Single Image (CVPR 2026 Highlight)
+- [Xinyu-Yi/TransPose](https://github.com/Xinyu-Yi/TransPose) - A real-time motion capture system that estimates poses and global translations using only 6 inertial measurement units
+- [HKUST-Aerial-Robotics/FALCON](https://github.com/HKUST-Aerial-Robotics/FALCON) - [T-RO 2024] FALCON: Fast Autonomous Aerial Exploration using Coverage Path Guidance.
+- [HKUST-Aerial-Robotics/Fast-Planner](https://github.com/HKUST-Aerial-Robotics/Fast-Planner) - A Robust and Efficient Trajectory Planner for Quadrotors
+- [HKUST-Aerial-Robotics/VINS-Mono](https://github.com/HKUST-Aerial-Robotics/VINS-Mono) - A Robust and Versatile Monocular Visual-Inertial State Estimator
+- [HKUST-Aerial-Robotics/ESVO](https://github.com/HKUST-Aerial-Robotics/ESVO) - This repository maintains the implementation of "Event-based Stereo Visual Odometry".
+- [NAIL-HNU/ESVO2](https://github.com/NAIL-HNU/ESVO2) - 
+- [HKUST-Aerial-Robotics/FUEL](https://github.com/HKUST-Aerial-Robotics/FUEL) - An Efficient Framework for Fast UAV Exploration
+- [HKUST-Aerial-Robotics/A-LOAM](https://github.com/HKUST-Aerial-Robotics/A-LOAM) - Advanced implementation of LOAM
+- [HKUST-Aerial-Robotics/OmniNxt](https://github.com/HKUST-Aerial-Robotics/OmniNxt) - [IROS'24 Oral] A Fully Open-source and Compact Aerial Robot with Omnidirectional Visual Perception
+- [HKUST-Aerial-Robotics/VINS-Fusion](https://github.com/HKUST-Aerial-Robotics/VINS-Fusion) - An optimization-based multi-sensor state estimator
+- [tofis/democap](https://github.com/tofis/democap) - Official implementation of "DeMoCap: Low-cost Marker-based Motion Capture" method.
+- [jiyewise/MocapEvery](https://github.com/jiyewise/MocapEvery) - Author's implementation of the paper Mocap Everyone Everywhere: Lightweight Motion Capture With Smartwatches and a Head-Mounted Camera (CVPR 2024)
+- [KumarRobotics/msckf_vio](https://github.com/KumarRobotics/msckf_vio) - Robust Stereo Visual Inertial Odometry for Fast Autonomous Flight
+- [ShuoYangRobotics/Cerberus2.0](https://github.com/ShuoYangRobotics/Cerberus2.0) - A precise low-drift Visual-Inertial-Leg Odometry for legged robots
+- [nubot-nudt/LAG-IO](https://github.com/nubot-nudt/LAG-IO) - [IROS 2026]LAG-IO: Multi-IMU State Estimation for Legged Robots Using Factor Graphs
 - [ShuoYangRobotics/Cerberus](https://github.com/ShuoYangRobotics/Cerberus) - Visual-Inertial-Leg Odometry For Legged Robots
 - [leggedrobotics/perceptive_mpc](https://github.com/leggedrobotics/perceptive_mpc) - Code for "Perceptive Model Predictive Control for Continuous Mobile Manipulation"
 - [megapose6d/megapose6d](https://github.com/megapose6d/megapose6d) - Code for "MegaPose: 6D Pose Estimation of Novel Objects via Render & Compare", CoRL 2022.
@@ -1456,7 +1477,7 @@
 - [Novaxis-Robot-Group/navigation-agent](https://github.com/Novaxis-Robot-Group/navigation-agent) - 
 - [sjtuyinjie/Ultra-Fusion](https://github.com/sjtuyinjie/Ultra-Fusion) - Ultra-Fusion: A Resilient Tightly-Coupled Multi-Sensor Fusion SLAM Framework under Sensor Degradation and Spatiotemporal Perturbation
 - [facebookresearch/GeoRT](https://github.com/facebookresearch/GeoRT) - Geometric Retargeting A Principled, Ultrafast Neural Hand Retargeting Algorithm
-- [CuboiLeo/SuperMimic-Reproduced](https://github.com/CuboiLeo/SuperMimic-Reproduced) - Reproduction of SuperMimic (arXiv:2610.28480): learned differentiable world model + BPTT policy for G1 humanoid motion tracking, on mjlab/MuJoCo Warp
+- [CuboiLeo/SuperMimic-Reproduced](https://github.com/CuboiLeo/SuperMimic-Reproduced) - Independent reproduction of SuperMimic (arXiv:2610.28480) on mjlab/MuJoCo Warp, written from the paper before the official release. For the authors' code see HybridRobotics/supermimic. Kept as a recor
 - [windsting/a-tour-of-cpp-2nd-cn](https://github.com/windsting/a-tour-of-cpp-2nd-cn) - A Tour of C++ (Second Edition) non-official Chinese Translation
 - [beltransen/velo2cam_calibration](https://github.com/beltransen/velo2cam_calibration) - Automatic Extrinsic Calibration Method for LiDAR and Camera Sensor Setups. ROS Package.
 - [KennyWGH/VINS-Fusion-Understood](https://github.com/KennyWGH/VINS-Fusion-Understood) - 完全可理解的VINS-Fusion：1.代码风格重构、2.全量靠谱注释、3.代码即文档、4.忠实于原代码；5.ROS解耦、6.状态量可视化、7.日志系统。
