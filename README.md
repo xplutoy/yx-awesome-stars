@@ -84,6 +84,19 @@
 
 ## C++ 
 
+- [heyuanYao-pku/Control-VAE](https://github.com/heyuanYao-pku/Control-VAE) - 
+- [HKUST-Aerial-Robotics/FALCON](https://github.com/HKUST-Aerial-Robotics/FALCON) - [T-RO 2024] FALCON: Fast Autonomous Aerial Exploration using Coverage Path Guidance.
+- [HKUST-Aerial-Robotics/Fast-Planner](https://github.com/HKUST-Aerial-Robotics/Fast-Planner) - A Robust and Efficient Trajectory Planner for Quadrotors
+- [HKUST-Aerial-Robotics/VINS-Mono](https://github.com/HKUST-Aerial-Robotics/VINS-Mono) - A Robust and Versatile Monocular Visual-Inertial State Estimator
+- [HKUST-Aerial-Robotics/GVINS](https://github.com/HKUST-Aerial-Robotics/GVINS) - Tightly coupled GNSS-Visual-Inertial system for locally smooth and globally consistent state estimation in complex environment.
+- [HKUST-Aerial-Robotics/ESVO](https://github.com/HKUST-Aerial-Robotics/ESVO) - This repository maintains the implementation of "Event-based Stereo Visual Odometry".
+- [NAIL-HNU/ESVO2](https://github.com/NAIL-HNU/ESVO2) - 
+- [HKUST-Aerial-Robotics/FUEL](https://github.com/HKUST-Aerial-Robotics/FUEL) - An Efficient Framework for Fast UAV Exploration
+- [HKUST-Aerial-Robotics/A-LOAM](https://github.com/HKUST-Aerial-Robotics/A-LOAM) - Advanced implementation of LOAM
+- [HKUST-Aerial-Robotics/VINS-Fusion](https://github.com/HKUST-Aerial-Robotics/VINS-Fusion) - An optimization-based multi-sensor state estimator
+- [KumarRobotics/msckf_vio](https://github.com/KumarRobotics/msckf_vio) - Robust Stereo Visual Inertial Odometry for Fast Autonomous Flight
+- [ShuoYangRobotics/Cerberus2.0](https://github.com/ShuoYangRobotics/Cerberus2.0) - A precise low-drift Visual-Inertial-Leg Odometry for legged robots
+- [nubot-nudt/LAG-IO](https://github.com/nubot-nudt/LAG-IO) - [IROS 2026]LAG-IO: Multi-IMU State Estimation for Legged Robots Using Factor Graphs
 - [ShuoYangRobotics/Cerberus](https://github.com/ShuoYangRobotics/Cerberus) - Visual-Inertial-Leg Odometry For Legged Robots
 - [leggedrobotics/perceptive_mpc](https://github.com/leggedrobotics/perceptive_mpc) - Code for "Perceptive Model Predictive Control for Continuous Mobile Manipulation"
 - [Genesis-Embodied-AI/quadrants](https://github.com/Genesis-Embodied-AI/quadrants) - High-performance multi-platform compiler for physics simulation
@@ -622,6 +635,7 @@
 
 ## Others 
 
+- [HKUST-Aerial-Robotics/OmniNxt](https://github.com/HKUST-Aerial-Robotics/OmniNxt) - [IROS'24 Oral] A Fully Open-source and Compact Aerial Robot with Omnidirectional Visual Perception
 - [CNJianLiu/Awesome-Object-Pose-Estimation](https://github.com/CNJianLiu/Awesome-Object-Pose-Estimation) - [IJCV 2026] Project Page for "Deep Learning-Based Object Pose Estimation: A Comprehensive Survey".
 - [jc-bao/awesome-mujoco](https://github.com/jc-bao/awesome-mujoco) - A collection of awesome projects using MuJoCo.
 - [IDEA-Research/awesome-detection-transformer](https://github.com/IDEA-Research/awesome-detection-transformer) - Collect some papers about transformer for detection and segmentation. Awesome Detection Transformer for Computer Vision (CV)
@@ -637,7 +651,6 @@
 - [Denghaoyuan123/Awesome-RL-VLA](https://github.com/Denghaoyuan123/Awesome-RL-VLA) - A Survey on Reinforcement Learning of Vision-Language-Action Models for Robotic Manipulation
 - [purdue-tracelab/Humanoid-Locomotion-Survey](https://github.com/purdue-tracelab/Humanoid-Locomotion-Survey) - Companion repository for "Evolution of Humanoid Locomotion Control" in Science Robotics (2026)
 - [Roboparty/MimicLite](https://github.com/Roboparty/MimicLite) - 
-- [Roboparty/Party_OS](https://github.com/Roboparty/Party_OS) - A Humanoid System build by RoboParty_Lab
 - [SXDR/PanoMMOcc](https://github.com/SXDR/PanoMMOcc) - 
 - [OpenDriveLab/End-to-end-Autonomous-Driving](https://github.com/OpenDriveLab/End-to-end-Autonomous-Driving) - [IEEE T-PAMI 2024] All you need for End-to-end Autonomous Driving
 - [zya3d/Awesome-3D-Occupancy-Prediction](https://github.com/zya3d/Awesome-3D-Occupancy-Prediction) - Vision-based 3D occupancy prediction in autonomous driving: a review and outlook
@@ -736,6 +749,13 @@
 
 ## Python 
 
+- [leggedrobotics/robotic_world_model](https://github.com/leggedrobotics/robotic_world_model) - Repository for our papers: Robotic World Model: A Neural Network Simulator for Robust Policy Optimization in Robotics and Uncertainty-Aware Robotic World Model Makes Offline Model-Based Reinforcement 
+- [HybridRobotics/supermimic](https://github.com/HybridRobotics/supermimic) - Humanoid whole-body motion tracking with one differentiable world model.
+- [shaoyifei96/Symskill](https://github.com/shaoyifei96/Symskill) - SymSkill: Symbol and Skill Co-Invention for Data-Efficient and Real-Time Long-Horizon Manipulation
+- [HumanNOVA/HumanNOVA](https://github.com/HumanNOVA/HumanNOVA) - HumanNOVA: Photorealistic, Universal and Rapid 3D Human Avatar Modeling from a Single Image (CVPR 2026 Highlight)
+- [Xinyu-Yi/TransPose](https://github.com/Xinyu-Yi/TransPose) - A real-time motion capture system that estimates poses and global translations using only 6 inertial measurement units
+- [tofis/democap](https://github.com/tofis/democap) - Official implementation of "DeMoCap: Low-cost Marker-based Motion Capture" method.
+- [jiyewise/MocapEvery](https://github.com/jiyewise/MocapEvery) - Author's implementation of the paper Mocap Everyone Everywhere: Lightweight Motion Capture With Smartwatches and a Head-Mounted Camera (CVPR 2024)
 - [NVlabs/CenterPose](https://github.com/NVlabs/CenterPose) - Single-Stage Keypoint-based Category-level Object Pose Estimation from an RGB Image (ICRA 2022)
 - [nv-nguyen/cnos](https://github.com/nv-nguyen/cnos) - [ICCV 2023 R6D] PyTorch implementation of CNOS: A Strong Baseline for CAD-based Novel Object Segmentation based on Segmenting Anything and DINOv2
 - [NVlabs/BundleSDF](https://github.com/NVlabs/BundleSDF) - [CVPR 2023] BundleSDF: Neural 6-DoF Tracking and 3D Reconstruction of Unknown Objects
@@ -798,7 +818,7 @@
 - [haozhang04/LeggedSkillDeploy](https://github.com/haozhang04/LeggedSkillDeploy) - A deployment framework for reinforcement learning-based motion control of legged robots, covering bipedal, quadrupedal, wheeled-bipedal, and wheeled-quadrupedal robots.
 - [Zhengtianjin/go2-supermimic](https://github.com/Zhengtianjin/go2-supermimic) - 
 - [Novaxis-Robot-Group/navigation-agent](https://github.com/Novaxis-Robot-Group/navigation-agent) - 
-- [CuboiLeo/SuperMimic-Reproduced](https://github.com/CuboiLeo/SuperMimic-Reproduced) - Reproduction of SuperMimic (arXiv:2610.28480): learned differentiable world model + BPTT policy for G1 humanoid motion tracking, on mjlab/MuJoCo Warp
+- [CuboiLeo/SuperMimic-Reproduced](https://github.com/CuboiLeo/SuperMimic-Reproduced) - Independent reproduction of SuperMimic (arXiv:2610.28480) on mjlab/MuJoCo Warp, written from the paper before the official release. For the authors' code see HybridRobotics/supermimic. Kept as a recor
 - [windsting/a-tour-of-cpp-2nd-cn](https://github.com/windsting/a-tour-of-cpp-2nd-cn) - A Tour of C++ (Second Edition) non-official Chinese Translation
 - [RoboDojo-Benchmark/RoboDojo](https://github.com/RoboDojo-Benchmark/RoboDojo) - Official repository for RoboDojo
 - [starVLA/starVLA](https://github.com/starVLA/starVLA) - StarVLA: A Lego-like Codebase for Vision-Language-Action Model Developing
@@ -822,6 +842,7 @@
 - [megvii-research/PETR](https://github.com/megvii-research/PETR) - [ECCV2022] PETR: Position Embedding Transformation for Multi-View 3D Object Detection & [ICCV2023] PETRv2: A Unified Framework for 3D Perception from Multi-Camera Images
 - [Roboparty/UFO](https://github.com/Roboparty/UFO) - An open-source unsupervised RL framework for humanoid control with FB/TeCH training, robot-aware motion import, and real-world teleoperation.
 - [Roboparty/human-humanoid-tools](https://github.com/Roboparty/human-humanoid-tools) - 
+- [Roboparty/Party_OS](https://github.com/Roboparty/Party_OS) - A Humanoid System build by RoboParty_Lab
 - [wzzheng/OccWorld](https://github.com/wzzheng/OccWorld) - [ECCV 2024] 3D World Model for Autonomous Driving
 - [huang-yh/GaussianFormer](https://github.com/huang-yh/GaussianFormer) - [ECCV 2024] Scene as Gaussians for Vision-Based 3D Semantic Occupancy Prediction
 - [mit-han-lab/lpd](https://github.com/mit-han-lab/lpd) - [ICLR 2026 Oral] Locality-aware Parallel Decoding for Efficient Autoregressive Image Generation
