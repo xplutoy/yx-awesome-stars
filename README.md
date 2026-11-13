@@ -60,6 +60,7 @@
 
 ## C 
 
+- [darnstrom/daqp](https://github.com/darnstrom/daqp) - A dual active-set algorithm for convex quadratic programming
 - [rombrew/phobia](https://github.com/rombrew/phobia) - Phobia Motor Controller
 - [facebookresearch/GeoRT](https://github.com/facebookresearch/GeoRT) - Geometric Retargeting A Principled, Ultrafast Neural Hand Retargeting Algorithm
 - [xuankuzcr/LIV_handhold](https://github.com/xuankuzcr/LIV_handhold) - Hardware-synchronized device for FAST-LIVO (Handheld & UAV).
@@ -84,6 +85,10 @@
 
 ## C++ 
 
+- [qgis/QGIS](https://github.com/qgis/QGIS) - QGIS is a free, open source, cross platform (lin/win/mac) geographical information system (GIS)
+- [PREDICT-EPFL/polympc](https://github.com/PREDICT-EPFL/polympc) - Light-weight C++ library for fast embedded nonlinear optimisation and optimal control
+- [PREDICT-EPFL/piqp](https://github.com/PREDICT-EPFL/piqp) - A Proximal Interior Point Quadratic Programming solver
+- [tksuoran/erhe](https://github.com/tksuoran/erhe) - erhe is a C++ library and editor for 3D graphics with a graphics API abstraction loosely modeled after Vulkan and Metal, with backends for OpenGL, Metal and Vulkan
 - [ocornut/imgui](https://github.com/ocornut/imgui) - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
 - [heyuanYao-pku/Control-VAE](https://github.com/heyuanYao-pku/Control-VAE) - 
 - [HKUST-Aerial-Robotics/FALCON](https://github.com/HKUST-Aerial-Robotics/FALCON) - [T-RO 2024] FALCON: Fast Autonomous Aerial Exploration using Coverage Path Guidance.
@@ -636,6 +641,8 @@
 
 ## Others 
 
+- [Yuxing-Wang-THU/SurveyBrainBody](https://github.com/Yuxing-Wang-THU/SurveyBrainBody) - Embodied Co-Design for Rapidly Evolving Agents: Taxonomy, Frontiers, and Challenges
+- [singhaman1750/stoch3-design](https://github.com/singhaman1750/stoch3-design) - design files for stoch3 quadruped robot
 - [HKUST-Aerial-Robotics/OmniNxt](https://github.com/HKUST-Aerial-Robotics/OmniNxt) - [IROS'24 Oral] A Fully Open-source and Compact Aerial Robot with Omnidirectional Visual Perception
 - [CNJianLiu/Awesome-Object-Pose-Estimation](https://github.com/CNJianLiu/Awesome-Object-Pose-Estimation) - [IJCV 2026] Project Page for "Deep Learning-Based Object Pose Estimation: A Comprehensive Survey".
 - [jc-bao/awesome-mujoco](https://github.com/jc-bao/awesome-mujoco) - A collection of awesome projects using MuJoCo.
@@ -750,6 +757,9 @@
 
 ## Python 
 
+- [Renforce-Dynamics/trackerlab-supermimic](https://github.com/Renforce-Dynamics/trackerlab-supermimic) - TrackerLab SuperMimic: G1 data processing, IsaacLab/PhysX training, evaluation and policy export
+- [StanfordASL/oscbf](https://github.com/StanfordASL/oscbf) - Safe, high-performance, and task-consistent manipulator control
+- [StanfordASL/frax](https://github.com/StanfordASL/frax) - Fast Robot Kinematics and Dynamics in JAX
 - [leggedrobotics/robotic_world_model](https://github.com/leggedrobotics/robotic_world_model) - Repository for our papers: Robotic World Model: A Neural Network Simulator for Robust Policy Optimization in Robotics and Uncertainty-Aware Robotic World Model Makes Offline Model-Based Reinforcement 
 - [HybridRobotics/supermimic](https://github.com/HybridRobotics/supermimic) - Humanoid whole-body motion tracking with one differentiable world model.
 - [shaoyifei96/Symskill](https://github.com/shaoyifei96/Symskill) - SymSkill: Symbol and Skill Co-Invention for Data-Efficient and Real-Time Long-Horizon Manipulation
