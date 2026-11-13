@@ -188,6 +188,7 @@
 
 ## agent 
 
+- [Yuxing-Wang-THU/SurveyBrainBody](https://github.com/Yuxing-Wang-THU/SurveyBrainBody) - Embodied Co-Design for Rapidly Evolving Agents: Taxonomy, Frontiers, and Challenges
 - [bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book) - 《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码
 - [unslothai/unsloth](https://github.com/unslothai/unsloth) - Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, DeepSeek-V4.1, MiniMax-H3, Gemma 4, FLUX and more.
 - [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) - Build and run agents you can see, understand and trust.
@@ -399,6 +400,7 @@
 
 ## c 
 
+- [PREDICT-EPFL/piqp](https://github.com/PREDICT-EPFL/piqp) - A Proximal Interior Point Quadratic Programming solver
 - [vim/vim](https://github.com/vim/vim) - The official Vim repository
 - [xmake-io/xmake](https://github.com/xmake-io/xmake) - 🔥 A cross-platform build utility based on Lua
 
@@ -580,6 +582,7 @@
 
 ## cpp 
 
+- [PREDICT-EPFL/piqp](https://github.com/PREDICT-EPFL/piqp) - A Proximal Interior Point Quadratic Programming solver
 - [sofa-framework/sofa](https://github.com/sofa-framework/sofa) - Real-time multi-physics simulation with an emphasis on medical simulation.
 - [Simple-Robotics/proxsuite](https://github.com/Simple-Robotics/proxsuite) - The Advanced Proximal Optimization Toolbox
 - [yyyy231209/zero-copy-vpu-gpu-rga-stitch](https://github.com/yyyy231209/zero-copy-vpu-gpu-rga-stitch) - Zero-copy four-camera real-time panorama stitching on Rockchip RK3588: VPU(MPP) hardware decode -&gt; Mali GPU OpenCL warp -&gt; RGA blend, DMA-BUF zero-copy
@@ -1387,12 +1390,20 @@
 
 ## opengl 
 
+- [tksuoran/erhe](https://github.com/tksuoran/erhe) - erhe is a C++ library and editor for 3D graphics with a graphics API abstraction loosely modeled after Vulkan and Metal, with backends for OpenGL, Metal and Vulkan
 - [Nadrin/PBR](https://github.com/Nadrin/PBR) - An implementation of physically based shading & image based lighting in D3D11, D3D12, Vulkan, and OpenGL 4.
 - [google/filament](https://github.com/google/filament) - Filament is a real-time physically based rendering engine for Android, iOS, Windows, Linux, macOS, WebGPU, and WebGL2
 - [ssloy/tinyraycaster](https://github.com/ssloy/tinyraycaster) - 486 lines of C++: old-school FPS in a weekend
 
 ## others 
 
+- [Renforce-Dynamics/trackerlab-supermimic](https://github.com/Renforce-Dynamics/trackerlab-supermimic) - TrackerLab SuperMimic: G1 data processing, IsaacLab/PhysX training, evaluation and policy export
+- [qgis/QGIS](https://github.com/qgis/QGIS) - QGIS is a free, open source, cross platform (lin/win/mac) geographical information system (GIS)
+- [singhaman1750/stoch3-design](https://github.com/singhaman1750/stoch3-design) - design files for stoch3 quadruped robot
+- [darnstrom/daqp](https://github.com/darnstrom/daqp) - A dual active-set algorithm for convex quadratic programming
+- [PREDICT-EPFL/polympc](https://github.com/PREDICT-EPFL/polympc) - Light-weight C++ library for fast embedded nonlinear optimisation and optimal control
+- [StanfordASL/oscbf](https://github.com/StanfordASL/oscbf) - Safe, high-performance, and task-consistent manipulator control
+- [StanfordASL/frax](https://github.com/StanfordASL/frax) - Fast Robot Kinematics and Dynamics in JAX
 - [heyuanYao-pku/Control-VAE](https://github.com/heyuanYao-pku/Control-VAE) - 
 - [leggedrobotics/robotic_world_model](https://github.com/leggedrobotics/robotic_world_model) - Repository for our papers: Robotic World Model: A Neural Network Simulator for Robust Policy Optimization in Robotics and Uncertainty-Aware Robotic World Model Makes Offline Model-Based Reinforcement 
 - [HybridRobotics/supermimic](https://github.com/HybridRobotics/supermimic) - Humanoid whole-body motion tracking with one differentiable world model.
@@ -2030,6 +2041,7 @@
 
 ## python 
 
+- [PREDICT-EPFL/piqp](https://github.com/PREDICT-EPFL/piqp) - A Proximal Interior Point Quadratic Programming solver
 - [gbionics/adam](https://github.com/gbionics/adam) - adam implements a collection of algorithms for calculating rigid-body dynamics in Jax, CasADi, PyTorch, and Numpy.
 - [Genesis-Embodied-AI/quadrants](https://github.com/Genesis-Embodied-AI/quadrants) - High-performance multi-platform compiler for physics simulation
 - [NVlabs/SOMA-X](https://github.com/NVlabs/SOMA-X) - SOMA: Unifying Parametric Human Body Models
@@ -2208,6 +2220,7 @@
 
 ## robotics 
 
+- [Yuxing-Wang-THU/SurveyBrainBody](https://github.com/Yuxing-Wang-THU/SurveyBrainBody) - Embodied Co-Design for Rapidly Evolving Agents: Taxonomy, Frontiers, and Challenges
 - [gbionics/adam](https://github.com/gbionics/adam) - adam implements a collection of algorithms for calculating rigid-body dynamics in Jax, CasADi, PyTorch, and Numpy.
 - [Stanford-TML/robot_keyframe_kit](https://github.com/Stanford-TML/robot_keyframe_kit) - Create motion for any robot through editing keyframe
 - [NVlabs/curobo](https://github.com/NVlabs/curobo) - CUDA Accelerated Robot Library
