@@ -540,6 +540,7 @@
 
 ## computer-vision 
 
+- [leggedrobotics/wild_visual_navigation](https://github.com/leggedrobotics/wild_visual_navigation) - Wild Visual Navigation: A system for fast traversability learning via pre-trained models and online self-supervision
 - [NVlabs/VoxFormer](https://github.com/NVlabs/VoxFormer) - Official PyTorch implementation of VoxFormer [CVPR 2023 Highlight]
 - [NVlabs/neuralangelo](https://github.com/NVlabs/neuralangelo) - Official implementation of "Neuralangelo: High-Fidelity Neural Surface Reconstruction" (CVPR 2023)
 - [NVlabs/instant-ngp](https://github.com/NVlabs/instant-ngp) - Instant neural graphics primitives: lightning fast NeRF and more
@@ -1178,6 +1179,7 @@
 
 ## machine-learning 
 
+- [leggedrobotics/wild_visual_navigation](https://github.com/leggedrobotics/wild_visual_navigation) - Wild Visual Navigation: A system for fast traversability learning via pre-trained models and online self-supervision
 - [NVlabs/VoxFormer](https://github.com/NVlabs/VoxFormer) - Official PyTorch implementation of VoxFormer [CVPR 2023 Highlight]
 - [NVlabs/instant-ngp](https://github.com/NVlabs/instant-ngp) - Instant neural graphics primitives: lightning fast NeRF and more
 - [jslee02/awesome-robotics-libraries](https://github.com/jslee02/awesome-robotics-libraries) - :sunglasses: A curated list of robotics libraries and software
@@ -1403,6 +1405,14 @@
 
 ## others 
 
+- [escontra/gauss_gym](https://github.com/escontra/gauss_gym) - 
+- [CzzzzH/Vid2Sim](https://github.com/CzzzzH/Vid2Sim) - [CVPR 2025] Vid2Sim: Generalizable, Video-based Reconstruction of Appearance, Geometry and Physics for Mesh-free Simulation
+- [0nandon/EmbodiedSplat](https://github.com/0nandon/EmbodiedSplat) - [CVPR 2026] Official code of "EmbodiedSplat: Online Feed-Forward Semantic 3DGS for Open-Vocabulary 3D Scene Understanding"
+- [uynitsuj/real2render2real](https://github.com/uynitsuj/real2render2real) - [CoRL 2025] Real2Render2Real: Scaling Robot Data Without Dynamics Simulation or Robot Hardware
+- [nico-bohlinger/one_policy_to_run_them_all](https://github.com/nico-bohlinger/one_policy_to_run_them_all) - 
+- [Gepetto/constraints-as-terminations](https://github.com/Gepetto/constraints-as-terminations) - Integrating Constraints in PPO (using Isaac Gym or Isaac Lab)
+- [RethinkRobotics-opensource/sns_ik](https://github.com/RethinkRobotics-opensource/sns_ik) - Saturation in the Null Space (SNS) Inverse Kinematic Library
+- [uwgraphics/relaxed_ik](https://github.com/uwgraphics/relaxed_ik) - RelaxedIK Solver
 - [odriverobotics/ODrive](https://github.com/odriverobotics/ODrive) - High performance motor control
 - [Renforce-Dynamics/trackerlab-supermimic](https://github.com/Renforce-Dynamics/trackerlab-supermimic) - TrackerLab SuperMimic: G1 data processing, IsaacLab/PhysX training, evaluation and policy export
 - [qgis/QGIS](https://github.com/qgis/QGIS) - QGIS is a free, open source, cross platform (lin/win/mac) geographical information system (GIS)
@@ -2227,6 +2237,8 @@
 
 ## robotics 
 
+- [intuitive-robots/beso](https://github.com/intuitive-robots/beso) - [RSS 2023] Official code for "Goal Conditioned Imitation Learning using Score-based Diffusion Policies"
+- [leggedrobotics/wild_visual_navigation](https://github.com/leggedrobotics/wild_visual_navigation) - Wild Visual Navigation: A system for fast traversability learning via pre-trained models and online self-supervision
 - [Yuxing-Wang-THU/SurveyBrainBody](https://github.com/Yuxing-Wang-THU/SurveyBrainBody) - Embodied Co-Design for Rapidly Evolving Agents: Taxonomy, Frontiers, and Challenges
 - [gbionics/adam](https://github.com/gbionics/adam) - adam implements a collection of algorithms for calculating rigid-body dynamics in Jax, CasADi, PyTorch, and Numpy.
 - [Stanford-TML/robot_keyframe_kit](https://github.com/Stanford-TML/robot_keyframe_kit) - Create motion for any robot through editing keyframe
