@@ -85,6 +85,7 @@
 
 ## C++ 
 
+- [RethinkRobotics-opensource/sns_ik](https://github.com/RethinkRobotics-opensource/sns_ik) - Saturation in the Null Space (SNS) Inverse Kinematic Library
 - [odriverobotics/ODrive](https://github.com/odriverobotics/ODrive) - High performance motor control
 - [qgis/QGIS](https://github.com/qgis/QGIS) - QGIS is a free, open source, cross platform (lin/win/mac) geographical information system (GIS)
 - [PREDICT-EPFL/polympc](https://github.com/PREDICT-EPFL/polympc) - Light-weight C++ library for fast embedded nonlinear optimisation and optimal control
@@ -758,6 +759,15 @@
 
 ## Python 
 
+- [intuitive-robots/beso](https://github.com/intuitive-robots/beso) - [RSS 2023] Official code for "Goal Conditioned Imitation Learning using Score-based Diffusion Policies"
+- [leggedrobotics/wild_visual_navigation](https://github.com/leggedrobotics/wild_visual_navigation) - Wild Visual Navigation: A system for fast traversability learning via pre-trained models and online self-supervision
+- [escontra/gauss_gym](https://github.com/escontra/gauss_gym) - 
+- [CzzzzH/Vid2Sim](https://github.com/CzzzzH/Vid2Sim) - [CVPR 2025] Vid2Sim: Generalizable, Video-based Reconstruction of Appearance, Geometry and Physics for Mesh-free Simulation
+- [0nandon/EmbodiedSplat](https://github.com/0nandon/EmbodiedSplat) - [CVPR 2026] Official code of "EmbodiedSplat: Online Feed-Forward Semantic 3DGS for Open-Vocabulary 3D Scene Understanding"
+- [uynitsuj/real2render2real](https://github.com/uynitsuj/real2render2real) - [CoRL 2025] Real2Render2Real: Scaling Robot Data Without Dynamics Simulation or Robot Hardware
+- [nico-bohlinger/one_policy_to_run_them_all](https://github.com/nico-bohlinger/one_policy_to_run_them_all) - 
+- [Gepetto/constraints-as-terminations](https://github.com/Gepetto/constraints-as-terminations) - Integrating Constraints in PPO (using Isaac Gym or Isaac Lab)
+- [uwgraphics/relaxed_ik](https://github.com/uwgraphics/relaxed_ik) - RelaxedIK Solver
 - [Renforce-Dynamics/trackerlab-supermimic](https://github.com/Renforce-Dynamics/trackerlab-supermimic) - TrackerLab SuperMimic: G1 data processing, IsaacLab/PhysX training, evaluation and policy export
 - [StanfordASL/oscbf](https://github.com/StanfordASL/oscbf) - Safe, high-performance, and task-consistent manipulator control
 - [StanfordASL/frax](https://github.com/StanfordASL/frax) - Fast Robot Kinematics and Dynamics in JAX
