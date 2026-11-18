@@ -92,6 +92,7 @@
 - [html](#html)
 - [http](#http)
 - [image-processing](#image-processing)
+- [ios](#ios)
 - [iot](#iot)
 - [javascript](#javascript)
 - [json](#json)
@@ -291,6 +292,7 @@
 
 ## android 
 
+- [introlab/rtabmap](https://github.com/introlab/rtabmap) - RTAB-Map library and standalone application
 - [google/filament](https://github.com/google/filament) - Filament is a real-time physically based rendering engine for Android, iOS, Windows, Linux, macOS, WebGPU, and WebGL2
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 
@@ -938,6 +940,7 @@
 
 ## gamedev 
 
+- [bkaradzic/bgfx](https://github.com/bkaradzic/bgfx) - Cross-platform, graphics API agnostic, "Bring Your Own Engine/Framework" style rendering library.
 - [ocornut/imgui](https://github.com/ocornut/imgui) - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
 - [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
@@ -1033,6 +1036,10 @@
 ## image-processing 
 
 - [amusi/AI-Job-Notes](https://github.com/amusi/AI-Job-Notes) - AI算法岗求职攻略（涵盖准备攻略、刷题指南、内推和AI公司清单等资料）
+
+## ios 
+
+- [introlab/rtabmap](https://github.com/introlab/rtabmap) - RTAB-Map library and standalone application
 
 ## iot 
 
@@ -1158,6 +1165,7 @@
 
 ## localization 
 
+- [introlab/rtabmap](https://github.com/introlab/rtabmap) - RTAB-Map library and standalone application
 - [HKUST-Aerial-Robotics/GVINS](https://github.com/HKUST-Aerial-Robotics/GVINS) - Tightly coupled GNSS-Visual-Inertial system for locally smooth and globally consistent state estimation in complex environment.
 - [MIT-SPARK/Kimera-VIO](https://github.com/MIT-SPARK/Kimera-VIO) - Visual Inertial Odometry with SLAM capabilities and 3D Mesh generation.
 - [TUMFTM/FAR-LIO](https://github.com/TUMFTM/FAR-LIO) - A highly efficient, CUDA-accelerated framework for Fast, Accurate, and Robust LiDAR-Inertial Odometry.
@@ -1406,6 +1414,7 @@
 
 ## opengl 
 
+- [bkaradzic/bgfx](https://github.com/bkaradzic/bgfx) - Cross-platform, graphics API agnostic, "Bring Your Own Engine/Framework" style rendering library.
 - [tksuoran/erhe](https://github.com/tksuoran/erhe) - erhe is a C++ library and editor for 3D graphics with a graphics API abstraction loosely modeled after Vulkan and Metal, with backends for OpenGL, Metal and Vulkan
 - [Nadrin/PBR](https://github.com/Nadrin/PBR) - An implementation of physically based shading & image based lighting in D3D11, D3D12, Vulkan, and OpenGL 4.
 - [google/filament](https://github.com/google/filament) - Filament is a real-time physically based rendering engine for Android, iOS, Windows, Linux, macOS, WebGPU, and WebGL2
@@ -2247,6 +2256,7 @@
 
 ## robotics 
 
+- [introlab/rtabmap](https://github.com/introlab/rtabmap) - RTAB-Map library and standalone application
 - [intuitive-robots/beso](https://github.com/intuitive-robots/beso) - [RSS 2023] Official code for "Goal Conditioned Imitation Learning using Score-based Diffusion Policies"
 - [leggedrobotics/wild_visual_navigation](https://github.com/leggedrobotics/wild_visual_navigation) - Wild Visual Navigation: A system for fast traversability learning via pre-trained models and online self-supervision
 - [Yuxing-Wang-THU/SurveyBrainBody](https://github.com/Yuxing-Wang-THU/SurveyBrainBody) - Embodied Co-Design for Rapidly Evolving Agents: Taxonomy, Frontiers, and Challenges
