@@ -162,6 +162,7 @@
 - [skills](#skills)
 - [sql](#sql)
 - [stable-diffusion](#stable-diffusion)
+- [static-site-generator](#static-site-generator)
 - [statistics](#statistics)
 - [tensorflow](#tensorflow)
 - [terminal](#terminal)
@@ -363,6 +364,7 @@
 
 ## awesome-list 
 
+- [Ikhyeon-Cho/awesome-traversability-analysis](https://github.com/Ikhyeon-Cho/awesome-traversability-analysis) - 😎 A curated list of papers, tools, and libraries for traversability analysis and terrain classification, segmentation in robotic navigation
 - [CNJianLiu/Awesome-Object-Pose-Estimation](https://github.com/CNJianLiu/Awesome-Object-Pose-Estimation) - [IJCV 2026] Project Page for "Deep Learning-Based Object Pose Estimation: A Comprehensive Survey".
 - [dennisrotondi/awesome-3D-scene-graphs](https://github.com/dennisrotondi/awesome-3D-scene-graphs) - Awesome 3D Scene Graphs: a curated list of 3D scene graph generation and related resources! Now with a companion website to explore the literature!
 - [robot-descriptions/awesome-robot-descriptions](https://github.com/robot-descriptions/awesome-robot-descriptions) - A curated list of awesome robot descriptions (URDF, MJCF)
@@ -1360,6 +1362,7 @@
 
 ## numpy 
 
+- [cupy/cupy](https://github.com/cupy/cupy) - NumPy & SciPy for GPU
 - [gbionics/adam](https://github.com/gbionics/adam) - adam implements a collection of algorithms for calculating rigid-body dynamics in Jax, CasADi, PyTorch, and Numpy.
 - [HIPS/autograd](https://github.com/HIPS/autograd) - Efficiently computes derivatives of NumPy code.
 
@@ -1422,6 +1425,7 @@
 
 ## others 
 
+- [Core9724/Awesome-Lane-Detection](https://github.com/Core9724/Awesome-Lane-Detection) - Monocular Lane Detection Based on Deep Learning: A Survey
 - [NEU-REAL/Super4DR](https://github.com/NEU-REAL/Super4DR) - [TRO'26] Super4DR: 4D Radar-centric Self-supervised  Odometry and Gaussian-based Map Optimization
 - [NEU-REAL/EverySync-Hardware-Suite](https://github.com/NEU-REAL/EverySync-Hardware-Suite) - An Open Hardware Time Syncronization Sensor Suite
 - [leggedrobotics/grand_tour_box](https://github.com/leggedrobotics/grand_tour_box) - Drivers, software and utilities for the GrandTour Boxi sensor payload.
@@ -1833,7 +1837,6 @@
 - [karthink/consult-dir](https://github.com/karthink/consult-dir) - Insert paths into the minibuffer prompt in Emacs
 - [emacsmirror/proxy-mode](https://github.com/emacsmirror/proxy-mode) - A minor mode to toggle proxy
 - [yihui/hugo-xmin](https://github.com/yihui/hugo-xmin) - eXtremely Minimal Hugo theme: about 140 lines of code in total, including HTML and CSS (with no dependencies)
-- [tonyaldon/one.el](https://github.com/tonyaldon/one.el) - one.el a simple Static Site Generator for Emacs Lisp programmers and org-mode users.
 - [stanfordnlp/pyreft](https://github.com/stanfordnlp/pyreft) - Stanford NLP Python library for Representation Finetuning (ReFT)
 - [andrewyng/aisuite](https://github.com/andrewyng/aisuite) - Simple, unified interface to multiple Generative AI providers
 - [ssut/py-googletrans](https://github.com/ssut/py-googletrans) - (unofficial) Googletrans: Free and Unlimited Google translate API for Python. Translates totally free of charge.
@@ -2077,6 +2080,7 @@
 
 ## python 
 
+- [cupy/cupy](https://github.com/cupy/cupy) - NumPy & SciPy for GPU
 - [PREDICT-EPFL/piqp](https://github.com/PREDICT-EPFL/piqp) - A Proximal Interior Point Quadratic Programming solver
 - [gbionics/adam](https://github.com/gbionics/adam) - adam implements a collection of algorithms for calculating rigid-body dynamics in Jax, CasADi, PyTorch, and Numpy.
 - [Genesis-Embodied-AI/quadrants](https://github.com/Genesis-Embodied-AI/quadrants) - High-performance multi-platform compiler for physics simulation
@@ -2419,6 +2423,12 @@
 
 - [YangLing0818/Diffusion-Models-Papers-Survey-Taxonomy](https://github.com/YangLing0818/Diffusion-Models-Papers-Survey-Taxonomy) - Diffusion model papers, survey, and taxonomy
 - [unslothai/unsloth](https://github.com/unslothai/unsloth) - Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, DeepSeek-V4.1, MiniMax-H3, Gemma 4, FLUX and more.
+
+## static-site-generator 
+
+- [emacs-love/weblorg](https://github.com/emacs-love/weblorg) - Static Site Generator for Emacs
+- [tonyaldon/one.el](https://github.com/tonyaldon/one.el) - one.el a simple Static Site Generator for Emacs Lisp programmers and org-mode users.
+- [mkdocs/mkdocs](https://github.com/mkdocs/mkdocs) - Project documentation with Markdown.
 
 ## statistics 
 
