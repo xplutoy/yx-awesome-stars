@@ -1113,6 +1113,7 @@
 - [wyhuai/DDNM](https://github.com/wyhuai/DDNM) - [ICLR 2023 Oral] Zero-Shot Image Restoration Using Denoising Diffusion Null-Space Model
 - [BlinkDL/ChatRWKV](https://github.com/BlinkDL/ChatRWKV) - ChatRWKV is like ChatGPT but powered by RWKV (100% RNN) language model, and open source.
 - [emacs-eaf/emacs-application-framework](https://github.com/emacs-eaf/emacs-application-framework) - EAF, an extensible framework that revolutionizes the graphical capabilities of Emacs
+- [lxgw/LxgwWenKai](https://github.com/lxgw/LxgwWenKai) - An open-source Chinese font derived from Fontworks' Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。
 - [LufsX/rime](https://github.com/LufsX/rime) - Rime（中州韵）全拼与双拼的自用配置方案
 - [NeurAI-Lab/CLS-ER](https://github.com/NeurAI-Lab/CLS-ER) - The official PyTorch code for ICLR'22 Paper "Learning Fast, Learning Slow: A General Continual Learning Method based on Complementary Learning System""
 - [Continvvm/continuum](https://github.com/Continvvm/continuum) - A clean and simple data loading library for Continual Learning
@@ -1185,7 +1186,6 @@
 - [skywind3000/awesome-cheatsheets](https://github.com/skywind3000/awesome-cheatsheets) - 超级速查表 - 编程语言、框架和开发工具的速查表，单个文件包含一切你需要知道的东西 :zap:
 - [roddhjav/pass-tomb](https://github.com/roddhjav/pass-tomb) - A pass extension that helps you keep the whole tree of passwords encrypted inside a Tomb.
 - [lujun9972/emacs-document](https://github.com/lujun9972/emacs-document) - translate emacs documents to Chinese for convenient reference
-- [lxgw/LxgwWenKai](https://github.com/lxgw/LxgwWenKai) - An open-source Chinese font derived from Fontworks' Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。
 - [goreliu/zshguide](https://github.com/goreliu/zshguide) - Zsh 开发指南
 - [agkozak/zsh-z](https://github.com/agkozak/zsh-z) - Jump quickly to directories that you have visited "frecently." A native Zsh port of z.sh with added features.
 - [rupa/z](https://github.com/rupa/z) - z - jump around
