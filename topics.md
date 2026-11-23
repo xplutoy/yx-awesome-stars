@@ -1710,7 +1710,7 @@
 - [Simple-Robotics/aligator](https://github.com/Simple-Robotics/aligator) - A versatile and efficient C++ library for real-time constrained trajectory optimization
 - [Rhoban/placo](https://github.com/Rhoban/placo) - Rhoban Planning and Control
 - [aCodeDog/awesome-loco-manipulation](https://github.com/aCodeDog/awesome-loco-manipulation) - 
-- [InternRobotics/HugWBC](https://github.com/InternRobotics/HugWBC) - 
+- [Sage-PhysicalAI/HugWBC](https://github.com/Sage-PhysicalAI/HugWBC) - 
 - [HybridRobotics/whole_body_tracking](https://github.com/HybridRobotics/whole_body_tracking) - 
 - [ZhengyiLuo/PHC](https://github.com/ZhengyiLuo/PHC) - Official Implementation of the ICCV 2023 paper:  Perpetual Humanoid Control for Real-time Simulated Avatars
 - [ruanyf/weekly](https://github.com/ruanyf/weekly) - 科技爱好者周刊，每周五发布
@@ -1736,7 +1736,7 @@
 - [erincatto/box2d](https://github.com/erincatto/box2d) - Box2D is a 2D physics engine for games
 - [TeleHuman/PBHC](https://github.com/TeleHuman/PBHC) - Official Implementation of "KungfuBot: Physics-Based Humanoid Whole-Body Control for Learning Highly-Dynamic Skills"
 - [choreonoid/choreonoid](https://github.com/choreonoid/choreonoid) - An integrated graphical robotics application framework including a simulator, a motion editor, etc.
-- [InternRobotics/HoST](https://github.com/InternRobotics/HoST) - [RSS 2025 Best Systems Paper Finalist] 💐Official implementation of "Learning Humanoid Standing-up Control across Diverse Postures"
+- [Sage-PhysicalAI/HoST](https://github.com/Sage-PhysicalAI/HoST) - [RSS 2025 Best Systems Paper Finalist] 💐Official implementation of "Learning Humanoid Standing-up Control across Diverse Postures"
 - [uzh-rpg/flightmare](https://github.com/uzh-rpg/flightmare) - An Open Flexible Quadrotor Simulator
 - [loongOpen/OpenLoong-Framework](https://github.com/loongOpen/OpenLoong-Framework) - 
 - [loongOpen/OpenLoong-Dyn-Control](https://github.com/loongOpen/OpenLoong-Dyn-Control) - Whole-Body Dynamics Control Software Package for Humanoid Robots
@@ -1744,7 +1744,7 @@
 - [marianorivera/How2TrainUrVAE](https://github.com/marianorivera/How2TrainUrVAE) - How To Train Your VAE CODE
 - [erwincoumans/motion_imitation](https://github.com/erwincoumans/motion_imitation) - Code accompanying the paper "Learning Agile Robotic Locomotion Skills by Imitating Animals"
 - [josipd/torch-two-sample](https://github.com/josipd/torch-two-sample) - A PyTorch library for two-sample tests
-- [InternRobotics/HIMLoco](https://github.com/InternRobotics/HIMLoco) - Learning-based locomotion control from OpenRobotLab, including Hybrid Internal Model & H-Infinity Locomotion Control
+- [Sage-PhysicalAI/HIMLoco](https://github.com/Sage-PhysicalAI/HIMLoco) - Learning-based locomotion control from OpenRobotLab, including Hybrid Internal Model & H-Infinity Locomotion Control
 - [PRIME-RL/SimpleVLA-RL](https://github.com/PRIME-RL/SimpleVLA-RL) - [ICLR 2026] SimpleVLA-RL: Scaling VLA Training via Reinforcement Learning
 - [ethz-adrl/towr](https://github.com/ethz-adrl/towr) - A light-weight, Eigen-based C++ library for trajectory optimization for legged robots.
 - [chauby/BipedalWalkingRobots](https://github.com/chauby/BipedalWalkingRobots) - Linear Inverted Pendulum Model based bipedal walking
@@ -1772,7 +1772,7 @@
 - [ShuoYangRobotics/A1-QP-MPC-Controller](https://github.com/ShuoYangRobotics/A1-QP-MPC-Controller) - An open source implementation of MIT Cheetah 3 controllers
 - [mit-biomimetics/Cheetah-Software](https://github.com/mit-biomimetics/Cheetah-Software) - 
 - [erwincoumans/tiny-differentiable-simulator](https://github.com/erwincoumans/tiny-differentiable-simulator) - Tiny Differentiable Simulator is a header-only C++ and CUDA physics library for reinforcement learning and robotics with zero dependencies.
-- [google-deepmind/mujoco_playground](https://github.com/google-deepmind/mujoco_playground) - An open-source library for sim and real robot demos on top of MuJoCo.
+- [google-deepmind/mujoco_playground](https://github.com/google-deepmind/mujoco_playground) - An open-source library for sim and real robot demos curated by the MuJoCo team.
 - [Morakito/Real-Time-Rendering-4th-CN](https://github.com/Morakito/Real-Time-Rendering-4th-CN) - 《Real-Time Rendering 4th》 (RTR4) 中文翻译
 - [flexible-collision-library/fcl](https://github.com/flexible-collision-library/fcl) - Flexible Collision Library
 - [GuyTevet/motion-diffusion-model](https://github.com/GuyTevet/motion-diffusion-model) - The official PyTorch implementation of the paper "Human Motion Diffusion Model"
