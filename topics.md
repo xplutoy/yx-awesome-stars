@@ -665,6 +665,7 @@
 
 ## deep-learning 
 
+- [url-kaist/MambaGlue](https://github.com/url-kaist/MambaGlue) - MambaGlue: Fast and Robust Local Feature Matching With Mamba @ ICRA'25
 - [NVlabs/CenterPose](https://github.com/NVlabs/CenterPose) - Single-Stage Keypoint-based Category-level Object Pose Estimation from an RGB Image (ICRA 2022)
 - [TencentARC/GFPGAN](https://github.com/TencentARC/GFPGAN) - GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration.
 - [NVlabs/VoxFormer](https://github.com/NVlabs/VoxFormer) - Official PyTorch implementation of VoxFormer [CVPR 2023 Highlight]
@@ -1425,6 +1426,12 @@
 
 ## others 
 
+- [bytedance/WMP](https://github.com/bytedance/WMP) - Reproduction code of paper "World Model-based Perception for Visual Legged Locomotion"
+- [mit-gfx/DiffAqua](https://github.com/mit-gfx/DiffAqua) - [SIGGRAPH 2021] DiffAqua: A Differentiable Computational Design Pipeline for Soft Underwater Swimmers with Shape Interpolation
+- [mit-gfx/diff_pd_public](https://github.com/mit-gfx/diff_pd_public) - 
+- [url-kaist/se3-lio](https://github.com/url-kaist/se3-lio) - SE(3)-LIO: Smooth IMU Propagation With Jointly Distributed Poses on SE(3) Manifold for Accurate and Robust LiDAR-Inertial Odometry (ICRA 2026)
+- [url-kaist/patchwork-plusplus](https://github.com/url-kaist/patchwork-plusplus) - Patchwork++: Fast and robust ground segmentation method for 3D LiDAR scans. @ IROS'22
+- [url-kaist/se3-livom-comfort](https://github.com/url-kaist/se3-livom-comfort) - SE(3)-LIVOM for the COMFORT Localization Benchmark
 - [Core9724/Awesome-Lane-Detection](https://github.com/Core9724/Awesome-Lane-Detection) - Monocular Lane Detection Based on Deep Learning: A Survey
 - [NEU-REAL/Super4DR](https://github.com/NEU-REAL/Super4DR) - [TRO'26] Super4DR: 4D Radar-centric Self-supervised  Odometry and Gaussian-based Map Optimization
 - [NEU-REAL/EverySync-Hardware-Suite](https://github.com/NEU-REAL/EverySync-Hardware-Suite) - An Open Hardware Time Syncronization Sensor Suite
@@ -1639,7 +1646,7 @@
 - [ArthurHeymans/emacs-tramp-rpc](https://github.com/ArthurHeymans/emacs-tramp-rpc) - High-performance TRAMP backend using JSON-RPC instead of shell parsing
 - [minad/org-modern](https://github.com/minad/org-modern) - :unicorn: Modern Org Style
 - [mit-han-lab/vlash](https://github.com/mit-han-lab/vlash) - Real-Time VLAs via Future-state-aware Asynchronous Inference.
-- [ImChong/Robotics_Notebooks](https://github.com/ImChong/Robotics_Notebooks) - 机器人技术栈资料汇总
+- [ImChong/Robotics_Notebooks](https://github.com/ImChong/Robotics_Notebooks) - 机器人技术栈知识库，配有学习路线和交互式知识图谱。 / A robotics engineering wiki with learning paths and an interactive knowledge graph.
 - [OpenBMB/SimpleNav](https://github.com/OpenBMB/SimpleNav) - SimpleNav: A simple, unified, reproducible, and extensible framework for navigation VLA research.
 - [dakra/ghostel](https://github.com/dakra/ghostel) - Terminal emulator powered by libghostty
 - [agzam/remoto.el](https://github.com/agzam/remoto.el) - Browse GitHub repos without cloning
@@ -2171,7 +2178,7 @@
 - [gbionics/adam](https://github.com/gbionics/adam) - adam implements a collection of algorithms for calculating rigid-body dynamics in Jax, CasADi, PyTorch, and Numpy.
 - [NVlabs/SOMA-X](https://github.com/NVlabs/SOMA-X) - SOMA: Unifying Parametric Human Body Models
 - [NVlabs/curobo](https://github.com/NVlabs/curobo) - CUDA Accelerated Robot Library
-- [NVlabs/Sana](https://github.com/NVlabs/Sana) - SANA & Sol: Efficient Generative Models and Full-Stack Training & Inference Engines for Image, Video, and World Modeling
+- [NVlabs/Sana](https://github.com/NVlabs/Sana) - SANA & Sol: Efficient Generative Models and Full-Stack Training & Inference Engines for Image, Video, World Modeling and Robotics
 - [IDEA-Research/detrex](https://github.com/IDEA-Research/detrex) - detrex is a research platform for DETR-based object detection, segmentation, pose estimation and other visual recognition tasks.
 - [UM-ARM-Lab/pytorch_mppi](https://github.com/UM-ARM-Lab/pytorch_mppi) - Model Predictive Path Integral (MPPI) with approximate dynamics implemented in pytorch
 - [UM-ARM-Lab/pytorch_volumetric](https://github.com/UM-ARM-Lab/pytorch_volumetric) - Volumetric structures such as voxels and SDFs implemented in pytorch
@@ -2224,8 +2231,9 @@
 
 ## reinforcement-learning 
 
+- [DocyNoah/dawn-parkour](https://github.com/DocyNoah/dawn-parkour) - Official implementation of DAWN: Noise-Robust Quadruped Parkour via Depth-Denoising World Models (IROS 2026).
 - [gbionics/adam](https://github.com/gbionics/adam) - adam implements a collection of algorithms for calculating rigid-body dynamics in Jax, CasADi, PyTorch, and Numpy.
-- [NVlabs/Sana](https://github.com/NVlabs/Sana) - SANA & Sol: Efficient Generative Models and Full-Stack Training & Inference Engines for Image, Video, and World Modeling
+- [NVlabs/Sana](https://github.com/NVlabs/Sana) - SANA & Sol: Efficient Generative Models and Full-Stack Training & Inference Engines for Image, Video, World Modeling and Robotics
 - [hanruihua/ir-sim](https://github.com/hanruihua/ir-sim) - A  Python-based lightweight robot simulator designed for navigation, control, and learning
 - [MarkFzp/humanplus](https://github.com/MarkFzp/humanplus) - [CoRL 2024] HumanPlus: Humanoid Shadowing and Imitation from Humans
 - [facebookresearch/habitat-lab](https://github.com/facebookresearch/habitat-lab) - A modular high-level library to train embodied AI agents across a variety of tasks and environments.
@@ -2260,6 +2268,7 @@
 
 ## robotics 
 
+- [DocyNoah/dawn-parkour](https://github.com/DocyNoah/dawn-parkour) - Official implementation of DAWN: Noise-Robust Quadruped Parkour via Depth-Denoising World Models (IROS 2026).
 - [introlab/rtabmap](https://github.com/introlab/rtabmap) - RTAB-Map library and standalone application
 - [intuitive-robots/beso](https://github.com/intuitive-robots/beso) - [RSS 2023] Official code for "Goal Conditioned Imitation Learning using Score-based Diffusion Policies"
 - [leggedrobotics/wild_visual_navigation](https://github.com/leggedrobotics/wild_visual_navigation) - Wild Visual Navigation: A system for fast traversability learning via pre-trained models and online self-supervision
@@ -2267,6 +2276,7 @@
 - [gbionics/adam](https://github.com/gbionics/adam) - adam implements a collection of algorithms for calculating rigid-body dynamics in Jax, CasADi, PyTorch, and Numpy.
 - [Stanford-TML/robot_keyframe_kit](https://github.com/Stanford-TML/robot_keyframe_kit) - Create motion for any robot through editing keyframe
 - [NVlabs/curobo](https://github.com/NVlabs/curobo) - CUDA Accelerated Robot Library
+- [NVlabs/Sana](https://github.com/NVlabs/Sana) - SANA & Sol: Efficient Generative Models and Full-Stack Training & Inference Engines for Image, Video, World Modeling and Robotics
 - [projectchrono/chrono](https://github.com/projectchrono/chrono) - High-performance C++ library for multiphysics and multibody dynamics simulations
 - [A2R-Lab/TinySDP](https://github.com/A2R-Lab/TinySDP) - Real-time semidefinite optimization for embedded robotics, RSS 2026
 - [based-robotics/mujoco-sysid](https://github.com/based-robotics/mujoco-sysid) - System identification with MuJoCo
