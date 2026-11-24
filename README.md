@@ -85,6 +85,9 @@
 
 ## C++ 
 
+- [url-kaist/se3-lio](https://github.com/url-kaist/se3-lio) - SE(3)-LIO: Smooth IMU Propagation With Jointly Distributed Poses on SE(3) Manifold for Accurate and Robust LiDAR-Inertial Odometry (ICRA 2026)
+- [url-kaist/patchwork-plusplus](https://github.com/url-kaist/patchwork-plusplus) - Patchwork++: Fast and robust ground segmentation method for 3D LiDAR scans. @ IROS'22
+- [url-kaist/se3-livom-comfort](https://github.com/url-kaist/se3-livom-comfort) - SE(3)-LIVOM for the COMFORT Localization Benchmark
 - [introlab/rtabmap](https://github.com/introlab/rtabmap) - RTAB-Map library and standalone application
 - [bkaradzic/bgfx](https://github.com/bkaradzic/bgfx) - Cross-platform, graphics API agnostic, "Bring Your Own Engine/Framework" style rendering library.
 - [NEU-REAL/EverySync-Hardware-Suite](https://github.com/NEU-REAL/EverySync-Hardware-Suite) - An Open Hardware Time Syncronization Sensor Suite
@@ -532,7 +535,7 @@
 
 - [leeoniya/uPlot](https://github.com/leeoniya/uPlot) - 📈 A small, fast chart for time series, lines, areas, ohlc & bars
 - [Open-X-Humanoid/BICMap](https://github.com/Open-X-Humanoid/BICMap) - A WebGL-based robotics map visualization SDK for SLAM maps, point clouds, 3D models, and robot navigation.
-- [ImChong/Robotics_Notebooks](https://github.com/ImChong/Robotics_Notebooks) - 机器人技术栈资料汇总
+- [ImChong/Robotics_Notebooks](https://github.com/ImChong/Robotics_Notebooks) - 机器人技术栈知识库，配有学习路线和交互式知识图谱。 / A robotics engineering wiki with learning paths and an interactive knowledge graph.
 - [papersgpt/papersgpt-for-zotero](https://github.com/papersgpt/papersgpt-for-zotero) - Professional AI research tool for Zotero: chat with PDFs, whole-library search, Literature Radar, AutoPilot. 30+ LLMs or local models; built-in MCP server. Chat with your pocket Zotero on iPhone → htt
 - [alphapapa/emacs-package-dev-handbook](https://github.com/alphapapa/emacs-package-dev-handbook) - An Emacs package development handbook. Built with Emacs, by Emacs package developers, for Emacs package developers.
 - [cohomolo-gy/haskell-resources](https://github.com/cohomolo-gy/haskell-resources) - A List of Foundational Haskell Papers
@@ -765,6 +768,11 @@
 
 ## Python 
 
+- [DocyNoah/dawn-parkour](https://github.com/DocyNoah/dawn-parkour) - Official implementation of DAWN: Noise-Robust Quadruped Parkour via Depth-Denoising World Models (IROS 2026).
+- [bytedance/WMP](https://github.com/bytedance/WMP) - Reproduction code of paper "World Model-based Perception for Visual Legged Locomotion"
+- [mit-gfx/DiffAqua](https://github.com/mit-gfx/DiffAqua) - [SIGGRAPH 2021] DiffAqua: A Differentiable Computational Design Pipeline for Soft Underwater Swimmers with Shape Interpolation
+- [mit-gfx/diff_pd_public](https://github.com/mit-gfx/diff_pd_public) - 
+- [url-kaist/MambaGlue](https://github.com/url-kaist/MambaGlue) - MambaGlue: Fast and Robust Local Feature Matching With Mamba @ ICRA'25
 - [cupy/cupy](https://github.com/cupy/cupy) - NumPy & SciPy for GPU
 - [leggedrobotics/grand_tour_box](https://github.com/leggedrobotics/grand_tour_box) - Drivers, software and utilities for the GrandTour Boxi sensor payload.
 - [intuitive-robots/beso](https://github.com/intuitive-robots/beso) - [RSS 2023] Official code for "Goal Conditioned Imitation Learning using Score-based Diffusion Policies"
@@ -808,7 +816,7 @@
 - [naver/anny](https://github.com/naver/anny) - Anny, A Free and Interpretable Human Body Model for all ages, written in PyTorch.
 - [NVlabs/curobo](https://github.com/NVlabs/curobo) - CUDA Accelerated Robot Library
 - [NVlabs/FastGen](https://github.com/NVlabs/FastGen) - NVIDIA FastGen: Fast Generation from Diffusion Models
-- [NVlabs/Sana](https://github.com/NVlabs/Sana) - SANA & Sol: Efficient Generative Models and Full-Stack Training & Inference Engines for Image, Video, and World Modeling
+- [NVlabs/Sana](https://github.com/NVlabs/Sana) - SANA & Sol: Efficient Generative Models and Full-Stack Training & Inference Engines for Image, Video, World Modeling and Robotics
 - [NVlabs/SPADE](https://github.com/NVlabs/SPADE) - Semantic Image Synthesis with SPADE
 - [NVlabs/VoxFormer](https://github.com/NVlabs/VoxFormer) - Official PyTorch implementation of VoxFormer [CVPR 2023 Highlight]
 - [NVlabs/neuralangelo](https://github.com/NVlabs/neuralangelo) - Official implementation of "Neuralangelo: High-Fidelity Neural Surface Reconstruction" (CVPR 2023)
