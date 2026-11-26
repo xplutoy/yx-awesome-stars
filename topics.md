@@ -221,7 +221,7 @@
 - [nasa-jpl/rosa](https://github.com/nasa-jpl/rosa) - ROSA 🤖 is an AI Agent designed to interact with ROS1- and ROS2-based robotics systems using natural language queries. ROSA helps robot developers inspect, diagnose, understand, and operate robots.
 - [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI
 - [chroma-core/chroma](https://github.com/chroma-core/chroma) - Search infrastructure for AI
-- [eosphoros-ai/DB-GPT](https://github.com/eosphoros-ai/DB-GPT) - open-source agentic AI data assistant for the next generation of AI + Data products.
+- [eosphoros-ai/DB-GPT](https://github.com/eosphoros-ai/DB-GPT) - Open-Source Product for Controlled Data Agents
 - [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) - Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
 - [Netflix/metaflow](https://github.com/Netflix/metaflow) - Build, Manage and Deploy AI/ML Systems
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
@@ -315,6 +315,7 @@
 
 ## artificial-intelligence 
 
+- [tum-pbs/pbdl-book](https://github.com/tum-pbs/pbdl-book) - Welcome to the Physics-based Deep Learning Book v0.3 - the GenAI Edition
 - [NVlabs/VoxFormer](https://github.com/NVlabs/VoxFormer) - Official PyTorch implementation of VoxFormer [CVPR 2023 Highlight]
 - [leofan90/Awesome-World-Models](https://github.com/leofan90/Awesome-World-Models) - A comprehensive list of papers for the definition of World Models and using World Models for General Video Generation, Embodied AI, and Autonomous Driving, including papers, codes, and related website
 - [roboterax/humanoid-gym](https://github.com/roboterax/humanoid-gym) - Humanoid-Gym: Reinforcement Learning for Humanoid Robot with Zero-Shot Sim2Real Transfer https://arxiv.org/abs/2404.05695
@@ -659,12 +660,16 @@
 ## database 
 
 - [chroma-core/chroma](https://github.com/chroma-core/chroma) - Search infrastructure for AI
-- [eosphoros-ai/DB-GPT](https://github.com/eosphoros-ai/DB-GPT) - open-source agentic AI data assistant for the next generation of AI + Data products.
+- [eosphoros-ai/DB-GPT](https://github.com/eosphoros-ai/DB-GPT) - Open-Source Product for Controlled Data Agents
 - [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is a high-performance analytical database system
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
 
 ## deep-learning 
 
+- [tum-pbs/ConFIG](https://github.com/tum-pbs/ConFIG) - [ICLR2025 Spotlight] Official implementation of Conflict-Free Inverse Gradients Method
+- [tum-pbs/pbdl-book](https://github.com/tum-pbs/pbdl-book) - Welcome to the Physics-based Deep Learning Book v0.3 - the GenAI Edition
+- [tum-pbs/PhiFlow](https://github.com/tum-pbs/PhiFlow) - A differentiable PDE solving framework for machine learning
+- [tumaer/JAXFLUIDS](https://github.com/tumaer/JAXFLUIDS) - Differentiable Fluid Dynamics Package
 - [url-kaist/MambaGlue](https://github.com/url-kaist/MambaGlue) - MambaGlue: Fast and Robust Local Feature Matching With Mamba @ ICRA'25
 - [NVlabs/CenterPose](https://github.com/NVlabs/CenterPose) - Single-Stage Keypoint-based Category-level Object Pose Estimation from an RGB Image (ICRA 2022)
 - [TencentARC/GFPGAN](https://github.com/TencentARC/GFPGAN) - GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration.
@@ -999,7 +1004,7 @@
 - [AtsushiSakai/PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics) - Python sample codes and textbook for robotics algorithms.
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “KeePass Password Safe”.
-- [eosphoros-ai/DB-GPT](https://github.com/eosphoros-ai/DB-GPT) - open-source agentic AI data assistant for the next generation of AI + Data products.
+- [eosphoros-ai/DB-GPT](https://github.com/eosphoros-ai/DB-GPT) - Open-Source Product for Controlled Data Agents
 - [pdm-project/pdm](https://github.com/pdm-project/pdm) - A modern Python package and dependency manager supporting the latest PEP standards
 - [tealdeer-rs/tealdeer](https://github.com/tealdeer-rs/tealdeer) - A very fast implementation of tldr in Rust.
 - [bobbyiliev/introduction-to-bash-scripting](https://github.com/bobbyiliev/introduction-to-bash-scripting) - Free Introduction to Bash Scripting eBook
@@ -1144,7 +1149,7 @@
 - [unslothai/unsloth](https://github.com/unslothai/unsloth) - Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, DeepSeek-V4.1, MiniMax-H3, Gemma 4, FLUX and more.
 - [bentoml/OpenLLM](https://github.com/bentoml/OpenLLM) - Run any open-source LLMs, such as DeepSeek and Llama, as OpenAI compatible API endpoint in the cloud.
 - [mlc-ai/mlc-llm](https://github.com/mlc-ai/mlc-llm) - Universal LLM Deployment Engine with ML Compilation
-- [eosphoros-ai/DB-GPT](https://github.com/eosphoros-ai/DB-GPT) - open-source agentic AI data assistant for the next generation of AI + Data products.
+- [eosphoros-ai/DB-GPT](https://github.com/eosphoros-ai/DB-GPT) - Open-Source Product for Controlled Data Agents
 - [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) - Build and run agents you can see, understand and trust.
 - [pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai) - How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end.
 - [Netflix/metaflow](https://github.com/Netflix/metaflow) - Build, Manage and Deploy AI/ML Systems
@@ -1199,6 +1204,8 @@
 
 ## machine-learning 
 
+- [tum-pbs/pbdl-book](https://github.com/tum-pbs/pbdl-book) - Welcome to the Physics-based Deep Learning Book v0.3 - the GenAI Edition
+- [tumaer/JAXFLUIDS](https://github.com/tumaer/JAXFLUIDS) - Differentiable Fluid Dynamics Package
 - [leggedrobotics/wild_visual_navigation](https://github.com/leggedrobotics/wild_visual_navigation) - Wild Visual Navigation: A system for fast traversability learning via pre-trained models and online self-supervision
 - [NVlabs/VoxFormer](https://github.com/NVlabs/VoxFormer) - Official PyTorch implementation of VoxFormer [CVPR 2023 Highlight]
 - [NVlabs/instant-ngp](https://github.com/NVlabs/instant-ngp) - Instant neural graphics primitives: lightning fast NeRF and more
@@ -1426,6 +1433,17 @@
 
 ## others 
 
+- [srl-ethz/fishsim](https://github.com/srl-ethz/fishsim) - A simple stateless fluid model for underwater swimmers in MuJoCo with training pipeline and sim-to-real matching.
+- [srl-ethz/diffPD_sim2real](https://github.com/srl-ethz/diffPD_sim2real) - Sim-to-real benchmarking of differentiable projective dynamics on soft robots.
+- [NVlabs/GLAMR](https://github.com/NVlabs/GLAMR) - [CVPR 2022 Oral] Official PyTorch Implementation of "GLAMR: Global Occlusion-Aware Human Mesh Recovery with Dynamic Cameras”.
+- [autonomousvision/gaussian-opacity-fields](https://github.com/autonomousvision/gaussian-opacity-fields) - [SIGGRAPH Asia'24 & TOG] Gaussian Opacity Fields: Efficient Adaptive Surface Reconstruction in Unbounded Scenes
+- [fatPeter/mini-splatting2](https://github.com/fatPeter/mini-splatting2) - 
+- [Anttwo/MILo](https://github.com/Anttwo/MILo) - [SIGGRAPH Asia 2025 - TOG] Official implementation of MILo: Mesh-In-the-Loop Gaussian Splatting for Detailed and Efficient Surface Reconstruction
+- [r4dl/CoMe](https://github.com/r4dl/CoMe) - Official implementation for the paper "CoMe: Confidence-Based Mesh Extraction from 3D Gaussians"
+- [cvg/FlexGlue](https://github.com/cvg/FlexGlue) - FlexGlue: Sparse-to-Dense Feature Matching and Visual Disambiguation
+- [dingmyu/VRDP](https://github.com/dingmyu/VRDP) - [NeurIPS 2021] Dynamic Visual Reasoning by Learning Differentiable Physics Models from Video and Language
+- [taichi-dev/games201](https://github.com/taichi-dev/games201) - Advanced Physics Engines 2020: A Hands-on Tutorial
+- [taichi-dev/taichi](https://github.com/taichi-dev/taichi) - Productive, portable, and performant GPU programming in Python.
 - [bytedance/WMP](https://github.com/bytedance/WMP) - Reproduction code of paper "World Model-based Perception for Visual Legged Locomotion"
 - [mit-gfx/DiffAqua](https://github.com/mit-gfx/DiffAqua) - [SIGGRAPH 2021] DiffAqua: A Differentiable Computational Design Pipeline for Soft Underwater Swimmers with Shape Interpolation
 - [mit-gfx/diff_pd_public](https://github.com/mit-gfx/diff_pd_public) - 
@@ -1645,7 +1663,7 @@
 - [wuyi2121/SCAN-Planner](https://github.com/wuyi2121/SCAN-Planner) - SCAN-Planner: Spatial Collision-Aware Local planning for Route-Guided Long-Range Quadruped Navigation
 - [ArthurHeymans/emacs-tramp-rpc](https://github.com/ArthurHeymans/emacs-tramp-rpc) - High-performance TRAMP backend using JSON-RPC instead of shell parsing
 - [minad/org-modern](https://github.com/minad/org-modern) - :unicorn: Modern Org Style
-- [mit-han-lab/vlash](https://github.com/mit-han-lab/vlash) - Real-Time VLAs via Future-state-aware Asynchronous Inference.
+- [mit-han-lab/vlash](https://github.com/mit-han-lab/vlash) - [IROS 2026] Real-Time VLAs via Future-state-aware Asynchronous Inference.
 - [ImChong/Robotics_Notebooks](https://github.com/ImChong/Robotics_Notebooks) - 机器人技术栈知识库，配有学习路线和交互式知识图谱。 / A robotics engineering wiki with learning paths and an interactive knowledge graph.
 - [OpenBMB/SimpleNav](https://github.com/OpenBMB/SimpleNav) - SimpleNav: A simple, unified, reproducible, and extensible framework for navigation VLA research.
 - [dakra/ghostel](https://github.com/dakra/ghostel) - Terminal emulator powered by libghostty
@@ -2173,6 +2191,8 @@
 
 ## pytorch 
 
+- [jeffffffli/HybrIK](https://github.com/jeffffffli/HybrIK) - Official code of "HybrIK: A Hybrid Analytical-Neural Inverse Kinematics Solution for 3D Human Pose and Shape Estimation", CVPR 2021
+- [keenon/nimblephysics](https://github.com/keenon/nimblephysics) - Nimble: Physics Engine for Biomechanics and Deep Learning
 - [NVlabs/CenterPose](https://github.com/NVlabs/CenterPose) - Single-Stage Keypoint-based Category-level Object Pose Estimation from an RGB Image (ICRA 2022)
 - [TencentARC/GFPGAN](https://github.com/TencentARC/GFPGAN) - GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration.
 - [gbionics/adam](https://github.com/gbionics/adam) - adam implements a collection of algorithms for calculating rigid-body dynamics in Jax, CasADi, PyTorch, and Numpy.
@@ -2218,7 +2238,7 @@
 ## rag 
 
 - [bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book) - 《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码
-- [eosphoros-ai/DB-GPT](https://github.com/eosphoros-ai/DB-GPT) - open-source agentic AI data assistant for the next generation of AI + Data products.
+- [eosphoros-ai/DB-GPT](https://github.com/eosphoros-ai/DB-GPT) - Open-Source Product for Controlled Data Agents
 - [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modular pipelines and agent workflows with explicit control over retrieval, routing, m
 - [run-llama/llama_index](https://github.com/run-llama/llama_index) - LlamaIndex is the document processing platform for AI
 - [dataelement/bisheng](https://github.com/dataelement/bisheng) - BISHENG is an open-source enterprise Agent platform for building, deploying, and managing AI applications. It combines AI agents, workflows, RAG and knowledge management, desktop agent integration, an
@@ -2231,6 +2251,7 @@
 
 ## reinforcement-learning 
 
+- [dynamicslab/hydrogym](https://github.com/dynamicslab/hydrogym) - An RL-Gym for Challenge Problems in Data-Driven Modeling and Control of Fluid Dynamics.
 - [DocyNoah/dawn-parkour](https://github.com/DocyNoah/dawn-parkour) - Official implementation of DAWN: Noise-Robust Quadruped Parkour via Depth-Denoising World Models (IROS 2026).
 - [gbionics/adam](https://github.com/gbionics/adam) - adam implements a collection of algorithms for calculating rigid-body dynamics in Jax, CasADi, PyTorch, and Numpy.
 - [NVlabs/Sana](https://github.com/NVlabs/Sana) - SANA & Sol: Efficient Generative Models and Full-Stack Training & Inference Engines for Image, Video, World Modeling and Robotics
@@ -2268,6 +2289,8 @@
 
 ## robotics 
 
+- [keenon/nimblephysics](https://github.com/keenon/nimblephysics) - Nimble: Physics Engine for Biomechanics and Deep Learning
+- [taichi-dev/difftaichi](https://github.com/taichi-dev/difftaichi) - 10 differentiable physical simulators built with Taichi differentiable programming (DiffTaichi, ICLR 2020)
 - [DocyNoah/dawn-parkour](https://github.com/DocyNoah/dawn-parkour) - Official implementation of DAWN: Noise-Robust Quadruped Parkour via Depth-Denoising World Models (IROS 2026).
 - [introlab/rtabmap](https://github.com/introlab/rtabmap) - RTAB-Map library and standalone application
 - [intuitive-robots/beso](https://github.com/intuitive-robots/beso) - [RSS 2023] Official code for "Goal Conditioned Imitation Learning using Score-based Diffusion Policies"
@@ -2403,7 +2426,7 @@
 ## security 
 
 - [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “KeePass Password Safe”.
-- [eosphoros-ai/DB-GPT](https://github.com/eosphoros-ai/DB-GPT) - open-source agentic AI data assistant for the next generation of AI + Data products.
+- [eosphoros-ai/DB-GPT](https://github.com/eosphoros-ai/DB-GPT) - Open-Source Product for Controlled Data Agents
 
 ## self-hosted 
 
