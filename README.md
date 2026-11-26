@@ -85,6 +85,9 @@
 
 ## C++ 
 
+- [keenon/nimblephysics](https://github.com/keenon/nimblephysics) - Nimble: Physics Engine for Biomechanics and Deep Learning
+- [r4dl/CoMe](https://github.com/r4dl/CoMe) - Official implementation for the paper "CoMe: Confidence-Based Mesh Extraction from 3D Gaussians"
+- [taichi-dev/taichi](https://github.com/taichi-dev/taichi) - Productive, portable, and performant GPU programming in Python.
 - [url-kaist/se3-lio](https://github.com/url-kaist/se3-lio) - SE(3)-LIO: Smooth IMU Propagation With Jointly Distributed Poses on SE(3) Manifold for Accurate and Robust LiDAR-Inertial Odometry (ICRA 2026)
 - [url-kaist/patchwork-plusplus](https://github.com/url-kaist/patchwork-plusplus) - Patchwork++: Fast and robust ground segmentation method for 3D LiDAR scans. @ IROS'22
 - [url-kaist/se3-livom-comfort](https://github.com/url-kaist/se3-livom-comfort) - SE(3)-LIVOM for the COMFORT Localization Benchmark
@@ -564,6 +567,7 @@
 
 ## Jupyter Notebook 
 
+- [tum-pbs/pbdl-book](https://github.com/tum-pbs/pbdl-book) - Welcome to the Physics-based Deep Learning Book v0.3 - the GenAI Edition
 - [megapose6d/megapose6d](https://github.com/megapose6d/megapose6d) - Code for "MegaPose: 6D Pose Estimation of Novel Objects via Render & Compare", CoRL 2022.
 - [based-robotics/mujoco-sysid](https://github.com/based-robotics/mujoco-sysid) - System identification with MuJoCo
 - [IDEA-Research/DAB-DETR](https://github.com/IDEA-Research/DAB-DETR) - [ICLR 2022] Official implementation of the paper "DAB-DETR: Dynamic Anchor Boxes are Better Queries for DETR"
@@ -650,6 +654,7 @@
 
 ## Others 
 
+- [taichi-dev/difftaichi](https://github.com/taichi-dev/difftaichi) - 10 differentiable physical simulators built with Taichi differentiable programming (DiffTaichi, ICLR 2020)
 - [Core9724/Awesome-Lane-Detection](https://github.com/Core9724/Awesome-Lane-Detection) - Monocular Lane Detection Based on Deep Learning: A Survey
 - [NEU-REAL/Super4DR](https://github.com/NEU-REAL/Super4DR) - [TRO'26] Super4DR: 4D Radar-centric Self-supervised  Odometry and Gaussian-based Map Optimization
 - [Yuxing-Wang-THU/SurveyBrainBody](https://github.com/Yuxing-Wang-THU/SurveyBrainBody) - Embodied Co-Design for Rapidly Evolving Agents: Taxonomy, Frontiers, and Challenges
@@ -768,6 +773,20 @@
 
 ## Python 
 
+- [srl-ethz/fishsim](https://github.com/srl-ethz/fishsim) - A simple stateless fluid model for underwater swimmers in MuJoCo with training pipeline and sim-to-real matching.
+- [srl-ethz/diffPD_sim2real](https://github.com/srl-ethz/diffPD_sim2real) - Sim-to-real benchmarking of differentiable projective dynamics on soft robots.
+- [jeffffffli/HybrIK](https://github.com/jeffffffli/HybrIK) - Official code of "HybrIK: A Hybrid Analytical-Neural Inverse Kinematics Solution for 3D Human Pose and Shape Estimation", CVPR 2021
+- [NVlabs/GLAMR](https://github.com/NVlabs/GLAMR) - [CVPR 2022 Oral] Official PyTorch Implementation of "GLAMR: Global Occlusion-Aware Human Mesh Recovery with Dynamic Cameras”.
+- [tum-pbs/ConFIG](https://github.com/tum-pbs/ConFIG) - [ICLR2025 Spotlight] Official implementation of Conflict-Free Inverse Gradients Method
+- [tum-pbs/PhiFlow](https://github.com/tum-pbs/PhiFlow) - A differentiable PDE solving framework for machine learning
+- [dynamicslab/hydrogym](https://github.com/dynamicslab/hydrogym) - An RL-Gym for Challenge Problems in Data-Driven Modeling and Control of Fluid Dynamics.
+- [tumaer/JAXFLUIDS](https://github.com/tumaer/JAXFLUIDS) - Differentiable Fluid Dynamics Package
+- [autonomousvision/gaussian-opacity-fields](https://github.com/autonomousvision/gaussian-opacity-fields) - [SIGGRAPH Asia'24 & TOG] Gaussian Opacity Fields: Efficient Adaptive Surface Reconstruction in Unbounded Scenes
+- [fatPeter/mini-splatting2](https://github.com/fatPeter/mini-splatting2) - 
+- [Anttwo/MILo](https://github.com/Anttwo/MILo) - [SIGGRAPH Asia 2025 - TOG] Official implementation of MILo: Mesh-In-the-Loop Gaussian Splatting for Detailed and Efficient Surface Reconstruction
+- [cvg/FlexGlue](https://github.com/cvg/FlexGlue) - FlexGlue: Sparse-to-Dense Feature Matching and Visual Disambiguation
+- [dingmyu/VRDP](https://github.com/dingmyu/VRDP) - [NeurIPS 2021] Dynamic Visual Reasoning by Learning Differentiable Physics Models from Video and Language
+- [taichi-dev/games201](https://github.com/taichi-dev/games201) - Advanced Physics Engines 2020: A Hands-on Tutorial
 - [DocyNoah/dawn-parkour](https://github.com/DocyNoah/dawn-parkour) - Official implementation of DAWN: Noise-Robust Quadruped Parkour via Depth-Denoising World Models (IROS 2026).
 - [bytedance/WMP](https://github.com/bytedance/WMP) - Reproduction code of paper "World Model-based Perception for Visual Legged Locomotion"
 - [mit-gfx/DiffAqua](https://github.com/mit-gfx/DiffAqua) - [SIGGRAPH 2021] DiffAqua: A Differentiable Computational Design Pipeline for Soft Underwater Swimmers with Shape Interpolation
@@ -913,7 +932,7 @@
 - [bojieli/ai-infra-book](https://github.com/bojieli/ai-infra-book) - 《深入理解 AI Infra：量化分析与系统设计》（李博杰 著）开源书稿：从硬件约束和模型架构出发，量化推导 LLM 推理与训练系统设计。含全书正文、PDF、配套计算工具与实验
 - [bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book) - 《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码
 - [roboflow/rf-detr](https://github.com/roboflow/rf-detr) - RF-DETR is a real-time object detection and segmentation model architecture developed by Roboflow, SOTA on COCO, designed for fine-tuning. [ICLR 2026]
-- [mit-han-lab/vlash](https://github.com/mit-han-lab/vlash) - Real-Time VLAs via Future-state-aware Asynchronous Inference.
+- [mit-han-lab/vlash](https://github.com/mit-han-lab/vlash) - [IROS 2026] Real-Time VLAs via Future-state-aware Asynchronous Inference.
 - [OpenBMB/SimpleNav](https://github.com/OpenBMB/SimpleNav) - SimpleNav: A simple, unified, reproducible, and extensible framework for navigation VLA research.
 - [LeCAR-Lab/SPI-Active](https://github.com/LeCAR-Lab/SPI-Active) - Official Implementation of "Sampling-Based System Identification with Active Exploration for Legged Robot Sim2Real Learning"
 - [iit-DLSLab/sim2real-robot-identification](https://github.com/iit-DLSLab/sim2real-robot-identification) - A joints calibration routine for quadrupeds and manipulators to facilitate sim-to-real transfer from isaaclab and mujoco to real robots
@@ -1047,7 +1066,7 @@
 - [bentoml/OpenLLM](https://github.com/bentoml/OpenLLM) - Run any open-source LLMs, such as DeepSeek and Llama, as OpenAI compatible API endpoint in the cloud.
 - [mlc-ai/mlc-llm](https://github.com/mlc-ai/mlc-llm) - Universal LLM Deployment Engine with ML Compilation
 - [apache/tvm](https://github.com/apache/tvm) - Open Machine Learning Compiler Framework
-- [eosphoros-ai/DB-GPT](https://github.com/eosphoros-ai/DB-GPT) - open-source agentic AI data assistant for the next generation of AI + Data products.
+- [eosphoros-ai/DB-GPT](https://github.com/eosphoros-ai/DB-GPT) - Open-Source Product for Controlled Data Agents
 - [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) - Build and run agents you can see, understand and trust.
 - [pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai) - How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end.
 - [tinygrad/teenygrad](https://github.com/tinygrad/teenygrad) - If tinygrad wasn't small enough for you...
