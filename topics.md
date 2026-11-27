@@ -1433,6 +1433,11 @@
 
 ## others 
 
+- [hku-sail/FASTER](https://github.com/hku-sail/FASTER) - [NeurIPS 2026] FASTER: Rethinking Real-Time Flow VLAs
+- [innovator-zero/piper-aio](https://github.com/innovator-zero/piper-aio) - An imitation learning stack for AgileX Piper arms and Cobot Magic systems—covering the full pipeline from hardware bring-up and teleop data collection to replay, LeRobot conversion, and policy inferen
+- [skild-ai/steel](https://github.com/skild-ai/steel) - A lightweight, scaleable rigid-body physics solver
+- [fan-ziqi/robot_viewer](https://github.com/fan-ziqi/robot_viewer) - 
+- [sizhe-li/DexDeform](https://github.com/sizhe-li/DexDeform) - Manipulating play-doh with a multi-fingered robot hand!
 - [srl-ethz/fishsim](https://github.com/srl-ethz/fishsim) - A simple stateless fluid model for underwater swimmers in MuJoCo with training pipeline and sim-to-real matching.
 - [srl-ethz/diffPD_sim2real](https://github.com/srl-ethz/diffPD_sim2real) - Sim-to-real benchmarking of differentiable projective dynamics on soft robots.
 - [NVlabs/GLAMR](https://github.com/NVlabs/GLAMR) - [CVPR 2022 Oral] Official PyTorch Implementation of "GLAMR: Global Occlusion-Aware Human Mesh Recovery with Dynamic Cameras”.
@@ -2011,7 +2016,7 @@
 - [lassik/emacs-format-all-the-code](https://github.com/lassik/emacs-format-all-the-code) - Auto-format source code in many languages with one command
 - [glacambre/firenvim](https://github.com/glacambre/firenvim) - Embed Neovim in Chrome, Firefox & others.
 - [magcius/xplain](https://github.com/magcius/xplain) - Interactive demos
-- [roddhjav/pass-tomb](https://github.com/roddhjav/pass-tomb) - A pass extension that helps you keep the whole tree of passwords encrypted inside a Tomb.
+- [pass-extension/pass-tomb](https://github.com/pass-extension/pass-tomb) - A pass extension that helps you keep the whole tree of passwords encrypted inside a Tomb.
 - [howardabrams/dot-files](https://github.com/howardabrams/dot-files) - My Emacs initialization code and standard scripts I use for client and servers alike.
 - [rizsotto/Bear](https://github.com/rizsotto/Bear) - Generate compile_commands.json for any C or C++ build
 - [chrisdone-archive/elisp-guide](https://github.com/chrisdone-archive/elisp-guide) - A quick guide to Emacs Lisp programming
