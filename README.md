@@ -283,6 +283,7 @@
 
 ## Emacs Lisp 
 
+- [joaotavora/breadcrumb](https://github.com/joaotavora/breadcrumb) - Emacs headerline indication of where you are in a large project
 - [szymonwilczek/au-themes](https://github.com/szymonwilczek/au-themes) - Calm, low-glare themes for Emacs
 - [jamescherti/wizard.el](https://github.com/jamescherti/wizard.el) - wizard: A lightweight suite of useful Emacs functions
 - [jamescherti/buffer-terminator.el](https://github.com/jamescherti/buffer-terminator.el) - buffer-terminator - Safely Terminate Emacs Buffers Automatically to Enhance Performance
@@ -536,6 +537,7 @@
 
 ## JavaScript 
 
+- [fan-ziqi/robot_viewer](https://github.com/fan-ziqi/robot_viewer) - 
 - [leeoniya/uPlot](https://github.com/leeoniya/uPlot) - 📈 A small, fast chart for time series, lines, areas, ohlc & bars
 - [Open-X-Humanoid/BICMap](https://github.com/Open-X-Humanoid/BICMap) - A WebGL-based robotics map visualization SDK for SLAM maps, point clouds, 3D models, and robot navigation.
 - [ImChong/Robotics_Notebooks](https://github.com/ImChong/Robotics_Notebooks) - 机器人技术栈知识库，配有学习路线和交互式知识图谱。 / A robotics engineering wiki with learning paths and an interactive knowledge graph.
@@ -567,6 +569,7 @@
 
 ## Jupyter Notebook 
 
+- [sizhe-li/DexDeform](https://github.com/sizhe-li/DexDeform) - Manipulating play-doh with a multi-fingered robot hand!
 - [tum-pbs/pbdl-book](https://github.com/tum-pbs/pbdl-book) - Welcome to the Physics-based Deep Learning Book v0.3 - the GenAI Edition
 - [megapose6d/megapose6d](https://github.com/megapose6d/megapose6d) - Code for "MegaPose: 6D Pose Estimation of Novel Objects via Render & Compare", CoRL 2022.
 - [based-robotics/mujoco-sysid](https://github.com/based-robotics/mujoco-sysid) - System identification with MuJoCo
@@ -773,6 +776,9 @@
 
 ## Python 
 
+- [hku-sail/FASTER](https://github.com/hku-sail/FASTER) - [NeurIPS 2026] FASTER: Rethinking Real-Time Flow VLAs
+- [innovator-zero/piper-aio](https://github.com/innovator-zero/piper-aio) - An imitation learning stack for AgileX Piper arms and Cobot Magic systems—covering the full pipeline from hardware bring-up and teleop data collection to replay, LeRobot conversion, and policy inferen
+- [skild-ai/steel](https://github.com/skild-ai/steel) - A lightweight, scaleable rigid-body physics solver
 - [srl-ethz/fishsim](https://github.com/srl-ethz/fishsim) - A simple stateless fluid model for underwater swimmers in MuJoCo with training pipeline and sim-to-real matching.
 - [srl-ethz/diffPD_sim2real](https://github.com/srl-ethz/diffPD_sim2real) - Sim-to-real benchmarking of differentiable projective dynamics on soft robots.
 - [jeffffffli/HybrIK](https://github.com/jeffffffli/HybrIK) - Official code of "HybrIK: A Hybrid Analytical-Neural Inverse Kinematics Solution for 3D Human Pose and Shape Estimation", CVPR 2021
@@ -879,7 +885,7 @@
 - [windsting/a-tour-of-cpp-2nd-cn](https://github.com/windsting/a-tour-of-cpp-2nd-cn) - A Tour of C++ (Second Edition) non-official Chinese Translation
 - [RoboDojo-Benchmark/RoboDojo](https://github.com/RoboDojo-Benchmark/RoboDojo) - Official repository for RoboDojo
 - [starVLA/starVLA](https://github.com/starVLA/starVLA) - StarVLA: A Lego-like Codebase for Vision-Language-Action Model Developing
-- [robot-descriptions/robot_descriptions.py](https://github.com/robot-descriptions/robot_descriptions.py) - Access 200+ robot descriptions from the main Python robotics frameworks
+- [robot-descriptions/robot_descriptions.py](https://github.com/robot-descriptions/robot_descriptions.py) - Access 220+ robot descriptions from the main Python robotics frameworks
 - [vincekurtz/hydrax](https://github.com/vincekurtz/hydrax) - Sampling-based model predictive control on GPU with JAX/MJX
 - [MarkFzp/humanplus](https://github.com/MarkFzp/humanplus) - [CoRL 2024] HumanPlus: Humanoid Shadowing and Imitation from Humans
 - [geopavlakos/hamer](https://github.com/geopavlakos/hamer) - HaMeR: Reconstructing Hands in 3D with Transformers
@@ -1095,7 +1101,7 @@
 - [DistrictDataLabs/yellowbrick](https://github.com/DistrictDataLabs/yellowbrick) - Visual analysis and diagnostic tools to facilitate machine learning model selection.
 - [pyro-ppl/pyro](https://github.com/pyro-ppl/pyro) - Deep universal probabilistic programming with Python and PyTorch
 - [jax-ml/jax](https://github.com/jax-ml/jax) - Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more
-- [HIPS/autograd](https://github.com/HIPS/autograd) - Efficiently computes derivatives of NumPy code.
+- [HIPS/autograd](https://github.com/HIPS/autograd) - Efficiently computes derivatives of Python and NumPy code.
 - [scikit-learn-contrib/category_encoders](https://github.com/scikit-learn-contrib/category_encoders) - A library of sklearn compatible categorical variable encoders
 - [hyperopt/hyperopt](https://github.com/hyperopt/hyperopt) - Distributed Asynchronous Hyperparameter Optimization in Python
 - [plotly/plotly.py](https://github.com/plotly/plotly.py) - The interactive graphing library for Python :sparkles:
@@ -1210,7 +1216,7 @@
 - [mattmc3/zsh_unplugged](https://github.com/mattmc3/zsh_unplugged) - 🤔 perhaps you don't need a Zsh plugin manager after all...
 - [clvv/fasd](https://github.com/clvv/fasd) - Command-line productivity booster, offers quick access to files and directories, inspired by autojump, z and v.
 - [skywind3000/awesome-cheatsheets](https://github.com/skywind3000/awesome-cheatsheets) - 超级速查表 - 编程语言、框架和开发工具的速查表，单个文件包含一切你需要知道的东西 :zap:
-- [roddhjav/pass-tomb](https://github.com/roddhjav/pass-tomb) - A pass extension that helps you keep the whole tree of passwords encrypted inside a Tomb.
+- [pass-extension/pass-tomb](https://github.com/pass-extension/pass-tomb) - A pass extension that helps you keep the whole tree of passwords encrypted inside a Tomb.
 - [lujun9972/emacs-document](https://github.com/lujun9972/emacs-document) - translate emacs documents to Chinese for convenient reference
 - [goreliu/zshguide](https://github.com/goreliu/zshguide) - Zsh 开发指南
 - [agkozak/zsh-z](https://github.com/agkozak/zsh-z) - Jump quickly to directories that you have visited "frecently." A native Zsh port of z.sh with added features.
